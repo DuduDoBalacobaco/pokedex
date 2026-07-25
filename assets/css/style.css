@@ -1,0 +1,292 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700;800&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Oxanium', cursive;
+}
+
+body{
+    background-image: url(../img/background/background-image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    transition: 0.5s ease;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    backdrop-filter: blur(2px);
+    background: rgba(0, 0, 0, 0.15);
+    z-index: -1;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    gap: 55px;
+    min-height: 100dvh;
+}
+
+
+
+
+#pesquisas{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    flex-wrap: wrap;
+    position: relative;
+    padding: 16px;
+    width: 350px;
+    margin: 20px;
+    border: 1px solid black;
+    background-color: rgba(59, 59, 59, 0.9);
+}
+
+.bi-search{
+    position: absolute;
+    right: 8%;
+    top: 3%;
+    cursor: pointer;
+}
+
+#search{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    outline: none;
+    border-radius: 10px;
+    background: rgba(59, 59, 59, 0.8);
+    border: none;
+    box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.8);
+}
+
+#checkbox{
+    display: flex;
+    align-items: center;
+    gap: 2px;
+}
+
+.checkbox{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+label{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+    border: 2px solid;
+    box-shadow: 0 4px 12px rgba(0,0,0,.2);
+    font-size: 0.6rem;
+    width: 50px;
+    height: 24px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+input[type=checkbox]{
+    display: none;
+}
+
+input[type=checkbox]:not(:checked) + label{
+    opacity: 0.2;
+}
+
+input[type=checkbox]:not(:checked) + label:hover{
+    opacity: 0.5;
+}
+
+.regions{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin: 5px;
+}
+
+.regions label{
+    width: 100px;
+    height: 30px;
+    -webkit-text-stroke-color: none;
+}
+
+
+#tudo{
+    display: flex;
+    width: 100%;
+    height: 100dvh;
+    overflow: hidden;
+}
+
+#show_pokemon{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1600px;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 72px;
+    margin: 20px;
+    overflow-y: scroll;
+}
+
+.cards{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    background-color: #fff;
+    width: 150px;
+    height: 200px;
+    transition: 0.5s;
+}
+
+.fundo{
+    position: absolute;
+    top: 0%;
+    width: 130px;
+    height: 130px;
+    padding: 10px 0;
+    z-index: 0;
+}
+
+.pokemon_img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 12%;
+    height: 80px;
+    width: 75px;
+    margin: 0 auto;
+    z-index: 5;
+}
+
+.pokemon_info{
+    position: absolute;
+    font-size: 1rem;
+    bottom: 5%;
+    color: rgb(0, 0, 0);
+}
+
+.pokemon_name{
+    text-transform: capitalize;
+}
+
+.types{
+    position: absolute;
+    bottom: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 80px;
+    gap: 1px;
+}
+
+.pokemon_type{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 63px;
+    height: 25.6px;
+    border-radius: 16px;
+    border: 2px solid;
+    box-shadow: 0 4px 12px rgba(0,0,0,.2);
+    font-size: 0.6rem;
+    text-transform: capitalize;
+    color: #fff;
+}
+
+.normal   { background:#A8A77A; border:2px solid #8A8960; }
+.fire     { background:#EE8130; border:2px solid #D66A15; }
+.water    { background:#6390F0; border:2px solid #3F6FD8; }
+.electric { background:#F7D02C; border:2px solid #DDB800; }
+.grass    { background:#7AC74C; border:2px solid #5FA834; }
+.ice      { background:#96D9D6; border:2px solid #74C0BC; }
+.fighting { background:#C22E28; border:2px solid #9D221D; }
+.poison   { background:#A33EA1; border:2px solid #832E81; }
+.ground   { background:#E2BF65; border:2px solid #C49F45; }
+.flying   { background:#A98FF3; border:2px solid #8870D5; }
+.psychic  { background:#F95587; border:2px solid #DB3D6D; }
+.bug      { background:#A6B91A; border:2px solid #879614; }
+.rock     { background:#B6A136; border:2px solid #958227; }
+.ghost    { background:#735797; border:2px solid #5B4478; }
+.dragon   { background:#6F35FC; border:2px solid #5620D4; }
+.dark     { background:#705746; border:2px solid #574234; }
+.steel    { background:#B7B7CE; border:2px solid #9595AF; }
+.fairy    { background:#D685AD; border:2px solid #B96B90; }
+
+.kanto   { background: #80BB1D; border: 1px solid rgb(100, 150, 20); color: rgb(220, 245, 180); -webkit-text-stroke-color: rgb(100, 150, 20);}
+.johto   { background: #CAC02E; border: 1px solid rgb(160, 150, 30); color: rgb(250, 248, 200); -webkit-text-stroke-color: rgb(160, 150, 30);}
+.hoenn   { background: #67C1AB; border: 1px solid rgb(80, 155, 135); color: rgb(200, 250, 240); -webkit-text-stroke-color: rgb(80, 155, 135);}
+.sinnoh  { background: #9072A3; border: 1px solid rgb(115, 90, 130); color: rgb(230, 220, 245); -webkit-text-stroke-color: rgb(115, 90, 130);}
+.unova   { background: #6BAECE; border: 1px solid rgb(85, 140, 165); color: rgb(210, 240, 255); -webkit-text-stroke-color: rgb(85, 140, 165);}
+.kalos   { background: #CB0B4F; border: 1px solid rgb(160, 10, 60); color: rgb(255, 200, 220); -webkit-text-stroke-color: rgb(160, 10, 60);}
+.alola   { background: #DC5A40; border: 1px solid rgb(175, 70, 50); color: rgb(255, 210, 190); -webkit-text-stroke-color: rgb(175, 70, 50);}
+.galar   { background: #AC379E; border: 1px solid rgb(135, 40, 125); color: rgb(240, 200, 245); -webkit-text-stroke-color: rgb(135, 40, 125);}
+.paldea  { background: #DCB000; border: 1px solid rgb(175, 140, 0); color: rgb(255, 245, 180); -webkit-text-stroke-color: rgb(175, 140, 0);}
+
+.skeleton {
+    pointer-events: none;
+}
+
+.skeleton-img,
+.skeleton-types,
+.skeleton-text {
+    background: linear-gradient(90deg, #d9d9d9 25%, #efefef 50%, #d9d9d9 75%);
+    background-size: 200% 100%;
+    animation: loading 1.2s infinite;
+    border-radius: 8px;
+}
+
+.skeleton-img {
+    width: 96px;
+    height: 96px;
+    margin: 20px auto;
+}
+
+.skeleton-types {
+    width: 80%;
+    height: 20px;
+    margin: 10px auto;
+}
+
+.skeleton-text {
+    width: 60%;
+    height: 18px;
+    margin: 15px auto;
+}
+
+@keyframes loading {
+    from {
+        background-position: 200% 0;
+    }
+    to {
+        background-position: -200% 0;
+    }
+}
+
+.bandeira{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 100px;
+    font-size: 100px;
+    font-style: italic;
+    border: none;
+    background: none;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: none;
+}

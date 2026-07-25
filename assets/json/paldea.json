@@ -1,0 +1,1399 @@
+[
+  {
+    "name": "sprigatito",
+    "id": 906,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "floragato",
+    "id": 907,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "meowscarada",
+    "id": 908,
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "fuecoco",
+    "id": 909,
+    "types": [
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "crocalor",
+    "id": 910,
+    "types": [
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "skeledirge",
+    "id": 911,
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "quaxly",
+    "id": 912,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "quaxwell",
+    "id": 913,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "quaquaval",
+    "id": 914,
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "lechonk",
+    "id": 915,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "oinkologne-male",
+    "id": 916,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "tarountula",
+    "id": 917,
+    "types": [
+      "bug"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "spidops",
+    "id": 918,
+    "types": [
+      "bug"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "nymble",
+    "id": 919,
+    "types": [
+      "bug"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "lokix",
+    "id": 920,
+    "types": [
+      "bug",
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "pawmi",
+    "id": 921,
+    "types": [
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "pawmo",
+    "id": 922,
+    "types": [
+      "electric",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "pawmot",
+    "id": 923,
+    "types": [
+      "electric",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "tandemaus",
+    "id": 924,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "maushold-family-of-four",
+    "id": 925,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "fidough",
+    "id": 926,
+    "types": [
+      "fairy"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "dachsbun",
+    "id": 927,
+    "types": [
+      "fairy"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "smoliv",
+    "id": 928,
+    "types": [
+      "grass",
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "dolliv",
+    "id": 929,
+    "types": [
+      "grass",
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "arboliva",
+    "id": 930,
+    "types": [
+      "grass",
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "squawkabilly-green-plumage",
+    "id": 931,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "nacli",
+    "id": 932,
+    "types": [
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "naclstack",
+    "id": 933,
+    "types": [
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "garganacl",
+    "id": 934,
+    "types": [
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "charcadet",
+    "id": 935,
+    "types": [
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "armarouge",
+    "id": 936,
+    "types": [
+      "fire",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "ceruledge",
+    "id": 937,
+    "types": [
+      "fire",
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "tadbulb",
+    "id": 938,
+    "types": [
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "bellibolt",
+    "id": 939,
+    "types": [
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "wattrel",
+    "id": 940,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "kilowattrel",
+    "id": 941,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "maschiff",
+    "id": 942,
+    "types": [
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "mabosstiff",
+    "id": 943,
+    "types": [
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "shroodle",
+    "id": 944,
+    "types": [
+      "poison",
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "grafaiai",
+    "id": 945,
+    "types": [
+      "poison",
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "bramblin",
+    "id": 946,
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "brambleghast",
+    "id": 947,
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "toedscool",
+    "id": 948,
+    "types": [
+      "ground",
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "toedscruel",
+    "id": 949,
+    "types": [
+      "ground",
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "klawf",
+    "id": 950,
+    "types": [
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "capsakid",
+    "id": 951,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "scovillain",
+    "id": 952,
+    "types": [
+      "grass",
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "rellor",
+    "id": 953,
+    "types": [
+      "bug"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "rabsca",
+    "id": 954,
+    "types": [
+      "bug",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "flittle",
+    "id": 955,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "espathra",
+    "id": 956,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "tinkatink",
+    "id": 957,
+    "types": [
+      "fairy",
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "tinkatuff",
+    "id": 958,
+    "types": [
+      "fairy",
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "tinkaton",
+    "id": 959,
+    "types": [
+      "fairy",
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "wiglett",
+    "id": 960,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "wugtrio",
+    "id": 961,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "bombirdier",
+    "id": 962,
+    "types": [
+      "flying",
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "finizen",
+    "id": 963,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "palafin-zero",
+    "id": 964,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "varoom",
+    "id": 965,
+    "types": [
+      "steel",
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "revavroom",
+    "id": 966,
+    "types": [
+      "steel",
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "cyclizar",
+    "id": 967,
+    "types": [
+      "dragon",
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "orthworm",
+    "id": 968,
+    "types": [
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "glimmet",
+    "id": 969,
+    "types": [
+      "rock",
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "glimmora",
+    "id": 970,
+    "types": [
+      "rock",
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "greavard",
+    "id": 971,
+    "types": [
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "houndstone",
+    "id": 972,
+    "types": [
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "flamigo",
+    "id": 973,
+    "types": [
+      "flying",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "cetoddle",
+    "id": 974,
+    "types": [
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "cetitan",
+    "id": 975,
+    "types": [
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "veluza",
+    "id": 976,
+    "types": [
+      "water",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "dondozo",
+    "id": 977,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "tatsugiri-curly",
+    "id": 978,
+    "types": [
+      "dragon",
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "annihilape",
+    "id": 979,
+    "types": [
+      "fighting",
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "clodsire",
+    "id": 980,
+    "types": [
+      "poison",
+      "ground"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "farigiraf",
+    "id": 981,
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "dudunsparce-two-segment",
+    "id": 982,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "kingambit",
+    "id": 983,
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "great-tusk",
+    "id": 984,
+    "types": [
+      "ground",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "scream-tail",
+    "id": 985,
+    "types": [
+      "fairy",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "brute-bonnet",
+    "id": 986,
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "flutter-mane",
+    "id": 987,
+    "types": [
+      "ghost",
+      "fairy"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "slither-wing",
+    "id": 988,
+    "types": [
+      "bug",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "sandy-shocks",
+    "id": 989,
+    "types": [
+      "electric",
+      "ground"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "iron-treads",
+    "id": 990,
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "iron-bundle",
+    "id": 991,
+    "types": [
+      "ice",
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "iron-hands",
+    "id": 992,
+    "types": [
+      "fighting",
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "iron-jugulis",
+    "id": 993,
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "iron-moth",
+    "id": 994,
+    "types": [
+      "fire",
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "iron-thorns",
+    "id": 995,
+    "types": [
+      "rock",
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "frigibax",
+    "id": 996,
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "arctibax",
+    "id": 997,
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "baxcalibur",
+    "id": 998,
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "gimmighoul",
+    "id": 999,
+    "types": [
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "gholdengo",
+    "id": 1000,
+    "types": [
+      "steel",
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "wo-chien",
+    "id": 1001,
+    "types": [
+      "dark",
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "chien-pao",
+    "id": 1002,
+    "types": [
+      "dark",
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "ting-lu",
+    "id": 1003,
+    "types": [
+      "dark",
+      "ground"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "chi-yu",
+    "id": 1004,
+    "types": [
+      "dark",
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "roaring-moon",
+    "id": 1005,
+    "types": [
+      "dragon",
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "iron-valiant",
+    "id": 1006,
+    "types": [
+      "fairy",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "koraidon",
+    "id": 1007,
+    "types": [
+      "fighting",
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "miraidon",
+    "id": 1008,
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "walking-wake",
+    "id": 1009,
+    "types": [
+      "water",
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "iron-leaves",
+    "id": 1010,
+    "types": [
+      "grass",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "dipplin",
+    "id": 1011,
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "poltchageist",
+    "id": 1012,
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "sinistcha",
+    "id": 1013,
+    "types": [
+      "grass",
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "okidogi",
+    "id": 1014,
+    "types": [
+      "poison",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "munkidori",
+    "id": 1015,
+    "types": [
+      "poison",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1015.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "fezandipiti",
+    "id": 1016,
+    "types": [
+      "poison",
+      "fairy"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "ogerpon",
+    "id": 1017,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "archaludon",
+    "id": 1018,
+    "types": [
+      "steel",
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "hydrapple",
+    "id": 1019,
+    "types": [
+      "grass",
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "gouging-fire",
+    "id": 1020,
+    "types": [
+      "fire",
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "raging-bolt",
+    "id": 1021,
+    "types": [
+      "electric",
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "iron-boulder",
+    "id": 1022,
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "iron-crown",
+    "id": 1023,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "terapagos",
+    "id": 1024,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  },
+  {
+    "name": "pecharunt",
+    "id": 1025,
+    "types": [
+      "poison",
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
+    "habitat": "assets/img/default.png",
+    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "region": "paldea"
+  }
+]
