@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700;800&display=swap');
 
+html {
+    scroll-behavior: smooth;
+}
+
 *{
     padding: 0;
     margin: 0;
@@ -37,7 +41,7 @@ main{
 #pesquisas{
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    gap: 20px;
     flex-wrap: wrap;
     position: relative;
     padding: 16px;
@@ -45,6 +49,13 @@ main{
     margin: 20px;
     border: 1px solid black;
     background-color: rgba(59, 59, 59, 0.9);
+}
+
+#pesquisas p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #b4b4b4;
 }
 
 .bi-search{
@@ -136,6 +147,7 @@ input[type=checkbox]:not(:checked) + label:hover{
     gap: 72px;
     margin: 20px;
     overflow-y: scroll;
+    overflow-x: clip;
 }
 
 .cards{
@@ -144,11 +156,27 @@ input[type=checkbox]:not(:checked) + label:hover{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: 1px solid black;
     background-color: #fff;
     width: 150px;
     height: 200px;
     transition: 0.5s;
+
+    background-size: 150px 120px;
+    background-position: top;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.cards::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(255,255,255,0.3);
+}
+
+.cards > * {
+    position: relative;
+    z-index: 1;
 }
 
 .fundo{
@@ -168,6 +196,7 @@ input[type=checkbox]:not(:checked) + label:hover{
     top: 12%;
     height: 80px;
     width: 75px;
+    filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.4));
     margin: 0 auto;
     z-index: 5;
 }
@@ -289,4 +318,93 @@ input[type=checkbox]:not(:checked) + label:hover{
     background: none;
     -webkit-text-stroke-width: 2px;
     -webkit-text-stroke-color: none;
+    overflow: hidden;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+}
+
+.inicio{
+    animation: rolageminicio 8s linear;
+}
+
+@keyframes rolageminicio {
+    0%{
+        transform: translateX(-100%);
+    }
+    50%{
+        transform: translateX(100%);
+    }
+    100%{
+        transform: translateX(0%);
+    }
+}
+
+.filtro-id{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.filtro-id span{
+    color: #b4b4b4;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+}
+
+.range-slider{
+    position: relative;
+    width: 200px;
+    height: 20px;
+}
+
+.slider-track{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    height: 5px;
+    background: #ffffff;
+    border-radius: 999px;
+    transform: translateY(-50%);
+}
+
+.slider-range{
+    position: absolute;
+    top: 50%;
+    height: 5px;
+    background: rgb(117, 117, 117);
+    border-radius: 999px;
+    transform: translateY(-50%);
+}
+
+.range-slider input{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 20px;
+    margin: 0;
+
+    background: none;
+    pointer-events: none;
+    appearance: none;
+}
+
+.range-slider input::-webkit-slider-thumb{
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #b4b4b4;
+    cursor: pointer;
+    pointer-events: auto;
+}
+
+.range-slider input::-webkit-slider-runnable-track{
+    background: transparent;
+}
+
+#id_min_text, #id_max_text{
+    width: 5ch;
+    display: inline-flex;
+    justify-content: center;
+    font-variant-numeric: tabular-nums;
 }

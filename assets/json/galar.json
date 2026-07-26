@@ -6,7 +6,7 @@
       "grass"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -17,7 +17,7 @@
       "grass"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -28,7 +28,7 @@
       "grass"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/812.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -39,7 +39,7 @@
       "fire"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -50,7 +50,7 @@
       "fire"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -61,7 +61,7 @@
       "fire"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/815.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -72,7 +72,7 @@
       "water"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -83,7 +83,7 @@
       "water"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -94,7 +94,7 @@
       "water"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/818.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -105,7 +105,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -116,7 +116,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/820.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -127,7 +127,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -138,7 +138,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/822.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -150,7 +150,7 @@
       "steel"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -161,7 +161,7 @@
       "bug"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/824.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -173,7 +173,7 @@
       "psychic"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -185,7 +185,7 @@
       "psychic"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -196,7 +196,7 @@
       "dark"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -207,7 +207,7 @@
       "dark"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/828.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -218,7 +218,7 @@
       "grass"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/829.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -229,7 +229,7 @@
       "grass"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/830.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -240,7 +240,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/831.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -251,7 +251,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -262,7 +262,7 @@
       "water"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -274,7 +274,7 @@
       "rock"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -285,7 +285,7 @@
       "electric"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/835.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -296,7 +296,7 @@
       "electric"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -307,7 +307,7 @@
       "rock"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -319,7 +319,7 @@
       "fire"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/838.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -331,7 +331,7 @@
       "fire"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -343,7 +343,7 @@
       "dragon"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -355,7 +355,7 @@
       "dragon"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -367,7 +367,7 @@
       "dragon"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -378,7 +378,7 @@
       "ground"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -389,7 +389,7 @@
       "ground"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -401,7 +401,7 @@
       "water"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -412,7 +412,7 @@
       "water"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/846.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -423,7 +423,7 @@
       "water"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -435,7 +435,7 @@
       "poison"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -447,7 +447,7 @@
       "poison"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -459,7 +459,7 @@
       "bug"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -471,7 +471,7 @@
       "bug"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -482,7 +482,7 @@
       "fighting"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/852.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -493,7 +493,7 @@
       "fighting"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -504,7 +504,7 @@
       "ghost"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -515,7 +515,7 @@
       "ghost"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/855.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -526,7 +526,7 @@
       "psychic"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -537,7 +537,7 @@
       "psychic"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -549,7 +549,7 @@
       "fairy"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -561,7 +561,7 @@
       "fairy"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -573,7 +573,7 @@
       "fairy"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/860.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -585,7 +585,7 @@
       "fairy"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/861.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -597,7 +597,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/862.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -608,7 +608,7 @@
       "steel"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/863.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -619,7 +619,7 @@
       "ghost"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/864.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -630,7 +630,7 @@
       "fighting"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/865.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -642,7 +642,7 @@
       "psychic"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -654,7 +654,7 @@
       "ghost"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/867.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -665,7 +665,7 @@
       "fairy"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -676,7 +676,7 @@
       "fairy"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -687,7 +687,7 @@
       "fighting"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -698,7 +698,7 @@
       "electric"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/871.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -710,7 +710,7 @@
       "bug"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -722,7 +722,7 @@
       "bug"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -733,7 +733,7 @@
       "rock"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/874.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -744,7 +744,7 @@
       "ice"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -756,7 +756,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -768,7 +768,7 @@
       "dark"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -779,7 +779,7 @@
       "steel"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -790,7 +790,7 @@
       "steel"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -802,7 +802,7 @@
       "dragon"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/880.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -814,7 +814,7 @@
       "ice"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/881.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -826,7 +826,7 @@
       "dragon"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -838,7 +838,7 @@
       "ice"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/883.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -850,7 +850,7 @@
       "dragon"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -862,7 +862,7 @@
       "ghost"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/885.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -874,7 +874,7 @@
       "ghost"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/886.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -886,7 +886,7 @@
       "ghost"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -897,7 +897,7 @@
       "fairy"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -908,7 +908,7 @@
       "fighting"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -920,7 +920,7 @@
       "dragon"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/890.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -931,7 +931,7 @@
       "fighting"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/891.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -943,7 +943,7 @@
       "dark"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -955,7 +955,7 @@
       "grass"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -966,7 +966,7 @@
       "electric"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -977,7 +977,7 @@
       "dragon"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -988,7 +988,7 @@
       "ice"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/896.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -999,7 +999,7 @@
       "ghost"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/897.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -1011,7 +1011,7 @@
       "grass"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -1023,7 +1023,7 @@
       "psychic"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -1035,7 +1035,7 @@
       "rock"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -1047,7 +1047,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -1059,7 +1059,7 @@
       "ghost"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -1071,7 +1071,7 @@
       "poison"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/903.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -1083,7 +1083,7 @@
       "poison"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/904.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   },
@@ -1095,7 +1095,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
-    "habitat": "assets/img/default.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
     "img_regiao": "assets/img/region-option-2/galar.png",
     "region": "galar"
   }

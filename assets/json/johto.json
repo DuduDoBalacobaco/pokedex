@@ -6,7 +6,7 @@
       "grass"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -17,7 +17,7 @@
       "grass"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -28,7 +28,7 @@
       "grass"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -39,7 +39,7 @@
       "fire"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -50,7 +50,7 @@
       "fire"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/156.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -61,7 +61,7 @@
       "fire"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/157.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -72,7 +72,7 @@
       "water"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png",
-    "habitat": "assets/img/waters-edge.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -83,7 +83,7 @@
       "water"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png",
-    "habitat": "assets/img/waters-edge.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -94,7 +94,7 @@
       "water"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png",
-    "habitat": "assets/img/waters-edge.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -105,7 +105,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -116,7 +116,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -128,7 +128,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -140,7 +140,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -152,7 +152,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -164,7 +164,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -176,7 +176,7 @@
       "poison"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/167.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -188,7 +188,7 @@
       "poison"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/168.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -200,7 +200,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
-    "habitat": "assets/img/cave.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -212,7 +212,7 @@
       "electric"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
-    "habitat": "assets/img/sea.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -224,7 +224,7 @@
       "electric"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
-    "habitat": "assets/img/sea.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -235,7 +235,7 @@
       "electric"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -246,7 +246,7 @@
       "fairy"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/173.png",
-    "habitat": "assets/img/mountain.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -258,7 +258,7 @@
       "fairy"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/174.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -269,7 +269,7 @@
       "fairy"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -281,7 +281,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -293,7 +293,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/177.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -305,7 +305,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/178.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -316,7 +316,7 @@
       "electric"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -327,7 +327,7 @@
       "electric"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -338,7 +338,7 @@
       "electric"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -349,7 +349,7 @@
       "grass"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/182.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -361,7 +361,7 @@
       "fairy"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
-    "habitat": "assets/img/waters-edge.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -373,7 +373,7 @@
       "fairy"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
-    "habitat": "assets/img/waters-edge.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -384,7 +384,7 @@
       "rock"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/185.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -395,7 +395,7 @@
       "water"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/186.png",
-    "habitat": "assets/img/waters-edge.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -407,7 +407,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -419,7 +419,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -431,7 +431,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/189.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -442,7 +442,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -453,7 +453,7 @@
       "grass"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/191.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -464,7 +464,7 @@
       "grass"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -476,7 +476,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -488,7 +488,7 @@
       "ground"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
-    "habitat": "assets/img/waters-edge.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -500,7 +500,7 @@
       "ground"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png",
-    "habitat": "assets/img/waters-edge.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -511,7 +511,7 @@
       "psychic"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/196.png",
-    "habitat": "assets/img/urban.png",
+    "habitat": "assets/img/habitats_webp/urban.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -522,7 +522,7 @@
       "dark"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
-    "habitat": "assets/img/urban.png",
+    "habitat": "assets/img/habitats_webp/urban.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -534,7 +534,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/198.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -546,7 +546,7 @@
       "psychic"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/199.png",
-    "habitat": "assets/img/waters-edge.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -557,7 +557,7 @@
       "ghost"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png",
-    "habitat": "assets/img/cave.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -568,7 +568,7 @@
       "psychic"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
-    "habitat": "assets/img/rare.png",
+    "habitat": "assets/img/habitats_webp/rare.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -579,7 +579,7 @@
       "psychic"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
-    "habitat": "assets/img/cave.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -591,7 +591,7 @@
       "psychic"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/203.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -602,7 +602,7 @@
       "bug"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -614,7 +614,7 @@
       "steel"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -625,7 +625,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
-    "habitat": "assets/img/cave.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -637,7 +637,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png",
-    "habitat": "assets/img/mountain.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -649,7 +649,7 @@
       "ground"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png",
-    "habitat": "assets/img/cave.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -660,7 +660,7 @@
       "fairy"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
-    "habitat": "assets/img/urban.png",
+    "habitat": "assets/img/habitats_webp/urban.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -671,7 +671,7 @@
       "fairy"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png",
-    "habitat": "assets/img/urban.png",
+    "habitat": "assets/img/habitats_webp/urban.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -683,7 +683,7 @@
       "poison"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
-    "habitat": "assets/img/sea.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -695,7 +695,7 @@
       "steel"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -707,7 +707,7 @@
       "rock"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
-    "habitat": "assets/img/mountain.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -719,7 +719,7 @@
       "fighting"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -731,7 +731,7 @@
       "ice"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -742,7 +742,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
-    "habitat": "assets/img/mountain.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -753,7 +753,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
-    "habitat": "assets/img/mountain.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -764,7 +764,7 @@
       "fire"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/218.png",
-    "habitat": "assets/img/mountain.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -776,7 +776,7 @@
       "rock"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
-    "habitat": "assets/img/mountain.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -788,7 +788,7 @@
       "ground"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/220.png",
-    "habitat": "assets/img/cave.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -800,7 +800,7 @@
       "ground"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
-    "habitat": "assets/img/cave.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -812,7 +812,7 @@
       "rock"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/222.png",
-    "habitat": "assets/img/sea.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -823,7 +823,7 @@
       "water"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/223.png",
-    "habitat": "assets/img/sea.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -834,7 +834,7 @@
       "water"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
-    "habitat": "assets/img/sea.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -846,7 +846,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png",
-    "habitat": "assets/img/mountain.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -858,7 +858,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/226.png",
-    "habitat": "assets/img/sea.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -870,7 +870,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
-    "habitat": "assets/img/rough-terrain.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -882,7 +882,7 @@
       "fire"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
-    "habitat": "assets/img/rough-terrain.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -894,7 +894,7 @@
       "fire"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
-    "habitat": "assets/img/rough-terrain.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -906,7 +906,7 @@
       "dragon"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/230.png",
-    "habitat": "assets/img/sea.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -917,7 +917,7 @@
       "ground"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/231.png",
-    "habitat": "assets/img/rough-terrain.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -928,7 +928,7 @@
       "ground"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/232.png",
-    "habitat": "assets/img/rough-terrain.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -939,7 +939,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/233.png",
-    "habitat": "assets/img/urban.png",
+    "habitat": "assets/img/habitats_webp/urban.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -950,7 +950,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/234.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -961,7 +961,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/235.png",
-    "habitat": "assets/img/urban.png",
+    "habitat": "assets/img/habitats_webp/urban.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -972,7 +972,7 @@
       "fighting"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
-    "habitat": "assets/img/urban.png",
+    "habitat": "assets/img/habitats_webp/urban.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -983,7 +983,7 @@
       "fighting"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png",
-    "habitat": "assets/img/urban.png",
+    "habitat": "assets/img/habitats_webp/urban.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -995,7 +995,7 @@
       "psychic"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/238.png",
-    "habitat": "assets/img/urban.png",
+    "habitat": "assets/img/habitats_webp/urban.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -1006,7 +1006,7 @@
       "electric"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -1017,7 +1017,7 @@
       "fire"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
-    "habitat": "assets/img/mountain.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -1028,7 +1028,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -1039,7 +1039,7 @@
       "normal"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
-    "habitat": "assets/img/urban.png",
+    "habitat": "assets/img/habitats_webp/urban.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -1050,7 +1050,7 @@
       "electric"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/243.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -1061,7 +1061,7 @@
       "fire"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -1072,7 +1072,7 @@
       "water"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
-    "habitat": "assets/img/grassland.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -1084,7 +1084,7 @@
       "ground"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
-    "habitat": "assets/img/mountain.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -1096,7 +1096,7 @@
       "ground"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
-    "habitat": "assets/img/mountain.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -1108,7 +1108,7 @@
       "dark"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
-    "habitat": "assets/img/mountain.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -1120,7 +1120,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/249.png",
-    "habitat": "assets/img/rare.png",
+    "habitat": "assets/img/habitats_webp/rare.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -1132,7 +1132,7 @@
       "flying"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png",
-    "habitat": "assets/img/rare.png",
+    "habitat": "assets/img/habitats_webp/rare.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   },
@@ -1144,7 +1144,7 @@
       "grass"
     ],
     "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
-    "habitat": "assets/img/forest.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
     "img_regiao": "assets/img/region-option-2/johto.png",
     "region": "johto"
   }

@@ -1,143 +1,123 @@
-const pokemon_name = document.querySelector('.pokemon_name')
-const pokemon_img = document.querySelector('.pokemon_img')
-const pokemon_id = document.querySelector('.pokemon_id')
 const show_pokemon = document.getElementById('show_pokemon')
 const search = document.getElementById('search')
-const next = document.getElementById('next')
-const previous = document.getElementById('previous')
-const pageNow = document.getElementById('page')
 const c = (id) => document.createElement(id)
 
-let offset = 115
-let limit = 36
+const idMin = document.getElementById("id_min")
+const idMax = document.getElementById("id_max")
+
+const sliderRange = document.getElementById("slider-range")
+
+const minText = document.getElementById("id_min_text")
+const maxText = document.getElementById("id_max_text")
+
 let pokemonsCarregados = []
 
-const habitats = {
-    cave: 'assets/img/cave.png',
-    sea: 'assets/img/sea.png',
-    'rough-terrain': 'assets/img/rough-terrain.png',
-    forest: 'assets/img/forest.png',
-    grassland: 'assets/img/grassland.png',
-    'waters-edge': 'assets/img/waters-edge.png',
-    mountain: 'assets/img/mountain.png',
-    urban: 'assets/img/urban.png',
-    rare: 'assets/img/rare.png',
-    default: 'assets/img/default.png'
-}
-
 const regioes = [
-    { region: 'kanto', inicio: 1, fim: 151, img: 'assets/img/region-option-2/kanto.png'},
-    { region: 'johto', inicio: 152, fim: 251, img: 'assets/img/region-option-2/johto.png' },
-    { region: 'hoenn', inicio: 252, fim: 386, img: 'assets/img/region-option-2/hoenn.png' },
-    { region: 'sinnoh', inicio: 387, fim: 493, img: 'assets/img/region-option-2/sinnoh.png' },
-    { region: 'unova', inicio: 494, fim: 649, img: 'assets/img/region-option-2/unova.png' },
-    { region: 'kalos', inicio: 650, fim: 721, img: 'assets/img/region-option-2/kalos.png' },
-    { region: 'alola', inicio: 722, fim: 809, img: 'assets/img/region-option-2/alola.png' },
-    { region: 'galar', inicio: 810, fim: 905, img: 'assets/img/region-option-2/galar.png' },
-    { region: 'paldea', inicio: 906, fim: 1025, img: 'assets/img/region-option-2/paldea.png' }
+    { region: 'kanto', inicio: 1, fim: 151},
+    { region: 'johto', inicio: 152, fim: 251 },
+    { region: 'hoenn', inicio: 252, fim: 386 },
+    { region: 'sinnoh', inicio: 387, fim: 493 },
+    { region: 'unova', inicio: 494, fim: 649 },
+    { region: 'kalos', inicio: 650, fim: 721 },
+    { region: 'alola', inicio: 722, fim: 809 },
+    { region: 'galar', inicio: 810, fim: 905 },
+    { region: 'paldea', inicio: 906, fim: 1025 }
 ]
 
-const cache = {kanto: [], johto: [], hoenn: [], sinnoh: [], unova: [], kalos: [], alola: [], galar: [], paldea: []}
+const arquivos = [
+    'assets/json/kanto.json',
+    'assets/json/johto.json',
+    'assets/json/hoenn.json',
+    'assets/json/sinnoh.json',
+    'assets/json/unova.json',
+    'assets/json/kalos.json',
+    'assets/json/alola.json',
+    'assets/json/galar.json',
+    'assets/json/paldea.json'
+]
 
-const marcador = 6
 const fimregiao = regioes.map(reg => reg.fim)
 const inicioregiao = regioes.map(reg => reg.inicio)
 
 const tipos = ['normal', 'fire', 'water','electric', 'grass', 'ice', 'fighting', 'poison', 'ground', 'flying', 'psychic', 'bug', 'rock', 'ghost', 'dragon', 'dark', 'steel', 'fairy']
 const region = ['kanto', 'johto', 'hoenn', 'sinnoh', 'unova', 'kalos', 'alola', 'galar', 'paldea']
 
-const buscaImgRegiao = id => {
-    const region = regioes.find(reg => (id >= reg.inicio && id <= reg.fim))
-
-    return region.img
-}
-const buscaRegiao = id => {
-    const region = regioes.find(reg => (id >= reg.inicio && id <= reg.fim))
-       
-    return region.region
-}
-
-const pokemonsInfo = async urls => {
-    const pokemons = await Promise.all(
-        urls.map(async (url) => {
-            const responseids = await fetch(url)
-            return responseids.json()
-        })
-    )
-    return pokemons
-}
-
-const pokemonHabitats = async pokemons => {
-    const habitats = await Promise.all(
-        pokemons.map(async (pokemon) => {
-            const responsehabitat = await fetch(pokemon.species.url)
-            const { habitat } = await responsehabitat.json()
-            return habitat?.name || 'default'
-        })
-    )
-    return habitats
-}
+let inicio = 0
+let corte = 36
+let pokemonsRenderizados = []
 
 const carregaMaisPokemon = () => {
-    offset += limit
-    pokemonAPI(offset)
+
+    if(inicio >= pokemonsCarregados.length) return
+
+    const carregar = pokemonsCarregados.slice(inicio, inicio + corte)
+
+    pokedex(carregar)
+
+    pokemonsRenderizados.push(...carregar)
+    inicio += corte
 }
 
-const urlPokemons = pokeAPiResults => pokeAPiResults.map(url => url.url)
-const pokemonHabitat = habitat => habitats[habitat]
+const criarElemento = (elemento, classe) => {
+    const criacao = c(elemento)
+    criacao.classList.add(classe)
+    return criacao
+}
 
 
 
 
-const pokemonAPI = async (offset, limit = 36, filtro = true, region) => {
+
+const pokemonjson = async (filtro = true) => {
     skeleton(30, false)
 
-    const response = await fetch(`https://pokeapi.co/api/v2/pokemon?limit=${limit}&offset=${offset}`)
+    const todosPokemons = (
+        await Promise.all(
+            arquivos.map(async arquivo => {
+                const response = await fetch(arquivo)
+                return response.json()
+            })
+        )
+    ).flat()
 
-    const {results: pokeAPiResults} = await response.json()
-    const urls = await urlPokemons(pokeAPiResults)
-    const pokemons = await pokemonsInfo(urls)
-    
-    const habitatsList = await pokemonHabitats(pokemons)
-
-    const pokemon = pokemons.map((poke, index) => ({
+    const pokemon = todosPokemons.map((poke, index) => ({
         name: poke.name,
         id: poke.id,
-        types: poke.types.map(type => type.type.name),
-        sprite: poke.sprites.other['official-artwork'].front_default ,
-        habitat: pokemonHabitat(habitatsList[index]),
-        img_regiao: buscaImgRegiao(poke.id),
-        region : buscaRegiao(poke.id)
+        types: poke.types,
+        sprite: poke.sprite ,
+        habitat: poke.habitat,
+        img_regiao: poke.img_regiao,
+        region : poke.region
     }))
-
-    removerSkeleton()
-
-    if(cache.kanto.length === 0){
-        cache.kanto = pokemon
-    }
 
     if(filtro){
         pokemonsCarregados.push(...pokemon)
     }
-    else{
-        cache[region] = pokemon
-    }
 
-    pokedex(pokemon, filtro)
+    removerSkeleton()
+
+    const renderizar = pokemonsCarregados.slice(inicio, inicio + corte)
+
+    pokedex(renderizar)
+
+    pokemonsRenderizados.push(...renderizar)
+
+    inicio += corte
 }
 
-// versions['generation-v']['black-white'].animated.front_default
 
 
 
 
-const pokedex = (pokemons, filtro = true)=> {
+const pokedex = (pokemons, filtro = true, region)=> {
     const fragment = document.createDocumentFragment()
     const marcadores = []
-
+    let ultimoPokemon = false
+    
     pokemons.forEach((pokemon, i) => {
         const card = criarElemento('div', 'cards')
         card.dataset.regiao = pokemon.region
+        card.style.backgroundImage = `url(${pokemon.habitat})`
 
         const id = Number(pokemon.id)
 
@@ -147,6 +127,7 @@ const pokedex = (pokemons, filtro = true)=> {
 
         const img = criarElemento('img', 'pokemon_img')
         img.src = pokemon.sprite
+        img.loading = 'lazy'
 
         const info = criarElemento('div', 'pokemon_info')
 
@@ -164,44 +145,126 @@ const pokedex = (pokemons, filtro = true)=> {
             types.append(type2)
         }
 
-        const fundo = criarElemento('img', 'fundo')
-        fundo.src = pokemon.habitat
-        fundo.loading = 'lazy'
-
         const span_id = criarElemento('span', 'pokemon_id')
         span_id.textContent = `${id} - `
+
+        ultimoPokemon = id === 1025 ? true : false
 
         const span_nome = criarElemento('span', 'pokemon_name')
         span_nome.textContent =  pokemon.name
 
         if(inicioregiao.includes(id) && filtro){
-            const bandeira = criarElemento('div', 'bandeira')
-            bandeira.classList.add(pokemon.region)
-            bandeira.textContent = `Início da região de ${pokemon.region.charAt(0).toUpperCase() + pokemon.region.slice(1)}`
-            fragment.appendChild(bandeira)
+            fragment.append(criarBandeira(pokemon.region, `Início da região de ${pokemon.region.charAt(0).toUpperCase() + pokemon.region.slice(1)}`, 'inicio'))
         }
 
         info.append(span_id, span_nome)
-        card.append(img, fundo, types, info)
-        fragment.appendChild(card)
-
-        if(fimregiao.includes(id) && filtro){
-            const bandeira = criarElemento('div', 'bandeira')
-            bandeira.classList.add(pokemon.region)
-            bandeira.textContent = `Fim da região de ${pokemon.region.charAt(0).toUpperCase() + pokemon.region.slice(1)}`
-            fragment.appendChild(bandeira)
-        }
-
-    });
+        card.append(img, types, info)
+        
+        fragment.appendChild(card) 
+    })
 
     show_pokemon.appendChild(fragment)
 
     marcadores.forEach(card => observerRegion.observe(card))
 
-    if(filtro){
+    if(filtro && !ultimoPokemon){
         observarUltimo()
     }
 }
+
+const criarBandeira = (pokemon, texto, classe) => {
+    const bandeira = criarElemento('div', 'bandeira')
+
+    bandeira.classList.add(pokemon)
+    bandeira.classList.add(classe)
+
+    bandeira.dataset.regiao = pokemon
+
+    bandeira.textContent = texto
+
+    observerRegion.observe(bandeira)
+
+    return bandeira
+}
+
+
+
+
+
+search.addEventListener('input', aplicarFiltros)
+
+function aplicarFiltros(){
+    const texto = search.value.toLowerCase()
+    const checados = tipos.filter(u => document.getElementById(u).checked)
+    const checkRegion = region.filter(u => document.getElementById(u).checked)
+    const idmax = Number(idMax.value)
+    const idmin = Number(idMin.value)
+
+    if(texto !== '' || checados.length > 0 || checkRegion.length > 0 || (idmin !== 1 || idmax !== 1025)){
+        if(ultimoObservado){
+            observer.unobserve(ultimoObservado)
+            ultimoObservado = null
+        }
+    }
+
+    if (texto === '' && checados.length === 0 && checkRegion.length === 0 && (idmax === 1025 && idmin === 1)){ 
+        inicio = 0
+        pokemonsRenderizados = []
+        show_pokemon.replaceChildren()
+        carregaMaisPokemon()
+        return
+    }
+
+    let resultado = {
+        pokemons: pokemonsCarregados,
+        region: checkRegion
+    }
+
+    if(idmin !== 1 || idmax !== 1025){
+        resultado.pokemons = resultado.pokemons.filter(pokemon => pokemon.id >= idmin && pokemon.id <= idmax)
+    }
+
+    if(checados.length > 0){
+        resultado.pokemons = resultado.pokemons.filter(pokemon => checados.some(u => pokemon.types.includes(u)))
+    }
+
+    if(checkRegion.length > 0){
+        resultado.pokemons = resultado.pokemons.filter(pokemon => checkRegion.includes(pokemon.region))
+    }
+
+    if(texto !== ""){
+        resultado.pokemons = resultado.pokemons.filter(pokemon => pokemon.name.includes(texto) || pokemon.id.toString().includes(texto))
+    }
+
+    show_pokemon.replaceChildren()
+
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    })
+
+    pokedex(resultado.pokemons, false)
+}
+
+const removerFiltros = () => {
+    idMin.value = 1
+    idMax.value = 1025
+    atualizarSlider()
+
+    search.value = ''
+    
+    tipos.forEach(tipo => { 
+        document.getElementById(tipo).checked = false
+    })
+
+    region.forEach(region => { 
+        document.getElementById(region).checked = false
+    })
+
+    aplicarFiltros()
+}
+
+
 
 
 
@@ -218,16 +281,6 @@ const observer = new IntersectionObserver(entries => {
     })
 }, { rootMargin: "0px 0px 100% 0px" ,threshold: 0 })
 
-const observerRegion = new IntersectionObserver(entries => {
-    entries.forEach(entry => {
-
-        if(!entry.isIntersecting) return
-
-        document.body.style.backgroundImage = `url(assets/img/region-option-1/${entry.target.dataset.regiao}2.png)`
-
-    })
-}, { rootMargin: "0px 0px -78% 0px" ,threshold: 0 })
-
 function observarUltimo(){
     if(ultimoObservado){
         observer.unobserve(ultimoObservado)
@@ -237,64 +290,15 @@ function observarUltimo(){
     observer.observe(ultimoObservado)
 }
 
+const observerRegion = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
 
+        if(!entry.isIntersecting) return
 
+        document.body.style.backgroundImage = `url(assets/img/region-option-1/${entry.target.dataset.regiao}2.png)`
 
-search.addEventListener('input', aplicarFiltros)
-
-function aplicarFiltros(){
-
-    const texto = search.value.toLowerCase()
-    const checados = tipos.filter(u => document.getElementById(u).checked)
-    const checkRegion = region.filter(u => document.getElementById(u).checked)
-
-    if(texto !== '' || checados.length > 0 || checkRegion.length > 0){
-        if(ultimoObservado){
-            observer.unobserve(ultimoObservado)
-            ultimoObservado = null
-        }
-    }
-
-    // let resultado = pokemonsCarregados
-    let resultado
-
-    if(checkRegion.length > 0){
-        resultado = []
-        
-        if(cache[checkRegion].length === 0){
-            const pokemon = regioes.filter(u => checkRegion.some(a => u.region.includes(a)))
-            const totalPokemon = pokemon[0].fim - pokemon[0].inicio + 1
-
-            pokemonAPI(pokemon[0].inicio - 1, totalPokemon, false, checkRegion[0])
-        }
-
-        checkRegion.forEach(regiao => {
-            resultado.push(...cache[regiao])
-            resultado = resultado.filter(pokemon => checkRegion.some(u => pokemon.region.includes(u)))
-        })
-    }
-    else{
-        resultado = pokemonsCarregados
-    }
-
-    if(checados.length > 0){
-        resultado = resultado.filter(pokemon => checados.some(u => pokemon.types.includes(u)))
-    }
-
-    if(texto !== ""){
-        resultado = resultado.filter(pokemon =>
-        pokemon.name.includes(texto) || pokemon.id.toString().includes(texto))
-    }
-
-    show_pokemon.replaceChildren()
-
-    if (texto === '' && checados.length === 0 && checkRegion.length === 0){ 
-        pokedex(pokemonsCarregados)
-        return
-    }
-    
-    pokedex(resultado, false)
-}
+    })
+}, { rootMargin: "0px 0px -70% 0px" ,threshold: 0 })
 
 
 
@@ -302,36 +306,61 @@ function aplicarFiltros(){
 
 const skeleton = (quantidade = 18, limpar = true) => {
     if(limpar){
-        show_pokemon.replaceChildren();
+        show_pokemon.replaceChildren()
     }
 
-    const fragment = document.createDocumentFragment();
+    const fragment = document.createDocumentFragment()
 
     for (let i = 0; i < quantidade; i++) {
-        const card = criarElemento('div', 'cards');
+        const card = criarElemento('div', 'cards')
         card.classList.add('skeleton')
 
         card.innerHTML = `
             <div class="skeleton-img"></div>
             <div class="skeleton-types"></div>
             <div class="skeleton-text"></div>
-        `;
+        `
 
-        fragment.appendChild(card);
+        fragment.appendChild(card)
     }
 
-    show_pokemon.appendChild(fragment);
+    show_pokemon.appendChild(fragment)
 }
 
 const removerSkeleton = () => {
-    document.querySelectorAll('.skeleton')
-    .forEach(skeleton => skeleton.remove());
+    document.querySelectorAll('.skeleton').forEach(skeleton => skeleton.remove())
 }
 
-const criarElemento = (elemento, classe) => {
-    const criacao = c(elemento)
-    criacao.classList.add(classe)
-    return criacao
+
+
+
+
+const atualizarSlider = () => {
+
+    if(Number(idMin.value) > Number(idMax.value)){
+        idMin.value = idMax.value
+    }
+
+    const min = Number(idMin.min)
+    const max = Number(idMin.max)
+
+    const left = ((idMin.value - min) / (max - min)) * 100
+    const right = ((idMax.value - min) / (max - min)) * 100
+
+    sliderRange.style.left = `${left}%`
+    sliderRange.style.width = `${right - left}%`
+
+    minText.textContent = idMin.value
+    maxText.textContent = idMax.value
 }
 
-pokemonAPI(0, 151)
+idMin.addEventListener("input", atualizarSlider)
+idMax.addEventListener("input", atualizarSlider)
+
+atualizarSlider()
+
+
+
+
+
+pokemonjson()
