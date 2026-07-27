@@ -9,7 +9,8 @@ const imgs = {
     polem: ["assets/img/particles/polem.webp", "assets/img/particles/big_leaf.webp"],
     smoke: ["assets/img/particles/smoke.webp"],
     dandelion: ["assets/img/particles/dandelion.webp", "assets/img/particles/polem.webp"],
-    golden: ["assets/img/particles/gold_leaf.webp", "assets/img/particles/wheat.webp"]
+    golden: ["assets/img/particles/gold_leaf.webp", "assets/img/particles/wheat.webp"],
+    pokeball : ["assets/img/particles/pokeball.webp", "assets/img/particles/great-ball.webp", "assets/img/particles/ultra-ball.webp"]
 }
 
 const imagens = {}
@@ -44,6 +45,15 @@ window.addEventListener('resize', () => {
 })
 
 const regioesEfeitos = {
+    default:{
+        tipo:"pokeball",
+        quantidade:20,
+        cor:"#000000",
+        velocidade:0.5,
+        tamanho:[10,25],
+        vento:1
+    },
+
     kanto:{
         tipo:"folha",
         quantidade:25,

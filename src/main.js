@@ -316,6 +316,16 @@ const observerRegion = new IntersectionObserver(entries => {
     })
 }, { rootMargin: "0px 0px -70% 0px" ,threshold: 0 })
 
+const observerSkeleton = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+
+        if(!entry.isIntersecting) return
+
+        mudarParticulas('default')
+    })
+
+}, { rootMargin: "0px 0px -70% 0px" ,threshold: 0 })
+
 
 
 
@@ -336,7 +346,7 @@ const skeleton = (quantidade = 18, limpar = true) => {
             <div class="skeleton-types"></div>
             <div class="skeleton-text"></div>
         `
-
+        observerSkeleton.observe(card)
         fragment.appendChild(card)
     }
 
