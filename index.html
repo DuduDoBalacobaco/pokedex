@@ -9,11 +9,13 @@
     <link rel="icon" href="assets/img/favicon/favicon.png" type="image/png">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
+    <script src="src/particles.js" defer></script>
     <script src="src/main.js" defer></script>
 
 </head>
 
 <body>
+    <canvas id="particles"></canvas>
     <main>
 
         <section id="main">
@@ -87,7 +89,22 @@
                             <input type="checkbox" id="fairy" class="check">
                             <label for="fairy" class="fairy">Fairy</label>
                         </div>
-                    </section>   
+                    </section>  
+
+                    <section>
+                        <form>
+                            <input type="radio" id="all" name="grupo" value="all" checked hidden>
+
+                            <input type="radio" id="todos" name="grupo" value="todos">
+                            <label for="todos" class="todos">Ambos</label><br>
+
+                            <input type="radio" id="tipo_unico" name="grupo" value="tipo_unico">
+                            <label for="tipo_unico" class="tipo_unico">Um tipo</label><br>
+                            
+                            <input type="radio" id="dois_tipos" name="grupo" value="dois_tipos">
+                            <label for="dois_tipos" class="dois_tipos">Dois tipos</label>
+                        </form>
+                    </section>
                     
                     <p>FILTRAR POR REGIÃO</p>
 
@@ -144,7 +161,7 @@
                         <span id="id_max_text">1025</span>
                     </section>
 
-                    <section>
+                    <section class="btns">
                         <button type="button" onclick="aplicarFiltros()">Aplicar filtros</button>
                         <button type="button" onclick="removerFiltros()">Remover filtros</button>
                     </section>

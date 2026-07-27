@@ -10,6 +10,11 @@ const sliderRange = document.getElementById("slider-range")
 const minText = document.getElementById("id_min_text")
 const maxText = document.getElementById("id_max_text")
 
+const all = document.getElementById('all')
+const todos = document.getElementById('todos')
+const tipo_unico = document.getElementById('tipo_unico')
+const dois_tipos = document.getElementById('dois_tipos')
+
 let pokemonsCarregados = []
 
 const regioes = [
@@ -154,7 +159,7 @@ const pokedex = (pokemons, filtro = true, region)=> {
         span_nome.textContent =  pokemon.name
 
         if(inicioregiao.includes(id) && filtro){
-            fragment.append(criarBandeira(pokemon.region, `Início da região de ${pokemon.region.charAt(0).toUpperCase() + pokemon.region.slice(1)}`, 'inicio'))
+            fragment.append(criarBandeira(pokemon.region, `Início da região de ${pokemon.region.charAt(0).toUpperCase() + pokemon.region.slice(1)}`))
         }
 
         info.append(span_id, span_nome)
@@ -174,12 +179,9 @@ const pokedex = (pokemons, filtro = true, region)=> {
 
 const criarBandeira = (pokemon, texto, classe) => {
     const bandeira = criarElemento('div', 'bandeira')
-
     bandeira.classList.add(pokemon)
-    bandeira.classList.add(classe)
 
     bandeira.dataset.regiao = pokemon
-
     bandeira.textContent = texto
 
     observerRegion.observe(bandeira)
@@ -200,14 +202,14 @@ function aplicarFiltros(){
     const idmax = Number(idMax.value)
     const idmin = Number(idMin.value)
 
-    if(texto !== '' || checados.length > 0 || checkRegion.length > 0 || (idmin !== 1 || idmax !== 1025)){
+    if(texto !== '' || checados.length > 0 || checkRegion.length > 0 || (idmin !== 1 || idmax !== 1025) || !all.checked){
         if(ultimoObservado){
             observer.unobserve(ultimoObservado)
             ultimoObservado = null
         }
     }
 
-    if (texto === '' && checados.length === 0 && checkRegion.length === 0 && (idmax === 1025 && idmin === 1)){ 
+    if (texto === '' && checados.length === 0 && checkRegion.length === 0 && (idmax === 1025 && idmin === 1) && all.checked){ 
         inicio = 0
         pokemonsRenderizados = []
         show_pokemon.replaceChildren()
@@ -236,6 +238,14 @@ function aplicarFiltros(){
         resultado.pokemons = resultado.pokemons.filter(pokemon => pokemon.name.includes(texto) || pokemon.id.toString().includes(texto))
     }
 
+    if(tipo_unico.checked){
+        resultado.pokemons = resultado.pokemons.filter(pokemon => pokemon.types.length === 1)
+    }
+
+    if(dois_tipos.checked){
+        resultado.pokemons = resultado.pokemons.filter(pokemon => pokemon.types.length === 2)
+    }
+
     show_pokemon.replaceChildren()
 
     window.scrollTo({
@@ -260,6 +270,8 @@ const removerFiltros = () => {
     region.forEach(region => { 
         document.getElementById(region).checked = false
     })
+
+    all.checked = 'true'
 
     aplicarFiltros()
 }
@@ -295,7 +307,11 @@ const observerRegion = new IntersectionObserver(entries => {
 
         if(!entry.isIntersecting) return
 
-        document.body.style.backgroundImage = `url(assets/img/region-option-1/${entry.target.dataset.regiao}2.png)`
+        const regiao = entry.target.dataset.regiao
+
+        document.body.style.backgroundImage = `url(assets/img/region-option-1/${regiao}2.png)`
+
+        mudarParticulas(regiao)
 
     })
 }, { rootMargin: "0px 0px -70% 0px" ,threshold: 0 })
