@@ -5,9 +5,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/650.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -16,9 +16,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/651.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/651.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -28,9 +28,9 @@
       "grass",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/652.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -39,9 +39,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/653.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -50,9 +50,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/654.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/654.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -62,9 +62,9 @@
       "fire",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/655.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -73,9 +73,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/656.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -84,9 +84,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/657.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/657.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -96,9 +96,9 @@
       "water",
       "dark"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/658.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -107,9 +107,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/659.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -119,9 +119,9 @@
       "normal",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/660.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/660.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -131,9 +131,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/661.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/661.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -143,9 +143,9 @@
       "fire",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/662.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/662.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -155,9 +155,9 @@
       "fire",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/663.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -166,9 +166,9 @@
     "types": [
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/664.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -177,9 +177,9 @@
     "types": [
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/665.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/665.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -189,9 +189,9 @@
       "bug",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/666.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -201,9 +201,9 @@
       "fire",
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/667.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/667.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -213,9 +213,9 @@
       "fire",
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/668.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -224,9 +224,9 @@
     "types": [
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/669.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -235,9 +235,9 @@
     "types": [
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/670.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -246,9 +246,9 @@
     "types": [
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/671.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -257,9 +257,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/672.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -268,9 +268,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/673.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -279,9 +279,9 @@
     "types": [
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/674.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -291,9 +291,9 @@
       "fighting",
       "dark"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/675.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/675.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -302,9 +302,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/676.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -313,9 +313,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/677.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -324,9 +324,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/678.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -336,9 +336,9 @@
       "steel",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/679.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -348,9 +348,9 @@
       "steel",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/680.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -360,9 +360,9 @@
       "steel",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/681.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -371,9 +371,9 @@
     "types": [
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/682.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/682.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -382,9 +382,9 @@
     "types": [
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/683.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -393,9 +393,9 @@
     "types": [
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/684.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -404,9 +404,9 @@
     "types": [
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/685.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -416,9 +416,9 @@
       "dark",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/686.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/686.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -428,9 +428,9 @@
       "dark",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/687.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -440,9 +440,9 @@
       "rock",
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/688.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/688.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -452,9 +452,9 @@
       "rock",
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/689.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/689.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -464,9 +464,9 @@
       "poison",
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/690.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -476,9 +476,9 @@
       "poison",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/691.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -487,9 +487,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/692.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -498,9 +498,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/693.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/693.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -510,9 +510,9 @@
       "electric",
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/694.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -522,9 +522,9 @@
       "electric",
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/695.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/695.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -534,9 +534,9 @@
       "rock",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/696.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -546,9 +546,9 @@
       "rock",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/697.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -558,9 +558,9 @@
       "rock",
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/698.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -570,9 +570,9 @@
       "rock",
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/699.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -581,9 +581,9 @@
     "types": [
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/700.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -593,9 +593,9 @@
       "fighting",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/701.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/701.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -605,9 +605,9 @@
       "electric",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/702.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -617,9 +617,9 @@
       "rock",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/703.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -628,9 +628,9 @@
     "types": [
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/704.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -639,9 +639,9 @@
     "types": [
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/705.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -650,9 +650,9 @@
     "types": [
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/706.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/706.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -662,9 +662,9 @@
       "steel",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/707.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -674,9 +674,9 @@
       "ghost",
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/708.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -686,9 +686,9 @@
       "ghost",
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/709.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -698,9 +698,9 @@
       "ghost",
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/710.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/710.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -710,9 +710,9 @@
       "ghost",
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/711.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/711.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -721,9 +721,9 @@
     "types": [
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/712.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -732,9 +732,9 @@
     "types": [
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/713.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -744,9 +744,9 @@
       "flying",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/714.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -756,9 +756,9 @@
       "flying",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/715.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -767,9 +767,9 @@
     "types": [
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/716.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -779,9 +779,9 @@
       "dark",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/717.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -791,9 +791,9 @@
       "dragon",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/718.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -803,9 +803,9 @@
       "rock",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/719.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/719.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -815,9 +815,9 @@
       "psychic",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/720.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   },
   {
@@ -827,9 +827,9 @@
       "fire",
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/kalos.png",
+    "sprite": "assets/img/pokemon/webp/721.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kalos.webp",
     "region": "kalos"
   }
 ]

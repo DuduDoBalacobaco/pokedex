@@ -5,9 +5,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/906.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -16,9 +16,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/907.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -28,9 +28,9 @@
       "grass",
       "dark"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/908.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -39,9 +39,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/909.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -50,9 +50,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/910.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -62,9 +62,9 @@
       "fire",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/911.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -73,9 +73,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/912.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -84,9 +84,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/913.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -96,9 +96,9 @@
       "water",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/914.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -107,9 +107,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/915.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -118,9 +118,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/916.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -129,9 +129,9 @@
     "types": [
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/917.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -140,9 +140,9 @@
     "types": [
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/918.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -151,9 +151,9 @@
     "types": [
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/919.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -163,9 +163,9 @@
       "bug",
       "dark"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/920.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -174,9 +174,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/921.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -186,9 +186,9 @@
       "electric",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/922.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -198,9 +198,9 @@
       "electric",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/923.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -209,9 +209,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/924.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -220,9 +220,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/925.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -231,9 +231,9 @@
     "types": [
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/926.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -242,9 +242,9 @@
     "types": [
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/927.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -254,9 +254,9 @@
       "grass",
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/928.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -266,9 +266,9 @@
       "grass",
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/929.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -278,9 +278,9 @@
       "grass",
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/930.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -290,9 +290,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/931.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -301,9 +301,9 @@
     "types": [
       "rock"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/932.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -312,9 +312,9 @@
     "types": [
       "rock"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/933.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -323,9 +323,9 @@
     "types": [
       "rock"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/934.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -334,9 +334,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/935.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -346,9 +346,9 @@
       "fire",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/936.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -358,9 +358,9 @@
       "fire",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/937.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -369,9 +369,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/938.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -380,9 +380,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/939.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -392,9 +392,9 @@
       "electric",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/940.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -404,9 +404,9 @@
       "electric",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/941.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -415,9 +415,9 @@
     "types": [
       "dark"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/942.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -426,9 +426,9 @@
     "types": [
       "dark"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/943.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -438,9 +438,9 @@
       "poison",
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/944.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -450,9 +450,9 @@
       "poison",
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/945.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -462,9 +462,9 @@
       "grass",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/946.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -474,9 +474,9 @@
       "grass",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/947.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -486,9 +486,9 @@
       "ground",
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/948.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -498,9 +498,9 @@
       "ground",
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/949.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -509,9 +509,9 @@
     "types": [
       "rock"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/950.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -520,9 +520,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/951.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -532,9 +532,9 @@
       "grass",
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/952.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -543,9 +543,9 @@
     "types": [
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/953.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -555,9 +555,9 @@
       "bug",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/954.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -566,9 +566,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/955.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -577,9 +577,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/956.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -589,9 +589,9 @@
       "fairy",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/957.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -601,9 +601,9 @@
       "fairy",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/958.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -613,9 +613,9 @@
       "fairy",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/959.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -624,9 +624,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/960.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -635,9 +635,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/961.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -647,9 +647,9 @@
       "flying",
       "dark"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/962.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -658,9 +658,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/963.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -669,9 +669,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/964.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -681,9 +681,9 @@
       "steel",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/965.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -693,9 +693,9 @@
       "steel",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/966.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -705,9 +705,9 @@
       "dragon",
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/967.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -716,9 +716,9 @@
     "types": [
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/968.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -728,9 +728,9 @@
       "rock",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/969.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -740,9 +740,9 @@
       "rock",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/970.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -751,9 +751,9 @@
     "types": [
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/971.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -762,9 +762,9 @@
     "types": [
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/972.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -774,9 +774,9 @@
       "flying",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/973.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -785,9 +785,9 @@
     "types": [
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/974.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -796,9 +796,9 @@
     "types": [
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/975.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -808,9 +808,9 @@
       "water",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/976.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -819,9 +819,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/977.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -831,9 +831,9 @@
       "dragon",
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/978.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -843,9 +843,9 @@
       "fighting",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/979.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -855,9 +855,9 @@
       "poison",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/980.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -867,9 +867,9 @@
       "normal",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/981.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -878,9 +878,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/982.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -890,9 +890,9 @@
       "dark",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/983.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -902,9 +902,9 @@
       "ground",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/984.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -914,9 +914,9 @@
       "fairy",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/985.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -926,9 +926,9 @@
       "grass",
       "dark"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/986.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -938,9 +938,9 @@
       "ghost",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/987.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -950,9 +950,9 @@
       "bug",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/988.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -962,9 +962,9 @@
       "electric",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/989.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -974,9 +974,9 @@
       "ground",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/990.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -986,9 +986,9 @@
       "ice",
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/991.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -998,9 +998,9 @@
       "fighting",
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/992.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1010,9 +1010,9 @@
       "dark",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/993.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1022,9 +1022,9 @@
       "fire",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/994.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1034,9 +1034,9 @@
       "rock",
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/995.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1046,9 +1046,9 @@
       "dragon",
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/996.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1058,9 +1058,9 @@
       "dragon",
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/997.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1070,9 +1070,9 @@
       "dragon",
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/998.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1081,9 +1081,9 @@
     "types": [
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/999.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1093,9 +1093,9 @@
       "steel",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1000.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1105,9 +1105,9 @@
       "dark",
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1001.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1117,9 +1117,9 @@
       "dark",
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1002.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1129,9 +1129,9 @@
       "dark",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1003.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1141,9 +1141,9 @@
       "dark",
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1004.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1153,9 +1153,9 @@
       "dragon",
       "dark"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1005.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1165,9 +1165,9 @@
       "fairy",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1006.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1177,9 +1177,9 @@
       "fighting",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1007.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1189,9 +1189,9 @@
       "electric",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1008.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1201,9 +1201,9 @@
       "water",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1009.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1213,9 +1213,9 @@
       "grass",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1010.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1225,9 +1225,9 @@
       "grass",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1011.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1237,9 +1237,9 @@
       "grass",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1012.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1249,9 +1249,9 @@
       "grass",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1013.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1261,9 +1261,9 @@
       "poison",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1014.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1273,9 +1273,9 @@
       "poison",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1015.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1015.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1285,9 +1285,9 @@
       "poison",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1016.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1296,9 +1296,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1017.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1308,9 +1308,9 @@
       "steel",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1018.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1320,9 +1320,9 @@
       "grass",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1019.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1332,9 +1332,9 @@
       "fire",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1020.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1344,9 +1344,9 @@
       "electric",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1021.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1356,9 +1356,9 @@
       "rock",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1022.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1368,9 +1368,9 @@
       "steel",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1023.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1379,9 +1379,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1024.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   },
   {
@@ -1391,9 +1391,9 @@
       "poison",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/paldea.png",
+    "sprite": "assets/img/pokemon/webp/1025.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/paldea.webp",
     "region": "paldea"
   }
 ]

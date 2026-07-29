@@ -1,0 +1,1553 @@
+[
+  {
+    "name": "treecko",
+    "id": 252,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "grovyle",
+    "id": 253,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/253.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "sceptile",
+    "id": 254,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "torchic",
+    "id": 255,
+    "types": [
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "combusken",
+    "id": 256,
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/256.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "blaziken",
+    "id": 257,
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "mudkip",
+    "id": 258,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "marshtomp",
+    "id": 259,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "swampert",
+    "id": 260,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "poochyena",
+    "id": 261,
+    "types": [
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/261.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "mightyena",
+    "id": 262,
+    "types": [
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/262.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "zigzagoon",
+    "id": 263,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "linoone",
+    "id": 264,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/264.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "wurmple",
+    "id": 265,
+    "types": [
+      "bug"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "silcoon",
+    "id": 266,
+    "types": [
+      "bug"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/266.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "beautifly",
+    "id": 267,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/267.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "cascoon",
+    "id": 268,
+    "types": [
+      "bug"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "dustox",
+    "id": 269,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "lotad",
+    "id": 270,
+    "types": [
+      "water",
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "lombre",
+    "id": 271,
+    "types": [
+      "water",
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/271.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "ludicolo",
+    "id": 272,
+    "types": [
+      "water",
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/272.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "seedot",
+    "id": 273,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/273.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "nuzleaf",
+    "id": 274,
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "shiftry",
+    "id": 275,
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/275.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "taillow",
+    "id": 276,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/276.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "swellow",
+    "id": 277,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "wingull",
+    "id": 278,
+    "types": [
+      "water",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "pelipper",
+    "id": 279,
+    "types": [
+      "water",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "ralts",
+    "id": 280,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png",
+    "habitat": "assets/img/habitats_webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "kirlia",
+    "id": 281,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png",
+    "habitat": "assets/img/habitats_webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "gardevoir",
+    "id": 282,
+    "types": [
+      "psychic",
+      "fairy"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png",
+    "habitat": "assets/img/habitats_webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "surskit",
+    "id": 283,
+    "types": [
+      "bug",
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "masquerain",
+    "id": 284,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "shroomish",
+    "id": 285,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/285.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "breloom",
+    "id": 286,
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/286.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "slakoth",
+    "id": 287,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/287.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "vigoroth",
+    "id": 288,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/288.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "slaking",
+    "id": 289,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "nincada",
+    "id": 290,
+    "types": [
+      "bug",
+      "ground"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "ninjask",
+    "id": 291,
+    "types": [
+      "bug",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/291.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "shedinja",
+    "id": 292,
+    "types": [
+      "bug",
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/292.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "whismur",
+    "id": 293,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/293.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "loudred",
+    "id": 294,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/294.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "exploud",
+    "id": 295,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "makuhita",
+    "id": 296,
+    "types": [
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "hariyama",
+    "id": 297,
+    "types": [
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/297.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "azurill",
+    "id": 298,
+    "types": [
+      "normal",
+      "fairy"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "nosepass",
+    "id": 299,
+    "types": [
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "skitty",
+    "id": 300,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/300.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "delcatty",
+    "id": 301,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "sableye",
+    "id": 302,
+    "types": [
+      "dark",
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "mawile",
+    "id": 303,
+    "types": [
+      "steel",
+      "fairy"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "aron",
+    "id": 304,
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "lairon",
+    "id": 305,
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/305.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "aggron",
+    "id": 306,
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "meditite",
+    "id": 307,
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "medicham",
+    "id": 308,
+    "types": [
+      "fighting",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "electrike",
+    "id": 309,
+    "types": [
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/309.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "manectric",
+    "id": 310,
+    "types": [
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "plusle",
+    "id": 311,
+    "types": [
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/311.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "minun",
+    "id": 312,
+    "types": [
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "volbeat",
+    "id": 313,
+    "types": [
+      "bug"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/313.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "illumise",
+    "id": 314,
+    "types": [
+      "bug"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "roselia",
+    "id": 315,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "gulpin",
+    "id": 316,
+    "types": [
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "swalot",
+    "id": 317,
+    "types": [
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/317.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "carvanha",
+    "id": 318,
+    "types": [
+      "water",
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "sharpedo",
+    "id": 319,
+    "types": [
+      "water",
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/319.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "wailmer",
+    "id": 320,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "wailord",
+    "id": 321,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/321.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "numel",
+    "id": 322,
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/322.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "camerupt",
+    "id": 323,
+    "types": [
+      "fire",
+      "ground"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/323.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "torkoal",
+    "id": 324,
+    "types": [
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "spoink",
+    "id": 325,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "grumpig",
+    "id": 326,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/326.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "spinda",
+    "id": 327,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/327.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "trapinch",
+    "id": 328,
+    "types": [
+      "ground"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/328.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "vibrava",
+    "id": 329,
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "flygon",
+    "id": 330,
+    "types": [
+      "ground",
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "cacnea",
+    "id": 331,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/331.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "cacturne",
+    "id": 332,
+    "types": [
+      "grass",
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "swablu",
+    "id": 333,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "altaria",
+    "id": 334,
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "zangoose",
+    "id": 335,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/335.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "seviper",
+    "id": 336,
+    "types": [
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/336.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "lunatone",
+    "id": 337,
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/337.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "solrock",
+    "id": 338,
+    "types": [
+      "rock",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "barboach",
+    "id": 339,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/339.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "whiscash",
+    "id": 340,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/340.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "corphish",
+    "id": 341,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "crawdaunt",
+    "id": 342,
+    "types": [
+      "water",
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "baltoy",
+    "id": 343,
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "claydol",
+    "id": 344,
+    "types": [
+      "ground",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "lileep",
+    "id": 345,
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "cradily",
+    "id": 346,
+    "types": [
+      "rock",
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "anorith",
+    "id": 347,
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "armaldo",
+    "id": 348,
+    "types": [
+      "rock",
+      "bug"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "feebas",
+    "id": 349,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "milotic",
+    "id": 350,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "castform",
+    "id": 351,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/351.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "kecleon",
+    "id": 352,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/352.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "shuppet",
+    "id": 353,
+    "types": [
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+    "habitat": "assets/img/habitats_webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "banette",
+    "id": 354,
+    "types": [
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png",
+    "habitat": "assets/img/habitats_webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "duskull",
+    "id": 355,
+    "types": [
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "dusclops",
+    "id": 356,
+    "types": [
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "tropius",
+    "id": 357,
+    "types": [
+      "grass",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/357.png",
+    "habitat": "assets/img/habitats_webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "chimecho",
+    "id": 358,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
+    "habitat": "assets/img/habitats_webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "absol",
+    "id": 359,
+    "types": [
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/359.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "wynaut",
+    "id": 360,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "snorunt",
+    "id": 361,
+    "types": [
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/361.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "glalie",
+    "id": 362,
+    "types": [
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "spheal",
+    "id": 363,
+    "types": [
+      "ice",
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "sealeo",
+    "id": 364,
+    "types": [
+      "ice",
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "walrein",
+    "id": 365,
+    "types": [
+      "ice",
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "clamperl",
+    "id": 366,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/366.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "huntail",
+    "id": 367,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "gorebyss",
+    "id": 368,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/368.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "relicanth",
+    "id": 369,
+    "types": [
+      "water",
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "luvdisc",
+    "id": 370,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/370.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "bagon",
+    "id": 371,
+    "types": [
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "shelgon",
+    "id": 372,
+    "types": [
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/372.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "salamence",
+    "id": 373,
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "beldum",
+    "id": 374,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "metang",
+    "id": 375,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/375.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "metagross",
+    "id": 376,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "regirock",
+    "id": 377,
+    "types": [
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "regice",
+    "id": 378,
+    "types": [
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "registeel",
+    "id": 379,
+    "types": [
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
+    "habitat": "assets/img/habitats_webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "latias",
+    "id": 380,
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "latios",
+    "id": 381,
+    "types": [
+      "dragon",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png",
+    "habitat": "assets/img/habitats_webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "kyogre",
+    "id": 382,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+    "habitat": "assets/img/habitats_webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "groudon",
+    "id": 383,
+    "types": [
+      "ground"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "rayquaza",
+    "id": 384,
+    "types": [
+      "dragon",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+    "habitat": "assets/img/habitats_webp/rare.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "jirachi",
+    "id": 385,
+    "types": [
+      "steel",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png",
+    "habitat": "assets/img/habitats_webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  },
+  {
+    "name": "deoxys-normal",
+    "id": 386,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png",
+    "habitat": "assets/img/habitats_webp/rare.webp",
+    "img_regiao": "assets/img/region-option-2/hoenn.png",
+    "region": "hoenn"
+  }
+]

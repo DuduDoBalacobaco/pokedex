@@ -1,0 +1,1792 @@
+[
+  {
+    "name": "victini",
+    "id": 494,
+    "types": [
+      "psychic",
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "snivy",
+    "id": 495,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "servine",
+    "id": 496,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/496.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "serperior",
+    "id": 497,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/497.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "tepig",
+    "id": 498,
+    "types": [
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "pignite",
+    "id": 499,
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/499.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "emboar",
+    "id": 500,
+    "types": [
+      "fire",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/500.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "oshawott",
+    "id": 501,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "dewott",
+    "id": 502,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/502.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "samurott",
+    "id": 503,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/503.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "patrat",
+    "id": 504,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "watchog",
+    "id": 505,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "lillipup",
+    "id": 506,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/506.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "herdier",
+    "id": 507,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/507.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "stoutland",
+    "id": 508,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/508.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "purrloin",
+    "id": 509,
+    "types": [
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/509.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "liepard",
+    "id": 510,
+    "types": [
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "pansage",
+    "id": 511,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/511.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "simisage",
+    "id": 512,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/512.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "pansear",
+    "id": 513,
+    "types": [
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "simisear",
+    "id": 514,
+    "types": [
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "panpour",
+    "id": 515,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/515.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "simipour",
+    "id": 516,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/516.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "munna",
+    "id": 517,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "musharna",
+    "id": 518,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "pidove",
+    "id": 519,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/519.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "tranquill",
+    "id": 520,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "unfezant",
+    "id": 521,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/521.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "blitzle",
+    "id": 522,
+    "types": [
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/522.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "zebstrika",
+    "id": 523,
+    "types": [
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "roggenrola",
+    "id": 524,
+    "types": [
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "boldore",
+    "id": 525,
+    "types": [
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "gigalith",
+    "id": 526,
+    "types": [
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "woobat",
+    "id": 527,
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "swoobat",
+    "id": 528,
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/528.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "drilbur",
+    "id": 529,
+    "types": [
+      "ground"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "excadrill",
+    "id": 530,
+    "types": [
+      "ground",
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "audino",
+    "id": 531,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "timburr",
+    "id": 532,
+    "types": [
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "gurdurr",
+    "id": 533,
+    "types": [
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "conkeldurr",
+    "id": 534,
+    "types": [
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "tympole",
+    "id": 535,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/535.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "palpitoad",
+    "id": 536,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/536.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "seismitoad",
+    "id": 537,
+    "types": [
+      "water",
+      "ground"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/537.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "throh",
+    "id": 538,
+    "types": [
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/538.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "sawk",
+    "id": 539,
+    "types": [
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/539.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "sewaddle",
+    "id": 540,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "swadloon",
+    "id": 541,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "leavanny",
+    "id": 542,
+    "types": [
+      "bug",
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "venipede",
+    "id": 543,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/543.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "whirlipede",
+    "id": 544,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "scolipede",
+    "id": 545,
+    "types": [
+      "bug",
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "cottonee",
+    "id": 546,
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/546.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "whimsicott",
+    "id": 547,
+    "types": [
+      "grass",
+      "fairy"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/547.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "petilil",
+    "id": 548,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/548.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "lilligant",
+    "id": 549,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/549.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "basculin-red-striped",
+    "id": 550,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "sandile",
+    "id": 551,
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "krokorok",
+    "id": 552,
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/552.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "krookodile",
+    "id": 553,
+    "types": [
+      "ground",
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/553.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "darumaka",
+    "id": 554,
+    "types": [
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "darmanitan-standard",
+    "id": 555,
+    "types": [
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "maractus",
+    "id": 556,
+    "types": [
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "dwebble",
+    "id": 557,
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/557.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "crustle",
+    "id": 558,
+    "types": [
+      "bug",
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/558.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "scraggy",
+    "id": 559,
+    "types": [
+      "dark",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "scrafty",
+    "id": 560,
+    "types": [
+      "dark",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/560.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "sigilyph",
+    "id": 561,
+    "types": [
+      "psychic",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/561.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "yamask",
+    "id": 562,
+    "types": [
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/562.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "cofagrigus",
+    "id": 563,
+    "types": [
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "tirtouga",
+    "id": 564,
+    "types": [
+      "water",
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "carracosta",
+    "id": 565,
+    "types": [
+      "water",
+      "rock"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/565.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "archen",
+    "id": 566,
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "archeops",
+    "id": 567,
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "trubbish",
+    "id": 568,
+    "types": [
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/568.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "garbodor",
+    "id": 569,
+    "types": [
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "zorua",
+    "id": 570,
+    "types": [
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "zoroark",
+    "id": 571,
+    "types": [
+      "dark"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "minccino",
+    "id": 572,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "cinccino",
+    "id": 573,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "gothita",
+    "id": 574,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "gothorita",
+    "id": 575,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/575.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "gothitelle",
+    "id": 576,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "solosis",
+    "id": 577,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/577.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "duosion",
+    "id": 578,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "reuniclus",
+    "id": 579,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "ducklett",
+    "id": 580,
+    "types": [
+      "water",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/580.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "swanna",
+    "id": 581,
+    "types": [
+      "water",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "vanillite",
+    "id": 582,
+    "types": [
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "vanillish",
+    "id": 583,
+    "types": [
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/583.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "vanilluxe",
+    "id": 584,
+    "types": [
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "deerling",
+    "id": 585,
+    "types": [
+      "normal",
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "sawsbuck",
+    "id": 586,
+    "types": [
+      "normal",
+      "grass"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "emolga",
+    "id": 587,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "karrablast",
+    "id": 588,
+    "types": [
+      "bug"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/588.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "escavalier",
+    "id": 589,
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/589.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "foongus",
+    "id": 590,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "amoonguss",
+    "id": 591,
+    "types": [
+      "grass",
+      "poison"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/591.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "frillish-male",
+    "id": 592,
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "jellicent-male",
+    "id": 593,
+    "types": [
+      "water",
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "alomomola",
+    "id": 594,
+    "types": [
+      "water"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "joltik",
+    "id": 595,
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/595.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "galvantula",
+    "id": 596,
+    "types": [
+      "bug",
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/596.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "ferroseed",
+    "id": 597,
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "ferrothorn",
+    "id": 598,
+    "types": [
+      "grass",
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "klink",
+    "id": 599,
+    "types": [
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "klang",
+    "id": 600,
+    "types": [
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/600.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "klinklang",
+    "id": 601,
+    "types": [
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "tynamo",
+    "id": 602,
+    "types": [
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "eelektrik",
+    "id": 603,
+    "types": [
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/603.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "eelektross",
+    "id": 604,
+    "types": [
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "elgyem",
+    "id": 605,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "beheeyem",
+    "id": 606,
+    "types": [
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/606.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "litwick",
+    "id": 607,
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "lampent",
+    "id": 608,
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "chandelure",
+    "id": 609,
+    "types": [
+      "ghost",
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "axew",
+    "id": 610,
+    "types": [
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "fraxure",
+    "id": 611,
+    "types": [
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "haxorus",
+    "id": 612,
+    "types": [
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/612.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "cubchoo",
+    "id": 613,
+    "types": [
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "beartic",
+    "id": 614,
+    "types": [
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/614.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "cryogonal",
+    "id": 615,
+    "types": [
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/615.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "shelmet",
+    "id": 616,
+    "types": [
+      "bug"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/616.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "accelgor",
+    "id": 617,
+    "types": [
+      "bug"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "stunfisk",
+    "id": 618,
+    "types": [
+      "ground",
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/618.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "mienfoo",
+    "id": 619,
+    "types": [
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "mienshao",
+    "id": 620,
+    "types": [
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/620.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "druddigon",
+    "id": 621,
+    "types": [
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "golett",
+    "id": 622,
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/622.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "golurk",
+    "id": 623,
+    "types": [
+      "ground",
+      "ghost"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "pawniard",
+    "id": 624,
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "bisharp",
+    "id": 625,
+    "types": [
+      "dark",
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/625.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "bouffalant",
+    "id": 626,
+    "types": [
+      "normal"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "rufflet",
+    "id": 627,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/627.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "braviary",
+    "id": 628,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "vullaby",
+    "id": 629,
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "mandibuzz",
+    "id": 630,
+    "types": [
+      "dark",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "heatmor",
+    "id": 631,
+    "types": [
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "durant",
+    "id": 632,
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "deino",
+    "id": 633,
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "zweilous",
+    "id": 634,
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "hydreigon",
+    "id": 635,
+    "types": [
+      "dark",
+      "dragon"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "larvesta",
+    "id": 636,
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "volcarona",
+    "id": 637,
+    "types": [
+      "bug",
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "cobalion",
+    "id": 638,
+    "types": [
+      "steel",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "terrakion",
+    "id": 639,
+    "types": [
+      "rock",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/639.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "virizion",
+    "id": 640,
+    "types": [
+      "grass",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/640.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "tornadus-incarnate",
+    "id": 641,
+    "types": [
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "thundurus-incarnate",
+    "id": 642,
+    "types": [
+      "electric",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "reshiram",
+    "id": 643,
+    "types": [
+      "dragon",
+      "fire"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "zekrom",
+    "id": 644,
+    "types": [
+      "dragon",
+      "electric"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "landorus-incarnate",
+    "id": 645,
+    "types": [
+      "ground",
+      "flying"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "kyurem",
+    "id": 646,
+    "types": [
+      "dragon",
+      "ice"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "keldeo-ordinary",
+    "id": 647,
+    "types": [
+      "water",
+      "fighting"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "meloetta-aria",
+    "id": 648,
+    "types": [
+      "normal",
+      "psychic"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  },
+  {
+    "name": "genesect",
+    "id": 649,
+    "types": [
+      "bug",
+      "steel"
+    ],
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+    "habitat": "assets/img/habitats_webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/unova.png",
+    "region": "unova"
+  }
+]

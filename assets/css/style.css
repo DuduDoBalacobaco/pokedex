@@ -12,7 +12,7 @@ html {
 }
 
 body{
-    background-image: url(../img/background/background-image.png);
+    background-image: url(../img/background/background-image.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -66,13 +66,6 @@ main{
 
 #pesquisas p{
     color: #b4b4b4;
-}
-
-.bi-search{
-    position: absolute;
-    right: 8%;
-    top: 3%;
-    cursor: pointer;
 }
 
 #search{
@@ -218,10 +211,6 @@ input[type=checkbox]:not(:checked) + label:hover{
     font-size: 1rem;
     bottom: 5%;
     color: rgb(0, 0, 0);
-}
-
-.pokemon_name{
-    text-transform: capitalize;
 }
 
 .types{
@@ -421,7 +410,7 @@ input[type=checkbox]:not(:checked) + label:hover{
     filter: brightness(1.05);
 }
 
-#tipo_unico, #dois_tipos, #todos{
+#tipo_unico, #dois_tipos, #ambos{
     display: none;
 }
 
@@ -432,7 +421,7 @@ form{
     gap: 20px;
 }
 
-#tipo_unico:checked + label, #dois_tipos:checked + label, #todos:checked + label{
+#tipo_unico:checked + label, #dois_tipos:checked + label, #ambos:checked + label{
     background-color: #3b82f6;
 }
 

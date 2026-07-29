@@ -6,9 +6,9 @@
       "grass",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/1.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -18,9 +18,9 @@
       "grass",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/2.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -30,9 +30,9 @@
       "grass",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/3.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -41,9 +41,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/4.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -52,9 +52,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/5.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -64,9 +64,9 @@
       "fire",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/6.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -75,9 +75,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/7.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -86,9 +86,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/8.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -97,9 +97,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/9.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -108,9 +108,9 @@
     "types": [
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/10.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -119,9 +119,9 @@
     "types": [
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/11.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -131,9 +131,9 @@
       "bug",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/12.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -143,9 +143,9 @@
       "bug",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/13.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -155,9 +155,9 @@
       "bug",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/14.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -167,9 +167,9 @@
       "bug",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/15.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -179,9 +179,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/16.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -191,9 +191,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/17.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -203,9 +203,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/18.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -214,9 +214,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/19.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -225,9 +225,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/20.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -237,9 +237,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
-    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/21.webp",
+    "habitat": "assets/img/habitats/webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -249,9 +249,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
-    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/22.webp",
+    "habitat": "assets/img/habitats/webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -260,9 +260,9 @@
     "types": [
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/23.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -271,9 +271,9 @@
     "types": [
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/24.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -282,9 +282,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/25.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -293,9 +293,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/26.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -304,9 +304,9 @@
     "types": [
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
-    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/27.webp",
+    "habitat": "assets/img/habitats/webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -315,9 +315,9 @@
     "types": [
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png",
-    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/28.webp",
+    "habitat": "assets/img/habitats/webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -326,9 +326,9 @@
     "types": [
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/29.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -337,9 +337,9 @@
     "types": [
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/30.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -349,9 +349,9 @@
       "poison",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/31.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -360,9 +360,9 @@
     "types": [
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/32.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -371,9 +371,9 @@
     "types": [
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/33.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -383,9 +383,9 @@
       "poison",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/34.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -394,9 +394,9 @@
     "types": [
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/35.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -405,9 +405,9 @@
     "types": [
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/36.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -416,9 +416,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/37.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -427,9 +427,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/38.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -439,9 +439,9 @@
       "normal",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/39.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -451,9 +451,9 @@
       "normal",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/40.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -463,9 +463,9 @@
       "poison",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
-    "habitat": "assets/img/habitats_webp/cave.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/41.webp",
+    "habitat": "assets/img/habitats/webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -475,9 +475,9 @@
       "poison",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
-    "habitat": "assets/img/habitats_webp/cave.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/42.webp",
+    "habitat": "assets/img/habitats/webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -487,9 +487,9 @@
       "grass",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/43.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -499,9 +499,9 @@
       "grass",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/44.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -511,9 +511,9 @@
       "grass",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/45.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -523,9 +523,9 @@
       "bug",
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/46.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -535,9 +535,9 @@
       "bug",
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/47.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -547,9 +547,9 @@
       "bug",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/48.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -559,9 +559,9 @@
       "bug",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/49.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -570,9 +570,9 @@
     "types": [
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
-    "habitat": "assets/img/habitats_webp/cave.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/50.webp",
+    "habitat": "assets/img/habitats/webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -581,9 +581,9 @@
     "types": [
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
-    "habitat": "assets/img/habitats_webp/cave.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/51.webp",
+    "habitat": "assets/img/habitats/webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -592,9 +592,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/52.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -603,9 +603,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/53.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -614,9 +614,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/54.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -625,9 +625,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/55.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -636,9 +636,9 @@
     "types": [
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/56.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -647,9 +647,9 @@
     "types": [
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/57.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -658,9 +658,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/58.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -669,9 +669,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/59.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -680,9 +680,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/60.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -691,9 +691,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/61.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -703,9 +703,9 @@
       "water",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/62.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -714,9 +714,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/63.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -725,9 +725,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/64.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -736,9 +736,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/65.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -747,9 +747,9 @@
     "types": [
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/66.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -758,9 +758,9 @@
     "types": [
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/67.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -769,9 +769,9 @@
     "types": [
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/68.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -781,9 +781,9 @@
       "grass",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/69.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -793,9 +793,9 @@
       "grass",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/70.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -805,9 +805,9 @@
       "grass",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/71.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -817,9 +817,9 @@
       "water",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png",
-    "habitat": "assets/img/habitats_webp/sea.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/72.webp",
+    "habitat": "assets/img/habitats/webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -829,9 +829,9 @@
       "water",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
-    "habitat": "assets/img/habitats_webp/sea.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/73.webp",
+    "habitat": "assets/img/habitats/webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -841,9 +841,9 @@
       "rock",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/74.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -853,9 +853,9 @@
       "rock",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/75.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -865,9 +865,9 @@
       "rock",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/76.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -876,9 +876,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/77.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -887,9 +887,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/78.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -899,9 +899,9 @@
       "water",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/79.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -911,9 +911,9 @@
       "water",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/80.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -923,9 +923,9 @@
       "electric",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
-    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/81.webp",
+    "habitat": "assets/img/habitats/webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -935,9 +935,9 @@
       "electric",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
-    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/82.webp",
+    "habitat": "assets/img/habitats/webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -947,9 +947,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/83.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -959,9 +959,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/84.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -971,9 +971,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/85.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -982,9 +982,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
-    "habitat": "assets/img/habitats_webp/sea.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/86.webp",
+    "habitat": "assets/img/habitats/webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -994,9 +994,9 @@
       "water",
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
-    "habitat": "assets/img/habitats_webp/sea.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/87.webp",
+    "habitat": "assets/img/habitats/webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1005,9 +1005,9 @@
     "types": [
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/88.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1016,9 +1016,9 @@
     "types": [
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/89.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1027,9 +1027,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
-    "habitat": "assets/img/habitats_webp/sea.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/90.webp",
+    "habitat": "assets/img/habitats/webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1039,9 +1039,9 @@
       "water",
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
-    "habitat": "assets/img/habitats_webp/sea.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/91.webp",
+    "habitat": "assets/img/habitats/webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1051,9 +1051,9 @@
       "ghost",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
-    "habitat": "assets/img/habitats_webp/cave.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/92.webp",
+    "habitat": "assets/img/habitats/webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1063,9 +1063,9 @@
       "ghost",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
-    "habitat": "assets/img/habitats_webp/cave.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/93.webp",
+    "habitat": "assets/img/habitats/webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1075,9 +1075,9 @@
       "ghost",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
-    "habitat": "assets/img/habitats_webp/cave.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/94.webp",
+    "habitat": "assets/img/habitats/webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1087,9 +1087,9 @@
       "rock",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
-    "habitat": "assets/img/habitats_webp/cave.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/95.webp",
+    "habitat": "assets/img/habitats/webp/cave.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1098,9 +1098,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/96.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1109,9 +1109,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/97.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1120,9 +1120,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/98.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1131,9 +1131,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/99.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1142,9 +1142,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/100.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1153,9 +1153,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/101.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1165,9 +1165,9 @@
       "grass",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/102.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1177,9 +1177,9 @@
       "grass",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/103.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1188,9 +1188,9 @@
     "types": [
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/104.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1199,9 +1199,9 @@
     "types": [
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/105.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1210,9 +1210,9 @@
     "types": [
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/106.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1221,9 +1221,9 @@
     "types": [
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/107.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1232,9 +1232,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/108.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1243,9 +1243,9 @@
     "types": [
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/109.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1254,9 +1254,9 @@
     "types": [
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/110.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1266,9 +1266,9 @@
       "ground",
       "rock"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
-    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/111.webp",
+    "habitat": "assets/img/habitats/webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1278,9 +1278,9 @@
       "ground",
       "rock"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
-    "habitat": "assets/img/habitats_webp/rough-terrain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/112.webp",
+    "habitat": "assets/img/habitats/webp/rough-terrain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1289,9 +1289,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/113.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1300,9 +1300,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/114.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1311,9 +1311,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/115.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1322,9 +1322,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
-    "habitat": "assets/img/habitats_webp/sea.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/116.webp",
+    "habitat": "assets/img/habitats/webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1333,9 +1333,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
-    "habitat": "assets/img/habitats_webp/sea.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/117.webp",
+    "habitat": "assets/img/habitats/webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1344,9 +1344,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/118.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1355,9 +1355,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/119.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1366,9 +1366,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
-    "habitat": "assets/img/habitats_webp/sea.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/120.webp",
+    "habitat": "assets/img/habitats/webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1378,9 +1378,9 @@
       "water",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
-    "habitat": "assets/img/habitats_webp/sea.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/121.webp",
+    "habitat": "assets/img/habitats/webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1390,9 +1390,9 @@
       "psychic",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/122.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1402,9 +1402,9 @@
       "bug",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/123.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1414,9 +1414,9 @@
       "ice",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/124.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1425,9 +1425,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/125.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1436,9 +1436,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/126.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1447,9 +1447,9 @@
     "types": [
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
-    "habitat": "assets/img/habitats_webp/forest.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/127.webp",
+    "habitat": "assets/img/habitats/webp/forest.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1458,9 +1458,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
-    "habitat": "assets/img/habitats_webp/grassland.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/128.webp",
+    "habitat": "assets/img/habitats/webp/grassland.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1469,9 +1469,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/129.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1481,9 +1481,9 @@
       "water",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/130.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1493,9 +1493,9 @@
       "water",
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
-    "habitat": "assets/img/habitats_webp/sea.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/131.webp",
+    "habitat": "assets/img/habitats/webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1504,9 +1504,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/132.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1515,9 +1515,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/133.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1526,9 +1526,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/134.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1537,9 +1537,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/135.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1548,9 +1548,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/136.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1559,9 +1559,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
-    "habitat": "assets/img/habitats_webp/urban.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/137.webp",
+    "habitat": "assets/img/habitats/webp/urban.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1571,9 +1571,9 @@
       "rock",
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png",
-    "habitat": "assets/img/habitats_webp/sea.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/138.webp",
+    "habitat": "assets/img/habitats/webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1583,9 +1583,9 @@
       "rock",
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
-    "habitat": "assets/img/habitats_webp/sea.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/139.webp",
+    "habitat": "assets/img/habitats/webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1595,9 +1595,9 @@
       "rock",
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
-    "habitat": "assets/img/habitats_webp/sea.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/140.webp",
+    "habitat": "assets/img/habitats/webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1607,9 +1607,9 @@
       "rock",
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
-    "habitat": "assets/img/habitats_webp/sea.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/141.webp",
+    "habitat": "assets/img/habitats/webp/sea.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1619,9 +1619,9 @@
       "rock",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/142.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1630,9 +1630,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
-    "habitat": "assets/img/habitats_webp/mountain.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/143.webp",
+    "habitat": "assets/img/habitats/webp/mountain.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1642,9 +1642,9 @@
       "ice",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
-    "habitat": "assets/img/habitats_webp/rare.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/144.webp",
+    "habitat": "assets/img/habitats/webp/rare.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1654,9 +1654,9 @@
       "electric",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
-    "habitat": "assets/img/habitats_webp/rare.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/145.webp",
+    "habitat": "assets/img/habitats/webp/rare.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1666,9 +1666,9 @@
       "fire",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
-    "habitat": "assets/img/habitats_webp/rare.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/146.webp",
+    "habitat": "assets/img/habitats/webp/rare.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1677,9 +1677,9 @@
     "types": [
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/147.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1688,9 +1688,9 @@
     "types": [
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/148.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1700,9 +1700,9 @@
       "dragon",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
-    "habitat": "assets/img/habitats_webp/waters-edge.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/149.webp",
+    "habitat": "assets/img/habitats/webp/waters-edge.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1711,9 +1711,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
-    "habitat": "assets/img/habitats_webp/rare.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/150.webp",
+    "habitat": "assets/img/habitats/webp/rare.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   },
   {
@@ -1722,9 +1722,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
-    "habitat": "assets/img/habitats_webp/rare.webp",
-    "img_regiao": "assets/img/region-option-2/kanto.png",
+    "sprite": "assets/img/pokemon/webp/151.webp",
+    "habitat": "assets/img/habitats/webp/rare.webp",
+    "img_regiao": "assets/img/region-option-2/webp/kanto.webp",
     "region": "kanto"
   }
 ]

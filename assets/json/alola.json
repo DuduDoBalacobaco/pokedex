@@ -6,9 +6,9 @@
       "grass",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/722.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -18,9 +18,9 @@
       "grass",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/723.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -30,9 +30,9 @@
       "grass",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/724.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -41,9 +41,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/725.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -52,9 +52,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/726.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -64,9 +64,9 @@
       "fire",
       "dark"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/727.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/727.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -75,9 +75,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/728.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -86,9 +86,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/729.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -98,9 +98,9 @@
       "water",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/730.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/730.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -110,9 +110,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/731.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -122,9 +122,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/732.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -134,9 +134,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/733.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -145,9 +145,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/734.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/734.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -156,9 +156,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/735.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -167,9 +167,9 @@
     "types": [
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/736.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -179,9 +179,9 @@
       "bug",
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/737.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -191,9 +191,9 @@
       "bug",
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/738.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -202,9 +202,9 @@
     "types": [
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/739.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/739.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -214,9 +214,9 @@
       "fighting",
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/740.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -226,9 +226,9 @@
       "fire",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/741.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -238,9 +238,9 @@
       "bug",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/742.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -250,9 +250,9 @@
       "bug",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/743.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -261,9 +261,9 @@
     "types": [
       "rock"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/744.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -272,9 +272,9 @@
     "types": [
       "rock"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/745.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -283,9 +283,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/746.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -295,9 +295,9 @@
       "poison",
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/747.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -307,9 +307,9 @@
       "poison",
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/748.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -318,9 +318,9 @@
     "types": [
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/749.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/749.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -329,9 +329,9 @@
     "types": [
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/750.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -341,9 +341,9 @@
       "water",
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/751.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -353,9 +353,9 @@
       "water",
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/752.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/752.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -364,9 +364,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/753.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -375,9 +375,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/754.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/754.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -387,9 +387,9 @@
       "grass",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/755.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -399,9 +399,9 @@
       "grass",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/756.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/756.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -411,9 +411,9 @@
       "poison",
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/757.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -423,9 +423,9 @@
       "poison",
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/758.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/758.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -435,9 +435,9 @@
       "normal",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/759.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -447,9 +447,9 @@
       "normal",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/760.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -458,9 +458,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/761.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/761.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -469,9 +469,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/762.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/762.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -480,9 +480,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/763.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/763.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -491,9 +491,9 @@
     "types": [
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/764.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/764.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -503,9 +503,9 @@
       "normal",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/765.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -514,9 +514,9 @@
     "types": [
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/766.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -526,9 +526,9 @@
       "bug",
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/767.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -538,9 +538,9 @@
       "bug",
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/768.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/768.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -550,9 +550,9 @@
       "ghost",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/769.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -562,9 +562,9 @@
       "ghost",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/770.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -573,9 +573,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/771.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/771.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -584,9 +584,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/772.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -595,9 +595,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/773.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -607,9 +607,9 @@
       "rock",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/774.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -618,9 +618,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/775.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -630,9 +630,9 @@
       "fire",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/776.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -642,9 +642,9 @@
       "electric",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/777.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/777.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -654,9 +654,9 @@
       "ghost",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/778.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -666,9 +666,9 @@
       "water",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/779.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -678,9 +678,9 @@
       "normal",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/780.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -690,9 +690,9 @@
       "ghost",
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/781.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -701,9 +701,9 @@
     "types": [
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/782.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -713,9 +713,9 @@
       "dragon",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/783.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -725,9 +725,9 @@
       "dragon",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/784.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/784.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -737,9 +737,9 @@
       "electric",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/785.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -749,9 +749,9 @@
       "psychic",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/786.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -761,9 +761,9 @@
       "grass",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/787.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -773,9 +773,9 @@
       "water",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/788.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/788.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -784,9 +784,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/789.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -795,9 +795,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/790.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -807,9 +807,9 @@
       "psychic",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/791.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -819,9 +819,9 @@
       "psychic",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/792.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/792.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -831,9 +831,9 @@
       "rock",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/793.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/793.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -843,9 +843,9 @@
       "bug",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/794.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -855,9 +855,9 @@
       "bug",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/795.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -866,9 +866,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/796.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -878,9 +878,9 @@
       "steel",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/797.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/797.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -890,9 +890,9 @@
       "grass",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/798.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -902,9 +902,9 @@
       "dark",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/799.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -913,9 +913,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/800.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/800.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -925,9 +925,9 @@
       "steel",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/801.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/801.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -937,9 +937,9 @@
       "fighting",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/802.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -948,9 +948,9 @@
     "types": [
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/803.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/803.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -960,9 +960,9 @@
       "poison",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/804.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -972,9 +972,9 @@
       "rock",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/805.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/805.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -984,9 +984,9 @@
       "fire",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/806.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -995,9 +995,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/807.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/807.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -1006,9 +1006,9 @@
     "types": [
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/808.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/808.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   },
   {
@@ -1017,9 +1017,9 @@
     "types": [
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/809.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/alola.png",
+    "sprite": "assets/img/pokemon/webp/809.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/alola.webp",
     "region": "alola"
   }
 ]

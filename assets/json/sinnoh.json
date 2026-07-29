@@ -5,9 +5,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/387.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -16,9 +16,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/388.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/388.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -28,9 +28,9 @@
       "grass",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/389.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -39,9 +39,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/390.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -51,9 +51,9 @@
       "fire",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/391.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -63,9 +63,9 @@
       "fire",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/392.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -74,9 +74,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/393.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -85,9 +85,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/394.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -97,9 +97,9 @@
       "water",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/395.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -109,9 +109,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/396.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -121,9 +121,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/397.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -133,9 +133,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/398.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -144,9 +144,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/399.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/399.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -156,9 +156,9 @@
       "normal",
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/400.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -167,9 +167,9 @@
     "types": [
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/401.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -178,9 +178,9 @@
     "types": [
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/402.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/402.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -189,9 +189,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/403.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -200,9 +200,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/404.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/404.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -211,9 +211,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/405.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -223,9 +223,9 @@
       "grass",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/406.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -235,9 +235,9 @@
       "grass",
       "poison"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/407.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/407.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -246,9 +246,9 @@
     "types": [
       "rock"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/408.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -257,9 +257,9 @@
     "types": [
       "rock"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/409.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -269,9 +269,9 @@
       "rock",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/410.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -281,9 +281,9 @@
       "rock",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/411.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/411.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -292,9 +292,9 @@
     "types": [
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/412.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -304,9 +304,9 @@
       "bug",
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/413.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -316,9 +316,9 @@
       "bug",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/414.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -328,9 +328,9 @@
       "bug",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/415.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -340,9 +340,9 @@
       "bug",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/416.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -351,9 +351,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/417.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/417.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -362,9 +362,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/418.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -373,9 +373,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/419.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/419.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -384,9 +384,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/420.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/420.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -395,9 +395,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/421.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/421.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -406,9 +406,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/422.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -418,9 +418,9 @@
       "water",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/423.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -429,9 +429,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/424.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -441,9 +441,9 @@
       "ghost",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/425.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -453,9 +453,9 @@
       "ghost",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/426.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/426.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -464,9 +464,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/427.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/427.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -475,9 +475,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/428.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -486,9 +486,9 @@
     "types": [
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/429.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -498,9 +498,9 @@
       "dark",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/430.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/430.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -509,9 +509,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/431.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -520,9 +520,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/432.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -531,9 +531,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/433.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -543,9 +543,9 @@
       "poison",
       "dark"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/434.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/434.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -555,9 +555,9 @@
       "poison",
       "dark"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/435.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/435.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -567,9 +567,9 @@
       "steel",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/436.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -579,9 +579,9 @@
       "steel",
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/437.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/437.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -590,9 +590,9 @@
     "types": [
       "rock"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/438.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/438.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -602,9 +602,9 @@
       "psychic",
       "fairy"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/439.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -613,9 +613,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/440.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -625,9 +625,9 @@
       "normal",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/441.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -637,9 +637,9 @@
       "ghost",
       "dark"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/442.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/442.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -649,9 +649,9 @@
       "dragon",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/443.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -661,9 +661,9 @@
       "dragon",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/444.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -673,9 +673,9 @@
       "dragon",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/445.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -684,9 +684,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/446.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -695,9 +695,9 @@
     "types": [
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/447.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -707,9 +707,9 @@
       "fighting",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/448.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -718,9 +718,9 @@
     "types": [
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/449.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -729,9 +729,9 @@
     "types": [
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/450.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -741,9 +741,9 @@
       "poison",
       "bug"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/451.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/451.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -753,9 +753,9 @@
       "poison",
       "dark"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/452.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -765,9 +765,9 @@
       "poison",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/453.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/453.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -777,9 +777,9 @@
       "poison",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/454.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -788,9 +788,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/455.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/455.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -799,9 +799,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/456.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/456.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -810,9 +810,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/457.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -822,9 +822,9 @@
       "water",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/458.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/458.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -834,9 +834,9 @@
       "grass",
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/459.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -846,9 +846,9 @@
       "grass",
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/460.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/460.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -858,9 +858,9 @@
       "dark",
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/461.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/461.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -870,9 +870,9 @@
       "electric",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/462.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -881,9 +881,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/463.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/463.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -893,9 +893,9 @@
       "ground",
       "rock"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/464.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/464.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -904,9 +904,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/465.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/465.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -915,9 +915,9 @@
     "types": [
       "electric"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/466.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/466.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -926,9 +926,9 @@
     "types": [
       "fire"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/467.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -938,9 +938,9 @@
       "fairy",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/468.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/468.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -950,9 +950,9 @@
       "bug",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/469.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/469.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -961,9 +961,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/470.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/470.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -972,9 +972,9 @@
     "types": [
       "ice"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/471.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/471.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -984,9 +984,9 @@
       "ground",
       "flying"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/472.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/472.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -996,9 +996,9 @@
       "ice",
       "ground"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/473.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/473.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1007,9 +1007,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/474.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/474.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1019,9 +1019,9 @@
       "psychic",
       "fighting"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/475.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1031,9 +1031,9 @@
       "rock",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/476.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1042,9 +1042,9 @@
     "types": [
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/477.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/477.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1054,9 +1054,9 @@
       "ice",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/478.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1066,9 +1066,9 @@
       "electric",
       "ghost"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/479.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1077,9 +1077,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/480.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1088,9 +1088,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/481.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1099,9 +1099,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/482.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1111,9 +1111,9 @@
       "steel",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/483.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1123,9 +1123,9 @@
       "water",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/484.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1135,9 +1135,9 @@
       "fire",
       "steel"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/485.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1146,9 +1146,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/486.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1158,9 +1158,9 @@
       "ghost",
       "dragon"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/487.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1169,9 +1169,9 @@
     "types": [
       "psychic"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/488.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1180,9 +1180,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/489.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/489.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1191,9 +1191,9 @@
     "types": [
       "water"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/490.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1202,9 +1202,9 @@
     "types": [
       "dark"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/491.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1213,9 +1213,9 @@
     "types": [
       "grass"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/492.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   },
   {
@@ -1224,9 +1224,9 @@
     "types": [
       "normal"
     ],
-    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
-    "habitat": "assets/img/habitats_webp/default.webp",
-    "img_regiao": "assets/img/region-option-2/sinnoh.png",
+    "sprite": "assets/img/pokemon/webp/493.webp",
+    "habitat": "assets/img/habitats/webp/default.webp",
+    "img_regiao": "assets/img/region-option-2/webp/sinnoh.webp",
     "region": "sinnoh"
   }
 ]

@@ -5,13 +5,12 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pokedex pokémon</title>
-    <link rel="icon" href="assets/img/favicon/favicon.png" type="image/png">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <script src="src/particles.js" defer></script>
-    <script src="src/main.js" defer></script>
 
+    <title>Pokedex pokémon</title>
+
+    <link rel="icon" href="assets/img/favicon/favicon64x64.png" type="image/png">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="src/main.js" type="module" defer></script>
 </head>
 
 <body>
@@ -24,7 +23,6 @@
 
                 <section id="pesquisas">
                     <input type="text" placeholder="Procure seu pokémon" id="search">
-                    <i class="bi bi-search"></i>
                     
                     <p>FILTRAR POR TIPO</p>
 
@@ -95,8 +93,8 @@
                         <form>
                             <input type="radio" id="all" name="grupo" value="all" checked hidden>
 
-                            <input type="radio" id="todos" name="grupo" value="todos">
-                            <label for="todos" class="todos">Ambos</label><br>
+                            <input type="radio" id="ambos" name="grupo" value="ambos">
+                            <label for="ambos" class="ambos">Ambos</label><br>
 
                             <input type="radio" id="tipo_unico" name="grupo" value="tipo_unico">
                             <label for="tipo_unico" class="tipo_unico">Um tipo</label><br>
@@ -162,8 +160,8 @@
                     </section>
 
                     <section class="btns">
-                        <button type="button" onclick="aplicarFiltros()">Aplicar filtros</button>
-                        <button type="button" onclick="removerFiltros()">Remover filtros</button>
+                        <button type="button" id="btn-filtra">Aplicar filtros</button>
+                        <button type="button" id="btn-remove">Remover filtros</button>
                     </section>
 
                 </section>
