@@ -1,0 +1,138 @@
+{
+  "id": 1020,
+  "name": "gouging-fire",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "3.5 m",
+  "weight": "590 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "fire",
+    "dragon"
+  ],
+  "artwork": "assets/artwork/front/1020_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/1020_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 105
+    },
+    {
+      "name": "attack",
+      "value": 115
+    },
+    {
+      "name": "defense",
+      "value": 121
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 93
+    },
+    {
+      "name": "speed",
+      "value": 91
+    }
+  ],
+  "abilities": [
+    {
+      "name": "protosynthesis",
+      "hidden": false,
+      "entries": "Raises highest stat in harsh sunlight, or if holding Booster Energy."
+    }
+  ],
+  "moves": [
+    "stomp",
+    "double-kick",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "bite",
+    "roar",
+    "flamethrower",
+    "hyper-beam",
+    "fire-spin",
+    "earthquake",
+    "fire-blast",
+    "rest",
+    "substitute",
+    "reversal",
+    "protect",
+    "scary-face",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "morning-sun",
+    "sunny-day",
+    "crunch",
+    "ancient-power",
+    "heat-wave",
+    "facade",
+    "crush-claw",
+    "weather-ball",
+    "overheat",
+    "howl",
+    "dragon-claw",
+    "dragon-dance",
+    "flare-blitz",
+    "dragon-pulse",
+    "dragon-rush",
+    "giga-impact",
+    "thunder-fang",
+    "fire-fang",
+    "draco-meteor",
+    "lava-plume",
+    "iron-head",
+    "stone-edge",
+    "flame-charge",
+    "incinerate",
+    "bulldoze",
+    "dragon-tail",
+    "heat-crash",
+    "snarl",
+    "noble-roar",
+    "smart-strike",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "breaking-swipe",
+    "scale-shot",
+    "scorching-sands",
+    "raging-fury",
+    "tera-blast",
+    "burning-bulwark",
+    "dragon-cheer",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 1020,
+      "name": "gouging-fire",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Paradox Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 0,
+  "capture_rate": 10,
+  "color": "brown",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 295,
+  "order": 1104,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "gouging-fire"
+  ],
+  "gender_rate": -1
+}

@@ -1,0 +1,208 @@
+{
+  "id": 657,
+  "name": "frogadier",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.6 m",
+  "weight": "10.9 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "water"
+  ],
+  "artwork": "assets/artwork/front/657_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/657_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 54
+    },
+    {
+      "name": "attack",
+      "value": 63
+    },
+    {
+      "name": "defense",
+      "value": 52
+    },
+    {
+      "name": "special-attack",
+      "value": 83
+    },
+    {
+      "name": "special-defense",
+      "value": 56
+    },
+    {
+      "name": "speed",
+      "value": 97
+    }
+  ],
+  "abilities": [
+    {
+      "name": "torrent",
+      "hidden": false,
+      "entries": "Strengthens Water moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "protean",
+      "hidden": true,
+      "entries": "Changes the bearer's type to match each move it uses."
+    }
+  ],
+  "moves": [
+    "pound",
+    "ice-punch",
+    "swords-dance",
+    "cut",
+    "take-down",
+    "growl",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "low-kick",
+    "counter",
+    "strength",
+    "dig",
+    "toxic",
+    "quick-attack",
+    "double-team",
+    "smokescreen",
+    "lick",
+    "waterfall",
+    "swift",
+    "bubble",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "spite",
+    "protect",
+    "mud-slap",
+    "spikes",
+    "icy-wind",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "rock-smash",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "role-play",
+    "snatch",
+    "secret-power",
+    "dive",
+    "rock-tomb",
+    "aerial-ace",
+    "bounce",
+    "mud-shot",
+    "water-pulse",
+    "u-turn",
+    "fling",
+    "toxic-spikes",
+    "dark-pulse",
+    "switcheroo",
+    "gunk-shot",
+    "grass-knot",
+    "smack-down",
+    "round",
+    "echoed-voice",
+    "scald",
+    "acrobatics",
+    "retaliate",
+    "water-pledge",
+    "work-up",
+    "confide",
+    "power-up-punch",
+    "liquidation",
+    "tera-blast",
+    "snowscape",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 656,
+      "name": "froakie",
+      "details": []
+    },
+    {
+      "id": 657,
+      "name": "frogadier",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 16,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 658,
+      "name": "greninja",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Bubble Frog Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "blue",
+  "shape": "humanoid",
+  "growth_rate": "medium-slow",
+  "base_experience": 142,
+  "order": 787,
+  "egg_groups": [
+    "water1"
+  ],
+  "forms": [
+    "frogadier"
+  ],
+  "gender_rate": 1
+}

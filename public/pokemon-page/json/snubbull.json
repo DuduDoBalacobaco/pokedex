@@ -1,0 +1,223 @@
+{
+  "id": 209,
+  "name": "snubbull",
+  "habitat_img": "assets/img/habitats/webp/urban.webp",
+  "habitat_name": "urban",
+  "height": "0.6 m",
+  "weight": "7.8 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/209_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/209_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 80
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 40
+    },
+    {
+      "name": "speed",
+      "value": 30
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "hidden": false,
+      "entries": "Lowers opponents' Attack one stage upon entering battle."
+    },
+    {
+      "name": "run-away",
+      "hidden": false,
+      "entries": "Ensures success fleeing from wild battles."
+    },
+    {
+      "name": "rattled",
+      "hidden": true,
+      "entries": "Raises Speed one stage upon being hit by a Dark, Ghost, or Bug move."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "mega-kick",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "leer",
+    "bite",
+    "growl",
+    "roar",
+    "flamethrower",
+    "low-kick",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "solar-beam",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "earthquake",
+    "dig",
+    "toxic",
+    "rage",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "reflect",
+    "metronome",
+    "lick",
+    "fire-blast",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "reversal",
+    "spite",
+    "protect",
+    "scary-face",
+    "feint-attack",
+    "sludge-bomb",
+    "mud-slap",
+    "zap-cannon",
+    "detect",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "present",
+    "frustration",
+    "dynamic-punch",
+    "encore",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "shadow-ball",
+    "rock-smash",
+    "uproar",
+    "torment",
+    "facade",
+    "focus-punch",
+    "smelling-salts",
+    "taunt",
+    "helping-hand",
+    "superpower",
+    "brick-break",
+    "endeavor",
+    "secret-power",
+    "hyper-voice",
+    "fake-tears",
+    "overheat",
+    "bulk-up",
+    "covet",
+    "shock-wave",
+    "water-pulse",
+    "natural-gift",
+    "close-combat",
+    "payback",
+    "fling",
+    "last-resort",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "captivate",
+    "round",
+    "incinerate",
+    "retaliate",
+    "bulldoze",
+    "work-up",
+    "wild-charge",
+    "snarl",
+    "play-rough",
+    "confide",
+    "dazzling-gleam",
+    "power-up-punch",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "lash-out",
+    "tera-blast",
+    "trailblaze",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 209,
+      "name": "snubbull",
+      "details": []
+    },
+    {
+      "id": 210,
+      "name": "granbull",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 23,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Fairy Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "pink",
+  "shape": "humanoid",
+  "growth_rate": "fast",
+  "base_experience": 60,
+  "order": 306,
+  "egg_groups": [
+    "ground",
+    "fairy"
+  ],
+  "forms": [
+    "snubbull"
+  ],
+  "gender_rate": 6
+}

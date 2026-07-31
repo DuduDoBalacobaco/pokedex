@@ -1,0 +1,178 @@
+{
+  "id": 752,
+  "name": "araquanid",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.8 m",
+  "weight": "82 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "water",
+    "bug"
+  ],
+  "artwork": "assets/artwork/front/752_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/752_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 68
+    },
+    {
+      "name": "attack",
+      "value": 70
+    },
+    {
+      "name": "defense",
+      "value": 92
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 132
+    },
+    {
+      "name": "speed",
+      "value": 42
+    }
+  ],
+  "abilities": [
+    {
+      "name": "water-bubble",
+      "hidden": false,
+      "entries": "Halves damage from Fire moves, doubles damage of Water moves, and prevents burns."
+    },
+    {
+      "name": "water-absorb",
+      "hidden": true,
+      "entries": "Absorbs Water moves, healing for 1/4 max HP."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "body-slam",
+    "bite",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "bubble-beam",
+    "hyper-beam",
+    "toxic",
+    "double-team",
+    "reflect",
+    "waterfall",
+    "leech-life",
+    "bubble",
+    "rest",
+    "substitute",
+    "spider-web",
+    "snore",
+    "protect",
+    "scary-face",
+    "icy-wind",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "hidden-power",
+    "rain-dance",
+    "crunch",
+    "mirror-coat",
+    "stockpile",
+    "spit-up",
+    "facade",
+    "magic-coat",
+    "endeavor",
+    "dive",
+    "signal-beam",
+    "iron-defense",
+    "water-pulse",
+    "aqua-ring",
+    "poison-jab",
+    "x-scissor",
+    "bug-buzz",
+    "giga-impact",
+    "bug-bite",
+    "wide-guard",
+    "power-split",
+    "wonder-room",
+    "magic-room",
+    "soak",
+    "entrainment",
+    "round",
+    "scald",
+    "frost-breath",
+    "sticky-web",
+    "confide",
+    "infestation",
+    "laser-focus",
+    "lunge",
+    "liquidation",
+    "skitter-smack",
+    "tera-blast",
+    "pounce",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 751,
+      "name": "dewpider",
+      "details": []
+    },
+    {
+      "id": 752,
+      "name": "araquanid",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 22,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Water Bubble Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 100,
+  "color": "green",
+  "shape": "armor",
+  "growth_rate": "medium",
+  "base_experience": 159,
+  "order": 908,
+  "egg_groups": [
+    "water1",
+    "bug"
+  ],
+  "forms": [
+    "araquanid"
+  ],
+  "gender_rate": 4
+}

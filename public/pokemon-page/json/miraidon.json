@@ -1,0 +1,133 @@
+{
+  "id": 1008,
+  "name": "miraidon",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "3.5 m",
+  "weight": "240 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "electric",
+    "dragon"
+  ],
+  "artwork": "assets/artwork/front/1008_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/1008_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 100
+    },
+    {
+      "name": "special-attack",
+      "value": 135
+    },
+    {
+      "name": "special-defense",
+      "value": 115
+    },
+    {
+      "name": "speed",
+      "value": 135
+    }
+  ],
+  "abilities": [
+    {
+      "name": "hadron-engine",
+      "hidden": false,
+      "entries": "Creates an Electric Terrain when entering battle, and boosts Special Attack while active."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "body-slam",
+    "take-down",
+    "hyper-beam",
+    "solar-beam",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "agility",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "rest",
+    "substitute",
+    "protect",
+    "scary-face",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "dragon-breath",
+    "crunch",
+    "mirror-coat",
+    "facade",
+    "charge",
+    "taunt",
+    "helping-hand",
+    "overheat",
+    "metal-sound",
+    "dragon-claw",
+    "calm-mind",
+    "shock-wave",
+    "u-turn",
+    "dragon-pulse",
+    "power-gem",
+    "giga-impact",
+    "zen-headbutt",
+    "flash-cannon",
+    "draco-meteor",
+    "discharge",
+    "charge-beam",
+    "heavy-slam",
+    "electro-ball",
+    "acrobatics",
+    "volt-switch",
+    "dragon-tail",
+    "wild-charge",
+    "snarl",
+    "parabolic-charge",
+    "eerie-impulse",
+    "electric-terrain",
+    "dazzling-gleam",
+    "tera-blast",
+    "electro-drift",
+    "dragon-cheer",
+    "supercell-slam"
+  ],
+  "evolution": [
+    {
+      "id": 1008,
+      "name": "miraidon",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Paradox Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 0,
+  "capture_rate": 3,
+  "color": "blue",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 335,
+  "order": 999,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "miraidon-ultimate-mode"
+  ],
+  "gender_rate": -1
+}

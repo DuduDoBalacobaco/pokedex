@@ -1,0 +1,201 @@
+{
+  "id": 291,
+  "name": "ninjask",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "0.8 m",
+  "weight": "12 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "bug",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/291_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/291_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 61
+    },
+    {
+      "name": "attack",
+      "value": 90
+    },
+    {
+      "name": "defense",
+      "value": 45
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 50
+    },
+    {
+      "name": "speed",
+      "value": 160
+    }
+  ],
+  "abilities": [
+    {
+      "name": "speed-boost",
+      "hidden": false,
+      "entries": "Raises Speed one stage after each turn."
+    },
+    {
+      "name": "infiltrator",
+      "hidden": true,
+      "entries": "Bypasses Light Screen, Reflect, and Safeguard."
+    }
+  ],
+  "moves": [
+    "scratch",
+    "swords-dance",
+    "cut",
+    "sand-attack",
+    "double-edge",
+    "hyper-beam",
+    "absorb",
+    "solar-beam",
+    "string-shot",
+    "dig",
+    "toxic",
+    "agility",
+    "mimic",
+    "screech",
+    "double-team",
+    "harden",
+    "swift",
+    "leech-life",
+    "flash",
+    "fury-swipes",
+    "rest",
+    "slash",
+    "substitute",
+    "thief",
+    "mind-reader",
+    "snore",
+    "spite",
+    "protect",
+    "mud-slap",
+    "sandstorm",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "baton-pass",
+    "metal-claw",
+    "hidden-power",
+    "sunny-day",
+    "shadow-ball",
+    "uproar",
+    "facade",
+    "secret-power",
+    "air-cutter",
+    "silver-wind",
+    "aerial-ace",
+    "roost",
+    "natural-gift",
+    "u-turn",
+    "air-slash",
+    "x-scissor",
+    "bug-buzz",
+    "giga-impact",
+    "defog",
+    "captivate",
+    "bug-bite",
+    "ominous-wind",
+    "hone-claws",
+    "round",
+    "acrobatics",
+    "struggle-bug",
+    "confide",
+    "laser-focus",
+    "skitter-smack",
+    "dual-wingbeat"
+  ],
+  "evolution": [
+    {
+      "id": 290,
+      "name": "nincada",
+      "details": []
+    },
+    {
+      "id": 291,
+      "name": "ninjask",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 20,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "name": "shedinja",
+      "details": [
+        {
+          "trigger": "shed",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Ninja Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 120,
+  "color": "yellow",
+  "shape": "bug-wings",
+  "growth_rate": "slow-then-very-fast",
+  "base_experience": 160,
+  "order": 394,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "ninjask"
+  ],
+  "gender_rate": 4
+}

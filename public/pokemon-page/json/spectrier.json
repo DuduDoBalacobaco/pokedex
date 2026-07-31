@@ -1,0 +1,126 @@
+{
+  "id": 897,
+  "name": "spectrier",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2 m",
+  "weight": "44.5 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "ghost"
+  ],
+  "artwork": "assets/artwork/front/897_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/897_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 65
+    },
+    {
+      "name": "defense",
+      "value": 60
+    },
+    {
+      "name": "special-attack",
+      "value": 145
+    },
+    {
+      "name": "special-defense",
+      "value": 80
+    },
+    {
+      "name": "speed",
+      "value": 130
+    }
+  ],
+  "abilities": [
+    {
+      "name": "grim-neigh",
+      "hidden": false,
+      "entries": "Boosts Special Attack after knocking out a Pokémon."
+    }
+  ],
+  "moves": [
+    "stomp",
+    "double-kick",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "tail-whip",
+    "disable",
+    "hyper-beam",
+    "psychic",
+    "agility",
+    "night-shade",
+    "confuse-ray",
+    "haze",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "scary-face",
+    "endure",
+    "sleep-talk",
+    "pain-split",
+    "crunch",
+    "shadow-ball",
+    "uproar",
+    "will-o-wisp",
+    "facade",
+    "taunt",
+    "mud-shot",
+    "calm-mind",
+    "payback",
+    "assurance",
+    "dark-pulse",
+    "giga-impact",
+    "nasty-plot",
+    "psycho-cut",
+    "foul-play",
+    "round",
+    "hex",
+    "bulldoze",
+    "snarl",
+    "phantom-force",
+    "draining-kiss",
+    "stomping-tantrum",
+    "lash-out",
+    "poltergeist",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 897,
+      "name": "spectrier",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Swift Horse Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 35,
+  "capture_rate": 3,
+  "color": "black",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 290,
+  "order": 1089,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "spectrier"
+  ],
+  "gender_rate": -1
+}

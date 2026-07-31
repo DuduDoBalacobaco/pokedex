@@ -1,0 +1,248 @@
+{
+  "id": 439,
+  "name": "mime-jr",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.6 m",
+  "weight": "13 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "psychic",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/439_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/439_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 20
+    },
+    {
+      "name": "attack",
+      "value": 25
+    },
+    {
+      "name": "defense",
+      "value": 45
+    },
+    {
+      "name": "special-attack",
+      "value": 70
+    },
+    {
+      "name": "special-defense",
+      "value": 90
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "soundproof",
+      "hidden": false,
+      "entries": "Protects against sound-based moves."
+    },
+    {
+      "name": "filter",
+      "hidden": false,
+      "entries": "Decreases damage taken from super-effective moves by 1/4."
+    },
+    {
+      "name": "technician",
+      "hidden": true,
+      "entries": "Strengthens moves of 60 base power or less to 1.5× their power."
+    }
+  ],
+  "moves": [
+    "pound",
+    "double-slap",
+    "headbutt",
+    "psybeam",
+    "solar-beam",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "confusion",
+    "psychic",
+    "hypnosis",
+    "meditate",
+    "mimic",
+    "double-team",
+    "confuse-ray",
+    "barrier",
+    "light-screen",
+    "reflect",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "mud-slap",
+    "icy-wind",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "baton-pass",
+    "encore",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "fake-out",
+    "uproar",
+    "torment",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "helping-hand",
+    "trick",
+    "role-play",
+    "magic-coat",
+    "recycle",
+    "brick-break",
+    "skill-swap",
+    "snatch",
+    "secret-power",
+    "teeter-dance",
+    "tickle",
+    "signal-beam",
+    "iron-defense",
+    "covet",
+    "calm-mind",
+    "shock-wave",
+    "wake-up-slap",
+    "healing-wish",
+    "natural-gift",
+    "fling",
+    "copycat",
+    "sucker-punch",
+    "drain-punch",
+    "nasty-plot",
+    "zen-headbutt",
+    "trick-room",
+    "captivate",
+    "grass-knot",
+    "charge-beam",
+    "power-split",
+    "wonder-room",
+    "psyshock",
+    "telekinesis",
+    "magic-room",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "misty-terrain",
+    "confide",
+    "dazzling-gleam",
+    "infestation",
+    "psychic-terrain"
+  ],
+  "evolution": [
+    {
+      "id": 439,
+      "name": "mime-jr",
+      "details": []
+    },
+    {
+      "id": 122,
+      "name": "mr-mime",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": "mimic",
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": "mimic",
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 866,
+      "name": "mr-rime",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 42,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": true,
+  "genus": "Mime Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 145,
+  "color": "pink",
+  "shape": "humanoid",
+  "growth_rate": "medium",
+  "base_experience": 62,
+  "order": 193,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "mime-jr"
+  ],
+  "gender_rate": 4
+}

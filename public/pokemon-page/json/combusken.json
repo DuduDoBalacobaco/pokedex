@@ -1,0 +1,233 @@
+{
+  "id": 256,
+  "name": "combusken",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "0.9 m",
+  "weight": "19.5 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "fire",
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/256_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/256_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 60
+    },
+    {
+      "name": "special-attack",
+      "value": 85
+    },
+    {
+      "name": "special-defense",
+      "value": 60
+    },
+    {
+      "name": "speed",
+      "value": 55
+    }
+  ],
+  "abilities": [
+    {
+      "name": "blaze",
+      "hidden": false,
+      "entries": "Strengthens Fire moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "speed-boost",
+      "hidden": true,
+      "entries": "Raises Speed one stage after each turn."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "thunder-punch",
+    "scratch",
+    "swords-dance",
+    "cut",
+    "double-kick",
+    "mega-kick",
+    "sand-attack",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "ember",
+    "flamethrower",
+    "peck",
+    "low-kick",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "fire-spin",
+    "dig",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "mimic",
+    "double-team",
+    "focus-energy",
+    "mirror-move",
+    "fire-blast",
+    "swift",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "mud-slap",
+    "detect",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dynamic-punch",
+    "baton-pass",
+    "hidden-power",
+    "sunny-day",
+    "rock-smash",
+    "uproar",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "focus-punch",
+    "helping-hand",
+    "revenge",
+    "brick-break",
+    "secret-power",
+    "feather-dance",
+    "blaze-kick",
+    "crush-claw",
+    "overheat",
+    "rock-tomb",
+    "sky-uppercut",
+    "aerial-ace",
+    "bulk-up",
+    "bounce",
+    "natural-gift",
+    "feint",
+    "close-combat",
+    "assurance",
+    "fling",
+    "last-resort",
+    "flare-blitz",
+    "poison-jab",
+    "night-slash",
+    "vacuum-wave",
+    "focus-blast",
+    "shadow-claw",
+    "defog",
+    "captivate",
+    "hone-claws",
+    "flame-charge",
+    "low-sweep",
+    "round",
+    "echoed-voice",
+    "incinerate",
+    "fire-pledge",
+    "work-up",
+    "dual-chop",
+    "confide",
+    "power-up-punch",
+    "coaching",
+    "tera-blast",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 255,
+      "name": "torchic",
+      "details": []
+    },
+    {
+      "id": 256,
+      "name": "combusken",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 16,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "name": "blaziken",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Young Fowl Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "red",
+  "shape": "upright",
+  "growth_rate": "medium-slow",
+  "base_experience": 142,
+  "order": 352,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "combusken"
+  ],
+  "gender_rate": 1
+}

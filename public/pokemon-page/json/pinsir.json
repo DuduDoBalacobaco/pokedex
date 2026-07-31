@@ -1,0 +1,177 @@
+{
+  "id": 127,
+  "name": "pinsir",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "1.5 m",
+  "weight": "55 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "bug"
+  ],
+  "artwork": "assets/artwork/front/127_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/127_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 65
+    },
+    {
+      "name": "attack",
+      "value": 125
+    },
+    {
+      "name": "defense",
+      "value": 100
+    },
+    {
+      "name": "special-attack",
+      "value": 55
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 85
+    }
+  ],
+  "abilities": [
+    {
+      "name": "hyper-cutter",
+      "hidden": false,
+      "entries": "Prevents Attack from being lowered by other Pokémon."
+    },
+    {
+      "name": "mold-breaker",
+      "hidden": false,
+      "entries": "Bypasses targets' abilities if they could hinder or prevent a move."
+    },
+    {
+      "name": "moxie",
+      "hidden": true,
+      "entries": "Raises Attack one stage upon KOing a Pokémon."
+    }
+  ],
+  "moves": [
+    "vice-grip",
+    "guillotine",
+    "swords-dance",
+    "cut",
+    "bind",
+    "headbutt",
+    "fury-attack",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "hyper-beam",
+    "submission",
+    "seismic-toss",
+    "strength",
+    "string-shot",
+    "earthquake",
+    "dig",
+    "toxic",
+    "quick-attack",
+    "rage",
+    "mimic",
+    "double-team",
+    "harden",
+    "focus-energy",
+    "bide",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "flail",
+    "reversal",
+    "protect",
+    "feint-attack",
+    "detect",
+    "outrage",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "vital-throw",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "facade",
+    "focus-punch",
+    "helping-hand",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "secret-power",
+    "rock-tomb",
+    "aerial-ace",
+    "iron-defense",
+    "bulk-up",
+    "natural-gift",
+    "feint",
+    "close-combat",
+    "fling",
+    "me-first",
+    "x-scissor",
+    "focus-blast",
+    "giga-impact",
+    "rock-climb",
+    "stone-edge",
+    "captivate",
+    "stealth-rock",
+    "bug-bite",
+    "double-hit",
+    "smack-down",
+    "storm-throw",
+    "round",
+    "circle-throw",
+    "struggle-bug",
+    "bulldoze",
+    "confide",
+    "high-horsepower",
+    "throat-chop",
+    "lunge",
+    "brutal-swing",
+    "pounce",
+    "hard-press"
+  ],
+  "evolution": [
+    {
+      "id": 127,
+      "name": "pinsir",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Stag Beetle Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "brown",
+  "shape": "humanoid",
+  "growth_rate": "slow",
+  "base_experience": 175,
+  "order": 207,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "pinsir"
+  ],
+  "gender_rate": 4
+}

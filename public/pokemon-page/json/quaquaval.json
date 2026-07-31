@@ -1,0 +1,202 @@
+{
+  "id": 914,
+  "name": "quaquaval",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.8 m",
+  "weight": "61.9 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "water",
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/914_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/914_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 85
+    },
+    {
+      "name": "attack",
+      "value": 120
+    },
+    {
+      "name": "defense",
+      "value": 80
+    },
+    {
+      "name": "special-attack",
+      "value": 85
+    },
+    {
+      "name": "special-defense",
+      "value": 75
+    },
+    {
+      "name": "speed",
+      "value": 85
+    }
+  ],
+  "abilities": [
+    {
+      "name": "torrent",
+      "hidden": false,
+      "entries": "Strengthens Water moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "moxie",
+      "hidden": true,
+      "entries": "Raises Attack one stage upon KOing a Pokémon."
+    }
+  ],
+  "moves": [
+    "pound",
+    "swords-dance",
+    "wing-attack",
+    "mega-kick",
+    "take-down",
+    "growl",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "hyper-beam",
+    "low-kick",
+    "counter",
+    "agility",
+    "focus-energy",
+    "swift",
+    "rest",
+    "substitute",
+    "reversal",
+    "protect",
+    "icy-wind",
+    "detect",
+    "endure",
+    "sleep-talk",
+    "baton-pass",
+    "encore",
+    "rapid-spin",
+    "rain-dance",
+    "psych-up",
+    "whirlpool",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "feather-dance",
+    "hydro-cannon",
+    "air-cutter",
+    "aerial-ace",
+    "bulk-up",
+    "water-pulse",
+    "roost",
+    "u-turn",
+    "close-combat",
+    "fling",
+    "last-resort",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "aqua-jet",
+    "double-hit",
+    "low-sweep",
+    "acrobatics",
+    "water-pledge",
+    "work-up",
+    "hurricane",
+    "disarming-voice",
+    "misty-terrain",
+    "liquidation",
+    "coaching",
+    "flip-turn",
+    "triple-axel",
+    "wave-crash",
+    "tera-blast",
+    "ice-spinner",
+    "aqua-step",
+    "chilling-water",
+    "aqua-cutter",
+    "upper-hand"
+  ],
+  "evolution": [
+    {
+      "id": 912,
+      "name": "quaxly",
+      "details": []
+    },
+    {
+      "id": 913,
+      "name": "quaxwell",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 16,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 914,
+      "name": "quaquaval",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Dancer Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 45,
+  "color": "blue",
+  "shape": "upright",
+  "growth_rate": "medium-slow",
+  "base_experience": 265,
+  "order": 914,
+  "egg_groups": [
+    "flying",
+    "water1"
+  ],
+  "forms": [
+    "quaquaval"
+  ],
+  "gender_rate": 1
+}

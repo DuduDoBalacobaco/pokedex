@@ -1,0 +1,183 @@
+{
+  "id": 457,
+  "name": "lumineon",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.2 m",
+  "weight": "24 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "water"
+  ],
+  "artwork": "assets/artwork/front/457_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/457_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 69
+    },
+    {
+      "name": "attack",
+      "value": 69
+    },
+    {
+      "name": "defense",
+      "value": 76
+    },
+    {
+      "name": "special-attack",
+      "value": 69
+    },
+    {
+      "name": "special-defense",
+      "value": 86
+    },
+    {
+      "name": "speed",
+      "value": 91
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "hidden": false,
+      "entries": "Doubles Speed during rain."
+    },
+    {
+      "name": "storm-drain",
+      "hidden": false,
+      "entries": "Redirects single-target Water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
+    },
+    {
+      "name": "water-veil",
+      "hidden": true,
+      "entries": "Prevents burns."
+    }
+  ],
+  "moves": [
+    "pound",
+    "gust",
+    "take-down",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "psybeam",
+    "hyper-beam",
+    "toxic",
+    "agility",
+    "double-team",
+    "confuse-ray",
+    "waterfall",
+    "swift",
+    "bubble",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "flail",
+    "protect",
+    "icy-wind",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "encore",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "psych-up",
+    "whirlpool",
+    "hail",
+    "facade",
+    "helping-hand",
+    "secret-power",
+    "dive",
+    "air-cutter",
+    "silver-wind",
+    "signal-beam",
+    "bounce",
+    "water-pulse",
+    "roost",
+    "brine",
+    "natural-gift",
+    "tailwind",
+    "u-turn",
+    "payback",
+    "aqua-ring",
+    "aqua-tail",
+    "air-slash",
+    "giga-impact",
+    "defog",
+    "captivate",
+    "ominous-wind",
+    "soak",
+    "round",
+    "scald",
+    "acrobatics",
+    "confide",
+    "dazzling-gleam",
+    "flip-turn",
+    "tera-blast",
+    "chilling-water",
+    "alluring-voice"
+  ],
+  "evolution": [
+    {
+      "id": 456,
+      "name": "finneon",
+      "details": []
+    },
+    {
+      "id": 457,
+      "name": "lumineon",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 31,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Neon Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 75,
+  "color": "blue",
+  "shape": "fish",
+  "growth_rate": "slow-then-very-fast",
+  "base_experience": 161,
+  "order": 583,
+  "egg_groups": [
+    "water2"
+  ],
+  "forms": [
+    "lumineon"
+  ],
+  "gender_rate": 4
+}

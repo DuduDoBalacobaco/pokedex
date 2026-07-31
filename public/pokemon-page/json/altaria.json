@@ -1,0 +1,209 @@
+{
+  "id": 334,
+  "name": "altaria",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "1.1 m",
+  "weight": "20.6 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "dragon",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/334_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/334_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 75
+    },
+    {
+      "name": "attack",
+      "value": 70
+    },
+    {
+      "name": "defense",
+      "value": 90
+    },
+    {
+      "name": "special-attack",
+      "value": 70
+    },
+    {
+      "name": "special-defense",
+      "value": 105
+    },
+    {
+      "name": "speed",
+      "value": 80
+    }
+  ],
+  "abilities": [
+    {
+      "name": "natural-cure",
+      "hidden": false,
+      "entries": "Cures any major status ailment upon switching out."
+    },
+    {
+      "name": "cloud-nine",
+      "hidden": true,
+      "entries": "Negates all effects of weather, but does not prevent the weather itself."
+    }
+  ],
+  "moves": [
+    "fly",
+    "fury-attack",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "roar",
+    "sing",
+    "flamethrower",
+    "mist",
+    "ice-beam",
+    "hyper-beam",
+    "peck",
+    "solar-beam",
+    "fire-spin",
+    "earthquake",
+    "toxic",
+    "agility",
+    "mimic",
+    "double-team",
+    "haze",
+    "fire-blast",
+    "swift",
+    "dream-eater",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "mud-slap",
+    "perish-song",
+    "outrage",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "frustration",
+    "safeguard",
+    "dragon-breath",
+    "iron-tail",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "rock-smash",
+    "uproar",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "helping-hand",
+    "endeavor",
+    "refresh",
+    "secret-power",
+    "feather-dance",
+    "hyper-voice",
+    "astonish",
+    "weather-ball",
+    "air-cutter",
+    "aerial-ace",
+    "dragon-claw",
+    "dragon-dance",
+    "roost",
+    "natural-gift",
+    "pluck",
+    "tailwind",
+    "power-swap",
+    "dragon-pulse",
+    "dragon-rush",
+    "brave-bird",
+    "giga-impact",
+    "defog",
+    "draco-meteor",
+    "captivate",
+    "ominous-wind",
+    "hone-claws",
+    "wonder-room",
+    "round",
+    "echoed-voice",
+    "incinerate",
+    "acrobatics",
+    "bulldoze",
+    "cotton-guard",
+    "hurricane",
+    "disarming-voice",
+    "play-rough",
+    "moonblast",
+    "confide",
+    "dazzling-gleam",
+    "breaking-swipe",
+    "dual-wingbeat",
+    "tera-blast",
+    "snowscape",
+    "trailblaze",
+    "dragon-cheer",
+    "alluring-voice"
+  ],
+  "evolution": [
+    {
+      "id": 333,
+      "name": "swablu",
+      "details": []
+    },
+    {
+      "id": 334,
+      "name": "altaria",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Humming Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "blue",
+  "shape": "wings",
+  "growth_rate": "slow-then-very-fast",
+  "base_experience": 172,
+  "order": 446,
+  "egg_groups": [
+    "flying",
+    "dragon"
+  ],
+  "forms": [
+    "altaria"
+  ],
+  "gender_rate": 4
+}

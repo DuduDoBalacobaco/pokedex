@@ -1,0 +1,208 @@
+{
+  "id": 354,
+  "name": "banette",
+  "habitat_img": "assets/img/habitats/webp/urban.webp",
+  "habitat_name": "urban",
+  "height": "1.1 m",
+  "weight": "12.5 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "ghost"
+  ],
+  "artwork": "assets/artwork/front/354_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/354_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 64
+    },
+    {
+      "name": "attack",
+      "value": 115
+    },
+    {
+      "name": "defense",
+      "value": 65
+    },
+    {
+      "name": "special-attack",
+      "value": 83
+    },
+    {
+      "name": "special-defense",
+      "value": 63
+    },
+    {
+      "name": "speed",
+      "value": 65
+    }
+  ],
+  "abilities": [
+    {
+      "name": "insomnia",
+      "hidden": false,
+      "entries": "Prevents sleep."
+    },
+    {
+      "name": "frisk",
+      "hidden": false,
+      "entries": "Reveals an opponent's held item upon entering battle."
+    },
+    {
+      "name": "cursed-body",
+      "hidden": true,
+      "entries": "Has a 30% chance of Disabling any move that hits the Pokémon."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "headbutt",
+    "body-slam",
+    "double-edge",
+    "disable",
+    "psybeam",
+    "hyper-beam",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "psychic",
+    "night-shade",
+    "mimic",
+    "screech",
+    "double-team",
+    "confuse-ray",
+    "metronome",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "nightmare",
+    "snore",
+    "curse",
+    "spite",
+    "protect",
+    "scary-face",
+    "feint-attack",
+    "mud-slap",
+    "destiny-bond",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "encore",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "torment",
+    "will-o-wisp",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "trick",
+    "role-play",
+    "magic-coat",
+    "knock-off",
+    "skill-swap",
+    "imprison",
+    "grudge",
+    "snatch",
+    "secret-power",
+    "shadow-punch",
+    "calm-mind",
+    "shock-wave",
+    "natural-gift",
+    "payback",
+    "embargo",
+    "fling",
+    "sucker-punch",
+    "dark-pulse",
+    "giga-impact",
+    "nasty-plot",
+    "shadow-claw",
+    "shadow-sneak",
+    "zen-headbutt",
+    "trick-room",
+    "gunk-shot",
+    "captivate",
+    "charge-beam",
+    "ominous-wind",
+    "telekinesis",
+    "magic-room",
+    "foul-play",
+    "round",
+    "ally-switch",
+    "hex",
+    "phantom-force",
+    "confide",
+    "dazzling-gleam",
+    "infestation",
+    "throat-chop",
+    "skitter-smack",
+    "burning-jealousy",
+    "lash-out",
+    "poltergeist",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 353,
+      "name": "shuppet",
+      "details": []
+    },
+    {
+      "id": 354,
+      "name": "banette",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 37,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Marionette Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 35,
+  "capture_rate": 45,
+  "color": "black",
+  "shape": "upright",
+  "growth_rate": "fast",
+  "base_experience": 159,
+  "order": 470,
+  "egg_groups": [
+    "indeterminate"
+  ],
+  "forms": [
+    "banette"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,172 @@
+{
+  "id": 913,
+  "name": "quaxwell",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.2 m",
+  "weight": "21.5 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "water"
+  ],
+  "artwork": "assets/artwork/front/913_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/913_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 65
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 60
+    },
+    {
+      "name": "speed",
+      "value": 65
+    }
+  ],
+  "abilities": [
+    {
+      "name": "torrent",
+      "hidden": false,
+      "entries": "Strengthens Water moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "moxie",
+      "hidden": true,
+      "entries": "Raises Attack one stage upon KOing a Pokémon."
+    }
+  ],
+  "moves": [
+    "pound",
+    "wing-attack",
+    "take-down",
+    "growl",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "low-kick",
+    "focus-energy",
+    "swift",
+    "rest",
+    "protect",
+    "endure",
+    "baton-pass",
+    "encore",
+    "rain-dance",
+    "psych-up",
+    "whirlpool",
+    "facade",
+    "helping-hand",
+    "feather-dance",
+    "air-cutter",
+    "aerial-ace",
+    "water-pulse",
+    "air-slash",
+    "brave-bird",
+    "aqua-jet",
+    "double-hit",
+    "low-sweep",
+    "acrobatics",
+    "water-pledge",
+    "work-up",
+    "disarming-voice",
+    "misty-terrain",
+    "liquidation",
+    "flip-turn",
+    "triple-axel",
+    "tera-blast",
+    "chilling-water",
+    "aqua-cutter"
+  ],
+  "evolution": [
+    {
+      "id": 912,
+      "name": "quaxly",
+      "details": []
+    },
+    {
+      "id": 913,
+      "name": "quaxwell",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 16,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 914,
+      "name": "quaquaval",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Practicing Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 45,
+  "color": "blue",
+  "shape": "upright",
+  "growth_rate": "medium-slow",
+  "base_experience": 144,
+  "order": 913,
+  "egg_groups": [
+    "flying",
+    "water1"
+  ],
+  "forms": [
+    "quaxwell"
+  ],
+  "gender_rate": 1
+}

@@ -1,0 +1,174 @@
+{
+  "id": 324,
+  "name": "torkoal",
+  "habitat_img": "assets/img/habitats/webp/mountain.webp",
+  "habitat_name": "mountain",
+  "height": "0.5 m",
+  "weight": "80.4 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "fire"
+  ],
+  "artwork": "assets/artwork/front/324_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/324_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 140
+    },
+    {
+      "name": "special-attack",
+      "value": 85
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 20
+    }
+  ],
+  "abilities": [
+    {
+      "name": "white-smoke",
+      "hidden": false,
+      "entries": "Prevents stats from being lowered by other Pokémon."
+    },
+    {
+      "name": "drought",
+      "hidden": false,
+      "entries": "Summons strong sunlight that lasts indefinitely upon entering battle."
+    },
+    {
+      "name": "shell-armor",
+      "hidden": true,
+      "entries": "Protects against critical hits."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "ember",
+    "flamethrower",
+    "hyper-beam",
+    "strength",
+    "solar-beam",
+    "fire-spin",
+    "earthquake",
+    "fissure",
+    "toxic",
+    "mimic",
+    "double-team",
+    "smokescreen",
+    "withdraw",
+    "self-destruct",
+    "smog",
+    "fire-blast",
+    "skull-bash",
+    "amnesia",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "flame-wheel",
+    "snore",
+    "curse",
+    "flail",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "rapid-spin",
+    "iron-tail",
+    "hidden-power",
+    "sunny-day",
+    "ancient-power",
+    "rock-smash",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "nature-power",
+    "helping-hand",
+    "superpower",
+    "yawn",
+    "eruption",
+    "secret-power",
+    "weather-ball",
+    "overheat",
+    "rock-tomb",
+    "iron-defense",
+    "gyro-ball",
+    "natural-gift",
+    "flare-blitz",
+    "earth-power",
+    "giga-impact",
+    "zen-headbutt",
+    "lava-plume",
+    "stone-edge",
+    "captivate",
+    "stealth-rock",
+    "flame-burst",
+    "heavy-slam",
+    "flame-charge",
+    "after-you",
+    "round",
+    "clear-smog",
+    "shell-smash",
+    "incinerate",
+    "inferno",
+    "bulldoze",
+    "heat-crash",
+    "confide",
+    "stomping-tantrum",
+    "body-press",
+    "burning-jealousy",
+    "scorching-sands",
+    "tera-blast",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 324,
+      "name": "torkoal",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Coal Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 90,
+  "color": "brown",
+  "shape": "quadruped",
+  "growth_rate": "medium",
+  "base_experience": 165,
+  "order": 436,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "torkoal"
+  ],
+  "gender_rate": 4
+}

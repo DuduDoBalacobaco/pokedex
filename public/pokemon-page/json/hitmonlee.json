@@ -1,0 +1,265 @@
+{
+  "id": 106,
+  "name": "hitmonlee",
+  "habitat_img": "assets/img/habitats/webp/urban.webp",
+  "habitat_name": "urban",
+  "height": "1.5 m",
+  "weight": "49.8 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/106_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/106_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 120
+    },
+    {
+      "name": "defense",
+      "value": 53
+    },
+    {
+      "name": "special-attack",
+      "value": 35
+    },
+    {
+      "name": "special-defense",
+      "value": 110
+    },
+    {
+      "name": "speed",
+      "value": 87
+    }
+  ],
+  "abilities": [
+    {
+      "name": "limber",
+      "hidden": false,
+      "entries": "Prevents paralysis."
+    },
+    {
+      "name": "reckless",
+      "hidden": false,
+      "entries": "Strengthens recoil moves to 1.2× their power."
+    },
+    {
+      "name": "unburden",
+      "hidden": true,
+      "entries": "Doubles Speed upon using or losing a held item."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "swords-dance",
+    "double-kick",
+    "mega-kick",
+    "jump-kick",
+    "rolling-kick",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "submission",
+    "low-kick",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "earthquake",
+    "toxic",
+    "meditate",
+    "rage",
+    "mimic",
+    "double-team",
+    "focus-energy",
+    "bide",
+    "metronome",
+    "swift",
+    "skull-bash",
+    "high-jump-kick",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "mind-reader",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "mach-punch",
+    "scary-face",
+    "mud-slap",
+    "foresight",
+    "detect",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dynamic-punch",
+    "baton-pass",
+    "rapid-spin",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "fake-out",
+    "uproar",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "helping-hand",
+    "role-play",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "refresh",
+    "secret-power",
+    "blaze-kick",
+    "rock-tomb",
+    "bulk-up",
+    "bounce",
+    "covet",
+    "natural-gift",
+    "feint",
+    "close-combat",
+    "fling",
+    "sucker-punch",
+    "aura-sphere",
+    "poison-jab",
+    "vacuum-wave",
+    "focus-blast",
+    "giga-impact",
+    "bullet-punch",
+    "rock-climb",
+    "stone-edge",
+    "captivate",
+    "wide-guard",
+    "low-sweep",
+    "round",
+    "retaliate",
+    "bulldoze",
+    "work-up",
+    "confide",
+    "power-up-punch",
+    "laser-focus",
+    "throat-chop",
+    "lunge",
+    "stomping-tantrum",
+    "coaching",
+    "tera-blast",
+    "axe-kick",
+    "upper-hand"
+  ],
+  "evolution": [
+    {
+      "id": 236,
+      "name": "tyrogue",
+      "details": []
+    },
+    {
+      "id": 106,
+      "name": "hitmonlee",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 20,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": 1,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "name": "hitmonchan",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 20,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": -1,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "name": "hitmontop",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 20,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": 0,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Kicking Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "brown",
+  "shape": "humanoid",
+  "growth_rate": "medium",
+  "base_experience": 159,
+  "order": 168,
+  "egg_groups": [
+    "humanshape"
+  ],
+  "forms": [
+    "hitmonlee"
+  ],
+  "gender_rate": 0
+}

@@ -1,0 +1,177 @@
+{
+  "id": 227,
+  "name": "skarmory",
+  "habitat_img": "assets/img/habitats/webp/rough-terrain.webp",
+  "habitat_name": "rough-terrain",
+  "height": "1.7 m",
+  "weight": "50.5 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "steel",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/227_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/227_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 65
+    },
+    {
+      "name": "attack",
+      "value": 80
+    },
+    {
+      "name": "defense",
+      "value": 140
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 70
+    }
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "hidden": false,
+      "entries": "Prevents accuracy from being lowered."
+    },
+    {
+      "name": "sturdy",
+      "hidden": false,
+      "entries": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    },
+    {
+      "name": "weak-armor",
+      "hidden": true,
+      "entries": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "wing-attack",
+    "whirlwind",
+    "fly",
+    "sand-attack",
+    "fury-attack",
+    "take-down",
+    "double-edge",
+    "leer",
+    "roar",
+    "hyper-beam",
+    "peck",
+    "drill-peck",
+    "counter",
+    "toxic",
+    "agility",
+    "mimic",
+    "double-team",
+    "swift",
+    "sky-attack",
+    "flash",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "mud-slap",
+    "spikes",
+    "icy-wind",
+    "detect",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pursuit",
+    "metal-claw",
+    "hidden-power",
+    "twister",
+    "sunny-day",
+    "rock-smash",
+    "torment",
+    "facade",
+    "taunt",
+    "secret-power",
+    "air-cutter",
+    "rock-tomb",
+    "metal-sound",
+    "sand-tomb",
+    "aerial-ace",
+    "iron-defense",
+    "roost",
+    "natural-gift",
+    "feint",
+    "pluck",
+    "tailwind",
+    "payback",
+    "assurance",
+    "guard-swap",
+    "dark-pulse",
+    "night-slash",
+    "air-slash",
+    "x-scissor",
+    "brave-bird",
+    "giga-impact",
+    "flash-cannon",
+    "defog",
+    "iron-head",
+    "captivate",
+    "stealth-rock",
+    "ominous-wind",
+    "autotomize",
+    "round",
+    "sky-drop",
+    "drill-run",
+    "hurricane",
+    "confide",
+    "body-press",
+    "steel-beam",
+    "dual-wingbeat",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 227,
+      "name": "skarmory",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Armor Bird Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 25,
+  "color": "gray",
+  "shape": "wings",
+  "growth_rate": "slow",
+  "base_experience": 163,
+  "order": 328,
+  "egg_groups": [
+    "flying"
+  ],
+  "forms": [
+    "skarmory"
+  ],
+  "gender_rate": 4
+}

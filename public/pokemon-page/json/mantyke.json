@@ -1,0 +1,178 @@
+{
+  "id": 458,
+  "name": "mantyke",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1 m",
+  "weight": "65 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "water",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/458_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/458_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 45
+    },
+    {
+      "name": "attack",
+      "value": 20
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 60
+    },
+    {
+      "name": "special-defense",
+      "value": 120
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "hidden": false,
+      "entries": "Doubles Speed during rain."
+    },
+    {
+      "name": "water-absorb",
+      "hidden": false,
+      "entries": "Absorbs Water moves, healing for 1/4 max HP."
+    },
+    {
+      "name": "water-veil",
+      "hidden": true,
+      "entries": "Prevents burns."
+    }
+  ],
+  "moves": [
+    "wing-attack",
+    "slam",
+    "headbutt",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "supersonic",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "bubble-beam",
+    "earthquake",
+    "toxic",
+    "agility",
+    "double-team",
+    "confuse-ray",
+    "haze",
+    "waterfall",
+    "swift",
+    "amnesia",
+    "bubble",
+    "splash",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "mud-slap",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "mirror-coat",
+    "whirlpool",
+    "hail",
+    "facade",
+    "helping-hand",
+    "secret-power",
+    "dive",
+    "mud-sport",
+    "air-cutter",
+    "signal-beam",
+    "aerial-ace",
+    "bounce",
+    "water-sport",
+    "water-pulse",
+    "roost",
+    "natural-gift",
+    "tailwind",
+    "aqua-ring",
+    "air-slash",
+    "captivate",
+    "wide-guard",
+    "round",
+    "scald",
+    "acrobatics",
+    "bulldoze",
+    "confide"
+  ],
+  "evolution": [
+    {
+      "id": 458,
+      "name": "mantyke",
+      "details": []
+    },
+    {
+      "id": 226,
+      "name": "mantine",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": "remoraid",
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": true,
+  "genus": "Kite Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 25,
+  "color": "blue",
+  "shape": "wings",
+  "growth_rate": "slow",
+  "base_experience": 69,
+  "order": 326,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "mantyke"
+  ],
+  "gender_rate": 4
+}

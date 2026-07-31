@@ -1,0 +1,208 @@
+{
+  "id": 671,
+  "name": "florges",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.1 m",
+  "weight": "10 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/671_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/671_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 78
+    },
+    {
+      "name": "attack",
+      "value": 65
+    },
+    {
+      "name": "defense",
+      "value": 68
+    },
+    {
+      "name": "special-attack",
+      "value": 112
+    },
+    {
+      "name": "special-defense",
+      "value": 154
+    },
+    {
+      "name": "speed",
+      "value": 75
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flower-veil",
+      "hidden": false,
+      "entries": "Protects friendly Grass Pokémon from having their stats lowered by other Pokémon."
+    },
+    {
+      "name": "symbiosis",
+      "hidden": true,
+      "entries": "Passes the bearer's held item to an ally when the ally uses up its item."
+    }
+  ],
+  "moves": [
+    "hyper-beam",
+    "solar-beam",
+    "petal-dance",
+    "toxic",
+    "psychic",
+    "double-team",
+    "light-screen",
+    "metronome",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "frustration",
+    "safeguard",
+    "baton-pass",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "nature-power",
+    "helping-hand",
+    "trick",
+    "wish",
+    "magic-coat",
+    "endeavor",
+    "skill-swap",
+    "secret-power",
+    "aromatherapy",
+    "covet",
+    "magical-leaf",
+    "calm-mind",
+    "lucky-chant",
+    "copycat",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "giga-impact",
+    "defog",
+    "grass-knot",
+    "after-you",
+    "round",
+    "echoed-voice",
+    "stored-power",
+    "ally-switch",
+    "petal-blizzard",
+    "disarming-voice",
+    "draining-kiss",
+    "flower-shield",
+    "grassy-terrain",
+    "misty-terrain",
+    "moonblast",
+    "confide",
+    "dazzling-gleam",
+    "pollen-puff",
+    "tearful-look",
+    "misty-explosion",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water",
+    "alluring-voice",
+    "psychic-noise"
+  ],
+  "evolution": [
+    {
+      "id": 669,
+      "name": "flabebe",
+      "details": []
+    },
+    {
+      "id": 670,
+      "name": "floette",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 19,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 671,
+      "name": "florges",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "shiny-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Garden Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "white",
+  "shape": "arms",
+  "growth_rate": "medium",
+  "base_experience": 248,
+  "order": 804,
+  "egg_groups": [
+    "fairy"
+  ],
+  "forms": [
+    "florges-red",
+    "florges-yellow",
+    "florges-orange",
+    "florges-blue",
+    "florges-white"
+  ],
+  "gender_rate": 8
+}

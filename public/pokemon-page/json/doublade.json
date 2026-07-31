@@ -1,0 +1,181 @@
+{
+  "id": 680,
+  "name": "doublade",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.8 m",
+  "weight": "4.5 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "steel",
+    "ghost"
+  ],
+  "artwork": "assets/artwork/front/680_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/680_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 59
+    },
+    {
+      "name": "attack",
+      "value": 110
+    },
+    {
+      "name": "defense",
+      "value": 150
+    },
+    {
+      "name": "special-attack",
+      "value": 45
+    },
+    {
+      "name": "special-defense",
+      "value": 49
+    },
+    {
+      "name": "speed",
+      "value": 35
+    }
+  ],
+  "abilities": [
+    {
+      "name": "no-guard",
+      "hidden": false,
+      "entries": "Ensures all moves used by and against the Pokémon hit."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "tackle",
+    "toxic",
+    "screech",
+    "double-team",
+    "reflect",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "snore",
+    "reversal",
+    "spite",
+    "protect",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pursuit",
+    "hidden-power",
+    "rain-dance",
+    "rock-smash",
+    "facade",
+    "brick-break",
+    "secret-power",
+    "metal-sound",
+    "aerial-ace",
+    "iron-defense",
+    "shock-wave",
+    "gyro-ball",
+    "close-combat",
+    "power-trick",
+    "magnet-rise",
+    "night-slash",
+    "shadow-claw",
+    "shadow-sneak",
+    "psycho-cut",
+    "flash-cannon",
+    "iron-head",
+    "autotomize",
+    "after-you",
+    "round",
+    "retaliate",
+    "sacred-sword",
+    "confide",
+    "solar-blade",
+    "laser-focus",
+    "brutal-swing",
+    "steel-beam"
+  ],
+  "evolution": [
+    {
+      "id": 679,
+      "name": "honedge",
+      "details": []
+    },
+    {
+      "id": 680,
+      "name": "doublade",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 681,
+      "name": "aegislash",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "dusk-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Sword Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 90,
+  "color": "brown",
+  "shape": "heads",
+  "growth_rate": "medium",
+  "base_experience": 157,
+  "order": 814,
+  "egg_groups": [
+    "mineral"
+  ],
+  "forms": [
+    "doublade"
+  ],
+  "gender_rate": 4
+}

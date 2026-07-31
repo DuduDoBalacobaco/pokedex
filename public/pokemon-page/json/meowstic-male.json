@@ -1,0 +1,203 @@
+{
+  "id": 678,
+  "name": "meowstic-male",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.6 m",
+  "weight": "8.5 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "psychic"
+  ],
+  "artwork": "assets/artwork/front/678_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/678_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 74
+    },
+    {
+      "name": "attack",
+      "value": 48
+    },
+    {
+      "name": "defense",
+      "value": 76
+    },
+    {
+      "name": "special-attack",
+      "value": 83
+    },
+    {
+      "name": "special-defense",
+      "value": 81
+    },
+    {
+      "name": "speed",
+      "value": 104
+    }
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "hidden": false,
+      "entries": "Prevents accuracy from being lowered."
+    },
+    {
+      "name": "infiltrator",
+      "hidden": false,
+      "entries": "Bypasses Light Screen, Reflect, and Safeguard."
+    },
+    {
+      "name": "prankster",
+      "hidden": true,
+      "entries": "Raises non-damaging moves' priority by one stage."
+    }
+  ],
+  "moves": [
+    "pay-day",
+    "scratch",
+    "cut",
+    "leer",
+    "psybeam",
+    "hyper-beam",
+    "thunderbolt",
+    "thunder-wave",
+    "dig",
+    "toxic",
+    "confusion",
+    "psychic",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "swift",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "endure",
+    "charm",
+    "swagger",
+    "mean-look",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "frustration",
+    "safeguard",
+    "baton-pass",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "fake-out",
+    "torment",
+    "facade",
+    "helping-hand",
+    "trick",
+    "role-play",
+    "wish",
+    "magic-coat",
+    "recycle",
+    "yawn",
+    "skill-swap",
+    "imprison",
+    "snatch",
+    "secret-power",
+    "fake-tears",
+    "tickle",
+    "signal-beam",
+    "covet",
+    "calm-mind",
+    "shock-wave",
+    "gravity",
+    "miracle-eye",
+    "payback",
+    "sucker-punch",
+    "dark-pulse",
+    "energy-ball",
+    "giga-impact",
+    "nasty-plot",
+    "zen-headbutt",
+    "trick-room",
+    "charge-beam",
+    "wonder-room",
+    "psyshock",
+    "telekinesis",
+    "magic-room",
+    "round",
+    "echoed-voice",
+    "stored-power",
+    "quick-guard",
+    "ally-switch",
+    "work-up",
+    "tail-slap",
+    "disarming-voice",
+    "misty-terrain",
+    "play-rough",
+    "confide",
+    "power-up-punch",
+    "psychic-terrain",
+    "expanding-force",
+    "tera-blast",
+    "trailblaze",
+    "alluring-voice",
+    "psychic-noise"
+  ],
+  "evolution": [
+    {
+      "id": 677,
+      "name": "espurr",
+      "details": []
+    },
+    {
+      "id": 678,
+      "name": "meowstic",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 25,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Constraint Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 75,
+  "color": "blue",
+  "shape": "upright",
+  "growth_rate": "medium",
+  "base_experience": 163,
+  "order": 811,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "meowstic-male"
+  ],
+  "gender_rate": 4
+}

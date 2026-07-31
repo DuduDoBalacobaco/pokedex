@@ -1,0 +1,201 @@
+{
+  "id": 715,
+  "name": "noivern",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.5 m",
+  "weight": "85 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "flying",
+    "dragon"
+  ],
+  "artwork": "assets/artwork/front/715_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/715_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 85
+    },
+    {
+      "name": "attack",
+      "value": 70
+    },
+    {
+      "name": "defense",
+      "value": 80
+    },
+    {
+      "name": "special-attack",
+      "value": 97
+    },
+    {
+      "name": "special-defense",
+      "value": 80
+    },
+    {
+      "name": "speed",
+      "value": 123
+    }
+  ],
+  "abilities": [
+    {
+      "name": "frisk",
+      "hidden": false,
+      "entries": "Reveals an opponent's held item upon entering battle."
+    },
+    {
+      "name": "infiltrator",
+      "hidden": false,
+      "entries": "Bypasses Light Screen, Reflect, and Safeguard."
+    },
+    {
+      "name": "telepathy",
+      "hidden": true,
+      "entries": "Protects against friendly Pokémon's damaging moves."
+    }
+  ],
+  "moves": [
+    "razor-wind",
+    "cut",
+    "gust",
+    "wing-attack",
+    "whirlwind",
+    "fly",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "bite",
+    "supersonic",
+    "flamethrower",
+    "hyper-beam",
+    "absorb",
+    "solar-beam",
+    "toxic",
+    "psychic",
+    "agility",
+    "screech",
+    "double-team",
+    "swift",
+    "dream-eater",
+    "leech-life",
+    "sky-attack",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "scary-face",
+    "outrage",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "moonlight",
+    "hidden-power",
+    "sunny-day",
+    "shadow-ball",
+    "uproar",
+    "heat-wave",
+    "torment",
+    "facade",
+    "taunt",
+    "brick-break",
+    "snatch",
+    "secret-power",
+    "hyper-voice",
+    "air-cutter",
+    "aerial-ace",
+    "dragon-claw",
+    "dragon-dance",
+    "water-pulse",
+    "roost",
+    "tailwind",
+    "u-turn",
+    "dark-pulse",
+    "air-slash",
+    "x-scissor",
+    "dragon-pulse",
+    "dragon-rush",
+    "focus-blast",
+    "switcheroo",
+    "giga-impact",
+    "shadow-claw",
+    "defog",
+    "draco-meteor",
+    "hone-claws",
+    "round",
+    "echoed-voice",
+    "acrobatics",
+    "dragon-tail",
+    "wild-charge",
+    "hurricane",
+    "boomburst",
+    "confide",
+    "laser-focus",
+    "breaking-swipe",
+    "dual-wingbeat",
+    "tera-blast",
+    "dragon-cheer",
+    "psychic-noise"
+  ],
+  "evolution": [
+    {
+      "id": 714,
+      "name": "noibat",
+      "details": []
+    },
+    {
+      "id": 715,
+      "name": "noivern",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 48,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Sound Wave Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "purple",
+  "shape": "wings",
+  "growth_rate": "medium",
+  "base_experience": 187,
+  "order": 855,
+  "egg_groups": [
+    "flying",
+    "dragon"
+  ],
+  "forms": [
+    "noivern"
+  ],
+  "gender_rate": 4
+}

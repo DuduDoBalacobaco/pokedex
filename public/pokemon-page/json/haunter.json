@@ -1,0 +1,226 @@
+{
+  "id": 93,
+  "name": "haunter",
+  "habitat_img": "assets/img/habitats/webp/cave.webp",
+  "habitat_name": "cave",
+  "height": "1.6 m",
+  "weight": "0.1 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "ghost",
+    "poison"
+  ],
+  "artwork": "assets/artwork/front/93_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/93_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 45
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 45
+    },
+    {
+      "name": "special-attack",
+      "value": 115
+    },
+    {
+      "name": "special-defense",
+      "value": 55
+    },
+    {
+      "name": "speed",
+      "value": 95
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "hidden": false,
+      "entries": "Evades Ground moves."
+    }
+  ],
+  "moves": [
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "headbutt",
+    "mega-drain",
+    "thunderbolt",
+    "thunder",
+    "toxic",
+    "psychic",
+    "hypnosis",
+    "rage",
+    "night-shade",
+    "mimic",
+    "double-team",
+    "confuse-ray",
+    "haze",
+    "bide",
+    "metronome",
+    "self-destruct",
+    "lick",
+    "smog",
+    "dream-eater",
+    "poison-gas",
+    "psywave",
+    "explosion",
+    "rest",
+    "substitute",
+    "thief",
+    "nightmare",
+    "snore",
+    "curse",
+    "spite",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "zap-cannon",
+    "destiny-bond",
+    "icy-wind",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "mean-look",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "encore",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "uproar",
+    "torment",
+    "will-o-wisp",
+    "facade",
+    "taunt",
+    "trick",
+    "knock-off",
+    "skill-swap",
+    "imprison",
+    "snatch",
+    "secret-power",
+    "astonish",
+    "shadow-punch",
+    "natural-gift",
+    "payback",
+    "embargo",
+    "fling",
+    "sucker-punch",
+    "toxic-spikes",
+    "poison-jab",
+    "dark-pulse",
+    "focus-blast",
+    "energy-ball",
+    "nasty-plot",
+    "shadow-claw",
+    "trick-room",
+    "gunk-shot",
+    "captivate",
+    "ominous-wind",
+    "wonder-room",
+    "venoshock",
+    "telekinesis",
+    "sludge-wave",
+    "acid-spray",
+    "foul-play",
+    "round",
+    "ally-switch",
+    "hex",
+    "phantom-force",
+    "confide",
+    "dazzling-gleam",
+    "infestation",
+    "skitter-smack",
+    "poltergeist",
+    "corrosive-gas",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 92,
+      "name": "gastly",
+      "details": []
+    },
+    {
+      "id": 93,
+      "name": "haunter",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 25,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "name": "gengar",
+      "details": [
+        {
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Gas Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 90,
+  "color": "purple",
+  "shape": "arms",
+  "growth_rate": "medium-slow",
+  "base_experience": 142,
+  "order": 148,
+  "egg_groups": [
+    "indeterminate"
+  ],
+  "forms": [
+    "haunter"
+  ],
+  "gender_rate": 4
+}

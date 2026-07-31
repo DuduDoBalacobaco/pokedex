@@ -1,0 +1,271 @@
+{
+  "id": 76,
+  "name": "golem",
+  "habitat_img": "assets/img/habitats/webp/mountain.webp",
+  "habitat_name": "mountain",
+  "height": "1.4 m",
+  "weight": "300 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "rock",
+    "ground"
+  ],
+  "artwork": "assets/artwork/front/76_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/76_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 80
+    },
+    {
+      "name": "attack",
+      "value": 120
+    },
+    {
+      "name": "defense",
+      "value": 130
+    },
+    {
+      "name": "special-attack",
+      "value": 55
+    },
+    {
+      "name": "special-defense",
+      "value": 65
+    },
+    {
+      "name": "speed",
+      "value": 45
+    }
+  ],
+  "abilities": [
+    {
+      "name": "rock-head",
+      "hidden": false,
+      "entries": "Protects against recoil damage."
+    },
+    {
+      "name": "sturdy",
+      "hidden": false,
+      "entries": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    },
+    {
+      "name": "sand-veil",
+      "hidden": true,
+      "entries": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "thunder-punch",
+    "mega-kick",
+    "sand-attack",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "roar",
+    "flamethrower",
+    "hyper-beam",
+    "submission",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "rock-throw",
+    "earthquake",
+    "fissure",
+    "dig",
+    "toxic",
+    "rage",
+    "mimic",
+    "double-team",
+    "harden",
+    "defense-curl",
+    "bide",
+    "metronome",
+    "self-destruct",
+    "fire-blast",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "flail",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "magnitude",
+    "dynamic-punch",
+    "hidden-power",
+    "sunny-day",
+    "ancient-power",
+    "rock-smash",
+    "facade",
+    "focus-punch",
+    "nature-power",
+    "superpower",
+    "brick-break",
+    "secret-power",
+    "mud-sport",
+    "rock-tomb",
+    "iron-defense",
+    "block",
+    "mud-shot",
+    "rock-blast",
+    "hammer-arm",
+    "gyro-ball",
+    "natural-gift",
+    "fling",
+    "sucker-punch",
+    "rock-polish",
+    "focus-blast",
+    "earth-power",
+    "giga-impact",
+    "rock-climb",
+    "iron-head",
+    "stone-edge",
+    "captivate",
+    "stealth-rock",
+    "wide-guard",
+    "smack-down",
+    "heavy-slam",
+    "round",
+    "incinerate",
+    "bulldoze",
+    "steamroller",
+    "confide",
+    "power-up-punch",
+    "high-horsepower",
+    "stomping-tantrum",
+    "body-press",
+    "tera-blast",
+    "hard-press"
+  ],
+  "evolution": [
+    {
+      "id": 74,
+      "name": "geodude",
+      "details": []
+    },
+    {
+      "id": 75,
+      "name": "graveler",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 25,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "level-up",
+          "min_level": 25,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "golem",
+      "details": [
+        {
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Megaton Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "brown",
+  "shape": "humanoid",
+  "growth_rate": "medium-slow",
+  "base_experience": 223,
+  "order": 119,
+  "egg_groups": [
+    "mineral"
+  ],
+  "forms": [
+    "golem"
+  ],
+  "gender_rate": 4
+}

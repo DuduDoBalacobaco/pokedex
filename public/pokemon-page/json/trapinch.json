@@ -1,0 +1,200 @@
+{
+  "id": 328,
+  "name": "trapinch",
+  "habitat_img": "assets/img/habitats/webp/rough-terrain.webp",
+  "habitat_name": "rough-terrain",
+  "height": "0.7 m",
+  "weight": "15 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "ground"
+  ],
+  "artwork": "assets/artwork/front/328_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/328_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 45
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 45
+    },
+    {
+      "name": "special-attack",
+      "value": 45
+    },
+    {
+      "name": "special-defense",
+      "value": 45
+    },
+    {
+      "name": "speed",
+      "value": 10
+    }
+  ],
+  "abilities": [
+    {
+      "name": "hyper-cutter",
+      "hidden": false,
+      "entries": "Prevents Attack from being lowered by other Pokémon."
+    },
+    {
+      "name": "arena-trap",
+      "hidden": false,
+      "entries": "Prevents opponents from fleeing or switching out.  Eluded by Flying-types and Pokémon in the air."
+    },
+    {
+      "name": "sheer-force",
+      "hidden": true,
+      "entries": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    }
+  ],
+  "moves": [
+    "gust",
+    "sand-attack",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "bite",
+    "hyper-beam",
+    "strength",
+    "solar-beam",
+    "earthquake",
+    "fissure",
+    "dig",
+    "toxic",
+    "quick-attack",
+    "mimic",
+    "double-team",
+    "focus-energy",
+    "bide",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "feint-attack",
+    "mud-slap",
+    "sandstorm",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "sunny-day",
+    "crunch",
+    "rock-smash",
+    "facade",
+    "superpower",
+    "secret-power",
+    "astonish",
+    "rock-tomb",
+    "signal-beam",
+    "sand-tomb",
+    "mud-shot",
+    "natural-gift",
+    "feint",
+    "earth-power",
+    "stone-edge",
+    "captivate",
+    "stealth-rock",
+    "bug-bite",
+    "round",
+    "struggle-bug",
+    "bulldoze",
+    "confide",
+    "first-impression",
+    "laser-focus",
+    "scorching-sands",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 328,
+      "name": "trapinch",
+      "details": []
+    },
+    {
+      "id": 329,
+      "name": "vibrava",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 330,
+      "name": "flygon",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 45,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Ant Pit Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 255,
+  "color": "brown",
+  "shape": "armor",
+  "growth_rate": "medium-slow",
+  "base_experience": 58,
+  "order": 440,
+  "egg_groups": [
+    "bug",
+    "dragon"
+  ],
+  "forms": [
+    "trapinch"
+  ],
+  "gender_rate": 4
+}

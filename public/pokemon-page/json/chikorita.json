@@ -1,0 +1,208 @@
+{
+  "id": 152,
+  "name": "chikorita",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "0.9 m",
+  "weight": "6.4 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/152_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/152_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 45
+    },
+    {
+      "name": "attack",
+      "value": 49
+    },
+    {
+      "name": "defense",
+      "value": 65
+    },
+    {
+      "name": "special-attack",
+      "value": 49
+    },
+    {
+      "name": "special-defense",
+      "value": 65
+    },
+    {
+      "name": "speed",
+      "value": 45
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "hidden": false,
+      "entries": "Strengthens Grass moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "leaf-guard",
+      "hidden": true,
+      "entries": "Protects against major status ailments during strong sunlight."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "vine-whip",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "counter",
+    "leech-seed",
+    "razor-leaf",
+    "solar-beam",
+    "poison-powder",
+    "toxic",
+    "mimic",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "flail",
+    "protect",
+    "mud-slap",
+    "detect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "encore",
+    "sweet-scent",
+    "iron-tail",
+    "synthesis",
+    "hidden-power",
+    "sunny-day",
+    "ancient-power",
+    "facade",
+    "nature-power",
+    "helping-hand",
+    "ingrain",
+    "magic-coat",
+    "refresh",
+    "secret-power",
+    "aromatherapy",
+    "fake-tears",
+    "grass-whistle",
+    "bullet-seed",
+    "magical-leaf",
+    "natural-gift",
+    "wring-out",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "leaf-storm",
+    "captivate",
+    "grass-knot",
+    "round",
+    "echoed-voice",
+    "heal-pulse",
+    "grass-pledge",
+    "work-up",
+    "grassy-terrain",
+    "confide",
+    "solar-blade",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 152,
+      "name": "chikorita",
+      "details": []
+    },
+    {
+      "id": 153,
+      "name": "bayleef",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 16,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "name": "meganium",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 32,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Leaf Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "green",
+  "shape": "quadruped",
+  "growth_rate": "medium-slow",
+  "base_experience": 64,
+  "order": 249,
+  "egg_groups": [
+    "monster",
+    "plant"
+  ],
+  "forms": [
+    "chikorita"
+  ],
+  "gender_rate": 1
+}

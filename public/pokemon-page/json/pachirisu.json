@@ -1,0 +1,178 @@
+{
+  "id": 417,
+  "name": "pachirisu",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.4 m",
+  "weight": "3.9 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/417_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/417_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 45
+    },
+    {
+      "name": "defense",
+      "value": 70
+    },
+    {
+      "name": "special-attack",
+      "value": 45
+    },
+    {
+      "name": "special-defense",
+      "value": 90
+    },
+    {
+      "name": "speed",
+      "value": 95
+    }
+  ],
+  "abilities": [
+    {
+      "name": "run-away",
+      "hidden": false,
+      "entries": "Ensures success fleeing from wild battles."
+    },
+    {
+      "name": "pickup",
+      "hidden": false,
+      "entries": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+    },
+    {
+      "name": "volt-absorb",
+      "hidden": true,
+      "entries": "Absorbs Electric moves, healing for 1/4 max HP."
+    }
+  ],
+  "moves": [
+    "thunder-punch",
+    "cut",
+    "headbutt",
+    "take-down",
+    "tail-whip",
+    "bite",
+    "growl",
+    "hyper-beam",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "dig",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "double-team",
+    "defense-curl",
+    "light-screen",
+    "bide",
+    "swift",
+    "flash",
+    "rest",
+    "hyper-fang",
+    "super-fang",
+    "substitute",
+    "thief",
+    "snore",
+    "flail",
+    "protect",
+    "sweet-kiss",
+    "mud-slap",
+    "endure",
+    "charm",
+    "rollout",
+    "swagger",
+    "spark",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "encore",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "uproar",
+    "flatter",
+    "facade",
+    "follow-me",
+    "charge",
+    "helping-hand",
+    "endeavor",
+    "secret-power",
+    "fake-tears",
+    "aerial-ace",
+    "mud-shot",
+    "covet",
+    "shock-wave",
+    "natural-gift",
+    "u-turn",
+    "fling",
+    "last-resort",
+    "magnet-rise",
+    "seed-bomb",
+    "giga-impact",
+    "thunder-fang",
+    "discharge",
+    "gunk-shot",
+    "captivate",
+    "grass-knot",
+    "charge-beam",
+    "electro-ball",
+    "round",
+    "echoed-voice",
+    "bestow",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "ion-deluge",
+    "play-rough",
+    "confide",
+    "eerie-impulse",
+    "electric-terrain",
+    "baby-doll-eyes",
+    "nuzzle",
+    "laser-focus",
+    "tera-blast",
+    "trailblaze",
+    "alluring-voice"
+  ],
+  "evolution": [
+    {
+      "id": 417,
+      "name": "pachirisu",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "EleSquirrel Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 100,
+  "capture_rate": 200,
+  "color": "white",
+  "shape": "quadruped",
+  "growth_rate": "medium",
+  "base_experience": 142,
+  "order": 548,
+  "egg_groups": [
+    "ground",
+    "fairy"
+  ],
+  "forms": [
+    "pachirisu"
+  ],
+  "gender_rate": 4
+}

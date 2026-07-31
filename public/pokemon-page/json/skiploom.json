@@ -1,0 +1,213 @@
+{
+  "id": 188,
+  "name": "skiploom",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "0.6 m",
+  "weight": "1 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "grass",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/188_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/188_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 55
+    },
+    {
+      "name": "attack",
+      "value": 45
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 45
+    },
+    {
+      "name": "special-defense",
+      "value": 65
+    },
+    {
+      "name": "speed",
+      "value": 80
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "hidden": false,
+      "entries": "Doubles Speed during strong sunlight."
+    },
+    {
+      "name": "leaf-guard",
+      "hidden": false,
+      "entries": "Protects against major status ailments during strong sunlight."
+    },
+    {
+      "name": "infiltrator",
+      "hidden": true,
+      "entries": "Bypasses Light Screen, Reflect, and Safeguard."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "headbutt",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "sleep-powder",
+    "toxic",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "light-screen",
+    "reflect",
+    "flash",
+    "splash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "cotton-spore",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "baton-pass",
+    "encore",
+    "sweet-scent",
+    "synthesis",
+    "hidden-power",
+    "sunny-day",
+    "psych-up",
+    "memento",
+    "facade",
+    "helping-hand",
+    "endeavor",
+    "secret-power",
+    "silver-wind",
+    "bullet-seed",
+    "aerial-ace",
+    "bounce",
+    "magical-leaf",
+    "natural-gift",
+    "tailwind",
+    "u-turn",
+    "fling",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "leaf-storm",
+    "captivate",
+    "grass-knot",
+    "rage-powder",
+    "round",
+    "acrobatics",
+    "grassy-terrain",
+    "fairy-wind",
+    "confide",
+    "dazzling-gleam",
+    "infestation",
+    "pollen-puff",
+    "lunge",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 187,
+      "name": "hoppip",
+      "details": []
+    },
+    {
+      "id": 188,
+      "name": "skiploom",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 18,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "name": "jumpluff",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 27,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Cottonweed Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 120,
+  "color": "green",
+  "shape": "upright",
+  "growth_rate": "medium-slow",
+  "base_experience": 119,
+  "order": 283,
+  "egg_groups": [
+    "fairy",
+    "plant"
+  ],
+  "forms": [
+    "skiploom"
+  ],
+  "gender_rate": 4
+}

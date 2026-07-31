@@ -1,0 +1,152 @@
+{
+  "id": 632,
+  "name": "durant",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "33 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "bug",
+    "steel"
+  ],
+  "artwork": "assets/artwork/front/632_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/632_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 58
+    },
+    {
+      "name": "attack",
+      "value": 109
+    },
+    {
+      "name": "defense",
+      "value": 112
+    },
+    {
+      "name": "special-attack",
+      "value": 48
+    },
+    {
+      "name": "special-defense",
+      "value": 48
+    },
+    {
+      "name": "speed",
+      "value": 109
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swarm",
+      "hidden": false,
+      "entries": "Strengthens Bug moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "hustle",
+      "hidden": false,
+      "entries": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    },
+    {
+      "name": "truant",
+      "hidden": true,
+      "entries": "Skips every second turn."
+    }
+  ],
+  "moves": [
+    "vice-grip",
+    "guillotine",
+    "cut",
+    "sand-attack",
+    "bite",
+    "strength",
+    "thunder-wave",
+    "dig",
+    "toxic",
+    "agility",
+    "screech",
+    "double-team",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "feint-attack",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "baton-pass",
+    "metal-claw",
+    "hidden-power",
+    "crunch",
+    "rock-smash",
+    "beat-up",
+    "facade",
+    "helping-hand",
+    "superpower",
+    "endeavor",
+    "secret-power",
+    "rock-tomb",
+    "metal-sound",
+    "aerial-ace",
+    "iron-defense",
+    "metal-burst",
+    "rock-polish",
+    "x-scissor",
+    "energy-ball",
+    "giga-impact",
+    "shadow-claw",
+    "thunder-fang",
+    "flash-cannon",
+    "rock-climb",
+    "iron-head",
+    "stone-edge",
+    "bug-bite",
+    "hone-claws",
+    "entrainment",
+    "round",
+    "retaliate",
+    "struggle-bug",
+    "confide",
+    "infestation",
+    "first-impression",
+    "stomping-tantrum",
+    "steel-beam",
+    "skitter-smack"
+  ],
+  "evolution": [
+    {
+      "id": 632,
+      "name": "durant",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Iron Ant Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 90,
+  "color": "gray",
+  "shape": "armor",
+  "growth_rate": "medium",
+  "base_experience": 169,
+  "order": 755,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "durant"
+  ],
+  "gender_rate": 4
+}

@@ -103,7 +103,7 @@ export const pokedex = (pokemons, filtro = true, region)=> {
         card.style.backgroundImage = `url(${pokemon.habitat})`
 
         card.addEventListener('click', () => {
-            window.location.href = `/pokemon/${pokemon.id}`
+            window.location.href = `/pokemon/${pokemon.name}`
         })
 
         const id = Number(pokemon.id)

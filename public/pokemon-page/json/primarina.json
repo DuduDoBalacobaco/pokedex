@@ -1,0 +1,221 @@
+{
+  "id": 730,
+  "name": "primarina",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.8 m",
+  "weight": "44 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "water",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/730_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/730_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 80
+    },
+    {
+      "name": "attack",
+      "value": 74
+    },
+    {
+      "name": "defense",
+      "value": 74
+    },
+    {
+      "name": "special-attack",
+      "value": 126
+    },
+    {
+      "name": "special-defense",
+      "value": 116
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "torrent",
+      "hidden": false,
+      "entries": "Strengthens Water moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "liquid-voice",
+      "hidden": true,
+      "entries": "Sound-based moves become Water-type."
+    }
+  ],
+  "moves": [
+    "pound",
+    "double-slap",
+    "body-slam",
+    "growl",
+    "sing",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "bubble-beam",
+    "hyper-beam",
+    "toxic",
+    "psychic",
+    "double-team",
+    "light-screen",
+    "haze",
+    "reflect",
+    "waterfall",
+    "swift",
+    "amnesia",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "perish-song",
+    "icy-wind",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "encore",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "psych-up",
+    "shadow-ball",
+    "whirlpool",
+    "uproar",
+    "hail",
+    "facade",
+    "helping-hand",
+    "magic-coat",
+    "dive",
+    "hyper-voice",
+    "hydro-cannon",
+    "weather-ball",
+    "covet",
+    "calm-mind",
+    "water-pulse",
+    "brine",
+    "aqua-ring",
+    "aqua-tail",
+    "energy-ball",
+    "giga-impact",
+    "captivate",
+    "aqua-jet",
+    "wonder-room",
+    "round",
+    "echoed-voice",
+    "stored-power",
+    "scald",
+    "acrobatics",
+    "water-pledge",
+    "work-up",
+    "disarming-voice",
+    "draining-kiss",
+    "misty-terrain",
+    "play-rough",
+    "moonblast",
+    "confide",
+    "dazzling-gleam",
+    "baby-doll-eyes",
+    "sparkling-aria",
+    "liquidation",
+    "life-dew",
+    "misty-explosion",
+    "flip-turn",
+    "triple-axel",
+    "tera-blast",
+    "ice-spinner",
+    "snowscape",
+    "chilling-water",
+    "alluring-voice",
+    "psychic-noise"
+  ],
+  "evolution": [
+    {
+      "id": 728,
+      "name": "popplio",
+      "details": []
+    },
+    {
+      "id": 729,
+      "name": "brionne",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 17,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 730,
+      "name": "primarina",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 34,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Soloist Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "blue",
+  "shape": "fish",
+  "growth_rate": "medium-slow",
+  "base_experience": 239,
+  "order": 876,
+  "egg_groups": [
+    "water1",
+    "ground"
+  ],
+  "forms": [
+    "primarina"
+  ],
+  "gender_rate": 1
+}

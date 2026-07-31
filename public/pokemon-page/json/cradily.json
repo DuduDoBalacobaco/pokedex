@@ -1,0 +1,186 @@
+{
+  "id": 346,
+  "name": "cradily",
+  "habitat_img": "assets/img/habitats/webp/sea.webp",
+  "habitat_name": "sea",
+  "height": "1.5 m",
+  "weight": "60.4 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "rock",
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/346_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/346_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 86
+    },
+    {
+      "name": "attack",
+      "value": 81
+    },
+    {
+      "name": "defense",
+      "value": 97
+    },
+    {
+      "name": "special-attack",
+      "value": 81
+    },
+    {
+      "name": "special-defense",
+      "value": 107
+    },
+    {
+      "name": "speed",
+      "value": 43
+    }
+  ],
+  "abilities": [
+    {
+      "name": "suction-cups",
+      "hidden": false,
+      "entries": "Prevents being forced out of battle by other Pokémon's moves."
+    },
+    {
+      "name": "storm-drain",
+      "hidden": true,
+      "entries": "Redirects single-target Water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "bind",
+    "headbutt",
+    "body-slam",
+    "wrap",
+    "double-edge",
+    "acid",
+    "hyper-beam",
+    "strength",
+    "mega-drain",
+    "leech-seed",
+    "solar-beam",
+    "string-shot",
+    "earthquake",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "confuse-ray",
+    "constrict",
+    "amnesia",
+    "flash",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "sandstorm",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "synthesis",
+    "hidden-power",
+    "sunny-day",
+    "psych-up",
+    "ancient-power",
+    "rock-smash",
+    "stockpile",
+    "spit-up",
+    "swallow",
+    "facade",
+    "ingrain",
+    "secret-power",
+    "astonish",
+    "rock-tomb",
+    "bullet-seed",
+    "block",
+    "mud-shot",
+    "rock-blast",
+    "brine",
+    "natural-gift",
+    "wring-out",
+    "gastro-acid",
+    "worry-seed",
+    "rock-polish",
+    "seed-bomb",
+    "energy-ball",
+    "earth-power",
+    "giga-impact",
+    "power-whip",
+    "stone-edge",
+    "captivate",
+    "stealth-rock",
+    "grass-knot",
+    "smack-down",
+    "sludge-wave",
+    "round",
+    "bulldoze",
+    "grassy-terrain",
+    "confide",
+    "infestation",
+    "meteor-beam"
+  ],
+  "evolution": [
+    {
+      "id": 345,
+      "name": "lileep",
+      "details": []
+    },
+    {
+      "id": 346,
+      "name": "cradily",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 40,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Barnacle Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "green",
+  "shape": "blob",
+  "growth_rate": "slow-then-very-fast",
+  "base_experience": 173,
+  "order": 459,
+  "egg_groups": [
+    "water3"
+  ],
+  "forms": [
+    "cradily"
+  ],
+  "gender_rate": 1
+}

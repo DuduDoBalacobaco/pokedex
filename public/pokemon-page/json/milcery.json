@@ -1,0 +1,134 @@
+{
+  "id": 868,
+  "name": "milcery",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.2 m",
+  "weight": "0.3 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/868_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/868_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 45
+    },
+    {
+      "name": "attack",
+      "value": 40
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 61
+    },
+    {
+      "name": "speed",
+      "value": 34
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sweet-veil",
+      "hidden": false,
+      "entries": "Prevents friendly Pokémon from sleeping."
+    },
+    {
+      "name": "aroma-veil",
+      "hidden": true,
+      "entries": "Protects allies against moves that affect their mental state."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "recover",
+    "acid-armor",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "sweet-kiss",
+    "endure",
+    "charm",
+    "attract",
+    "sleep-talk",
+    "sweet-scent",
+    "facade",
+    "helping-hand",
+    "aromatherapy",
+    "fling",
+    "last-resort",
+    "entrainment",
+    "round",
+    "stored-power",
+    "draining-kiss",
+    "misty-terrain",
+    "aromatic-mist",
+    "dazzling-gleam",
+    "baby-doll-eyes",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 868,
+      "name": "milcery",
+      "details": []
+    },
+    {
+      "id": 869,
+      "name": "alcremie",
+      "details": [
+        {
+          "trigger": "spin",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Cream Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 200,
+  "color": "white",
+  "shape": "ball",
+  "growth_rate": "medium",
+  "base_experience": 54,
+  "order": 1052,
+  "egg_groups": [
+    "fairy",
+    "indeterminate"
+  ],
+  "forms": [
+    "milcery"
+  ],
+  "gender_rate": 8
+}

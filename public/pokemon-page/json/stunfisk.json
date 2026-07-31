@@ -1,0 +1,162 @@
+{
+  "id": 618,
+  "name": "stunfisk",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.7 m",
+  "weight": "11 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "ground",
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/618_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/618_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 109
+    },
+    {
+      "name": "attack",
+      "value": 66
+    },
+    {
+      "name": "defense",
+      "value": 84
+    },
+    {
+      "name": "special-attack",
+      "value": 81
+    },
+    {
+      "name": "special-defense",
+      "value": 99
+    },
+    {
+      "name": "speed",
+      "value": 32
+    }
+  ],
+  "abilities": [
+    {
+      "name": "static",
+      "hidden": false,
+      "entries": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+    },
+    {
+      "name": "limber",
+      "hidden": false,
+      "entries": "Prevents paralysis."
+    },
+    {
+      "name": "sand-veil",
+      "hidden": true,
+      "entries": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "water-gun",
+    "surf",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "earthquake",
+    "fissure",
+    "dig",
+    "toxic",
+    "double-team",
+    "bide",
+    "flash",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "flail",
+    "spite",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "spark",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "hidden-power",
+    "rain-dance",
+    "uproar",
+    "facade",
+    "charge",
+    "revenge",
+    "yawn",
+    "endeavor",
+    "secret-power",
+    "camouflage",
+    "mud-sport",
+    "astonish",
+    "rock-tomb",
+    "muddy-water",
+    "bounce",
+    "mud-shot",
+    "shock-wave",
+    "water-pulse",
+    "payback",
+    "me-first",
+    "sucker-punch",
+    "magnet-rise",
+    "aqua-tail",
+    "earth-power",
+    "mud-bomb",
+    "discharge",
+    "stone-edge",
+    "stealth-rock",
+    "sludge-wave",
+    "foul-play",
+    "round",
+    "scald",
+    "reflect-type",
+    "bulldoze",
+    "electroweb",
+    "confide",
+    "eerie-impulse",
+    "electric-terrain",
+    "infestation",
+    "stomping-tantrum",
+    "lash-out"
+  ],
+  "evolution": [
+    {
+      "id": 618,
+      "name": "stunfisk",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Trap Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 75,
+  "color": "brown",
+  "shape": "fish",
+  "growth_rate": "medium",
+  "base_experience": 165,
+  "order": 740,
+  "egg_groups": [
+    "water1",
+    "indeterminate"
+  ],
+  "forms": [
+    "stunfisk"
+  ],
+  "gender_rate": 4
+}

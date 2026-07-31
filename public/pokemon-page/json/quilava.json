@@ -1,0 +1,246 @@
+{
+  "id": 156,
+  "name": "quilava",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "0.9 m",
+  "weight": "19 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "fire"
+  ],
+  "artwork": "assets/artwork/front/156_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/156_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 58
+    },
+    {
+      "name": "attack",
+      "value": 64
+    },
+    {
+      "name": "defense",
+      "value": 58
+    },
+    {
+      "name": "special-attack",
+      "value": 80
+    },
+    {
+      "name": "special-defense",
+      "value": 65
+    },
+    {
+      "name": "speed",
+      "value": 80
+    }
+  ],
+  "abilities": [
+    {
+      "name": "blaze",
+      "hidden": false,
+      "entries": "Strengthens Fire moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "flash-fire",
+      "hidden": true,
+      "entries": "Protects against Fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+    }
+  ],
+  "moves": [
+    "cut",
+    "double-kick",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "roar",
+    "ember",
+    "flamethrower",
+    "strength",
+    "fire-spin",
+    "dig",
+    "toxic",
+    "quick-attack",
+    "mimic",
+    "double-team",
+    "smokescreen",
+    "defense-curl",
+    "fire-blast",
+    "swift",
+    "rest",
+    "substitute",
+    "flame-wheel",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "mud-slap",
+    "detect",
+    "endure",
+    "rollout",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "sunny-day",
+    "rock-smash",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "focus-punch",
+    "nature-power",
+    "brick-break",
+    "endeavor",
+    "eruption",
+    "secret-power",
+    "overheat",
+    "extrasensory",
+    "aerial-ace",
+    "howl",
+    "covet",
+    "natural-gift",
+    "flare-blitz",
+    "fire-fang",
+    "zen-headbutt",
+    "lava-plume",
+    "iron-head",
+    "captivate",
+    "flame-charge",
+    "round",
+    "incinerate",
+    "inferno",
+    "fire-pledge",
+    "work-up",
+    "wild-charge",
+    "play-rough",
+    "confide",
+    "burn-up",
+    "burning-jealousy",
+    "tera-blast",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 155,
+      "name": "cyndaquil",
+      "details": []
+    },
+    {
+      "id": 156,
+      "name": "quilava",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 14,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "level-up",
+          "min_level": 17,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "name": "typhlosion",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Volcano Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "yellow",
+  "shape": "quadruped",
+  "growth_rate": "medium-slow",
+  "base_experience": 142,
+  "order": 253,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "quilava"
+  ],
+  "gender_rate": 1
+}

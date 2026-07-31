@@ -1,0 +1,143 @@
+{
+  "id": 479,
+  "name": "rotom",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "0.3 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "electric",
+    "ghost"
+  ],
+  "artwork": "assets/artwork/front/479_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/479_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 77
+    },
+    {
+      "name": "special-attack",
+      "value": 95
+    },
+    {
+      "name": "special-defense",
+      "value": 77
+    },
+    {
+      "name": "speed",
+      "value": 91
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "hidden": false,
+      "entries": "Evades Ground moves."
+    }
+  ],
+  "moves": [
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "night-shade",
+    "double-team",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "swift",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "spite",
+    "protect",
+    "mud-slap",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "uproar",
+    "will-o-wisp",
+    "facade",
+    "charge",
+    "helping-hand",
+    "trick",
+    "snatch",
+    "secret-power",
+    "hyper-voice",
+    "astonish",
+    "signal-beam",
+    "shock-wave",
+    "natural-gift",
+    "sucker-punch",
+    "dark-pulse",
+    "nasty-plot",
+    "defog",
+    "discharge",
+    "charge-beam",
+    "ominous-wind",
+    "telekinesis",
+    "electro-ball",
+    "foul-play",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "hex",
+    "volt-switch",
+    "electroweb",
+    "confide",
+    "eerie-impulse",
+    "electric-terrain",
+    "rising-voltage",
+    "poltergeist",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 479,
+      "name": "rotom",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Plasma Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "red",
+  "shape": "ball",
+  "growth_rate": "medium",
+  "base_experience": 154,
+  "order": 587,
+  "egg_groups": [
+    "indeterminate"
+  ],
+  "forms": [
+    "rotom"
+  ],
+  "gender_rate": -1
+}

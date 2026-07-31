@@ -1,0 +1,123 @@
+{
+  "id": 894,
+  "name": "regieleki",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.2 m",
+  "weight": "145 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/894_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/894_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 80
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 100
+    },
+    {
+      "name": "special-defense",
+      "value": 50
+    },
+    {
+      "name": "speed",
+      "value": 200
+    }
+  ],
+  "abilities": [
+    {
+      "name": "transistor",
+      "hidden": false,
+      "entries": "Powers up Electric-type moves."
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "take-down",
+    "thrash",
+    "hyper-beam",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "agility",
+    "screech",
+    "light-screen",
+    "reflect",
+    "self-destruct",
+    "swift",
+    "explosion",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "zap-cannon",
+    "lock-on",
+    "endure",
+    "sleep-talk",
+    "rapid-spin",
+    "rain-dance",
+    "extreme-speed",
+    "ancient-power",
+    "facade",
+    "charge",
+    "bounce",
+    "shock-wave",
+    "assurance",
+    "magnet-rise",
+    "giga-impact",
+    "charge-beam",
+    "electro-ball",
+    "round",
+    "acrobatics",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "eerie-impulse",
+    "electric-terrain",
+    "rising-voltage",
+    "thunder-cage",
+    "tera-blast",
+    "supercell-slam"
+  ],
+  "evolution": [
+    {
+      "id": 894,
+      "name": "regieleki",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Electron Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 35,
+  "capture_rate": 3,
+  "color": "yellow",
+  "shape": "humanoid",
+  "growth_rate": "slow",
+  "base_experience": 290,
+  "order": 1086,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "regieleki"
+  ],
+  "gender_rate": -1
+}

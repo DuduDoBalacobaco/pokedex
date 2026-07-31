@@ -1,0 +1,139 @@
+{
+  "id": 845,
+  "name": "cramorant",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.8 m",
+  "weight": "18 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "flying",
+    "water"
+  ],
+  "artwork": "assets/artwork/front/845_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/845_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 55
+    },
+    {
+      "name": "special-attack",
+      "value": 85
+    },
+    {
+      "name": "special-defense",
+      "value": 95
+    },
+    {
+      "name": "speed",
+      "value": 85
+    }
+  ],
+  "abilities": [
+    {
+      "name": "gulp-missile",
+      "hidden": false,
+      "entries": "If a Cramorant with Gulp Missile uses Surf or Dive, it catches prey and changes its form depending on its remaining HP."
+    }
+  ],
+  "moves": [
+    "fly",
+    "fury-attack",
+    "take-down",
+    "thrash",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "peck",
+    "drill-peck",
+    "agility",
+    "amnesia",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "reversal",
+    "protect",
+    "icy-wind",
+    "endure",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "rain-dance",
+    "whirlpool",
+    "uproar",
+    "stockpile",
+    "spit-up",
+    "swallow",
+    "facade",
+    "superpower",
+    "endeavor",
+    "dive",
+    "feather-dance",
+    "weather-ball",
+    "air-cutter",
+    "aerial-ace",
+    "water-pulse",
+    "roost",
+    "pluck",
+    "tailwind",
+    "assurance",
+    "aqua-ring",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "defog",
+    "round",
+    "scald",
+    "acrobatics",
+    "hurricane",
+    "belch",
+    "throat-chop",
+    "liquidation",
+    "dual-wingbeat",
+    "tera-blast",
+    "pounce",
+    "chilling-water",
+    "aqua-cutter"
+  ],
+  "evolution": [
+    {
+      "id": 845,
+      "name": "cramorant",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Gulp Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 45,
+  "color": "blue",
+  "shape": "wings",
+  "growth_rate": "medium",
+  "base_experience": 166,
+  "order": 1026,
+  "egg_groups": [
+    "water1",
+    "flying"
+  ],
+  "forms": [
+    "cramorant"
+  ],
+  "gender_rate": 4
+}

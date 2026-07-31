@@ -1,0 +1,251 @@
+{
+  "id": 57,
+  "name": "primeape",
+  "habitat_img": "assets/img/habitats/webp/mountain.webp",
+  "habitat_name": "mountain",
+  "height": "1 m",
+  "weight": "32 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/57_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/57_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 65
+    },
+    {
+      "name": "attack",
+      "value": 105
+    },
+    {
+      "name": "defense",
+      "value": 60
+    },
+    {
+      "name": "special-attack",
+      "value": 60
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 95
+    }
+  ],
+  "abilities": [
+    {
+      "name": "vital-spirit",
+      "hidden": false,
+      "entries": "Prevents sleep."
+    },
+    {
+      "name": "anger-point",
+      "hidden": false,
+      "entries": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+    },
+    {
+      "name": "defiant",
+      "hidden": true,
+      "entries": "Raises Attack two stages upon having any stat lowered."
+    }
+  ],
+  "moves": [
+    "karate-chop",
+    "mega-punch",
+    "pay-day",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "scratch",
+    "mega-kick",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "leer",
+    "hyper-beam",
+    "submission",
+    "low-kick",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "thunderbolt",
+    "thunder",
+    "earthquake",
+    "dig",
+    "toxic",
+    "rage",
+    "mimic",
+    "screech",
+    "double-team",
+    "defense-curl",
+    "focus-energy",
+    "bide",
+    "metronome",
+    "swift",
+    "skull-bash",
+    "fury-swipes",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "reversal",
+    "spite",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "detect",
+    "outrage",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dynamic-punch",
+    "encore",
+    "pursuit",
+    "iron-tail",
+    "hidden-power",
+    "cross-chop",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "rock-smash",
+    "uproar",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "helping-hand",
+    "role-play",
+    "brick-break",
+    "endeavor",
+    "secret-power",
+    "overheat",
+    "rock-tomb",
+    "aerial-ace",
+    "bulk-up",
+    "covet",
+    "natural-gift",
+    "u-turn",
+    "close-combat",
+    "payback",
+    "assurance",
+    "fling",
+    "punishment",
+    "poison-jab",
+    "seed-bomb",
+    "drain-punch",
+    "vacuum-wave",
+    "focus-blast",
+    "giga-impact",
+    "shadow-claw",
+    "rock-climb",
+    "gunk-shot",
+    "stone-edge",
+    "captivate",
+    "stealth-rock",
+    "hone-claws",
+    "smack-down",
+    "low-sweep",
+    "round",
+    "acrobatics",
+    "retaliate",
+    "final-gambit",
+    "bulldoze",
+    "work-up",
+    "dual-chop",
+    "confide",
+    "power-up-punch",
+    "throat-chop",
+    "stomping-tantrum",
+    "lash-out",
+    "tera-blast",
+    "rage-fist"
+  ],
+  "evolution": [
+    {
+      "id": 56,
+      "name": "mankey",
+      "details": []
+    },
+    {
+      "id": 57,
+      "name": "primeape",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 28,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 979,
+      "name": "annihilape",
+      "details": [
+        {
+          "trigger": "use-move",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Pig Monkey Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 75,
+  "color": "brown",
+  "shape": "upright",
+  "growth_rate": "medium",
+  "base_experience": 159,
+  "order": 96,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "primeape"
+  ],
+  "gender_rate": 4
+}

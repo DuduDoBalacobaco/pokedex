@@ -1,0 +1,168 @@
+{
+  "id": 945,
+  "name": "grafaiai",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.7 m",
+  "weight": "27.2 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "poison",
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/945_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/945_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 63
+    },
+    {
+      "name": "attack",
+      "value": 95
+    },
+    {
+      "name": "defense",
+      "value": 65
+    },
+    {
+      "name": "special-attack",
+      "value": 80
+    },
+    {
+      "name": "special-defense",
+      "value": 72
+    },
+    {
+      "name": "speed",
+      "value": 110
+    }
+  ],
+  "abilities": [
+    {
+      "name": "unburden",
+      "hidden": false,
+      "entries": "Doubles Speed upon using or losing a held item."
+    },
+    {
+      "name": "poison-touch",
+      "hidden": false,
+      "entries": "Has a 30% chance of poisoning target Pokémon upon contact."
+    },
+    {
+      "name": "prankster",
+      "hidden": true,
+      "entries": "Raises non-damaging moves' priority by one stage."
+    }
+  ],
+  "moves": [
+    "scratch",
+    "swords-dance",
+    "take-down",
+    "double-edge",
+    "leer",
+    "low-kick",
+    "dig",
+    "toxic",
+    "metronome",
+    "fury-swipes",
+    "rest",
+    "super-fang",
+    "slash",
+    "substitute",
+    "thief",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "mud-slap",
+    "endure",
+    "sleep-talk",
+    "baton-pass",
+    "encore",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "flatter",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "knock-off",
+    "endeavor",
+    "poison-fang",
+    "mud-shot",
+    "poison-tail",
+    "u-turn",
+    "fling",
+    "poison-jab",
+    "x-scissor",
+    "switcheroo",
+    "giga-impact",
+    "nasty-plot",
+    "shadow-claw",
+    "gunk-shot",
+    "venoshock",
+    "sludge-wave",
+    "low-sweep",
+    "acid-spray",
+    "foul-play",
+    "acrobatics",
+    "throat-chop",
+    "skitter-smack",
+    "tera-blast",
+    "doodle",
+    "pounce",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 944,
+      "name": "shroodle",
+      "details": []
+    },
+    {
+      "id": 945,
+      "name": "grafaiai",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 28,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Toxic Monkey Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 90,
+  "color": "gray",
+  "shape": "upright",
+  "growth_rate": "medium-slow",
+  "base_experience": 170,
+  "order": 969,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "grafaiai"
+  ],
+  "gender_rate": 4
+}

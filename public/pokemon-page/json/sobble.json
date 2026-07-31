@@ -1,0 +1,178 @@
+{
+  "id": 816,
+  "name": "sobble",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "4 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "water"
+  ],
+  "artwork": "assets/artwork/front/816_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/816_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 40
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 70
+    },
+    {
+      "name": "special-defense",
+      "value": 40
+    },
+    {
+      "name": "speed",
+      "value": 70
+    }
+  ],
+  "abilities": [
+    {
+      "name": "torrent",
+      "hidden": false,
+      "entries": "Strengthens Water moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "sniper",
+      "hidden": true,
+      "entries": "Strengthens critical hits to inflict 3× damage rather than 2×."
+    }
+  ],
+  "moves": [
+    "pound",
+    "bind",
+    "take-down",
+    "growl",
+    "mist",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "double-team",
+    "light-screen",
+    "haze",
+    "reflect",
+    "waterfall",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "safeguard",
+    "baton-pass",
+    "rain-dance",
+    "whirlpool",
+    "facade",
+    "dive",
+    "weather-ball",
+    "muddy-water",
+    "bounce",
+    "mud-shot",
+    "water-pulse",
+    "u-turn",
+    "sucker-punch",
+    "aqua-ring",
+    "ice-shard",
+    "aqua-jet",
+    "soak",
+    "round",
+    "water-pledge",
+    "work-up",
+    "fell-stinger",
+    "liquidation",
+    "tearful-look",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 816,
+      "name": "sobble",
+      "details": []
+    },
+    {
+      "id": 817,
+      "name": "drizzile",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 16,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 818,
+      "name": "inteleon",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Water Lizard Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 45,
+  "color": "blue",
+  "shape": "quadruped",
+  "growth_rate": "medium-slow",
+  "base_experience": 62,
+  "order": 997,
+  "egg_groups": [
+    "water1",
+    "ground"
+  ],
+  "forms": [
+    "sobble"
+  ],
+  "gender_rate": 1
+}

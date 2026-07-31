@@ -1,0 +1,185 @@
+{
+  "id": 119,
+  "name": "seaking",
+  "habitat_img": "assets/img/habitats/webp/waters-edge.webp",
+  "habitat_name": "waters-edge",
+  "height": "1.3 m",
+  "weight": "39 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "water"
+  ],
+  "artwork": "assets/artwork/front/119_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/119_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 80
+    },
+    {
+      "name": "attack",
+      "value": 92
+    },
+    {
+      "name": "defense",
+      "value": 65
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 80
+    },
+    {
+      "name": "speed",
+      "value": 68
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "hidden": false,
+      "entries": "Doubles Speed during rain."
+    },
+    {
+      "name": "water-veil",
+      "hidden": false,
+      "entries": "Prevents burns."
+    },
+    {
+      "name": "lightning-rod",
+      "hidden": true,
+      "entries": "Redirects single-target Electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "headbutt",
+    "horn-attack",
+    "fury-attack",
+    "horn-drill",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "supersonic",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "psybeam",
+    "bubble-beam",
+    "hyper-beam",
+    "peck",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "rage",
+    "mimic",
+    "double-team",
+    "bide",
+    "waterfall",
+    "swift",
+    "skull-bash",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "flail",
+    "protect",
+    "mud-slap",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "megahorn",
+    "hidden-power",
+    "rain-dance",
+    "whirlpool",
+    "hail",
+    "facade",
+    "knock-off",
+    "secret-power",
+    "dive",
+    "signal-beam",
+    "muddy-water",
+    "bounce",
+    "mud-shot",
+    "water-sport",
+    "water-pulse",
+    "natural-gift",
+    "aqua-ring",
+    "poison-jab",
+    "aqua-tail",
+    "giga-impact",
+    "captivate",
+    "soak",
+    "round",
+    "scald",
+    "drill-run",
+    "confide",
+    "throat-chop",
+    "smart-strike",
+    "scale-shot",
+    "flip-turn"
+  ],
+  "evolution": [
+    {
+      "id": 118,
+      "name": "goldeen",
+      "details": []
+    },
+    {
+      "id": 119,
+      "name": "seaking",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 33,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Goldfish Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 60,
+  "color": "red",
+  "shape": "fish",
+  "growth_rate": "medium",
+  "base_experience": 158,
+  "order": 190,
+  "egg_groups": [
+    "water2"
+  ],
+  "forms": [
+    "seaking"
+  ],
+  "gender_rate": 4
+}

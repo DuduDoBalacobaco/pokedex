@@ -1,0 +1,165 @@
+{
+  "id": 778,
+  "name": "mimikyu-disguised",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.2 m",
+  "weight": "0.7 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "ghost",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/778_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/778_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 55
+    },
+    {
+      "name": "attack",
+      "value": 90
+    },
+    {
+      "name": "defense",
+      "value": 80
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 105
+    },
+    {
+      "name": "speed",
+      "value": 96
+    }
+  ],
+  "abilities": [
+    {
+      "name": "disguise",
+      "hidden": false,
+      "entries": "Prevents the first instance of battle damage."
+    }
+  ],
+  "moves": [
+    "scratch",
+    "swords-dance",
+    "take-down",
+    "hyper-beam",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "psychic",
+    "night-shade",
+    "mimic",
+    "screech",
+    "double-team",
+    "confuse-ray",
+    "light-screen",
+    "dream-eater",
+    "leech-life",
+    "splash",
+    "rest",
+    "slash",
+    "substitute",
+    "thief",
+    "nightmare",
+    "snore",
+    "curse",
+    "spite",
+    "protect",
+    "feint-attack",
+    "destiny-bond",
+    "giga-drain",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "pain-split",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "beat-up",
+    "will-o-wisp",
+    "facade",
+    "taunt",
+    "trick",
+    "grudge",
+    "snatch",
+    "astonish",
+    "bulk-up",
+    "covet",
+    "payback",
+    "embargo",
+    "fling",
+    "copycat",
+    "last-resort",
+    "dark-pulse",
+    "night-slash",
+    "x-scissor",
+    "drain-punch",
+    "giga-impact",
+    "shadow-claw",
+    "shadow-sneak",
+    "trick-room",
+    "charge-beam",
+    "wood-hammer",
+    "hone-claws",
+    "telekinesis",
+    "magic-room",
+    "after-you",
+    "round",
+    "hex",
+    "work-up",
+    "phantom-force",
+    "draining-kiss",
+    "misty-terrain",
+    "play-rough",
+    "confide",
+    "dazzling-gleam",
+    "baby-doll-eyes",
+    "infestation",
+    "burning-jealousy",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 778,
+      "name": "mimikyu",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Disguise Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "yellow",
+  "shape": "squiggle",
+  "growth_rate": "medium",
+  "base_experience": 167,
+  "order": 951,
+  "egg_groups": [
+    "indeterminate"
+  ],
+  "forms": [
+    "mimikyu-disguised"
+  ],
+  "gender_rate": 4
+}

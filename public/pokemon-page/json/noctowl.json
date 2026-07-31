@@ -1,0 +1,208 @@
+{
+  "id": 164,
+  "name": "noctowl",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "1.6 m",
+  "weight": "40.8 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "normal",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/164_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/164_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 86
+    },
+    {
+      "name": "special-defense",
+      "value": 96
+    },
+    {
+      "name": "speed",
+      "value": 70
+    }
+  ],
+  "abilities": [
+    {
+      "name": "insomnia",
+      "hidden": false,
+      "entries": "Prevents sleep."
+    },
+    {
+      "name": "keen-eye",
+      "hidden": false,
+      "entries": "Prevents accuracy from being lowered."
+    },
+    {
+      "name": "tinted-lens",
+      "hidden": true,
+      "entries": "Doubles damage inflicted with not-very-effective moves."
+    }
+  ],
+  "moves": [
+    "wing-attack",
+    "whirlwind",
+    "fly",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "supersonic",
+    "psybeam",
+    "hyper-beam",
+    "peck",
+    "toxic",
+    "confusion",
+    "psychic",
+    "hypnosis",
+    "agility",
+    "night-shade",
+    "mimic",
+    "screech",
+    "double-team",
+    "confuse-ray",
+    "haze",
+    "reflect",
+    "swift",
+    "amnesia",
+    "dream-eater",
+    "sky-attack",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "nightmare",
+    "snore",
+    "curse",
+    "spite",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "foresight",
+    "detect",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "uproar",
+    "heat-wave",
+    "facade",
+    "magic-coat",
+    "recycle",
+    "skill-swap",
+    "imprison",
+    "secret-power",
+    "feather-dance",
+    "hyper-voice",
+    "air-cutter",
+    "silver-wind",
+    "extrasensory",
+    "aerial-ace",
+    "calm-mind",
+    "roost",
+    "natural-gift",
+    "pluck",
+    "tailwind",
+    "psycho-shift",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "nasty-plot",
+    "zen-headbutt",
+    "defog",
+    "captivate",
+    "ominous-wind",
+    "synchronoise",
+    "round",
+    "echoed-voice",
+    "stored-power",
+    "acrobatics",
+    "work-up",
+    "hurricane",
+    "moonblast",
+    "confide",
+    "laser-focus",
+    "dual-wingbeat",
+    "tera-blast",
+    "psychic-noise"
+  ],
+  "evolution": [
+    {
+      "id": 163,
+      "name": "hoothoot",
+      "details": []
+    },
+    {
+      "id": 164,
+      "name": "noctowl",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 20,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Owl Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 90,
+  "color": "brown",
+  "shape": "wings",
+  "growth_rate": "medium",
+  "base_experience": 158,
+  "order": 261,
+  "egg_groups": [
+    "flying"
+  ],
+  "forms": [
+    "noctowl"
+  ],
+  "gender_rate": 4
+}

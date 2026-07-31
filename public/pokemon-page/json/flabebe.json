@@ -1,0 +1,204 @@
+{
+  "id": 669,
+  "name": "flabebe",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.1 m",
+  "weight": "0.1 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/669_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/669_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 44
+    },
+    {
+      "name": "attack",
+      "value": 38
+    },
+    {
+      "name": "defense",
+      "value": 39
+    },
+    {
+      "name": "special-attack",
+      "value": 61
+    },
+    {
+      "name": "special-defense",
+      "value": 79
+    },
+    {
+      "name": "speed",
+      "value": 42
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flower-veil",
+      "hidden": false,
+      "entries": "Protects friendly Grass Pokémon from having their stats lowered by other Pokémon."
+    },
+    {
+      "name": "symbiosis",
+      "hidden": true,
+      "entries": "Passes the bearer's held item to an ally when the ally uses up its item."
+    }
+  ],
+  "moves": [
+    "vine-whip",
+    "tackle",
+    "razor-leaf",
+    "solar-beam",
+    "petal-dance",
+    "toxic",
+    "psychic",
+    "double-team",
+    "light-screen",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "frustration",
+    "safeguard",
+    "baton-pass",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "nature-power",
+    "helping-hand",
+    "wish",
+    "magic-coat",
+    "endeavor",
+    "secret-power",
+    "camouflage",
+    "aromatherapy",
+    "covet",
+    "magical-leaf",
+    "calm-mind",
+    "lucky-chant",
+    "copycat",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "captivate",
+    "grass-knot",
+    "after-you",
+    "round",
+    "echoed-voice",
+    "stored-power",
+    "ally-switch",
+    "petal-blizzard",
+    "disarming-voice",
+    "draining-kiss",
+    "grassy-terrain",
+    "misty-terrain",
+    "fairy-wind",
+    "moonblast",
+    "confide",
+    "dazzling-gleam",
+    "pollen-puff",
+    "tearful-look",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water",
+    "alluring-voice"
+  ],
+  "evolution": [
+    {
+      "id": 669,
+      "name": "flabebe",
+      "details": []
+    },
+    {
+      "id": 670,
+      "name": "floette",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 19,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 671,
+      "name": "florges",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "shiny-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Single Bloom Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 225,
+  "color": "white",
+  "shape": "arms",
+  "growth_rate": "medium",
+  "base_experience": 61,
+  "order": 801,
+  "egg_groups": [
+    "fairy"
+  ],
+  "forms": [
+    "flabebe-red",
+    "flabebe-yellow",
+    "flabebe-orange",
+    "flabebe-blue",
+    "flabebe-white"
+  ],
+  "gender_rate": 8
+}

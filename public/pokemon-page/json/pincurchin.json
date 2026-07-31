@@ -1,0 +1,142 @@
+{
+  "id": 871,
+  "name": "pincurchin",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "1 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/871_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/871_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 48
+    },
+    {
+      "name": "attack",
+      "value": 101
+    },
+    {
+      "name": "defense",
+      "value": 95
+    },
+    {
+      "name": "special-attack",
+      "value": 91
+    },
+    {
+      "name": "special-defense",
+      "value": 85
+    },
+    {
+      "name": "speed",
+      "value": 15
+    }
+  ],
+  "abilities": [
+    {
+      "name": "lightning-rod",
+      "hidden": false,
+      "entries": "Redirects single-target Electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+    },
+    {
+      "name": "electric-surge",
+      "hidden": true,
+      "entries": "When this Pokémon enters battle, it changes the terrain to Electric Terrain."
+    }
+  ],
+  "moves": [
+    "fury-attack",
+    "body-slam",
+    "take-down",
+    "pin-missile",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "bubble-beam",
+    "hyper-beam",
+    "peck",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "recover",
+    "self-destruct",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "spikes",
+    "endure",
+    "spark",
+    "attract",
+    "sleep-talk",
+    "pain-split",
+    "rain-dance",
+    "memento",
+    "facade",
+    "charge",
+    "muddy-water",
+    "brine",
+    "acupressure",
+    "payback",
+    "assurance",
+    "sucker-punch",
+    "toxic-spikes",
+    "poison-jab",
+    "giga-impact",
+    "discharge",
+    "charge-beam",
+    "venoshock",
+    "electro-ball",
+    "round",
+    "scald",
+    "hex",
+    "electroweb",
+    "wild-charge",
+    "venom-drench",
+    "electric-terrain",
+    "throat-chop",
+    "liquidation",
+    "zing-zap",
+    "rising-voltage",
+    "tera-blast",
+    "chilling-water",
+    "supercell-slam"
+  ],
+  "evolution": [
+    {
+      "id": 871,
+      "name": "pincurchin",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Sea Urchin Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 75,
+  "color": "purple",
+  "shape": "tentacles",
+  "growth_rate": "medium",
+  "base_experience": 152,
+  "order": 1055,
+  "egg_groups": [
+    "water1",
+    "indeterminate"
+  ],
+  "forms": [
+    "pincurchin"
+  ],
+  "gender_rate": 4
+}

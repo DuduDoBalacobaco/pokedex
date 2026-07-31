@@ -1,0 +1,132 @@
+{
+  "id": 883,
+  "name": "arctovish",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2 m",
+  "weight": "175 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "water",
+    "ice"
+  ],
+  "artwork": "assets/artwork/front/883_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/883_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 90
+    },
+    {
+      "name": "attack",
+      "value": 90
+    },
+    {
+      "name": "defense",
+      "value": 100
+    },
+    {
+      "name": "special-attack",
+      "value": 80
+    },
+    {
+      "name": "special-defense",
+      "value": 90
+    },
+    {
+      "name": "speed",
+      "value": 55
+    }
+  ],
+  "abilities": [
+    {
+      "name": "water-absorb",
+      "hidden": false,
+      "entries": "Absorbs Water moves, healing for 1/4 max HP."
+    },
+    {
+      "name": "ice-body",
+      "hidden": false,
+      "entries": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+    },
+    {
+      "name": "slush-rush",
+      "hidden": true,
+      "entries": "During Hail, this Pokémon has double Speed."
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "bite",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "waterfall",
+    "rest",
+    "rock-slide",
+    "super-fang",
+    "substitute",
+    "snore",
+    "powder-snow",
+    "protect",
+    "icy-wind",
+    "endure",
+    "sleep-talk",
+    "rain-dance",
+    "crunch",
+    "ancient-power",
+    "whirlpool",
+    "hail",
+    "facade",
+    "dive",
+    "rock-tomb",
+    "icicle-spear",
+    "iron-defense",
+    "rock-blast",
+    "brine",
+    "giga-impact",
+    "avalanche",
+    "ice-fang",
+    "zen-headbutt",
+    "iron-head",
+    "stone-edge",
+    "round",
+    "icicle-crash",
+    "freeze-dry",
+    "aurora-veil",
+    "psychic-fangs",
+    "liquidation",
+    "fishious-rend",
+    "meteor-beam"
+  ],
+  "evolution": [
+    {
+      "id": 883,
+      "name": "arctovish",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Fossil Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 45,
+  "color": "blue",
+  "shape": "fish",
+  "growth_rate": "slow",
+  "base_experience": 177,
+  "order": 1070,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "arctovish"
+  ],
+  "gender_rate": -1
+}

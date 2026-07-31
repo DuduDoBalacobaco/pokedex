@@ -1,0 +1,211 @@
+{
+  "id": 331,
+  "name": "cacnea",
+  "habitat_img": "assets/img/habitats/webp/rough-terrain.webp",
+  "habitat_name": "rough-terrain",
+  "height": "0.4 m",
+  "weight": "51.3 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/331_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/331_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 85
+    },
+    {
+      "name": "special-defense",
+      "value": 40
+    },
+    {
+      "name": "speed",
+      "value": 35
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-veil",
+      "hidden": false,
+      "entries": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+    },
+    {
+      "name": "water-absorb",
+      "hidden": true,
+      "entries": "Absorbs Water moves, healing for 1/4 max HP."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "thunder-punch",
+    "swords-dance",
+    "cut",
+    "sand-attack",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "poison-sting",
+    "pin-missile",
+    "leer",
+    "disable",
+    "acid",
+    "low-kick",
+    "counter",
+    "seismic-toss",
+    "absorb",
+    "leech-seed",
+    "growth",
+    "solar-beam",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "cotton-spore",
+    "spite",
+    "protect",
+    "scary-face",
+    "feint-attack",
+    "mud-slap",
+    "spikes",
+    "destiny-bond",
+    "sandstorm",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dynamic-punch",
+    "encore",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "focus-punch",
+    "smelling-salts",
+    "nature-power",
+    "helping-hand",
+    "role-play",
+    "ingrain",
+    "brick-break",
+    "endeavor",
+    "secret-power",
+    "teeter-dance",
+    "needle-arm",
+    "grass-whistle",
+    "bullet-seed",
+    "block",
+    "magical-leaf",
+    "natural-gift",
+    "payback",
+    "assurance",
+    "fling",
+    "worry-seed",
+    "sucker-punch",
+    "toxic-spikes",
+    "poison-jab",
+    "dark-pulse",
+    "seed-bomb",
+    "drain-punch",
+    "energy-ball",
+    "switcheroo",
+    "nasty-plot",
+    "leaf-storm",
+    "captivate",
+    "grass-knot",
+    "venoshock",
+    "foul-play",
+    "round",
+    "bulldoze",
+    "belch",
+    "rototiller",
+    "fell-stinger",
+    "grassy-terrain",
+    "confide",
+    "power-up-punch",
+    "throat-chop",
+    "power-trip",
+    "grassy-glide",
+    "skitter-smack",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 331,
+      "name": "cacnea",
+      "details": []
+    },
+    {
+      "id": 332,
+      "name": "cacturne",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 32,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Cactus Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 35,
+  "capture_rate": 190,
+  "color": "green",
+  "shape": "humanoid",
+  "growth_rate": "medium-slow",
+  "base_experience": 67,
+  "order": 443,
+  "egg_groups": [
+    "plant",
+    "humanshape"
+  ],
+  "forms": [
+    "cacnea"
+  ],
+  "gender_rate": 4
+}

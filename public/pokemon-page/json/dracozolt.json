@@ -1,0 +1,145 @@
+{
+  "id": 880,
+  "name": "dracozolt",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.8 m",
+  "weight": "190 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "electric",
+    "dragon"
+  ],
+  "artwork": "assets/artwork/front/880_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/880_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 90
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 90
+    },
+    {
+      "name": "special-attack",
+      "value": 80
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 75
+    }
+  ],
+  "abilities": [
+    {
+      "name": "volt-absorb",
+      "hidden": false,
+      "entries": "Absorbs Electric moves, healing for 1/4 max HP."
+    },
+    {
+      "name": "hustle",
+      "hidden": false,
+      "entries": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    },
+    {
+      "name": "sand-rush",
+      "hidden": true,
+      "entries": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "thunder-punch",
+    "slam",
+    "stomp",
+    "mega-kick",
+    "tackle",
+    "body-slam",
+    "flamethrower",
+    "hyper-beam",
+    "low-kick",
+    "fire-spin",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "earthquake",
+    "fire-blast",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "iron-tail",
+    "rain-dance",
+    "sunny-day",
+    "ancient-power",
+    "facade",
+    "charge",
+    "taunt",
+    "rock-tomb",
+    "aerial-ace",
+    "dragon-claw",
+    "rock-blast",
+    "pluck",
+    "dragon-pulse",
+    "dragon-rush",
+    "earth-power",
+    "giga-impact",
+    "thunder-fang",
+    "fire-fang",
+    "draco-meteor",
+    "discharge",
+    "stone-edge",
+    "electro-ball",
+    "round",
+    "bulldoze",
+    "dragon-tail",
+    "wild-charge",
+    "high-horsepower",
+    "brutal-swing",
+    "stomping-tantrum",
+    "bolt-beak",
+    "breaking-swipe",
+    "meteor-beam",
+    "rising-voltage"
+  ],
+  "evolution": [
+    {
+      "id": 880,
+      "name": "dracozolt",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Fossil Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 45,
+  "color": "green",
+  "shape": "upright",
+  "growth_rate": "slow",
+  "base_experience": 177,
+  "order": 1067,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "dracozolt"
+  ],
+  "gender_rate": -1
+}

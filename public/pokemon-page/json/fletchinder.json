@@ -1,0 +1,195 @@
+{
+  "id": 662,
+  "name": "fletchinder",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.7 m",
+  "weight": "16 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "fire",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/662_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/662_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 62
+    },
+    {
+      "name": "attack",
+      "value": 73
+    },
+    {
+      "name": "defense",
+      "value": 55
+    },
+    {
+      "name": "special-attack",
+      "value": 56
+    },
+    {
+      "name": "special-defense",
+      "value": 52
+    },
+    {
+      "name": "speed",
+      "value": 84
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flame-body",
+      "hidden": false,
+      "entries": "Has a 30% chance of burning attacking Pokémon on contact."
+    },
+    {
+      "name": "gale-wings",
+      "hidden": true,
+      "entries": "Raises Flying moves' priority by one stage."
+    }
+  ],
+  "moves": [
+    "razor-wind",
+    "swords-dance",
+    "fly",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "growl",
+    "ember",
+    "flamethrower",
+    "peck",
+    "fire-spin",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "double-team",
+    "fire-blast",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "flail",
+    "protect",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "taunt",
+    "snatch",
+    "secret-power",
+    "feather-dance",
+    "air-cutter",
+    "overheat",
+    "aerial-ace",
+    "roost",
+    "natural-gift",
+    "feint",
+    "tailwind",
+    "u-turn",
+    "me-first",
+    "flare-blitz",
+    "air-slash",
+    "brave-bird",
+    "defog",
+    "flame-charge",
+    "round",
+    "incinerate",
+    "acrobatics",
+    "work-up",
+    "hurricane",
+    "confide",
+    "dual-wingbeat",
+    "tera-blast",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 661,
+      "name": "fletchling",
+      "details": []
+    },
+    {
+      "id": 662,
+      "name": "fletchinder",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 17,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 663,
+      "name": "talonflame",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Ember Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 120,
+  "color": "red",
+  "shape": "wings",
+  "growth_rate": "medium-slow",
+  "base_experience": 134,
+  "order": 794,
+  "egg_groups": [
+    "flying"
+  ],
+  "forms": [
+    "fletchinder"
+  ],
+  "gender_rate": 4
+}

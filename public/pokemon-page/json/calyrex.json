@@ -1,0 +1,146 @@
+{
+  "id": 898,
+  "name": "calyrex",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.1 m",
+  "weight": "7.7 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "psychic",
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/898_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/898_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 80
+    },
+    {
+      "name": "defense",
+      "value": 80
+    },
+    {
+      "name": "special-attack",
+      "value": 80
+    },
+    {
+      "name": "special-defense",
+      "value": 80
+    },
+    {
+      "name": "speed",
+      "value": 80
+    }
+  ],
+  "abilities": [
+    {
+      "name": "unnerve",
+      "hidden": false,
+      "entries": "Prevents opposing Pokémon from eating held Berries."
+    }
+  ],
+  "moves": [
+    "pound",
+    "pay-day",
+    "take-down",
+    "psybeam",
+    "hyper-beam",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "solar-beam",
+    "confusion",
+    "psychic",
+    "agility",
+    "light-screen",
+    "reflect",
+    "metronome",
+    "swift",
+    "rest",
+    "tri-attack",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "giga-drain",
+    "endure",
+    "sleep-talk",
+    "safeguard",
+    "baton-pass",
+    "encore",
+    "sunny-day",
+    "psych-up",
+    "future-sight",
+    "facade",
+    "helping-hand",
+    "trick",
+    "skill-swap",
+    "imprison",
+    "aromatherapy",
+    "bullet-seed",
+    "mud-shot",
+    "magical-leaf",
+    "calm-mind",
+    "gravity",
+    "power-swap",
+    "guard-swap",
+    "seed-bomb",
+    "energy-ball",
+    "giga-impact",
+    "zen-headbutt",
+    "trick-room",
+    "leaf-storm",
+    "grass-knot",
+    "wonder-room",
+    "psyshock",
+    "magic-room",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "heal-pulse",
+    "snarl",
+    "draining-kiss",
+    "grassy-terrain",
+    "solar-blade",
+    "pollen-puff",
+    "psychic-terrain",
+    "speed-swap",
+    "body-press",
+    "life-dew",
+    "expanding-force",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 898,
+      "name": "calyrex",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "King Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 100,
+  "capture_rate": 3,
+  "color": "green",
+  "shape": "humanoid",
+  "growth_rate": "slow",
+  "base_experience": 250,
+  "order": 1090,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "calyrex"
+  ],
+  "gender_rate": -1
+}

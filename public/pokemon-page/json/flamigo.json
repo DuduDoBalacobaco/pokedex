@@ -1,0 +1,141 @@
+{
+  "id": 973,
+  "name": "flamigo",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.6 m",
+  "weight": "37 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "flying",
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/973_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/973_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 82
+    },
+    {
+      "name": "attack",
+      "value": 115
+    },
+    {
+      "name": "defense",
+      "value": 74
+    },
+    {
+      "name": "special-attack",
+      "value": 75
+    },
+    {
+      "name": "special-defense",
+      "value": 64
+    },
+    {
+      "name": "speed",
+      "value": 90
+    }
+  ],
+  "abilities": [
+    {
+      "name": "scrappy",
+      "hidden": false,
+      "entries": "Lets the Pokémon's Normal and Fighting moves hit Ghost Pokémon."
+    },
+    {
+      "name": "tangled-feet",
+      "hidden": false,
+      "entries": "Doubles evasion when confused."
+    },
+    {
+      "name": "costar",
+      "hidden": true,
+      "entries": "Copies ally's stat changes on entering battle."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "wing-attack",
+    "fly",
+    "double-kick",
+    "mega-kick",
+    "take-down",
+    "hyper-beam",
+    "peck",
+    "low-kick",
+    "agility",
+    "double-team",
+    "focus-energy",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "thief",
+    "reversal",
+    "protect",
+    "detect",
+    "endure",
+    "sleep-talk",
+    "psych-up",
+    "facade",
+    "taunt",
+    "endeavor",
+    "feather-dance",
+    "air-cutter",
+    "aerial-ace",
+    "bulk-up",
+    "water-pulse",
+    "roost",
+    "feint",
+    "tailwind",
+    "u-turn",
+    "close-combat",
+    "payback",
+    "fling",
+    "copycat",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "wide-guard",
+    "low-sweep",
+    "quick-guard",
+    "acrobatics",
+    "hurricane",
+    "throat-chop",
+    "lunge",
+    "liquidation",
+    "dual-wingbeat",
+    "tera-blast",
+    "pounce",
+    "chilling-water",
+    "upper-hand"
+  ],
+  "evolution": [
+    {
+      "id": 973,
+      "name": "flamigo",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Synchronize Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 100,
+  "color": "pink",
+  "shape": "wings",
+  "growth_rate": "medium-slow",
+  "base_experience": 175,
+  "order": 961,
+  "egg_groups": [
+    "flying"
+  ],
+  "forms": [
+    "flamigo"
+  ],
+  "gender_rate": 4
+}

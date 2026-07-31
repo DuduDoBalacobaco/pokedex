@@ -1,0 +1,150 @@
+{
+  "id": 676,
+  "name": "furfrou",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.2 m",
+  "weight": "28 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/676_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/676_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 75
+    },
+    {
+      "name": "attack",
+      "value": 80
+    },
+    {
+      "name": "defense",
+      "value": 60
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 90
+    },
+    {
+      "name": "speed",
+      "value": 102
+    }
+  ],
+  "abilities": [
+    {
+      "name": "fur-coat",
+      "hidden": false,
+      "entries": "Halves damage from physical attacks."
+    }
+  ],
+  "moves": [
+    "sand-attack",
+    "headbutt",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "bite",
+    "growl",
+    "roar",
+    "surf",
+    "thunder-wave",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "rock-smash",
+    "uproar",
+    "facade",
+    "helping-hand",
+    "role-play",
+    "endeavor",
+    "refresh",
+    "secret-power",
+    "hyper-voice",
+    "odor-sleuth",
+    "u-turn",
+    "last-resort",
+    "sucker-punch",
+    "dark-pulse",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "zen-headbutt",
+    "captivate",
+    "grass-knot",
+    "charge-beam",
+    "round",
+    "echoed-voice",
+    "retaliate",
+    "work-up",
+    "wild-charge",
+    "cotton-guard",
+    "snarl",
+    "confide",
+    "baby-doll-eyes",
+    "psychic-fangs",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 676,
+      "name": "furfrou",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Poodle Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 160,
+  "color": "white",
+  "shape": "quadruped",
+  "growth_rate": "medium",
+  "base_experience": 165,
+  "order": 809,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "furfrou-natural",
+    "furfrou-heart",
+    "furfrou-star",
+    "furfrou-diamond",
+    "furfrou-debutante",
+    "furfrou-matron",
+    "furfrou-dandy",
+    "furfrou-la-reine",
+    "furfrou-kabuki",
+    "furfrou-pharaoh"
+  ],
+  "gender_rate": 4
+}

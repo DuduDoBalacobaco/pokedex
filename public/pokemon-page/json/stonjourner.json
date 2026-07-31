@@ -1,0 +1,131 @@
+{
+  "id": 874,
+  "name": "stonjourner",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2.5 m",
+  "weight": "520 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "rock"
+  ],
+  "artwork": "assets/artwork/front/874_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/874_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 125
+    },
+    {
+      "name": "defense",
+      "value": 135
+    },
+    {
+      "name": "special-attack",
+      "value": 20
+    },
+    {
+      "name": "special-defense",
+      "value": 20
+    },
+    {
+      "name": "speed",
+      "value": 70
+    }
+  ],
+  "abilities": [
+    {
+      "name": "power-spot",
+      "hidden": false,
+      "entries": "Just being next to the Pokémon powers up moves."
+    }
+  ],
+  "moves": [
+    "stomp",
+    "mega-kick",
+    "body-slam",
+    "take-down",
+    "hyper-beam",
+    "low-kick",
+    "rock-throw",
+    "earthquake",
+    "self-destruct",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "sandstorm",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "safeguard",
+    "sunny-day",
+    "psych-up",
+    "ancient-power",
+    "facade",
+    "superpower",
+    "endeavor",
+    "imprison",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "block",
+    "rock-blast",
+    "gravity",
+    "assurance",
+    "rock-polish",
+    "power-gem",
+    "earth-power",
+    "giga-impact",
+    "stone-edge",
+    "stealth-rock",
+    "wide-guard",
+    "wonder-room",
+    "smack-down",
+    "heavy-slam",
+    "low-sweep",
+    "round",
+    "bulldoze",
+    "heat-crash",
+    "high-horsepower",
+    "brutal-swing",
+    "stomping-tantrum",
+    "body-press",
+    "meteor-beam",
+    "tera-blast",
+    "hard-press"
+  ],
+  "evolution": [
+    {
+      "id": 874,
+      "name": "stonjourner",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Big Rock Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 60,
+  "color": "gray",
+  "shape": "legs",
+  "growth_rate": "slow",
+  "base_experience": 165,
+  "order": 1058,
+  "egg_groups": [
+    "mineral"
+  ],
+  "forms": [
+    "stonjourner"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,181 @@
+{
+  "id": 958,
+  "name": "tinkatuff",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.7 m",
+  "weight": "59.1 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "fairy",
+    "steel"
+  ],
+  "artwork": "assets/artwork/front/958_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/958_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 65
+    },
+    {
+      "name": "attack",
+      "value": 55
+    },
+    {
+      "name": "defense",
+      "value": 55
+    },
+    {
+      "name": "special-attack",
+      "value": 45
+    },
+    {
+      "name": "special-defense",
+      "value": 82
+    },
+    {
+      "name": "speed",
+      "value": 78
+    }
+  ],
+  "abilities": [
+    {
+      "name": "mold-breaker",
+      "hidden": false,
+      "entries": "Bypasses targets' abilities if they could hinder or prevent a move."
+    },
+    {
+      "name": "own-tempo",
+      "hidden": false,
+      "entries": "Prevents confusion."
+    },
+    {
+      "name": "pickpocket",
+      "hidden": true,
+      "entries": "Steals attacking Pokémon's held items on contact."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "slam",
+    "thunder-wave",
+    "light-screen",
+    "reflect",
+    "metronome",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "protect",
+    "sweet-kiss",
+    "endure",
+    "sleep-talk",
+    "encore",
+    "metal-claw",
+    "rock-smash",
+    "fake-out",
+    "flatter",
+    "facade",
+    "helping-hand",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "skill-swap",
+    "astonish",
+    "fake-tears",
+    "rock-tomb",
+    "metal-sound",
+    "covet",
+    "fling",
+    "flash-cannon",
+    "stone-edge",
+    "stealth-rock",
+    "foul-play",
+    "draining-kiss",
+    "play-rough",
+    "fairy-wind",
+    "baby-doll-eyes",
+    "brutal-swing",
+    "steel-beam",
+    "skitter-smack",
+    "tera-blast",
+    "pounce"
+  ],
+  "evolution": [
+    {
+      "id": 957,
+      "name": "tinkatink",
+      "details": []
+    },
+    {
+      "id": 958,
+      "name": "tinkatuff",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 24,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 959,
+      "name": "tinkaton",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 38,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Hammer Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 90,
+  "color": "pink",
+  "shape": "humanoid",
+  "growth_rate": "medium-slow",
+  "base_experience": 133,
+  "order": 1001,
+  "egg_groups": [
+    "fairy"
+  ],
+  "forms": [
+    "tinkatuff"
+  ],
+  "gender_rate": 8
+}

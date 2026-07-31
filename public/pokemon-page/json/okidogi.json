@@ -1,0 +1,147 @@
+{
+  "id": 1014,
+  "name": "okidogi",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.8 m",
+  "weight": "92.2 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "poison",
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/1014_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/1014_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 88
+    },
+    {
+      "name": "attack",
+      "value": 128
+    },
+    {
+      "name": "defense",
+      "value": 115
+    },
+    {
+      "name": "special-attack",
+      "value": 58
+    },
+    {
+      "name": "special-defense",
+      "value": 86
+    },
+    {
+      "name": "speed",
+      "value": 80
+    }
+  ],
+  "abilities": [
+    {
+      "name": "toxic-chain",
+      "hidden": false,
+      "entries": "May cause bad poisoning when the Pokémon hits an opponent with a move."
+    },
+    {
+      "name": "guard-dog",
+      "hidden": true,
+      "entries": "Boosts Attack if intimidated, and prevents being forced to switch out."
+    }
+  ],
+  "moves": [
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "bite",
+    "roar",
+    "hyper-beam",
+    "low-kick",
+    "counter",
+    "dig",
+    "toxic",
+    "rest",
+    "substitute",
+    "thief",
+    "curse",
+    "reversal",
+    "spite",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "metal-claw",
+    "crunch",
+    "uproar",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "superpower",
+    "brick-break",
+    "knock-off",
+    "poison-fang",
+    "rock-tomb",
+    "howl",
+    "bulk-up",
+    "poison-tail",
+    "close-combat",
+    "fling",
+    "force-palm",
+    "poison-jab",
+    "drain-punch",
+    "focus-blast",
+    "giga-impact",
+    "shadow-claw",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "gunk-shot",
+    "iron-head",
+    "sludge-wave",
+    "low-sweep",
+    "snarl",
+    "high-horsepower",
+    "throat-chop",
+    "brutal-swing",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "body-press",
+    "lash-out",
+    "tera-blast",
+    "hard-press",
+    "upper-hand"
+  ],
+  "evolution": [
+    {
+      "id": 1014,
+      "name": "okidogi",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Retainer Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 0,
+  "capture_rate": 3,
+  "color": "black",
+  "shape": "upright",
+  "growth_rate": "slow",
+  "base_experience": 278,
+  "order": 1098,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "okidogi"
+  ],
+  "gender_rate": 0
+}

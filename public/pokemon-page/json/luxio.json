@@ -1,0 +1,204 @@
+{
+  "id": 404,
+  "name": "luxio",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.9 m",
+  "weight": "30.5 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/404_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/404_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 49
+    },
+    {
+      "name": "special-attack",
+      "value": 60
+    },
+    {
+      "name": "special-defense",
+      "value": 49
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "rivalry",
+      "hidden": false,
+      "entries": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
+    },
+    {
+      "name": "intimidate",
+      "hidden": false,
+      "entries": "Lowers opponents' Attack one stage upon entering battle."
+    },
+    {
+      "name": "guts",
+      "hidden": true,
+      "entries": "Increases Attack to 1.5× with a major status ailment."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "leer",
+    "bite",
+    "roar",
+    "strength",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "quick-attack",
+    "double-team",
+    "confuse-ray",
+    "light-screen",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "endure",
+    "swagger",
+    "spark",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "facade",
+    "charge",
+    "helping-hand",
+    "secret-power",
+    "fake-tears",
+    "signal-beam",
+    "shock-wave",
+    "natural-gift",
+    "magnet-rise",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "discharge",
+    "captivate",
+    "charge-beam",
+    "electro-ball",
+    "round",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "snarl",
+    "play-rough",
+    "confide",
+    "eerie-impulse",
+    "electric-terrain",
+    "psychic-fangs",
+    "rising-voltage",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 403,
+      "name": "shinx",
+      "details": []
+    },
+    {
+      "id": 404,
+      "name": "luxio",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 15,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 405,
+      "name": "luxray",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Spark Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 100,
+  "capture_rate": 120,
+  "color": "blue",
+  "shape": "quadruped",
+  "growth_rate": "medium-slow",
+  "base_experience": 127,
+  "order": 535,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "luxio"
+  ],
+  "gender_rate": 4
+}

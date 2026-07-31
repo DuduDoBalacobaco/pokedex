@@ -1,0 +1,189 @@
+{
+  "id": 697,
+  "name": "tyrantrum",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2.5 m",
+  "weight": "270 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "rock",
+    "dragon"
+  ],
+  "artwork": "assets/artwork/front/697_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/697_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 82
+    },
+    {
+      "name": "attack",
+      "value": 121
+    },
+    {
+      "name": "defense",
+      "value": 119
+    },
+    {
+      "name": "special-attack",
+      "value": 69
+    },
+    {
+      "name": "special-defense",
+      "value": 59
+    },
+    {
+      "name": "speed",
+      "value": 71
+    }
+  ],
+  "abilities": [
+    {
+      "name": "strong-jaw",
+      "hidden": false,
+      "entries": "Strengthens biting moves to 1.5× their power."
+    },
+    {
+      "name": "rock-head",
+      "hidden": true,
+      "entries": "Protects against recoil damage."
+    }
+  ],
+  "moves": [
+    "stomp",
+    "horn-drill",
+    "tackle",
+    "body-slam",
+    "thrash",
+    "tail-whip",
+    "bite",
+    "roar",
+    "hyper-beam",
+    "strength",
+    "earthquake",
+    "dig",
+    "toxic",
+    "double-team",
+    "bide",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "scary-face",
+    "outrage",
+    "sandstorm",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "sunny-day",
+    "crunch",
+    "ancient-power",
+    "rock-smash",
+    "facade",
+    "superpower",
+    "brick-break",
+    "secret-power",
+    "hyper-voice",
+    "poison-fang",
+    "rock-tomb",
+    "aerial-ace",
+    "iron-defense",
+    "block",
+    "dragon-claw",
+    "dragon-dance",
+    "rock-blast",
+    "close-combat",
+    "assurance",
+    "rock-polish",
+    "dark-pulse",
+    "dragon-pulse",
+    "earth-power",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "zen-headbutt",
+    "draco-meteor",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "head-smash",
+    "hone-claws",
+    "round",
+    "bulldoze",
+    "dragon-tail",
+    "play-rough",
+    "confide",
+    "high-horsepower",
+    "brutal-swing",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "breaking-swipe",
+    "scale-shot",
+    "meteor-beam",
+    "lash-out",
+    "dragon-cheer"
+  ],
+  "evolution": [
+    {
+      "id": 696,
+      "name": "tyrunt",
+      "details": []
+    },
+    {
+      "id": 697,
+      "name": "tyrantrum",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 39,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "day",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Despot Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "red",
+  "shape": "upright",
+  "growth_rate": "medium",
+  "base_experience": 182,
+  "order": 832,
+  "egg_groups": [
+    "monster",
+    "dragon"
+  ],
+  "forms": [
+    "tyrantrum"
+  ],
+  "gender_rate": 1
+}

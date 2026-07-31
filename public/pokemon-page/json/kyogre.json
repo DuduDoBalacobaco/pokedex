@@ -1,0 +1,149 @@
+{
+  "id": 382,
+  "name": "kyogre",
+  "habitat_img": "assets/img/habitats/webp/sea.webp",
+  "habitat_name": "sea",
+  "height": "4.5 m",
+  "weight": "352 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "water"
+  ],
+  "artwork": "assets/artwork/front/382_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/382_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 90
+    },
+    {
+      "name": "special-attack",
+      "value": 150
+    },
+    {
+      "name": "special-defense",
+      "value": 140
+    },
+    {
+      "name": "speed",
+      "value": 90
+    }
+  ],
+  "abilities": [
+    {
+      "name": "drizzle",
+      "hidden": false,
+      "entries": "Summons rain that lasts indefinitely upon entering battle."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "roar",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "strength",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "earthquake",
+    "toxic",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "waterfall",
+    "swift",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "hidden-power",
+    "rain-dance",
+    "psych-up",
+    "ancient-power",
+    "rock-smash",
+    "whirlpool",
+    "uproar",
+    "hail",
+    "facade",
+    "helping-hand",
+    "brick-break",
+    "secret-power",
+    "dive",
+    "rock-tomb",
+    "water-spout",
+    "signal-beam",
+    "sheer-cold",
+    "muddy-water",
+    "block",
+    "calm-mind",
+    "shock-wave",
+    "water-pulse",
+    "brine",
+    "natural-gift",
+    "aqua-ring",
+    "aqua-tail",
+    "giga-impact",
+    "avalanche",
+    "iron-head",
+    "heavy-slam",
+    "round",
+    "scald",
+    "bulldoze",
+    "confide",
+    "origin-pulse",
+    "liquidation",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 382,
+      "name": "kyogre",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Sea Basin Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 0,
+  "capture_rate": 3,
+  "color": "blue",
+  "shape": "fish",
+  "growth_rate": "slow",
+  "base_experience": 302,
+  "order": 507,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "kyogre"
+  ],
+  "gender_rate": -1
+}

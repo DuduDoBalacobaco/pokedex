@@ -1,0 +1,187 @@
+{
+  "id": 327,
+  "name": "spinda",
+  "habitat_img": "assets/img/habitats/webp/mountain.webp",
+  "habitat_name": "mountain",
+  "height": "1.1 m",
+  "weight": "5 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/327_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/327_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 60
+    },
+    {
+      "name": "defense",
+      "value": 60
+    },
+    {
+      "name": "special-attack",
+      "value": 60
+    },
+    {
+      "name": "special-defense",
+      "value": 60
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "hidden": false,
+      "entries": "Prevents confusion."
+    },
+    {
+      "name": "tangled-feet",
+      "hidden": false,
+      "entries": "Doubles evasion when confused."
+    },
+    {
+      "name": "contrary",
+      "hidden": true,
+      "entries": "Inverts stat changes."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "mega-kick",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "thrash",
+    "double-edge",
+    "disable",
+    "psybeam",
+    "low-kick",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "dig",
+    "toxic",
+    "psychic",
+    "hypnosis",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "metronome",
+    "swift",
+    "dream-eater",
+    "dizzy-punch",
+    "flash",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "nightmare",
+    "snore",
+    "flail",
+    "protect",
+    "feint-attack",
+    "mud-slap",
+    "icy-wind",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "dynamic-punch",
+    "baton-pass",
+    "encore",
+    "rapid-spin",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "rock-smash",
+    "fake-out",
+    "uproar",
+    "facade",
+    "focus-punch",
+    "smelling-salts",
+    "helping-hand",
+    "trick",
+    "role-play",
+    "wish",
+    "assist",
+    "recycle",
+    "brick-break",
+    "skill-swap",
+    "snatch",
+    "secret-power",
+    "teeter-dance",
+    "hyper-voice",
+    "fake-tears",
+    "rock-tomb",
+    "covet",
+    "calm-mind",
+    "shock-wave",
+    "water-pulse",
+    "natural-gift",
+    "fling",
+    "psycho-shift",
+    "copycat",
+    "last-resort",
+    "sucker-punch",
+    "drain-punch",
+    "psycho-cut",
+    "zen-headbutt",
+    "trick-room",
+    "captivate",
+    "guard-split",
+    "round",
+    "retaliate",
+    "work-up",
+    "wild-charge",
+    "confide",
+    "power-up-punch",
+    "spotlight",
+    "stomping-tantrum"
+  ],
+  "evolution": [
+    {
+      "id": 327,
+      "name": "spinda",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Spot Panda Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 255,
+  "color": "brown",
+  "shape": "upright",
+  "growth_rate": "fast",
+  "base_experience": 126,
+  "order": 439,
+  "egg_groups": [
+    "ground",
+    "humanshape"
+  ],
+  "forms": [
+    "spinda"
+  ],
+  "gender_rate": 4
+}

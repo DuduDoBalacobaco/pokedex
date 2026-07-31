@@ -1,0 +1,178 @@
+{
+  "id": 906,
+  "name": "sprigatito",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.4 m",
+  "weight": "4.1 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/906_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/906_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 61
+    },
+    {
+      "name": "defense",
+      "value": 54
+    },
+    {
+      "name": "special-attack",
+      "value": 45
+    },
+    {
+      "name": "special-defense",
+      "value": 45
+    },
+    {
+      "name": "speed",
+      "value": 65
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "hidden": false,
+      "entries": "Strengthens Grass moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "protean",
+      "hidden": true,
+      "entries": "Changes the bearer's type to match each move it uses."
+    }
+  ],
+  "moves": [
+    "scratch",
+    "take-down",
+    "tail-whip",
+    "bite",
+    "leech-seed",
+    "solar-beam",
+    "agility",
+    "quick-attack",
+    "swift",
+    "rest",
+    "slash",
+    "substitute",
+    "protect",
+    "mud-slap",
+    "giga-drain",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "fake-tears",
+    "bullet-seed",
+    "magical-leaf",
+    "u-turn",
+    "copycat",
+    "worry-seed",
+    "sucker-punch",
+    "seed-bomb",
+    "energy-ball",
+    "nasty-plot",
+    "shadow-claw",
+    "leaf-storm",
+    "grass-knot",
+    "hone-claws",
+    "ally-switch",
+    "acrobatics",
+    "grass-pledge",
+    "petal-blizzard",
+    "disarming-voice",
+    "grassy-terrain",
+    "play-rough",
+    "leafage",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 906,
+      "name": "sprigatito",
+      "details": []
+    },
+    {
+      "id": 907,
+      "name": "floragato",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 16,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 908,
+      "name": "meowscarada",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Grass Cat Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 45,
+  "color": "green",
+  "shape": "quadruped",
+  "growth_rate": "medium-slow",
+  "base_experience": 62,
+  "order": 906,
+  "egg_groups": [
+    "ground",
+    "plant"
+  ],
+  "forms": [
+    "sprigatito"
+  ],
+  "gender_rate": 1
+}

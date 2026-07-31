@@ -1,0 +1,239 @@
+{
+  "id": 64,
+  "name": "kadabra",
+  "habitat_img": "assets/img/habitats/webp/urban.webp",
+  "habitat_name": "urban",
+  "height": "1.3 m",
+  "weight": "56.5 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "psychic"
+  ],
+  "artwork": "assets/artwork/front/64_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/64_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 35
+    },
+    {
+      "name": "defense",
+      "value": 30
+    },
+    {
+      "name": "special-attack",
+      "value": 120
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 105
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "hidden": false,
+      "entries": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+    },
+    {
+      "name": "inner-focus",
+      "hidden": false,
+      "entries": "Prevents flinching."
+    },
+    {
+      "name": "magic-guard",
+      "hidden": true,
+      "entries": "Protects against damage not directly caused by a move."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "mega-kick",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "disable",
+    "psybeam",
+    "submission",
+    "counter",
+    "seismic-toss",
+    "thunder-wave",
+    "dig",
+    "toxic",
+    "confusion",
+    "psychic",
+    "hypnosis",
+    "rage",
+    "teleport",
+    "night-shade",
+    "mimic",
+    "double-team",
+    "recover",
+    "light-screen",
+    "reflect",
+    "bide",
+    "metronome",
+    "swift",
+    "skull-bash",
+    "kinesis",
+    "dream-eater",
+    "flash",
+    "psywave",
+    "rest",
+    "tri-attack",
+    "substitute",
+    "thief",
+    "nightmare",
+    "snore",
+    "curse",
+    "protect",
+    "zap-cannon",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "dynamic-punch",
+    "encore",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "torment",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "trick",
+    "role-play",
+    "magic-coat",
+    "recycle",
+    "knock-off",
+    "skill-swap",
+    "snatch",
+    "secret-power",
+    "signal-beam",
+    "calm-mind",
+    "shock-wave",
+    "gravity",
+    "miracle-eye",
+    "natural-gift",
+    "embargo",
+    "fling",
+    "power-swap",
+    "guard-swap",
+    "drain-punch",
+    "energy-ball",
+    "psycho-cut",
+    "zen-headbutt",
+    "trick-room",
+    "captivate",
+    "grass-knot",
+    "charge-beam",
+    "wonder-room",
+    "psyshock",
+    "telekinesis",
+    "magic-room",
+    "foul-play",
+    "round",
+    "ally-switch",
+    "confide",
+    "dazzling-gleam",
+    "psychic-terrain",
+    "speed-swap",
+    "expanding-force"
+  ],
+  "evolution": [
+    {
+      "id": 63,
+      "name": "abra",
+      "details": []
+    },
+    {
+      "id": 64,
+      "name": "kadabra",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 16,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "alakazam",
+      "details": [
+        {
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Psi Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 100,
+  "color": "brown",
+  "shape": "upright",
+  "growth_rate": "medium-slow",
+  "base_experience": 140,
+  "order": 104,
+  "egg_groups": [
+    "humanshape"
+  ],
+  "forms": [
+    "kadabra"
+  ],
+  "gender_rate": 2
+}

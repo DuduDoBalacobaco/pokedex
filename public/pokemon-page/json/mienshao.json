@@ -1,0 +1,203 @@
+{
+  "id": 620,
+  "name": "mienshao",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.4 m",
+  "weight": "35.5 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/620_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/620_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 65
+    },
+    {
+      "name": "attack",
+      "value": 125
+    },
+    {
+      "name": "defense",
+      "value": 60
+    },
+    {
+      "name": "special-attack",
+      "value": 95
+    },
+    {
+      "name": "special-defense",
+      "value": 60
+    },
+    {
+      "name": "speed",
+      "value": 105
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "hidden": false,
+      "entries": "Prevents flinching."
+    },
+    {
+      "name": "regenerator",
+      "hidden": false,
+      "entries": "Heals for 1/3 max HP upon switching out."
+    },
+    {
+      "name": "reckless",
+      "hidden": true,
+      "entries": "Strengthens recoil moves to 1.2× their power."
+    }
+  ],
+  "moves": [
+    "pound",
+    "double-slap",
+    "mega-punch",
+    "swords-dance",
+    "mega-kick",
+    "jump-kick",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "low-kick",
+    "strength",
+    "dig",
+    "toxic",
+    "meditate",
+    "agility",
+    "double-team",
+    "reflect",
+    "focus-energy",
+    "swift",
+    "high-jump-kick",
+    "fury-swipes",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "detect",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "baton-pass",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "rock-smash",
+    "fake-out",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "helping-hand",
+    "role-play",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "secret-power",
+    "blaze-kick",
+    "rock-tomb",
+    "aerial-ace",
+    "bulk-up",
+    "bounce",
+    "calm-mind",
+    "feint",
+    "u-turn",
+    "close-combat",
+    "payback",
+    "assurance",
+    "fling",
+    "force-palm",
+    "aura-sphere",
+    "poison-jab",
+    "drain-punch",
+    "vacuum-wave",
+    "focus-blast",
+    "giga-impact",
+    "stone-edge",
+    "grass-knot",
+    "hone-claws",
+    "wide-guard",
+    "low-sweep",
+    "round",
+    "quick-guard",
+    "ally-switch",
+    "acrobatics",
+    "retaliate",
+    "work-up",
+    "dual-chop",
+    "confide",
+    "power-up-punch",
+    "laser-focus",
+    "brutal-swing",
+    "coaching",
+    "triple-axel",
+    "tera-blast",
+    "ice-spinner",
+    "trailblaze",
+    "upper-hand"
+  ],
+  "evolution": [
+    {
+      "id": 619,
+      "name": "mienfoo",
+      "details": []
+    },
+    {
+      "id": 620,
+      "name": "mienshao",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 50,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Martial Arts Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "purple",
+  "shape": "upright",
+  "growth_rate": "medium-slow",
+  "base_experience": 179,
+  "order": 743,
+  "egg_groups": [
+    "ground",
+    "humanshape"
+  ],
+  "forms": [
+    "mienshao"
+  ],
+  "gender_rate": 4
+}

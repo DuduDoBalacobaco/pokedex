@@ -1,0 +1,166 @@
+{
+  "id": 369,
+  "name": "relicanth",
+  "habitat_img": "assets/img/habitats/webp/sea.webp",
+  "habitat_name": "sea",
+  "height": "1 m",
+  "weight": "23.4 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "water",
+    "rock"
+  ],
+  "artwork": "assets/artwork/front/369_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/369_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 90
+    },
+    {
+      "name": "defense",
+      "value": 130
+    },
+    {
+      "name": "special-attack",
+      "value": 45
+    },
+    {
+      "name": "special-defense",
+      "value": 65
+    },
+    {
+      "name": "speed",
+      "value": 55
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "hidden": false,
+      "entries": "Doubles Speed during rain."
+    },
+    {
+      "name": "rock-head",
+      "hidden": false,
+      "entries": "Protects against recoil damage."
+    },
+    {
+      "name": "sturdy",
+      "hidden": true,
+      "entries": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "earthquake",
+    "toxic",
+    "mimic",
+    "double-team",
+    "harden",
+    "waterfall",
+    "skull-bash",
+    "amnesia",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "mud-slap",
+    "icy-wind",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "magnitude",
+    "hidden-power",
+    "rain-dance",
+    "psych-up",
+    "ancient-power",
+    "rock-smash",
+    "whirlpool",
+    "hail",
+    "facade",
+    "yawn",
+    "secret-power",
+    "dive",
+    "mud-sport",
+    "rock-tomb",
+    "muddy-water",
+    "iron-defense",
+    "bounce",
+    "mud-shot",
+    "water-sport",
+    "calm-mind",
+    "rock-blast",
+    "water-pulse",
+    "brine",
+    "natural-gift",
+    "rock-polish",
+    "aqua-tail",
+    "earth-power",
+    "giga-impact",
+    "zen-headbutt",
+    "stone-edge",
+    "captivate",
+    "stealth-rock",
+    "head-smash",
+    "smack-down",
+    "round",
+    "scald",
+    "bulldoze",
+    "confide",
+    "stomping-tantrum",
+    "liquidation",
+    "body-press",
+    "scale-shot",
+    "meteor-beam"
+  ],
+  "evolution": [
+    {
+      "id": 369,
+      "name": "relicanth",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Longevity Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 25,
+  "color": "gray",
+  "shape": "fish",
+  "growth_rate": "slow",
+  "base_experience": 170,
+  "order": 490,
+  "egg_groups": [
+    "water1",
+    "water2"
+  ],
+  "forms": [
+    "relicanth"
+  ],
+  "gender_rate": 1
+}

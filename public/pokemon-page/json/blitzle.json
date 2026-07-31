@@ -1,0 +1,176 @@
+{
+  "id": 522,
+  "name": "blitzle",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.8 m",
+  "weight": "29.8 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/522_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/522_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 45
+    },
+    {
+      "name": "attack",
+      "value": 60
+    },
+    {
+      "name": "defense",
+      "value": 32
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 32
+    },
+    {
+      "name": "speed",
+      "value": 76
+    }
+  ],
+  "abilities": [
+    {
+      "name": "lightning-rod",
+      "hidden": false,
+      "entries": "Redirects single-target Electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+    },
+    {
+      "name": "motor-drive",
+      "hidden": false,
+      "entries": "Absorbs Electric moves, raising Speed one stage."
+    },
+    {
+      "name": "sap-sipper",
+      "hidden": true,
+      "entries": "Absorbs Grass moves, raising Attack one stage."
+    }
+  ],
+  "moves": [
+    "stomp",
+    "double-kick",
+    "sand-attack",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "tail-whip",
+    "low-kick",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "rage",
+    "screech",
+    "double-team",
+    "light-screen",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "endure",
+    "swagger",
+    "spark",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "baton-pass",
+    "pursuit",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "facade",
+    "charge",
+    "helping-hand",
+    "endeavor",
+    "snatch",
+    "secret-power",
+    "signal-beam",
+    "bounce",
+    "shock-wave",
+    "feint",
+    "me-first",
+    "magnet-rise",
+    "discharge",
+    "charge-beam",
+    "electro-ball",
+    "flame-charge",
+    "round",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "confide",
+    "eerie-impulse",
+    "electric-terrain",
+    "smart-strike",
+    "tera-blast",
+    "trailblaze",
+    "supercell-slam"
+  ],
+  "evolution": [
+    {
+      "id": 522,
+      "name": "blitzle",
+      "details": []
+    },
+    {
+      "id": 523,
+      "name": "zebstrika",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 27,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Electrified Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "black",
+  "shape": "quadruped",
+  "growth_rate": "medium",
+  "base_experience": 59,
+  "order": 637,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "blitzle"
+  ],
+  "gender_rate": 4
+}

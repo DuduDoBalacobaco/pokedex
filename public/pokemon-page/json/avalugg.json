@@ -1,0 +1,207 @@
+{
+  "id": 713,
+  "name": "avalugg",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2 m",
+  "weight": "505 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "ice"
+  ],
+  "artwork": "assets/artwork/front/713_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/713_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 95
+    },
+    {
+      "name": "attack",
+      "value": 117
+    },
+    {
+      "name": "defense",
+      "value": 184
+    },
+    {
+      "name": "special-attack",
+      "value": 44
+    },
+    {
+      "name": "special-defense",
+      "value": 46
+    },
+    {
+      "name": "speed",
+      "value": 28
+    }
+  ],
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "hidden": false,
+      "entries": "Prevents confusion."
+    },
+    {
+      "name": "ice-body",
+      "hidden": false,
+      "entries": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+    },
+    {
+      "name": "sturdy",
+      "hidden": true,
+      "entries": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "bite",
+    "roar",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "strength",
+    "earthquake",
+    "toxic",
+    "double-team",
+    "recover",
+    "harden",
+    "skull-bash",
+    "flash",
+    "rest",
+    "rock-slide",
+    "sharpen",
+    "substitute",
+    "snore",
+    "curse",
+    "powder-snow",
+    "protect",
+    "scary-face",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "rapid-spin",
+    "hidden-power",
+    "rain-dance",
+    "crunch",
+    "mirror-coat",
+    "rock-smash",
+    "hail",
+    "facade",
+    "superpower",
+    "secret-power",
+    "ice-ball",
+    "rock-tomb",
+    "icicle-spear",
+    "iron-defense",
+    "block",
+    "water-pulse",
+    "gyro-ball",
+    "rock-polish",
+    "giga-impact",
+    "avalanche",
+    "ice-fang",
+    "flash-cannon",
+    "iron-head",
+    "stone-edge",
+    "wide-guard",
+    "heavy-slam",
+    "after-you",
+    "round",
+    "bulldoze",
+    "frost-breath",
+    "icicle-crash",
+    "confide",
+    "high-horsepower",
+    "aurora-veil",
+    "stomping-tantrum",
+    "body-press",
+    "tera-blast",
+    "ice-spinner",
+    "snowscape",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 712,
+      "name": "bergmite",
+      "details": []
+    },
+    {
+      "id": 713,
+      "name": "avalugg",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 37,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "level-up",
+          "min_level": 37,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Iceberg Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 55,
+  "color": "blue",
+  "shape": "quadruped",
+  "growth_rate": "medium",
+  "base_experience": 180,
+  "order": 853,
+  "egg_groups": [
+    "monster",
+    "mineral"
+  ],
+  "forms": [
+    "avalugg"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,204 @@
+{
+  "id": 72,
+  "name": "tentacool",
+  "habitat_img": "assets/img/habitats/webp/sea.webp",
+  "habitat_name": "sea",
+  "height": "0.9 m",
+  "weight": "45.5 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "water",
+    "poison"
+  ],
+  "artwork": "assets/artwork/front/72_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/72_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 40
+    },
+    {
+      "name": "defense",
+      "value": 35
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 100
+    },
+    {
+      "name": "speed",
+      "value": 70
+    }
+  ],
+  "abilities": [
+    {
+      "name": "clear-body",
+      "hidden": false,
+      "entries": "Prevents stats from being lowered by other Pokémon."
+    },
+    {
+      "name": "liquid-ooze",
+      "hidden": false,
+      "entries": "Damages opponents using leeching moves for as much as they would heal."
+    },
+    {
+      "name": "rain-dish",
+      "hidden": true,
+      "entries": "Heals for 1/16 max HP after each turn during rain."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "bind",
+    "headbutt",
+    "wrap",
+    "take-down",
+    "double-edge",
+    "poison-sting",
+    "supersonic",
+    "acid",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "bubble-beam",
+    "aurora-beam",
+    "mega-drain",
+    "toxic",
+    "rage",
+    "mimic",
+    "screech",
+    "double-team",
+    "confuse-ray",
+    "barrier",
+    "haze",
+    "reflect",
+    "bide",
+    "waterfall",
+    "swift",
+    "skull-bash",
+    "constrict",
+    "bubble",
+    "acid-armor",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "protect",
+    "sludge-bomb",
+    "icy-wind",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "rapid-spin",
+    "hidden-power",
+    "rain-dance",
+    "mirror-coat",
+    "whirlpool",
+    "hail",
+    "facade",
+    "magic-coat",
+    "knock-off",
+    "secret-power",
+    "dive",
+    "tickle",
+    "muddy-water",
+    "mud-shot",
+    "water-pulse",
+    "brine",
+    "natural-gift",
+    "acupressure",
+    "payback",
+    "wring-out",
+    "toxic-spikes",
+    "aqua-ring",
+    "poison-jab",
+    "cross-poison",
+    "gunk-shot",
+    "captivate",
+    "venoshock",
+    "sludge-wave",
+    "acid-spray",
+    "round",
+    "scald",
+    "hex",
+    "confide",
+    "dazzling-gleam",
+    "infestation",
+    "throat-chop",
+    "brutal-swing",
+    "liquidation",
+    "flip-turn",
+    "tera-blast",
+    "pounce",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 72,
+      "name": "tentacool",
+      "details": []
+    },
+    {
+      "id": 73,
+      "name": "tentacruel",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Jellyfish Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "blue",
+  "shape": "tentacles",
+  "growth_rate": "slow",
+  "base_experience": 67,
+  "order": 113,
+  "egg_groups": [
+    "water3"
+  ],
+  "forms": [
+    "tentacool"
+  ],
+  "gender_rate": 4
+}

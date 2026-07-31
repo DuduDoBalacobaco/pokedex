@@ -1,0 +1,121 @@
+{
+  "id": 401,
+  "name": "kricketot",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "2.2 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "bug"
+  ],
+  "artwork": "assets/artwork/front/401_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/401_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 37
+    },
+    {
+      "name": "attack",
+      "value": 25
+    },
+    {
+      "name": "defense",
+      "value": 41
+    },
+    {
+      "name": "special-attack",
+      "value": 25
+    },
+    {
+      "name": "special-defense",
+      "value": 41
+    },
+    {
+      "name": "speed",
+      "value": 25
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shed-skin",
+      "hidden": false,
+      "entries": "Has a 33% chance of curing any major status ailment after each turn."
+    },
+    {
+      "name": "run-away",
+      "hidden": true,
+      "entries": "Ensures success fleeing from wild battles."
+    }
+  ],
+  "moves": [
+    "pound",
+    "tackle",
+    "growl",
+    "absorb",
+    "string-shot",
+    "bide",
+    "snore",
+    "mud-slap",
+    "uproar",
+    "endeavor",
+    "bug-bite",
+    "struggle-bug",
+    "lunge",
+    "skitter-smack",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 401,
+      "name": "kricketot",
+      "details": []
+    },
+    {
+      "id": 402,
+      "name": "kricketune",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 10,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Cricket Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 255,
+  "color": "red",
+  "shape": "humanoid",
+  "growth_rate": "medium-slow",
+  "base_experience": 39,
+  "order": 532,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "kricketot"
+  ],
+  "gender_rate": 4
+}

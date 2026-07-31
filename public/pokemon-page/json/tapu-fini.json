@@ -1,0 +1,153 @@
+{
+  "id": 788,
+  "name": "tapu-fini",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.3 m",
+  "weight": "21.2 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "water",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/788_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/788_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 75
+    },
+    {
+      "name": "defense",
+      "value": 115
+    },
+    {
+      "name": "special-attack",
+      "value": 95
+    },
+    {
+      "name": "special-defense",
+      "value": 130
+    },
+    {
+      "name": "speed",
+      "value": 85
+    }
+  ],
+  "abilities": [
+    {
+      "name": "misty-surge",
+      "hidden": false,
+      "entries": "When this Pokémon enters battle, it changes the terrain to Misty Terrain."
+    },
+    {
+      "name": "telepathy",
+      "hidden": true,
+      "entries": "Protects against friendly Pokémon's damaging moves."
+    }
+  ],
+  "moves": [
+    "ice-punch",
+    "mist",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "toxic",
+    "double-team",
+    "withdraw",
+    "light-screen",
+    "haze",
+    "reflect",
+    "waterfall",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "mean-look",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "hidden-power",
+    "rain-dance",
+    "psych-up",
+    "shadow-ball",
+    "whirlpool",
+    "torment",
+    "facade",
+    "nature-power",
+    "taunt",
+    "trick",
+    "magic-coat",
+    "knock-off",
+    "refresh",
+    "dive",
+    "muddy-water",
+    "iron-defense",
+    "calm-mind",
+    "water-pulse",
+    "gravity",
+    "brine",
+    "fling",
+    "guard-swap",
+    "aqua-ring",
+    "giga-impact",
+    "defog",
+    "grass-knot",
+    "wonder-room",
+    "telekinesis",
+    "magic-room",
+    "soak",
+    "round",
+    "echoed-voice",
+    "stored-power",
+    "scald",
+    "heal-pulse",
+    "disarming-voice",
+    "draining-kiss",
+    "misty-terrain",
+    "play-rough",
+    "moonblast",
+    "confide",
+    "dazzling-gleam",
+    "smart-strike",
+    "natures-madness"
+  ],
+  "evolution": [
+    {
+      "id": 788,
+      "name": "tapu-fini",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Land Spirit Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 3,
+  "color": "purple",
+  "shape": "arms",
+  "growth_rate": "slow",
+  "base_experience": 257,
+  "order": 965,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "tapu-fini"
+  ],
+  "gender_rate": -1
+}

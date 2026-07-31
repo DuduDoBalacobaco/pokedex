@@ -1,0 +1,136 @@
+{
+  "id": 10,
+  "name": "caterpie",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "0.3 m",
+  "weight": "2.9 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "bug"
+  ],
+  "artwork": "assets/artwork/front/10_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/10_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 45
+    },
+    {
+      "name": "attack",
+      "value": 30
+    },
+    {
+      "name": "defense",
+      "value": 35
+    },
+    {
+      "name": "special-attack",
+      "value": 20
+    },
+    {
+      "name": "special-defense",
+      "value": 20
+    },
+    {
+      "name": "speed",
+      "value": 45
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shield-dust",
+      "hidden": false,
+      "entries": "Protects against incoming moves' extra effects."
+    },
+    {
+      "name": "run-away",
+      "hidden": true,
+      "entries": "Ensures success fleeing from wild battles."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "string-shot",
+    "snore",
+    "bug-bite",
+    "electroweb"
+  ],
+  "evolution": [
+    {
+      "id": 10,
+      "name": "caterpie",
+      "details": []
+    },
+    {
+      "id": 11,
+      "name": "metapod",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 7,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "butterfree",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 10,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Worm Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 255,
+  "color": "green",
+  "shape": "armor",
+  "growth_rate": "medium",
+  "base_experience": 39,
+  "order": 14,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "caterpie"
+  ],
+  "gender_rate": 4
+}

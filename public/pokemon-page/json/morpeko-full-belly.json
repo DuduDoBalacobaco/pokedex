@@ -1,0 +1,152 @@
+{
+  "id": 877,
+  "name": "morpeko-full-belly",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "3 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "electric",
+    "dark"
+  ],
+  "artwork": "assets/artwork/front/877_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/877_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 58
+    },
+    {
+      "name": "attack",
+      "value": 95
+    },
+    {
+      "name": "defense",
+      "value": 58
+    },
+    {
+      "name": "special-attack",
+      "value": 70
+    },
+    {
+      "name": "special-defense",
+      "value": 58
+    },
+    {
+      "name": "speed",
+      "value": 97
+    }
+  ],
+  "abilities": [
+    {
+      "name": "hunger-switch",
+      "hidden": false,
+      "entries": "Causes Morpeko to change its form each turn, alternating between Full Belly Mode and Hangry Mode"
+    }
+  ],
+  "moves": [
+    "thunder-punch",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "tail-whip",
+    "leer",
+    "bite",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "agility",
+    "quick-attack",
+    "swift",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "snore",
+    "reversal",
+    "spite",
+    "protect",
+    "scary-face",
+    "outrage",
+    "endure",
+    "swagger",
+    "spark",
+    "attract",
+    "sleep-talk",
+    "baton-pass",
+    "rapid-spin",
+    "crunch",
+    "fake-out",
+    "uproar",
+    "torment",
+    "flatter",
+    "facade",
+    "charge",
+    "taunt",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "fake-tears",
+    "tickle",
+    "bullet-seed",
+    "payback",
+    "assurance",
+    "fling",
+    "dark-pulse",
+    "seed-bomb",
+    "nasty-plot",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "charge-beam",
+    "electro-ball",
+    "foul-play",
+    "round",
+    "quash",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "snarl",
+    "parting-shot",
+    "eerie-impulse",
+    "electric-terrain",
+    "power-trip",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "aura-wheel",
+    "rising-voltage",
+    "lash-out",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 877,
+      "name": "morpeko",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Two-Sided Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 180,
+  "color": "yellow",
+  "shape": "humanoid",
+  "growth_rate": "medium",
+  "base_experience": 153,
+  "order": 1063,
+  "egg_groups": [
+    "ground",
+    "fairy"
+  ],
+  "forms": [
+    "morpeko-full-belly"
+  ],
+  "gender_rate": 4
+}

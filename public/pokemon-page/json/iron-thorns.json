@@ -1,0 +1,152 @@
+{
+  "id": 995,
+  "name": "iron-thorns",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.6 m",
+  "weight": "303 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "rock",
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/995_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/995_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 134
+    },
+    {
+      "name": "defense",
+      "value": 110
+    },
+    {
+      "name": "special-attack",
+      "value": 70
+    },
+    {
+      "name": "special-defense",
+      "value": 84
+    },
+    {
+      "name": "speed",
+      "value": 72
+    }
+  ],
+  "abilities": [
+    {
+      "name": "quark-drive",
+      "hidden": false,
+      "entries": "Raises highest stat on Electric Terrain, or if holding Booster Energy."
+    }
+  ],
+  "moves": [
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "swords-dance",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "pin-missile",
+    "bite",
+    "flamethrower",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "low-kick",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "rock-throw",
+    "earthquake",
+    "dig",
+    "screech",
+    "fire-blast",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "curse",
+    "protect",
+    "scary-face",
+    "spikes",
+    "sandstorm",
+    "endure",
+    "metal-claw",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "facade",
+    "charge",
+    "taunt",
+    "brick-break",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "dragon-claw",
+    "dragon-dance",
+    "rock-blast",
+    "fling",
+    "power-gem",
+    "focus-blast",
+    "earth-power",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "charge-beam",
+    "smack-down",
+    "heavy-slam",
+    "electro-ball",
+    "volt-switch",
+    "bulldoze",
+    "dragon-tail",
+    "electroweb",
+    "wild-charge",
+    "snarl",
+    "eerie-impulse",
+    "electric-terrain",
+    "high-horsepower",
+    "stomping-tantrum",
+    "body-press",
+    "breaking-swipe",
+    "meteor-beam",
+    "tera-blast",
+    "supercell-slam"
+  ],
+  "evolution": [
+    {
+      "id": 995,
+      "name": "iron-thorns",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Paradox Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 0,
+  "capture_rate": 30,
+  "color": "green",
+  "shape": "upright",
+  "growth_rate": "slow",
+  "base_experience": 285,
+  "order": 991,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "iron-thorns"
+  ],
+  "gender_rate": -1
+}

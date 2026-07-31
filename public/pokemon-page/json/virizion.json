@@ -1,0 +1,158 @@
+{
+  "id": 640,
+  "name": "virizion",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2 m",
+  "weight": "200 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "grass",
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/640_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/640_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 91
+    },
+    {
+      "name": "attack",
+      "value": 90
+    },
+    {
+      "name": "defense",
+      "value": 72
+    },
+    {
+      "name": "special-attack",
+      "value": 90
+    },
+    {
+      "name": "special-defense",
+      "value": 129
+    },
+    {
+      "name": "speed",
+      "value": 108
+    }
+  ],
+  "abilities": [
+    {
+      "name": "justified",
+      "hidden": false,
+      "entries": "Raises Attack one stage upon taking damage from a Dark move."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "double-kick",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "roar",
+    "hyper-beam",
+    "strength",
+    "solar-beam",
+    "toxic",
+    "quick-attack",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "scary-face",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "megahorn",
+    "synthesis",
+    "hidden-power",
+    "sunny-day",
+    "psych-up",
+    "rock-smash",
+    "facade",
+    "nature-power",
+    "taunt",
+    "helping-hand",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "secret-power",
+    "bullet-seed",
+    "aerial-ace",
+    "block",
+    "bounce",
+    "magical-leaf",
+    "calm-mind",
+    "leaf-blade",
+    "close-combat",
+    "worry-seed",
+    "aura-sphere",
+    "seed-bomb",
+    "air-slash",
+    "x-scissor",
+    "vacuum-wave",
+    "focus-blast",
+    "energy-ball",
+    "giga-impact",
+    "zen-headbutt",
+    "leaf-storm",
+    "stone-edge",
+    "grass-knot",
+    "round",
+    "quick-guard",
+    "retaliate",
+    "work-up",
+    "sacred-sword",
+    "confide",
+    "solar-blade",
+    "laser-focus",
+    "smart-strike",
+    "grassy-glide",
+    "coaching",
+    "tera-blast",
+    "trailblaze",
+    "upper-hand"
+  ],
+  "evolution": [
+    {
+      "id": 640,
+      "name": "virizion",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Grassland Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 35,
+  "capture_rate": 3,
+  "color": "green",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 261,
+  "order": 763,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "virizion"
+  ],
+  "gender_rate": -1
+}

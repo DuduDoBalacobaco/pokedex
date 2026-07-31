@@ -1,0 +1,185 @@
+{
+  "id": 223,
+  "name": "remoraid",
+  "habitat_img": "assets/img/habitats/webp/sea.webp",
+  "habitat_name": "sea",
+  "height": "0.6 m",
+  "weight": "12 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "water"
+  ],
+  "artwork": "assets/artwork/front/223_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/223_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 35
+    },
+    {
+      "name": "attack",
+      "value": 65
+    },
+    {
+      "name": "defense",
+      "value": 35
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 35
+    },
+    {
+      "name": "speed",
+      "value": 65
+    }
+  ],
+  "abilities": [
+    {
+      "name": "hustle",
+      "hidden": false,
+      "entries": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    },
+    {
+      "name": "sniper",
+      "hidden": false,
+      "entries": "Strengthens critical hits to inflict 3× damage rather than 2×."
+    },
+    {
+      "name": "moody",
+      "hidden": true,
+      "entries": "Raises a random stat two stages and lowers another one stage after each turn."
+    }
+  ],
+  "moves": [
+    "double-edge",
+    "supersonic",
+    "flamethrower",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "psybeam",
+    "bubble-beam",
+    "aurora-beam",
+    "hyper-beam",
+    "string-shot",
+    "thunder-wave",
+    "toxic",
+    "psychic",
+    "mimic",
+    "screech",
+    "double-team",
+    "defense-curl",
+    "haze",
+    "focus-energy",
+    "fire-blast",
+    "waterfall",
+    "swift",
+    "bubble",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "flail",
+    "protect",
+    "mud-slap",
+    "octazooka",
+    "icy-wind",
+    "lock-on",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "whirlpool",
+    "facade",
+    "helping-hand",
+    "secret-power",
+    "dive",
+    "water-spout",
+    "signal-beam",
+    "bullet-seed",
+    "bounce",
+    "mud-shot",
+    "rock-blast",
+    "water-pulse",
+    "brine",
+    "natural-gift",
+    "assurance",
+    "seed-bomb",
+    "gunk-shot",
+    "captivate",
+    "charge-beam",
+    "smack-down",
+    "soak",
+    "acid-spray",
+    "entrainment",
+    "round",
+    "scald",
+    "incinerate",
+    "confide"
+  ],
+  "evolution": [
+    {
+      "id": 223,
+      "name": "remoraid",
+      "details": []
+    },
+    {
+      "id": 224,
+      "name": "octillery",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 25,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Jet Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "gray",
+  "shape": "fish",
+  "growth_rate": "medium",
+  "base_experience": 60,
+  "order": 323,
+  "egg_groups": [
+    "water1",
+    "water2"
+  ],
+  "forms": [
+    "remoraid"
+  ],
+  "gender_rate": 4
+}

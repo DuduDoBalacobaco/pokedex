@@ -1,0 +1,197 @@
+{
+  "id": 414,
+  "name": "mothim",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.9 m",
+  "weight": "23.3 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "bug",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/414_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/414_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 94
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 94
+    },
+    {
+      "name": "special-defense",
+      "value": 50
+    },
+    {
+      "name": "speed",
+      "value": 66
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swarm",
+      "hidden": false,
+      "entries": "Strengthens Bug moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "tinted-lens",
+      "hidden": true,
+      "entries": "Doubles damage inflicted with not-very-effective moves."
+    }
+  ],
+  "moves": [
+    "gust",
+    "tackle",
+    "psybeam",
+    "hyper-beam",
+    "solar-beam",
+    "poison-powder",
+    "string-shot",
+    "toxic",
+    "confusion",
+    "psychic",
+    "double-team",
+    "swift",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "mud-slap",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "facade",
+    "skill-swap",
+    "secret-power",
+    "camouflage",
+    "air-cutter",
+    "silver-wind",
+    "signal-beam",
+    "aerial-ace",
+    "roost",
+    "natural-gift",
+    "tailwind",
+    "u-turn",
+    "air-slash",
+    "bug-buzz",
+    "energy-ball",
+    "giga-impact",
+    "defog",
+    "captivate",
+    "bug-bite",
+    "ominous-wind",
+    "venoshock",
+    "quiver-dance",
+    "round",
+    "acrobatics",
+    "struggle-bug",
+    "electroweb",
+    "confide",
+    "infestation",
+    "lunge"
+  ],
+  "evolution": [
+    {
+      "id": 412,
+      "name": "burmy",
+      "details": []
+    },
+    {
+      "id": 413,
+      "name": "wormadam",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 20,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 414,
+      "name": "mothim",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 20,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Moth Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "yellow",
+  "shape": "bug-wings",
+  "growth_rate": "medium",
+  "base_experience": 148,
+  "order": 545,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "mothim-plant",
+    "mothim-sandy",
+    "mothim-trash"
+  ],
+  "gender_rate": 0
+}

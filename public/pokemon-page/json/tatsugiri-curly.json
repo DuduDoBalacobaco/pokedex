@@ -1,0 +1,118 @@
+{
+  "id": 978,
+  "name": "tatsugiri-curly",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "8 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "dragon",
+    "water"
+  ],
+  "artwork": "assets/artwork/front/978_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/978_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 68
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 60
+    },
+    {
+      "name": "special-attack",
+      "value": 120
+    },
+    {
+      "name": "special-defense",
+      "value": 95
+    },
+    {
+      "name": "speed",
+      "value": 82
+    }
+  ],
+  "abilities": [
+    {
+      "name": "commander",
+      "hidden": false,
+      "entries": "Goes inside the mouth of an ally Dondozo if one is on the field."
+    },
+    {
+      "name": "storm-drain",
+      "hidden": true,
+      "entries": "Redirects single-target Water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
+    }
+  ],
+  "moves": [
+    "take-down",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "hyper-beam",
+    "counter",
+    "harden",
+    "splash",
+    "rest",
+    "substitute",
+    "protect",
+    "icy-wind",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "baton-pass",
+    "rapid-spin",
+    "rain-dance",
+    "mirror-coat",
+    "whirlpool",
+    "memento",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "muddy-water",
+    "dragon-dance",
+    "water-pulse",
+    "dragon-pulse",
+    "giga-impact",
+    "nasty-plot",
+    "draco-meteor",
+    "soak",
+    "lunge",
+    "tera-blast",
+    "chilling-water",
+    "dragon-cheer"
+  ],
+  "evolution": [
+    {
+      "id": 978,
+      "name": "tatsugiri",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Mimicry Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 100,
+  "color": "pink",
+  "shape": "fish",
+  "growth_rate": "medium-slow",
+  "base_experience": 166,
+  "order": 952,
+  "egg_groups": [
+    "water2"
+  ],
+  "forms": [
+    "tatsugiri-curly"
+  ],
+  "gender_rate": 4
+}

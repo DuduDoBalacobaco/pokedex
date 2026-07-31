@@ -1,0 +1,208 @@
+{
+  "id": 923,
+  "name": "pawmot",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.9 m",
+  "weight": "41 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "electric",
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/923_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/923_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 115
+    },
+    {
+      "name": "defense",
+      "value": 70
+    },
+    {
+      "name": "special-attack",
+      "value": 70
+    },
+    {
+      "name": "special-defense",
+      "value": 60
+    },
+    {
+      "name": "speed",
+      "value": 105
+    }
+  ],
+  "abilities": [
+    {
+      "name": "volt-absorb",
+      "hidden": false,
+      "entries": "Absorbs Electric moves, healing for 1/4 max HP."
+    },
+    {
+      "name": "natural-cure",
+      "hidden": false,
+      "entries": "Cures any major status ailment upon switching out."
+    },
+    {
+      "name": "iron-fist",
+      "hidden": true,
+      "entries": "Strengthens punch-based moves to 1.2× their power."
+    }
+  ],
+  "moves": [
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "scratch",
+    "slam",
+    "take-down",
+    "double-edge",
+    "bite",
+    "growl",
+    "hyper-beam",
+    "low-kick",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "dig",
+    "agility",
+    "quick-attack",
+    "metronome",
+    "swift",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "protect",
+    "endure",
+    "charm",
+    "spark",
+    "sleep-talk",
+    "baton-pass",
+    "encore",
+    "metal-claw",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "facade",
+    "focus-punch",
+    "charge",
+    "helping-hand",
+    "brick-break",
+    "knock-off",
+    "arm-thrust",
+    "rock-tomb",
+    "bulk-up",
+    "close-combat",
+    "fling",
+    "seed-bomb",
+    "focus-blast",
+    "giga-impact",
+    "thunder-fang",
+    "discharge",
+    "grass-knot",
+    "charge-beam",
+    "electro-ball",
+    "low-sweep",
+    "entrainment",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "play-rough",
+    "eerie-impulse",
+    "electric-terrain",
+    "nuzzle",
+    "throat-chop",
+    "body-press",
+    "coaching",
+    "tera-blast",
+    "revival-blessing",
+    "double-shock",
+    "supercell-slam",
+    "upper-hand"
+  ],
+  "evolution": [
+    {
+      "id": 921,
+      "name": "pawmi",
+      "details": []
+    },
+    {
+      "id": 922,
+      "name": "pawmo",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 18,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 923,
+      "name": "pawmot",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Hands-On Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 45,
+  "color": "yellow",
+  "shape": "upright",
+  "growth_rate": "medium",
+  "base_experience": 245,
+  "order": 956,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "pawmot"
+  ],
+  "gender_rate": 4
+}

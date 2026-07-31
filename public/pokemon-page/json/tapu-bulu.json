@@ -1,0 +1,163 @@
+{
+  "id": 787,
+  "name": "tapu-bulu",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.9 m",
+  "weight": "45.5 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "grass",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/787_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/787_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 130
+    },
+    {
+      "name": "defense",
+      "value": 115
+    },
+    {
+      "name": "special-attack",
+      "value": 85
+    },
+    {
+      "name": "special-defense",
+      "value": 95
+    },
+    {
+      "name": "speed",
+      "value": 75
+    }
+  ],
+  "abilities": [
+    {
+      "name": "grassy-surge",
+      "hidden": false,
+      "entries": "When this Pokémon enters battle, it changes the terrain to Grassy Terrain."
+    },
+    {
+      "name": "telepathy",
+      "hidden": true,
+      "entries": "Protects against friendly Pokémon's damaging moves."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "swords-dance",
+    "whirlwind",
+    "horn-attack",
+    "roar",
+    "disable",
+    "hyper-beam",
+    "mega-drain",
+    "leech-seed",
+    "solar-beam",
+    "toxic",
+    "withdraw",
+    "light-screen",
+    "reflect",
+    "skull-bash",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "mean-look",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "megahorn",
+    "synthesis",
+    "hidden-power",
+    "sunny-day",
+    "psych-up",
+    "rock-smash",
+    "torment",
+    "facade",
+    "focus-punch",
+    "nature-power",
+    "taunt",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "rock-tomb",
+    "bullet-seed",
+    "iron-defense",
+    "bulk-up",
+    "calm-mind",
+    "close-combat",
+    "payback",
+    "fling",
+    "power-swap",
+    "guard-swap",
+    "worry-seed",
+    "seed-bomb",
+    "focus-blast",
+    "energy-ball",
+    "giga-impact",
+    "zen-headbutt",
+    "stone-edge",
+    "grass-knot",
+    "wood-hammer",
+    "telekinesis",
+    "round",
+    "echoed-voice",
+    "stored-power",
+    "work-up",
+    "dual-chop",
+    "horn-leech",
+    "snarl",
+    "rototiller",
+    "grassy-terrain",
+    "confide",
+    "dazzling-gleam",
+    "darkest-lariat",
+    "high-horsepower",
+    "leafage",
+    "smart-strike",
+    "brutal-swing",
+    "natures-madness"
+  ],
+  "evolution": [
+    {
+      "id": 787,
+      "name": "tapu-bulu",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Land Spirit Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 3,
+  "color": "red",
+  "shape": "arms",
+  "growth_rate": "slow",
+  "base_experience": 257,
+  "order": 964,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "tapu-bulu"
+  ],
+  "gender_rate": -1
+}

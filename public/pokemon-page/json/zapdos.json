@@ -1,0 +1,170 @@
+{
+  "id": 145,
+  "name": "zapdos",
+  "habitat_img": "assets/img/habitats/webp/rare.webp",
+  "habitat_name": "rare",
+  "height": "1.6 m",
+  "weight": "52.6 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "electric",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/145_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/145_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 90
+    },
+    {
+      "name": "attack",
+      "value": 90
+    },
+    {
+      "name": "defense",
+      "value": 85
+    },
+    {
+      "name": "special-attack",
+      "value": 125
+    },
+    {
+      "name": "special-defense",
+      "value": 90
+    },
+    {
+      "name": "speed",
+      "value": 100
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "hidden": false,
+      "entries": "Increases the PP cost of moves targetting the Pokémon by one."
+    },
+    {
+      "name": "static",
+      "hidden": true,
+      "entries": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+    }
+  ],
+  "moves": [
+    "razor-wind",
+    "whirlwind",
+    "fly",
+    "headbutt",
+    "take-down",
+    "double-edge",
+    "leer",
+    "roar",
+    "hyper-beam",
+    "peck",
+    "drill-peck",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "agility",
+    "rage",
+    "mimic",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "bide",
+    "swift",
+    "sky-attack",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "mud-slap",
+    "zap-cannon",
+    "detect",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "baton-pass",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "ancient-power",
+    "rock-smash",
+    "heat-wave",
+    "hail",
+    "facade",
+    "charge",
+    "helping-hand",
+    "secret-power",
+    "weather-ball",
+    "air-cutter",
+    "metal-sound",
+    "signal-beam",
+    "extrasensory",
+    "aerial-ace",
+    "shock-wave",
+    "roost",
+    "natural-gift",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "brave-bird",
+    "giga-impact",
+    "defog",
+    "discharge",
+    "charge-beam",
+    "ominous-wind",
+    "electro-ball",
+    "round",
+    "sky-drop",
+    "acrobatics",
+    "volt-switch",
+    "wild-charge",
+    "hurricane",
+    "confide",
+    "eerie-impulse",
+    "magnetic-flux",
+    "electric-terrain",
+    "laser-focus",
+    "rising-voltage",
+    "dual-wingbeat",
+    "tera-blast",
+    "supercell-slam"
+  ],
+  "evolution": [
+    {
+      "id": 145,
+      "name": "zapdos",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Electric Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 35,
+  "capture_rate": 3,
+  "color": "yellow",
+  "shape": "wings",
+  "growth_rate": "slow",
+  "base_experience": 261,
+  "order": 238,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "zapdos"
+  ],
+  "gender_rate": -1
+}

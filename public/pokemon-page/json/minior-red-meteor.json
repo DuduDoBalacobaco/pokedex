@@ -1,0 +1,141 @@
+{
+  "id": 774,
+  "name": "minior-red-meteor",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "40 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "rock",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/774_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/774_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 60
+    },
+    {
+      "name": "defense",
+      "value": 100
+    },
+    {
+      "name": "special-attack",
+      "value": 60
+    },
+    {
+      "name": "special-defense",
+      "value": 100
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shields-down",
+      "hidden": false,
+      "entries": "Transforms this Minior between Core Form and Meteor Form.  Prevents major status ailments and drowsiness while in Meteor Form."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "solar-beam",
+    "earthquake",
+    "toxic",
+    "psychic",
+    "double-team",
+    "confuse-ray",
+    "defense-curl",
+    "light-screen",
+    "reflect",
+    "self-destruct",
+    "swift",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "hidden-power",
+    "psych-up",
+    "ancient-power",
+    "facade",
+    "endeavor",
+    "rock-tomb",
+    "cosmic-power",
+    "calm-mind",
+    "rock-blast",
+    "gravity",
+    "gyro-ball",
+    "u-turn",
+    "last-resort",
+    "magnet-rise",
+    "rock-polish",
+    "power-gem",
+    "earth-power",
+    "giga-impact",
+    "zen-headbutt",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "charge-beam",
+    "autotomize",
+    "telekinesis",
+    "round",
+    "shell-smash",
+    "acrobatics",
+    "bulldoze",
+    "confide",
+    "dazzling-gleam",
+    "meteor-beam",
+    "scorching-sands",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 774,
+      "name": "minior",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Meteor Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 30,
+  "color": "brown",
+  "shape": "ball",
+  "growth_rate": "medium-slow",
+  "base_experience": 154,
+  "order": 933,
+  "egg_groups": [
+    "mineral"
+  ],
+  "forms": [
+    "minior-red-meteor"
+  ],
+  "gender_rate": -1
+}

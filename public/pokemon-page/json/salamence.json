@@ -1,0 +1,226 @@
+{
+  "id": 373,
+  "name": "salamence",
+  "habitat_img": "assets/img/habitats/webp/rough-terrain.webp",
+  "habitat_name": "rough-terrain",
+  "height": "1.5 m",
+  "weight": "102.6 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "dragon",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/373_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/373_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 95
+    },
+    {
+      "name": "attack",
+      "value": 135
+    },
+    {
+      "name": "defense",
+      "value": 80
+    },
+    {
+      "name": "special-attack",
+      "value": 110
+    },
+    {
+      "name": "special-defense",
+      "value": 80
+    },
+    {
+      "name": "speed",
+      "value": 100
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "hidden": false,
+      "entries": "Lowers opponents' Attack one stage upon entering battle."
+    },
+    {
+      "name": "moxie",
+      "hidden": true,
+      "entries": "Raises Attack one stage upon KOing a Pokémon."
+    }
+  ],
+  "moves": [
+    "cut",
+    "fly",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "bite",
+    "roar",
+    "ember",
+    "flamethrower",
+    "hydro-pump",
+    "hyper-beam",
+    "strength",
+    "fire-spin",
+    "earthquake",
+    "toxic",
+    "rage",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "focus-energy",
+    "fire-blast",
+    "swift",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "outrage",
+    "endure",
+    "rollout",
+    "swagger",
+    "fury-cutter",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dragon-breath",
+    "iron-tail",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "rock-smash",
+    "heat-wave",
+    "facade",
+    "helping-hand",
+    "brick-break",
+    "refresh",
+    "secret-power",
+    "hyper-voice",
+    "air-cutter",
+    "rock-tomb",
+    "aerial-ace",
+    "iron-defense",
+    "dragon-claw",
+    "dragon-dance",
+    "roost",
+    "natural-gift",
+    "tailwind",
+    "aqua-tail",
+    "air-slash",
+    "dragon-pulse",
+    "giga-impact",
+    "shadow-claw",
+    "thunder-fang",
+    "fire-fang",
+    "zen-headbutt",
+    "defog",
+    "draco-meteor",
+    "iron-head",
+    "stone-edge",
+    "captivate",
+    "ominous-wind",
+    "hone-claws",
+    "round",
+    "incinerate",
+    "bulldoze",
+    "dragon-tail",
+    "hurricane",
+    "confide",
+    "laser-focus",
+    "brutal-swing",
+    "psychic-fangs",
+    "breaking-swipe",
+    "dual-wingbeat",
+    "tera-blast",
+    "dragon-cheer",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 371,
+      "name": "bagon",
+      "details": []
+    },
+    {
+      "id": 372,
+      "name": "shelgon",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 373,
+      "name": "salamence",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 50,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Dragon Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 35,
+  "capture_rate": 45,
+  "color": "blue",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 270,
+  "order": 494,
+  "egg_groups": [
+    "dragon"
+  ],
+  "forms": [
+    "salamence"
+  ],
+  "gender_rate": 4
+}

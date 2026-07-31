@@ -1,0 +1,114 @@
+{
+  "id": 360,
+  "name": "wynaut",
+  "habitat_img": "assets/img/habitats/webp/cave.webp",
+  "habitat_name": "cave",
+  "height": "0.6 m",
+  "weight": "14 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "psychic"
+  ],
+  "artwork": "assets/artwork/front/360_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/360_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 95
+    },
+    {
+      "name": "attack",
+      "value": 23
+    },
+    {
+      "name": "defense",
+      "value": 48
+    },
+    {
+      "name": "special-attack",
+      "value": 23
+    },
+    {
+      "name": "special-defense",
+      "value": 48
+    },
+    {
+      "name": "speed",
+      "value": 23
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shadow-tag",
+      "hidden": false,
+      "entries": "Prevents opponents from fleeing or switching out."
+    },
+    {
+      "name": "telepathy",
+      "hidden": true,
+      "entries": "Protects against friendly Pokémon's damaging moves."
+    }
+  ],
+  "moves": [
+    "counter",
+    "amnesia",
+    "splash",
+    "destiny-bond",
+    "charm",
+    "safeguard",
+    "encore",
+    "mirror-coat"
+  ],
+  "evolution": [
+    {
+      "id": 360,
+      "name": "wynaut",
+      "details": []
+    },
+    {
+      "id": 202,
+      "name": "wobbuffet",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 15,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": true,
+  "genus": "Bright Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 125,
+  "color": "blue",
+  "shape": "upright",
+  "growth_rate": "medium",
+  "base_experience": 52,
+  "order": 298,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "wynaut"
+  ],
+  "gender_rate": 4
+}

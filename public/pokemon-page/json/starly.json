@@ -1,0 +1,199 @@
+{
+  "id": 396,
+  "name": "starly",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "2 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "normal",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/396_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/396_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 55
+    },
+    {
+      "name": "defense",
+      "value": 30
+    },
+    {
+      "name": "special-attack",
+      "value": 30
+    },
+    {
+      "name": "special-defense",
+      "value": 30
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "hidden": false,
+      "entries": "Prevents accuracy from being lowered."
+    },
+    {
+      "name": "reckless",
+      "hidden": true,
+      "entries": "Strengthens recoil moves to 1.2× their power."
+    }
+  ],
+  "moves": [
+    "gust",
+    "wing-attack",
+    "whirlwind",
+    "fly",
+    "sand-attack",
+    "fury-attack",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "growl",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "double-team",
+    "mirror-move",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "mud-slap",
+    "foresight",
+    "detect",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pursuit",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "heat-wave",
+    "facade",
+    "helping-hand",
+    "revenge",
+    "endeavor",
+    "secret-power",
+    "feather-dance",
+    "astonish",
+    "air-cutter",
+    "aerial-ace",
+    "roost",
+    "natural-gift",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "defog",
+    "captivate",
+    "ominous-wind",
+    "round",
+    "echoed-voice",
+    "acrobatics",
+    "final-gambit",
+    "work-up",
+    "hurricane",
+    "confide",
+    "dual-wingbeat",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 396,
+      "name": "starly",
+      "details": []
+    },
+    {
+      "id": 397,
+      "name": "staravia",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 14,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 398,
+      "name": "staraptor",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 34,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Starling Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 255,
+  "color": "brown",
+  "shape": "wings",
+  "growth_rate": "medium-slow",
+  "base_experience": 49,
+  "order": 527,
+  "egg_groups": [
+    "flying"
+  ],
+  "forms": [
+    "starly"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,188 @@
+{
+  "id": 859,
+  "name": "impidimp",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.4 m",
+  "weight": "5.5 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "dark",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/859_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/859_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 45
+    },
+    {
+      "name": "attack",
+      "value": 45
+    },
+    {
+      "name": "defense",
+      "value": 30
+    },
+    {
+      "name": "special-attack",
+      "value": 55
+    },
+    {
+      "name": "special-defense",
+      "value": 40
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "prankster",
+      "hidden": false,
+      "entries": "Raises non-damaging moves' priority by one stage."
+    },
+    {
+      "name": "frisk",
+      "hidden": false,
+      "entries": "Reveals an opponent's held item upon entering battle."
+    },
+    {
+      "name": "pickpocket",
+      "hidden": true,
+      "entries": "Steals attacking Pokémon's held items on contact."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "mega-kick",
+    "take-down",
+    "bite",
+    "low-kick",
+    "thunder-wave",
+    "light-screen",
+    "reflect",
+    "metronome",
+    "leech-life",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "scary-face",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "fake-out",
+    "uproar",
+    "torment",
+    "flatter",
+    "facade",
+    "taunt",
+    "trick",
+    "revenge",
+    "fake-tears",
+    "assurance",
+    "fling",
+    "sucker-punch",
+    "dark-pulse",
+    "drain-punch",
+    "nasty-plot",
+    "foul-play",
+    "round",
+    "retaliate",
+    "parting-shot",
+    "draining-kiss",
+    "misty-terrain",
+    "play-rough",
+    "confide",
+    "dazzling-gleam",
+    "throat-chop",
+    "burning-jealousy",
+    "lash-out",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 859,
+      "name": "impidimp",
+      "details": []
+    },
+    {
+      "id": 860,
+      "name": "morgrem",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 32,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 861,
+      "name": "grimmsnarl",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 42,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Wily Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 255,
+  "color": "pink",
+  "shape": "humanoid",
+  "growth_rate": "medium",
+  "base_experience": 53,
+  "order": 1043,
+  "egg_groups": [
+    "fairy",
+    "humanshape"
+  ],
+  "forms": [
+    "impidimp"
+  ],
+  "gender_rate": 0
+}

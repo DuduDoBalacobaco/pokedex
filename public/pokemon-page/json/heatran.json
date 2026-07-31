@@ -1,0 +1,168 @@
+{
+  "id": 485,
+  "name": "heatran",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.7 m",
+  "weight": "430 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "fire",
+    "steel"
+  ],
+  "artwork": "assets/artwork/front/485_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/485_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 91
+    },
+    {
+      "name": "attack",
+      "value": 90
+    },
+    {
+      "name": "defense",
+      "value": 106
+    },
+    {
+      "name": "special-attack",
+      "value": 130
+    },
+    {
+      "name": "special-defense",
+      "value": 106
+    },
+    {
+      "name": "speed",
+      "value": 77
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "hidden": false,
+      "entries": "Protects against Fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+    },
+    {
+      "name": "flame-body",
+      "hidden": true,
+      "entries": "Has a 30% chance of burning attacking Pokémon on contact."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "leer",
+    "roar",
+    "ember",
+    "flamethrower",
+    "hyper-beam",
+    "strength",
+    "solar-beam",
+    "fire-spin",
+    "earthquake",
+    "dig",
+    "toxic",
+    "double-team",
+    "self-destruct",
+    "fire-blast",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "metal-claw",
+    "hidden-power",
+    "sunny-day",
+    "crunch",
+    "ancient-power",
+    "rock-smash",
+    "uproar",
+    "heat-wave",
+    "torment",
+    "will-o-wisp",
+    "facade",
+    "nature-power",
+    "taunt",
+    "secret-power",
+    "overheat",
+    "rock-tomb",
+    "metal-sound",
+    "iron-defense",
+    "rock-blast",
+    "natural-gift",
+    "payback",
+    "flare-blitz",
+    "dark-pulse",
+    "dragon-pulse",
+    "power-gem",
+    "earth-power",
+    "giga-impact",
+    "fire-fang",
+    "flash-cannon",
+    "rock-climb",
+    "lava-plume",
+    "iron-head",
+    "stone-edge",
+    "captivate",
+    "stealth-rock",
+    "bug-bite",
+    "magma-storm",
+    "heavy-slam",
+    "flame-charge",
+    "round",
+    "incinerate",
+    "bulldoze",
+    "heat-crash",
+    "confide",
+    "lunge",
+    "stomping-tantrum",
+    "body-press",
+    "steel-beam",
+    "steel-roller",
+    "burning-jealousy",
+    "scorching-sands",
+    "tera-blast",
+    "pounce",
+    "hard-press"
+  ],
+  "evolution": [
+    {
+      "id": 485,
+      "name": "heatran",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Lava Dome Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 100,
+  "capture_rate": 3,
+  "color": "brown",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 270,
+  "order": 598,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "heatran"
+  ],
+  "gender_rate": 4
+}

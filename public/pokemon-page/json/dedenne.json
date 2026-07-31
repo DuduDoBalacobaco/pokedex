@@ -1,0 +1,163 @@
+{
+  "id": 702,
+  "name": "dedenne",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.2 m",
+  "weight": "2.2 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "electric",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/702_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/702_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 67
+    },
+    {
+      "name": "attack",
+      "value": 58
+    },
+    {
+      "name": "defense",
+      "value": 57
+    },
+    {
+      "name": "special-attack",
+      "value": 81
+    },
+    {
+      "name": "special-defense",
+      "value": 67
+    },
+    {
+      "name": "speed",
+      "value": 101
+    }
+  ],
+  "abilities": [
+    {
+      "name": "cheek-pouch",
+      "hidden": false,
+      "entries": "Restores HP upon eating a Berry, in addition to the Berry's effect."
+    },
+    {
+      "name": "pickup",
+      "hidden": false,
+      "entries": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+    },
+    {
+      "name": "plus",
+      "hidden": true,
+      "entries": "Increases Special Attack to 1.5× when a friendly Pokémon has Plus or Minus."
+    }
+  ],
+  "moves": [
+    "thunder-punch",
+    "cut",
+    "tackle",
+    "take-down",
+    "tail-whip",
+    "hyper-beam",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "dig",
+    "toxic",
+    "agility",
+    "double-team",
+    "light-screen",
+    "swift",
+    "flash",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "charge",
+    "helping-hand",
+    "recycle",
+    "endeavor",
+    "secret-power",
+    "signal-beam",
+    "aerial-ace",
+    "covet",
+    "shock-wave",
+    "natural-gift",
+    "u-turn",
+    "fling",
+    "last-resort",
+    "magnet-rise",
+    "seed-bomb",
+    "giga-impact",
+    "discharge",
+    "grass-knot",
+    "charge-beam",
+    "electro-ball",
+    "entrainment",
+    "round",
+    "ally-switch",
+    "retaliate",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "parabolic-charge",
+    "draining-kiss",
+    "misty-terrain",
+    "play-rough",
+    "confide",
+    "eerie-impulse",
+    "electric-terrain",
+    "dazzling-gleam",
+    "nuzzle",
+    "tearful-look",
+    "rising-voltage",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 702,
+      "name": "dedenne",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Antenna Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 180,
+  "color": "yellow",
+  "shape": "upright",
+  "growth_rate": "medium",
+  "base_experience": 151,
+  "order": 836,
+  "egg_groups": [
+    "ground",
+    "fairy"
+  ],
+  "forms": [
+    "dedenne"
+  ],
+  "gender_rate": 4
+}

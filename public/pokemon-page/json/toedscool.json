@@ -1,0 +1,160 @@
+{
+  "id": 948,
+  "name": "toedscool",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.9 m",
+  "weight": "33 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "ground",
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/948_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/948_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 40
+    },
+    {
+      "name": "defense",
+      "value": 35
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 100
+    },
+    {
+      "name": "speed",
+      "value": 70
+    }
+  ],
+  "abilities": [
+    {
+      "name": "mycelium-might",
+      "hidden": false,
+      "entries": "Status moves go last, but are not affected by the opponent's ability."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "wrap",
+    "supersonic",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "toxic",
+    "screech",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "swift",
+    "spore",
+    "rest",
+    "substitute",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "mud-slap",
+    "spikes",
+    "giga-drain",
+    "endure",
+    "sleep-talk",
+    "pain-split",
+    "rapid-spin",
+    "rain-dance",
+    "mirror-coat",
+    "taunt",
+    "knock-off",
+    "tickle",
+    "bullet-seed",
+    "mud-shot",
+    "magical-leaf",
+    "acupressure",
+    "toxic-spikes",
+    "seed-bomb",
+    "energy-ball",
+    "earth-power",
+    "flash-cannon",
+    "trick-room",
+    "leaf-storm",
+    "power-whip",
+    "grass-knot",
+    "venoshock",
+    "rage-powder",
+    "acid-spray",
+    "foul-play",
+    "hex",
+    "grassy-terrain",
+    "dazzling-gleam",
+    "lunge",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 948,
+      "name": "toedscool",
+      "details": []
+    },
+    {
+      "id": 949,
+      "name": "toedscruel",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Woodear Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 190,
+  "color": "yellow",
+  "shape": "legs",
+  "growth_rate": "medium-slow",
+  "base_experience": 67,
+  "order": 1006,
+  "egg_groups": [
+    "plant"
+  ],
+  "forms": [
+    "toedscool"
+  ],
+  "gender_rate": 4
+}

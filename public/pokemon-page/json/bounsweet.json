@@ -1,0 +1,194 @@
+{
+  "id": 761,
+  "name": "bounsweet",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "3.2 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/761_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/761_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 42
+    },
+    {
+      "name": "attack",
+      "value": 30
+    },
+    {
+      "name": "defense",
+      "value": 38
+    },
+    {
+      "name": "special-attack",
+      "value": 30
+    },
+    {
+      "name": "special-defense",
+      "value": 38
+    },
+    {
+      "name": "speed",
+      "value": 32
+    }
+  ],
+  "abilities": [
+    {
+      "name": "leaf-guard",
+      "hidden": false,
+      "entries": "Protects against major status ailments during strong sunlight."
+    },
+    {
+      "name": "oblivious",
+      "hidden": false,
+      "entries": "Prevents infatuation and protects against Captivate."
+    },
+    {
+      "name": "sweet-veil",
+      "hidden": true,
+      "entries": "Prevents friendly Pokémon from sleeping."
+    }
+  ],
+  "moves": [
+    "take-down",
+    "razor-leaf",
+    "solar-beam",
+    "toxic",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "swift",
+    "splash",
+    "rest",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "rapid-spin",
+    "sweet-scent",
+    "synthesis",
+    "hidden-power",
+    "sunny-day",
+    "facade",
+    "nature-power",
+    "helping-hand",
+    "endeavor",
+    "teeter-dance",
+    "aromatherapy",
+    "grass-whistle",
+    "bullet-seed",
+    "bounce",
+    "covet",
+    "magical-leaf",
+    "feint",
+    "acupressure",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "zen-headbutt",
+    "leaf-storm",
+    "grass-knot",
+    "round",
+    "draining-kiss",
+    "grassy-terrain",
+    "play-rough",
+    "play-nice",
+    "confide",
+    "aromatic-mist",
+    "dazzling-gleam",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 761,
+      "name": "bounsweet",
+      "details": []
+    },
+    {
+      "id": 762,
+      "name": "steenee",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 18,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 763,
+      "name": "tsareena",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": "stomp",
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Fruit Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 235,
+  "color": "purple",
+  "shape": "legs",
+  "growth_rate": "medium-slow",
+  "base_experience": 42,
+  "order": 920,
+  "egg_groups": [
+    "plant"
+  ],
+  "forms": [
+    "bounsweet"
+  ],
+  "gender_rate": 8
+}

@@ -4,16 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pokemon</title>
-    <link rel="icon" href="/assets/img/favicon/favicon64x64.png" type="image/png">
+    <link rel="stylesheet" href="pokemon-page/assets/css/pokemon.css">
+    <link rel="icon" href="assets/img/favicon/favicon64x64.png" type="image/png">
 
-    <script type="module" src="/pokemon-page/pagePokemon.js" defer></script>
+    <script type="module" src="pokemon-page/pagePokemon.js" defer></script>
 </head>
 
 <body>
 
     <section class="container">
-        <section class="imgs-pokemon"></section>
-        <section class="name-pokemon"></section>
+
+        <section class="perfil">
+            <section class="imgs-pokemon">
+                <button id="menor">&lt;</button>
+                <button id="maior">&gt;</button>
+            </section>
+
+            <section class="textos">
+                <section class="name-pokemon"></section>
+                <section class="types"></section>
+                <section class="abilities">Ability</section>
+            </section>
+            
+        </section>
+
     </section>
 
 

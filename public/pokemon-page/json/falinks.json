@@ -1,0 +1,141 @@
+{
+  "id": 870,
+  "name": "falinks",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "3 m",
+  "weight": "62 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/870_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/870_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 65
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 100
+    },
+    {
+      "name": "special-attack",
+      "value": 70
+    },
+    {
+      "name": "special-defense",
+      "value": 60
+    },
+    {
+      "name": "speed",
+      "value": 75
+    }
+  ],
+  "abilities": [
+    {
+      "name": "battle-armor",
+      "hidden": false,
+      "entries": "Protects against critical hits."
+    },
+    {
+      "name": "defiant",
+      "hidden": true,
+      "entries": "Raises Attack two stages upon having any stat lowered."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "hyper-beam",
+    "counter",
+    "agility",
+    "screech",
+    "focus-energy",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "endure",
+    "false-swipe",
+    "sleep-talk",
+    "megahorn",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "rock-smash",
+    "beat-up",
+    "uproar",
+    "facade",
+    "helping-hand",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "rock-tomb",
+    "iron-defense",
+    "bulk-up",
+    "close-combat",
+    "payback",
+    "assurance",
+    "poison-jab",
+    "seed-bomb",
+    "focus-blast",
+    "giga-impact",
+    "zen-headbutt",
+    "iron-head",
+    "double-hit",
+    "round",
+    "retaliate",
+    "first-impression",
+    "high-horsepower",
+    "throat-chop",
+    "lunge",
+    "smart-strike",
+    "no-retreat",
+    "body-press",
+    "coaching",
+    "tera-blast",
+    "trailblaze",
+    "upper-hand"
+  ],
+  "evolution": [
+    {
+      "id": 870,
+      "name": "falinks",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Formation Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 45,
+  "color": "yellow",
+  "shape": "heads",
+  "growth_rate": "medium",
+  "base_experience": 165,
+  "order": 1054,
+  "egg_groups": [
+    "fairy",
+    "mineral"
+  ],
+  "forms": [
+    "falinks"
+  ],
+  "gender_rate": -1
+}

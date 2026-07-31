@@ -1,0 +1,199 @@
+{
+  "id": 139,
+  "name": "omastar",
+  "habitat_img": "assets/img/habitats/webp/sea.webp",
+  "habitat_name": "sea",
+  "height": "1 m",
+  "weight": "35 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "rock",
+    "water"
+  ],
+  "artwork": "assets/artwork/front/139_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/139_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 60
+    },
+    {
+      "name": "defense",
+      "value": 125
+    },
+    {
+      "name": "special-attack",
+      "value": 115
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 55
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "hidden": false,
+      "entries": "Doubles Speed during rain."
+    },
+    {
+      "name": "shell-armor",
+      "hidden": false,
+      "entries": "Protects against critical hits."
+    },
+    {
+      "name": "weak-armor",
+      "hidden": true,
+      "entries": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+    }
+  ],
+  "moves": [
+    "bind",
+    "sand-attack",
+    "headbutt",
+    "horn-attack",
+    "horn-drill",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "pin-missile",
+    "leer",
+    "bite",
+    "supersonic",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "bubble-beam",
+    "hyper-beam",
+    "submission",
+    "seismic-toss",
+    "rock-throw",
+    "toxic",
+    "rage",
+    "mimic",
+    "double-team",
+    "withdraw",
+    "reflect",
+    "bide",
+    "waterfall",
+    "skull-bash",
+    "spike-cannon",
+    "constrict",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "protect",
+    "spikes",
+    "icy-wind",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "crunch",
+    "ancient-power",
+    "rock-smash",
+    "whirlpool",
+    "hail",
+    "facade",
+    "knock-off",
+    "secret-power",
+    "dive",
+    "rock-tomb",
+    "tickle",
+    "muddy-water",
+    "iron-defense",
+    "mud-shot",
+    "rock-blast",
+    "water-pulse",
+    "gyro-ball",
+    "brine",
+    "natural-gift",
+    "toxic-spikes",
+    "rock-polish",
+    "earth-power",
+    "giga-impact",
+    "rock-climb",
+    "stone-edge",
+    "captivate",
+    "stealth-rock",
+    "smack-down",
+    "round",
+    "scald",
+    "shell-smash",
+    "confide",
+    "liquidation",
+    "meteor-beam"
+  ],
+  "evolution": [
+    {
+      "id": 138,
+      "name": "omanyte",
+      "details": []
+    },
+    {
+      "id": 139,
+      "name": "omastar",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 40,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Spiral Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "blue",
+  "shape": "tentacles",
+  "growth_rate": "medium",
+  "base_experience": 173,
+  "order": 229,
+  "egg_groups": [
+    "water1",
+    "water3"
+  ],
+  "forms": [
+    "omastar"
+  ],
+  "gender_rate": 1
+}

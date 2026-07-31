@@ -1,0 +1,211 @@
+{
+  "id": 365,
+  "name": "walrein",
+  "habitat_img": "assets/img/habitats/webp/sea.webp",
+  "habitat_name": "sea",
+  "height": "1.4 m",
+  "weight": "150.6 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "ice",
+    "water"
+  ],
+  "artwork": "assets/artwork/front/365_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/365_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 110
+    },
+    {
+      "name": "attack",
+      "value": 80
+    },
+    {
+      "name": "defense",
+      "value": 90
+    },
+    {
+      "name": "special-attack",
+      "value": 95
+    },
+    {
+      "name": "special-defense",
+      "value": 90
+    },
+    {
+      "name": "speed",
+      "value": 65
+    }
+  ],
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "hidden": false,
+      "entries": "Halves damage from Fire and Ice moves."
+    },
+    {
+      "name": "ice-body",
+      "hidden": false,
+      "entries": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+    },
+    {
+      "name": "oblivious",
+      "hidden": true,
+      "entries": "Prevents infatuation and protects against Captivate."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "headbutt",
+    "body-slam",
+    "double-edge",
+    "growl",
+    "roar",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "aurora-beam",
+    "hyper-beam",
+    "strength",
+    "earthquake",
+    "toxic",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "waterfall",
+    "rest",
+    "rock-slide",
+    "super-fang",
+    "substitute",
+    "snore",
+    "powder-snow",
+    "protect",
+    "mud-slap",
+    "icy-wind",
+    "endure",
+    "rollout",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "encore",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "crunch",
+    "rock-smash",
+    "whirlpool",
+    "hail",
+    "facade",
+    "secret-power",
+    "dive",
+    "ice-ball",
+    "rock-tomb",
+    "signal-beam",
+    "sheer-cold",
+    "icicle-spear",
+    "block",
+    "water-pulse",
+    "brine",
+    "natural-gift",
+    "aqua-tail",
+    "giga-impact",
+    "avalanche",
+    "ice-fang",
+    "iron-head",
+    "captivate",
+    "heavy-slam",
+    "round",
+    "echoed-voice",
+    "bulldoze",
+    "frost-breath",
+    "confide",
+    "stomping-tantrum",
+    "liquidation",
+    "body-press",
+    "steel-roller"
+  ],
+  "evolution": [
+    {
+      "id": 363,
+      "name": "spheal",
+      "details": []
+    },
+    {
+      "id": 364,
+      "name": "sealeo",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 32,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 365,
+      "name": "walrein",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 44,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Ice Break Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "blue",
+  "shape": "quadruped",
+  "growth_rate": "medium-slow",
+  "base_experience": 239,
+  "order": 486,
+  "egg_groups": [
+    "water1",
+    "ground"
+  ],
+  "forms": [
+    "walrein"
+  ],
+  "gender_rate": 4
+}

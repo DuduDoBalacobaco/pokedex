@@ -1,0 +1,213 @@
+{
+  "id": 709,
+  "name": "trevenant",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.5 m",
+  "weight": "71 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "ghost",
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/709_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/709_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 85
+    },
+    {
+      "name": "attack",
+      "value": 110
+    },
+    {
+      "name": "defense",
+      "value": 76
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 82
+    },
+    {
+      "name": "speed",
+      "value": 56
+    }
+  ],
+  "abilities": [
+    {
+      "name": "natural-cure",
+      "hidden": false,
+      "entries": "Cures any major status ailment upon switching out."
+    },
+    {
+      "name": "frisk",
+      "hidden": false,
+      "entries": "Reveals an opponent's held item upon entering battle."
+    },
+    {
+      "name": "harvest",
+      "hidden": true,
+      "entries": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
+    }
+  ],
+  "moves": [
+    "cut",
+    "tackle",
+    "take-down",
+    "disable",
+    "hyper-beam",
+    "strength",
+    "leech-seed",
+    "growth",
+    "solar-beam",
+    "earthquake",
+    "dig",
+    "toxic",
+    "psychic",
+    "night-shade",
+    "double-team",
+    "confuse-ray",
+    "haze",
+    "reflect",
+    "dream-eater",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "spite",
+    "protect",
+    "scary-face",
+    "feint-attack",
+    "destiny-bond",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "pain-split",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "rock-smash",
+    "will-o-wisp",
+    "facade",
+    "nature-power",
+    "trick",
+    "role-play",
+    "ingrain",
+    "magic-coat",
+    "knock-off",
+    "skill-swap",
+    "imprison",
+    "secret-power",
+    "astonish",
+    "shadow-punch",
+    "block",
+    "magical-leaf",
+    "calm-mind",
+    "worry-seed",
+    "sucker-punch",
+    "poison-jab",
+    "dark-pulse",
+    "seed-bomb",
+    "x-scissor",
+    "drain-punch",
+    "focus-blast",
+    "energy-ball",
+    "giga-impact",
+    "shadow-claw",
+    "trick-room",
+    "leaf-storm",
+    "grass-knot",
+    "wood-hammer",
+    "hone-claws",
+    "telekinesis",
+    "foul-play",
+    "round",
+    "ally-switch",
+    "hex",
+    "bulldoze",
+    "horn-leech",
+    "phantom-force",
+    "forests-curse",
+    "grassy-terrain",
+    "confide",
+    "venom-drench",
+    "power-up-punch",
+    "brutal-swing",
+    "branch-poke",
+    "grassy-glide",
+    "skitter-smack",
+    "burning-jealousy",
+    "lash-out",
+    "poltergeist",
+    "tera-blast",
+    "trailblaze",
+    "psychic-noise"
+  ],
+  "evolution": [
+    {
+      "id": 708,
+      "name": "phantump",
+      "details": []
+    },
+    {
+      "id": 709,
+      "name": "trevenant",
+      "details": [
+        {
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Elder Tree Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 60,
+  "color": "brown",
+  "shape": "tentacles",
+  "growth_rate": "medium",
+  "base_experience": 166,
+  "order": 843,
+  "egg_groups": [
+    "plant",
+    "indeterminate"
+  ],
+  "forms": [
+    "trevenant"
+  ],
+  "gender_rate": 4
+}

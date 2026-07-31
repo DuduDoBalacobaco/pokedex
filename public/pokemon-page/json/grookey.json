@@ -1,0 +1,190 @@
+{
+  "id": 810,
+  "name": "grookey",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "5 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/810_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/810_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 65
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 40
+    },
+    {
+      "name": "speed",
+      "value": 65
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "hidden": false,
+      "entries": "Strengthens Grass moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "grassy-surge",
+      "hidden": true,
+      "entries": "When this Pokémon enters battle, it changes the terrain to Grassy Terrain."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "scratch",
+    "swords-dance",
+    "slam",
+    "mega-kick",
+    "body-slam",
+    "take-down",
+    "growl",
+    "low-kick",
+    "strength",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "screech",
+    "focus-energy",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "attract",
+    "sleep-talk",
+    "sunny-day",
+    "fake-out",
+    "uproar",
+    "facade",
+    "nature-power",
+    "taunt",
+    "knock-off",
+    "endeavor",
+    "bullet-seed",
+    "magical-leaf",
+    "hammer-arm",
+    "u-turn",
+    "assurance",
+    "fling",
+    "worry-seed",
+    "seed-bomb",
+    "drain-punch",
+    "energy-ball",
+    "leaf-storm",
+    "grass-knot",
+    "wood-hammer",
+    "round",
+    "acrobatics",
+    "grass-pledge",
+    "work-up",
+    "grassy-terrain",
+    "solar-blade",
+    "branch-poke",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 810,
+      "name": "grookey",
+      "details": []
+    },
+    {
+      "id": 811,
+      "name": "thwackey",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 16,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 812,
+      "name": "rillaboom",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Chimp Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 45,
+  "color": "green",
+  "shape": "upright",
+  "growth_rate": "medium-slow",
+  "base_experience": 62,
+  "order": 991,
+  "egg_groups": [
+    "ground",
+    "plant"
+  ],
+  "forms": [
+    "grookey"
+  ],
+  "gender_rate": 1
+}

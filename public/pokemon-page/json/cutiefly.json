@@ -1,0 +1,191 @@
+{
+  "id": 742,
+  "name": "cutiefly",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.1 m",
+  "weight": "0.2 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "bug",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/742_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/742_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 45
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 55
+    },
+    {
+      "name": "special-defense",
+      "value": 40
+    },
+    {
+      "name": "speed",
+      "value": 84
+    }
+  ],
+  "abilities": [
+    {
+      "name": "honey-gather",
+      "hidden": false,
+      "entries": "The Pokémon may pick up Honey after battle."
+    },
+    {
+      "name": "shield-dust",
+      "hidden": false,
+      "entries": "Protects against incoming moves' extra effects."
+    },
+    {
+      "name": "sweet-veil",
+      "hidden": true,
+      "entries": "Prevents friendly Pokémon from sleeping."
+    }
+  ],
+  "moves": [
+    "absorb",
+    "stun-spore",
+    "toxic",
+    "psychic",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "swift",
+    "dream-eater",
+    "leech-life",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "baton-pass",
+    "sweet-scent",
+    "hidden-power",
+    "sunny-day",
+    "psych-up",
+    "facade",
+    "helping-hand",
+    "trick",
+    "skill-swap",
+    "imprison",
+    "aromatherapy",
+    "fake-tears",
+    "silver-wind",
+    "signal-beam",
+    "aerial-ace",
+    "covet",
+    "magical-leaf",
+    "calm-mind",
+    "roost",
+    "tailwind",
+    "u-turn",
+    "last-resort",
+    "bug-buzz",
+    "energy-ball",
+    "switcheroo",
+    "defog",
+    "grass-knot",
+    "bug-bite",
+    "wonder-room",
+    "telekinesis",
+    "magic-room",
+    "quiver-dance",
+    "after-you",
+    "round",
+    "ally-switch",
+    "acrobatics",
+    "bestow",
+    "struggle-bug",
+    "sticky-web",
+    "draining-kiss",
+    "play-rough",
+    "fairy-wind",
+    "moonblast",
+    "confide",
+    "aromatic-mist",
+    "powder",
+    "dazzling-gleam",
+    "infestation",
+    "pollen-puff",
+    "speed-swap",
+    "skitter-smack",
+    "dual-wingbeat",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 742,
+      "name": "cutiefly",
+      "details": []
+    },
+    {
+      "id": 743,
+      "name": "ribombee",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 25,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Bee Fly Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "yellow",
+  "shape": "armor",
+  "growth_rate": "medium",
+  "base_experience": 61,
+  "order": 893,
+  "egg_groups": [
+    "bug",
+    "fairy"
+  ],
+  "forms": [
+    "cutiefly"
+  ],
+  "gender_rate": 4
+}

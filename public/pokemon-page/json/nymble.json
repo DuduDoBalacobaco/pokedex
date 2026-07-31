@@ -1,0 +1,137 @@
+{
+  "id": 919,
+  "name": "nymble",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.2 m",
+  "weight": "1 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "bug"
+  ],
+  "artwork": "assets/artwork/front/919_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/919_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 33
+    },
+    {
+      "name": "attack",
+      "value": 46
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 21
+    },
+    {
+      "name": "special-defense",
+      "value": 25
+    },
+    {
+      "name": "speed",
+      "value": 45
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swarm",
+      "hidden": false,
+      "entries": "Strengthens Bug moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "tinted-lens",
+      "hidden": true,
+      "entries": "Doubles damage inflicted with not-very-effective moves."
+    }
+  ],
+  "moves": [
+    "double-kick",
+    "tackle",
+    "take-down",
+    "leer",
+    "counter",
+    "agility",
+    "screech",
+    "leech-life",
+    "rest",
+    "substitute",
+    "thief",
+    "protect",
+    "endure",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "astonish",
+    "feint",
+    "u-turn",
+    "assurance",
+    "sucker-punch",
+    "x-scissor",
+    "bug-buzz",
+    "bug-bite",
+    "struggle-bug",
+    "first-impression",
+    "skitter-smack",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 919,
+      "name": "nymble",
+      "details": []
+    },
+    {
+      "id": 920,
+      "name": "lokix",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 24,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Grasshopper Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 20,
+  "capture_rate": 190,
+  "color": "gray",
+  "shape": "armor",
+  "growth_rate": "medium",
+  "base_experience": 42,
+  "order": 920,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "nymble"
+  ],
+  "gender_rate": 4
+}

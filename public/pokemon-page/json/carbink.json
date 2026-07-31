@@ -1,0 +1,162 @@
+{
+  "id": 703,
+  "name": "carbink",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "5.7 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "rock",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/703_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/703_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 150
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 150
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "clear-body",
+      "hidden": false,
+      "entries": "Prevents stats from being lowered by other Pokémon."
+    },
+    {
+      "name": "sturdy",
+      "hidden": true,
+      "entries": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "rock-throw",
+    "toxic",
+    "psychic",
+    "double-team",
+    "harden",
+    "light-screen",
+    "reflect",
+    "flash",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "sharpen",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "spikes",
+    "sandstorm",
+    "endure",
+    "charm",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "ancient-power",
+    "hail",
+    "facade",
+    "nature-power",
+    "magic-coat",
+    "endeavor",
+    "skill-swap",
+    "secret-power",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "covet",
+    "calm-mind",
+    "rock-blast",
+    "gravity",
+    "gyro-ball",
+    "guard-swap",
+    "magnet-rise",
+    "rock-polish",
+    "power-gem",
+    "earth-power",
+    "giga-impact",
+    "flash-cannon",
+    "trick-room",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "guard-split",
+    "wonder-room",
+    "telekinesis",
+    "smack-down",
+    "heavy-slam",
+    "after-you",
+    "round",
+    "ally-switch",
+    "misty-terrain",
+    "moonblast",
+    "confide",
+    "dazzling-gleam",
+    "stomping-tantrum",
+    "body-press",
+    "meteor-beam",
+    "misty-explosion",
+    "terrain-pulse",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 703,
+      "name": "carbink",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Jewel Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 60,
+  "color": "gray",
+  "shape": "ball",
+  "growth_rate": "slow",
+  "base_experience": 100,
+  "order": 837,
+  "egg_groups": [
+    "fairy",
+    "mineral"
+  ],
+  "forms": [
+    "carbink"
+  ],
+  "gender_rate": -1
+}

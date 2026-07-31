@@ -1,0 +1,179 @@
+{
+  "id": 769,
+  "name": "sandygast",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.5 m",
+  "weight": "70 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "ghost",
+    "ground"
+  ],
+  "artwork": "assets/artwork/front/769_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/769_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 55
+    },
+    {
+      "name": "attack",
+      "value": 55
+    },
+    {
+      "name": "defense",
+      "value": 80
+    },
+    {
+      "name": "special-attack",
+      "value": 70
+    },
+    {
+      "name": "special-defense",
+      "value": 45
+    },
+    {
+      "name": "speed",
+      "value": 15
+    }
+  ],
+  "abilities": [
+    {
+      "name": "water-compaction",
+      "hidden": false,
+      "entries": "Raises this Pokémon's Defense by two stages when it's hit by a Water move."
+    },
+    {
+      "name": "sand-veil",
+      "hidden": true,
+      "entries": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+    }
+  ],
+  "moves": [
+    "sand-attack",
+    "absorb",
+    "mega-drain",
+    "earthquake",
+    "toxic",
+    "psychic",
+    "hypnosis",
+    "night-shade",
+    "double-team",
+    "harden",
+    "confuse-ray",
+    "amnesia",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "spite",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "mud-slap",
+    "destiny-bond",
+    "sandstorm",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "ancient-power",
+    "shadow-ball",
+    "stockpile",
+    "spit-up",
+    "swallow",
+    "facade",
+    "trick",
+    "role-play",
+    "recycle",
+    "skill-swap",
+    "imprison",
+    "astonish",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "block",
+    "mud-shot",
+    "gravity",
+    "brine",
+    "fling",
+    "rock-polish",
+    "energy-ball",
+    "earth-power",
+    "flash-cannon",
+    "stone-edge",
+    "stealth-rock",
+    "after-you",
+    "round",
+    "hex",
+    "bulldoze",
+    "confide",
+    "infestation",
+    "shore-up",
+    "poltergeist",
+    "scorching-sands",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 769,
+      "name": "sandygast",
+      "details": []
+    },
+    {
+      "id": 770,
+      "name": "palossand",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 42,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Sand Heap Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 140,
+  "color": "brown",
+  "shape": "squiggle",
+  "growth_rate": "medium",
+  "base_experience": 64,
+  "order": 928,
+  "egg_groups": [
+    "indeterminate"
+  ],
+  "forms": [
+    "sandygast"
+  ],
+  "gender_rate": 4
+}

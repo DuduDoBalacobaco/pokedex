@@ -1,0 +1,268 @@
+{
+  "id": 280,
+  "name": "ralts",
+  "habitat_img": "assets/img/habitats/webp/urban.webp",
+  "habitat_name": "urban",
+  "height": "0.4 m",
+  "weight": "6.6 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "psychic",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/280_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/280_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 28
+    },
+    {
+      "name": "attack",
+      "value": 25
+    },
+    {
+      "name": "defense",
+      "value": 25
+    },
+    {
+      "name": "special-attack",
+      "value": 45
+    },
+    {
+      "name": "special-defense",
+      "value": 35
+    },
+    {
+      "name": "speed",
+      "value": 40
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "hidden": false,
+      "entries": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+    },
+    {
+      "name": "trace",
+      "hidden": false,
+      "entries": "Copies an opponent's ability upon entering battle."
+    },
+    {
+      "name": "telepathy",
+      "hidden": true,
+      "entries": "Protects against friendly Pokémon's damaging moves."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "mega-kick",
+    "headbutt",
+    "body-slam",
+    "double-edge",
+    "growl",
+    "sing",
+    "disable",
+    "psybeam",
+    "thunderbolt",
+    "thunder-wave",
+    "toxic",
+    "confusion",
+    "psychic",
+    "hypnosis",
+    "teleport",
+    "mimic",
+    "double-team",
+    "confuse-ray",
+    "defense-curl",
+    "light-screen",
+    "reflect",
+    "metronome",
+    "swift",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "nightmare",
+    "snore",
+    "protect",
+    "mud-slap",
+    "destiny-bond",
+    "icy-wind",
+    "endure",
+    "charm",
+    "swagger",
+    "mean-look",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "pain-split",
+    "encore",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "torment",
+    "will-o-wisp",
+    "memento",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "trick",
+    "magic-coat",
+    "recycle",
+    "knock-off",
+    "skill-swap",
+    "imprison",
+    "grudge",
+    "snatch",
+    "secret-power",
+    "hyper-voice",
+    "signal-beam",
+    "magical-leaf",
+    "calm-mind",
+    "shock-wave",
+    "natural-gift",
+    "fling",
+    "lucky-chant",
+    "shadow-sneak",
+    "zen-headbutt",
+    "trick-room",
+    "captivate",
+    "grass-knot",
+    "charge-beam",
+    "wonder-room",
+    "psyshock",
+    "telekinesis",
+    "magic-room",
+    "synchronoise",
+    "round",
+    "echoed-voice",
+    "stored-power",
+    "ally-switch",
+    "heal-pulse",
+    "disarming-voice",
+    "draining-kiss",
+    "misty-terrain",
+    "confide",
+    "mystical-fire",
+    "dazzling-gleam",
+    "psychic-terrain",
+    "life-dew",
+    "expanding-force",
+    "tera-blast",
+    "alluring-voice"
+  ],
+  "evolution": [
+    {
+      "id": 280,
+      "name": "ralts",
+      "details": []
+    },
+    {
+      "id": 281,
+      "name": "kirlia",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 20,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 282,
+      "name": "gardevoir",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 475,
+      "name": "gallade",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "dawn-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Feeling Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 35,
+  "capture_rate": 235,
+  "color": "white",
+  "shape": "humanoid",
+  "growth_rate": "slow",
+  "base_experience": 40,
+  "order": 380,
+  "egg_groups": [
+    "humanshape",
+    "indeterminate"
+  ],
+  "forms": [
+    "ralts"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,198 @@
+{
+  "id": 688,
+  "name": "binacle",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.5 m",
+  "weight": "31 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "rock",
+    "water"
+  ],
+  "artwork": "assets/artwork/front/688_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/688_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 42
+    },
+    {
+      "name": "attack",
+      "value": 52
+    },
+    {
+      "name": "defense",
+      "value": 67
+    },
+    {
+      "name": "special-attack",
+      "value": 39
+    },
+    {
+      "name": "special-defense",
+      "value": 56
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "tough-claws",
+      "hidden": false,
+      "entries": "Strengthens moves that make contact to 1.33× their power."
+    },
+    {
+      "name": "sniper",
+      "hidden": false,
+      "entries": "Strengthens critical hits to inflict 3× damage rather than 2×."
+    },
+    {
+      "name": "pickpocket",
+      "hidden": true,
+      "entries": "Steals attacking Pokémon's held items on contact."
+    }
+  ],
+  "moves": [
+    "scratch",
+    "swords-dance",
+    "cut",
+    "sand-attack",
+    "water-gun",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "strength",
+    "earthquake",
+    "dig",
+    "toxic",
+    "screech",
+    "double-team",
+    "withdraw",
+    "clamp",
+    "fury-swipes",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "icy-wind",
+    "sandstorm",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "hidden-power",
+    "cross-chop",
+    "rain-dance",
+    "ancient-power",
+    "rock-smash",
+    "beat-up",
+    "uproar",
+    "torment",
+    "facade",
+    "nature-power",
+    "taunt",
+    "helping-hand",
+    "brick-break",
+    "endeavor",
+    "secret-power",
+    "rock-tomb",
+    "tickle",
+    "aerial-ace",
+    "iron-defense",
+    "mud-shot",
+    "water-sport",
+    "rock-blast",
+    "water-pulse",
+    "payback",
+    "assurance",
+    "embargo",
+    "fling",
+    "rock-polish",
+    "poison-jab",
+    "night-slash",
+    "x-scissor",
+    "switcheroo",
+    "shadow-claw",
+    "stone-edge",
+    "stealth-rock",
+    "grass-knot",
+    "hone-claws",
+    "smack-down",
+    "sludge-wave",
+    "round",
+    "scald",
+    "shell-smash",
+    "bulldoze",
+    "dual-chop",
+    "razor-shell",
+    "confide",
+    "infestation",
+    "power-up-punch",
+    "liquidation"
+  ],
+  "evolution": [
+    {
+      "id": 688,
+      "name": "binacle",
+      "details": []
+    },
+    {
+      "id": 689,
+      "name": "barbaracle",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 39,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Two-Handed Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 120,
+  "color": "brown",
+  "shape": "heads",
+  "growth_rate": "medium",
+  "base_experience": 61,
+  "order": 823,
+  "egg_groups": [
+    "water3"
+  ],
+  "forms": [
+    "binacle"
+  ],
+  "gender_rate": 4
+}

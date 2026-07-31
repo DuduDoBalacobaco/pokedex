@@ -1,0 +1,195 @@
+{
+  "id": 465,
+  "name": "tangrowth",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2 m",
+  "weight": "128.6 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/465_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/465_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 125
+    },
+    {
+      "name": "special-attack",
+      "value": 110
+    },
+    {
+      "name": "special-defense",
+      "value": 50
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "hidden": false,
+      "entries": "Doubles Speed during strong sunlight."
+    },
+    {
+      "name": "leaf-guard",
+      "hidden": false,
+      "entries": "Protects against major status ailments during strong sunlight."
+    },
+    {
+      "name": "regenerator",
+      "hidden": true,
+      "entries": "Heals for 1/3 max HP upon switching out."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "bind",
+    "slam",
+    "vine-whip",
+    "headbutt",
+    "body-slam",
+    "hyper-beam",
+    "strength",
+    "absorb",
+    "mega-drain",
+    "growth",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "sleep-powder",
+    "earthquake",
+    "toxic",
+    "double-team",
+    "reflect",
+    "constrict",
+    "amnesia",
+    "flash",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "synthesis",
+    "hidden-power",
+    "sunny-day",
+    "psych-up",
+    "ancient-power",
+    "rock-smash",
+    "facade",
+    "nature-power",
+    "ingrain",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "secret-power",
+    "rock-tomb",
+    "tickle",
+    "bullet-seed",
+    "aerial-ace",
+    "block",
+    "shock-wave",
+    "natural-gift",
+    "payback",
+    "fling",
+    "wring-out",
+    "power-swap",
+    "worry-seed",
+    "poison-jab",
+    "seed-bomb",
+    "focus-blast",
+    "energy-ball",
+    "giga-impact",
+    "leaf-storm",
+    "power-whip",
+    "captivate",
+    "grass-knot",
+    "double-hit",
+    "acid-spray",
+    "round",
+    "bulldoze",
+    "grassy-terrain",
+    "confide",
+    "infestation",
+    "solar-blade",
+    "brutal-swing",
+    "stomping-tantrum",
+    "grassy-glide"
+  ],
+  "evolution": [
+    {
+      "id": 114,
+      "name": "tangela",
+      "details": []
+    },
+    {
+      "id": 465,
+      "name": "tangrowth",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": "ancient-power",
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Vine Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 30,
+  "color": "blue",
+  "shape": "humanoid",
+  "growth_rate": "medium",
+  "base_experience": 187,
+  "order": 183,
+  "egg_groups": [
+    "plant"
+  ],
+  "forms": [
+    "tangrowth"
+  ],
+  "gender_rate": 4
+}

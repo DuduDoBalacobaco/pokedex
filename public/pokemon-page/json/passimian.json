@@ -1,0 +1,172 @@
+{
+  "id": 766,
+  "name": "passimian",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2 m",
+  "weight": "82.8 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/766_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/766_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 120
+    },
+    {
+      "name": "defense",
+      "value": 90
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 60
+    },
+    {
+      "name": "speed",
+      "value": 80
+    }
+  ],
+  "abilities": [
+    {
+      "name": "receiver",
+      "hidden": false,
+      "entries": "When an ally faints, this Pokémon gains its Ability."
+    },
+    {
+      "name": "defiant",
+      "hidden": true,
+      "entries": "Raises Attack two stages upon having any stat lowered."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "mega-kick",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "leer",
+    "hyper-beam",
+    "low-kick",
+    "counter",
+    "seismic-toss",
+    "earthquake",
+    "toxic",
+    "quick-attack",
+    "double-team",
+    "focus-energy",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "scary-face",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "baton-pass",
+    "iron-tail",
+    "vital-throw",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "shadow-ball",
+    "rock-smash",
+    "beat-up",
+    "uproar",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "snatch",
+    "rock-tomb",
+    "aerial-ace",
+    "block",
+    "bulk-up",
+    "shock-wave",
+    "gyro-ball",
+    "feint",
+    "u-turn",
+    "close-combat",
+    "payback",
+    "assurance",
+    "fling",
+    "seed-bomb",
+    "drain-punch",
+    "vacuum-wave",
+    "focus-blast",
+    "energy-ball",
+    "giga-impact",
+    "gunk-shot",
+    "iron-head",
+    "grass-knot",
+    "smack-down",
+    "low-sweep",
+    "round",
+    "quick-guard",
+    "acrobatics",
+    "retaliate",
+    "bestow",
+    "bulldoze",
+    "work-up",
+    "electroweb",
+    "confide",
+    "laser-focus",
+    "brutal-swing",
+    "coaching",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water",
+    "upper-hand"
+  ],
+  "evolution": [
+    {
+      "id": 766,
+      "name": "passimian",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Teamwork Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "white",
+  "shape": "upright",
+  "growth_rate": "slow",
+  "base_experience": 172,
+  "order": 925,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "passimian"
+  ],
+  "gender_rate": 4
+}

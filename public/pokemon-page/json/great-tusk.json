@@ -1,0 +1,135 @@
+{
+  "id": 984,
+  "name": "great-tusk",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2.2 m",
+  "weight": "320 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "ground",
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/984_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/984_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 115
+    },
+    {
+      "name": "attack",
+      "value": 131
+    },
+    {
+      "name": "defense",
+      "value": 131
+    },
+    {
+      "name": "special-attack",
+      "value": 53
+    },
+    {
+      "name": "special-defense",
+      "value": 53
+    },
+    {
+      "name": "speed",
+      "value": 87
+    }
+  ],
+  "abilities": [
+    {
+      "name": "protosynthesis",
+      "hidden": false,
+      "entries": "Raises highest stat in harsh sunlight, or if holding Booster Energy."
+    }
+  ],
+  "moves": [
+    "horn-attack",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "roar",
+    "hyper-beam",
+    "earthquake",
+    "dig",
+    "defense-curl",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "reversal",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "sleep-talk",
+    "megahorn",
+    "rapid-spin",
+    "sunny-day",
+    "facade",
+    "taunt",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "rock-tomb",
+    "bulk-up",
+    "mud-shot",
+    "close-combat",
+    "earth-power",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "zen-headbutt",
+    "flash-cannon",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "head-smash",
+    "psyshock",
+    "smack-down",
+    "heavy-slam",
+    "bulldoze",
+    "play-rough",
+    "high-horsepower",
+    "throat-chop",
+    "smart-strike",
+    "stomping-tantrum",
+    "body-press",
+    "headlong-rush",
+    "tera-blast",
+    "ice-spinner",
+    "temper-flare",
+    "supercell-slam"
+  ],
+  "evolution": [
+    {
+      "id": 984,
+      "name": "great-tusk",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Paradox Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 0,
+  "capture_rate": 30,
+  "color": "purple",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 285,
+  "order": 978,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "great-tusk"
+  ],
+  "gender_rate": -1
+}

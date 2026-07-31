@@ -1,0 +1,210 @@
+{
+  "id": 229,
+  "name": "houndoom",
+  "habitat_img": "assets/img/habitats/webp/rough-terrain.webp",
+  "habitat_name": "rough-terrain",
+  "height": "1.4 m",
+  "weight": "35 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "dark",
+    "fire"
+  ],
+  "artwork": "assets/artwork/front/229_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/229_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 75
+    },
+    {
+      "name": "attack",
+      "value": 90
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 110
+    },
+    {
+      "name": "special-defense",
+      "value": 80
+    },
+    {
+      "name": "speed",
+      "value": 95
+    }
+  ],
+  "abilities": [
+    {
+      "name": "early-bird",
+      "hidden": false,
+      "entries": "Makes sleep pass twice as quickly."
+    },
+    {
+      "name": "flash-fire",
+      "hidden": false,
+      "entries": "Protects against Fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+    },
+    {
+      "name": "unnerve",
+      "hidden": true,
+      "entries": "Prevents opposing Pokémon from eating held Berries."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "bite",
+    "roar",
+    "ember",
+    "flamethrower",
+    "hyper-beam",
+    "counter",
+    "strength",
+    "solar-beam",
+    "fire-spin",
+    "toxic",
+    "mimic",
+    "double-team",
+    "smog",
+    "fire-blast",
+    "swift",
+    "dream-eater",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "nightmare",
+    "snore",
+    "curse",
+    "reversal",
+    "spite",
+    "protect",
+    "scary-face",
+    "feint-attack",
+    "sludge-bomb",
+    "mud-slap",
+    "destiny-bond",
+    "detect",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "shadow-ball",
+    "rock-smash",
+    "beat-up",
+    "uproar",
+    "heat-wave",
+    "torment",
+    "will-o-wisp",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "role-play",
+    "endeavor",
+    "snatch",
+    "secret-power",
+    "hyper-voice",
+    "overheat",
+    "odor-sleuth",
+    "howl",
+    "mud-shot",
+    "natural-gift",
+    "feint",
+    "payback",
+    "embargo",
+    "sucker-punch",
+    "flare-blitz",
+    "dark-pulse",
+    "giga-impact",
+    "nasty-plot",
+    "thunder-fang",
+    "fire-fang",
+    "captivate",
+    "flame-charge",
+    "foul-play",
+    "round",
+    "incinerate",
+    "retaliate",
+    "inferno",
+    "snarl",
+    "confide",
+    "laser-focus",
+    "throat-chop",
+    "psychic-fangs",
+    "burning-jealousy",
+    "lash-out",
+    "scorching-sands",
+    "tera-blast",
+    "trailblaze",
+    "comeuppance",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 228,
+      "name": "houndour",
+      "details": []
+    },
+    {
+      "id": 229,
+      "name": "houndoom",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 24,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Dark Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 35,
+  "capture_rate": 45,
+  "color": "black",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 175,
+  "order": 330,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "houndoom"
+  ],
+  "gender_rate": 4
+}

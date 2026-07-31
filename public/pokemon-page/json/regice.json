@@ -1,0 +1,164 @@
+{
+  "id": 378,
+  "name": "regice",
+  "habitat_img": "assets/img/habitats/webp/cave.webp",
+  "habitat_name": "cave",
+  "height": "1.8 m",
+  "weight": "175 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "ice"
+  ],
+  "artwork": "assets/artwork/front/378_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/378_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 80
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 100
+    },
+    {
+      "name": "special-attack",
+      "value": 100
+    },
+    {
+      "name": "special-defense",
+      "value": 200
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "clear-body",
+      "hidden": false,
+      "entries": "Prevents stats from being lowered by other Pokémon."
+    },
+    {
+      "name": "ice-body",
+      "hidden": true,
+      "entries": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "ice-punch",
+    "thunder-punch",
+    "stomp",
+    "mega-kick",
+    "headbutt",
+    "body-slam",
+    "double-edge",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "earthquake",
+    "toxic",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "self-destruct",
+    "amnesia",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "mud-slap",
+    "zap-cannon",
+    "icy-wind",
+    "lock-on",
+    "endure",
+    "rollout",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "dynamic-punch",
+    "hidden-power",
+    "rain-dance",
+    "psych-up",
+    "ancient-power",
+    "rock-smash",
+    "hail",
+    "facade",
+    "focus-punch",
+    "superpower",
+    "brick-break",
+    "secret-power",
+    "rock-tomb",
+    "signal-beam",
+    "icicle-spear",
+    "block",
+    "shock-wave",
+    "gravity",
+    "hammer-arm",
+    "natural-gift",
+    "fling",
+    "rock-polish",
+    "focus-blast",
+    "giga-impact",
+    "avalanche",
+    "flash-cannon",
+    "rock-climb",
+    "iron-head",
+    "charge-beam",
+    "heavy-slam",
+    "round",
+    "bulldoze",
+    "frost-breath",
+    "confide",
+    "power-up-punch",
+    "aurora-veil",
+    "stomping-tantrum",
+    "body-press",
+    "tera-blast",
+    "ice-spinner",
+    "snowscape"
+  ],
+  "evolution": [
+    {
+      "id": 378,
+      "name": "regice",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Iceberg Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 35,
+  "capture_rate": 3,
+  "color": "blue",
+  "shape": "humanoid",
+  "growth_rate": "slow",
+  "base_experience": 261,
+  "order": 501,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "regice"
+  ],
+  "gender_rate": -1
+}

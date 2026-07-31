@@ -1,0 +1,125 @@
+{
+  "id": 968,
+  "name": "orthworm",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2.5 m",
+  "weight": "310 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "steel"
+  ],
+  "artwork": "assets/artwork/front/968_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/968_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 145
+    },
+    {
+      "name": "special-attack",
+      "value": 60
+    },
+    {
+      "name": "special-defense",
+      "value": 55
+    },
+    {
+      "name": "speed",
+      "value": 65
+    }
+  ],
+  "abilities": [
+    {
+      "name": "earth-eater",
+      "hidden": false,
+      "entries": "Restores HP when hit by a Ground-type move."
+    },
+    {
+      "name": "sand-veil",
+      "hidden": true,
+      "entries": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "wrap",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "earthquake",
+    "dig",
+    "harden",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "curse",
+    "protect",
+    "mud-slap",
+    "spikes",
+    "sandstorm",
+    "endure",
+    "sleep-talk",
+    "iron-tail",
+    "facade",
+    "helping-hand",
+    "rock-tomb",
+    "metal-sound",
+    "sand-tomb",
+    "iron-defense",
+    "mud-shot",
+    "rock-blast",
+    "metal-burst",
+    "earth-power",
+    "giga-impact",
+    "flash-cannon",
+    "iron-head",
+    "stealth-rock",
+    "smack-down",
+    "heavy-slam",
+    "coil",
+    "bulldoze",
+    "high-horsepower",
+    "stomping-tantrum",
+    "body-press",
+    "steel-beam",
+    "tera-blast",
+    "shed-tail"
+  ],
+  "evolution": [
+    {
+      "id": 968,
+      "name": "orthworm",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Earthworm Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 25,
+  "color": "pink",
+  "shape": "squiggle",
+  "growth_rate": "slow",
+  "base_experience": 240,
+  "order": 944,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "orthworm"
+  ],
+  "gender_rate": 4
+}

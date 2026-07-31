@@ -1,0 +1,122 @@
+{
+  "id": 1002,
+  "name": "chien-pao",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.9 m",
+  "weight": "152.2 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "dark",
+    "ice"
+  ],
+  "artwork": "assets/artwork/front/1002_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/1002_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 80
+    },
+    {
+      "name": "attack",
+      "value": 120
+    },
+    {
+      "name": "defense",
+      "value": 80
+    },
+    {
+      "name": "special-attack",
+      "value": 90
+    },
+    {
+      "name": "special-defense",
+      "value": 65
+    },
+    {
+      "name": "speed",
+      "value": 135
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sword-of-ruin",
+      "hidden": false,
+      "entries": "Lowers Defense of all Pokémon except itself."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "take-down",
+    "mist",
+    "blizzard",
+    "hyper-beam",
+    "recover",
+    "haze",
+    "rest",
+    "substitute",
+    "spite",
+    "powder-snow",
+    "protect",
+    "scary-face",
+    "icy-wind",
+    "endure",
+    "false-swipe",
+    "mean-look",
+    "sleep-talk",
+    "rain-dance",
+    "crunch",
+    "facade",
+    "taunt",
+    "brick-break",
+    "sheer-cold",
+    "aerial-ace",
+    "payback",
+    "sucker-punch",
+    "dark-pulse",
+    "night-slash",
+    "giga-impact",
+    "avalanche",
+    "ice-shard",
+    "ice-fang",
+    "hex",
+    "acrobatics",
+    "sacred-sword",
+    "snarl",
+    "icicle-crash",
+    "throat-chop",
+    "psychic-fangs",
+    "lash-out",
+    "tera-blast",
+    "ice-spinner",
+    "ruination",
+    "snowscape"
+  ],
+  "evolution": [
+    {
+      "id": 1002,
+      "name": "chien-pao",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Ruinous Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 0,
+  "capture_rate": 6,
+  "color": "white",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 285,
+  "order": 995,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "chien-pao"
+  ],
+  "gender_rate": -1
+}

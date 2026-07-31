@@ -1,0 +1,182 @@
+{
+  "id": 564,
+  "name": "tirtouga",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.7 m",
+  "weight": "16.5 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "water",
+    "rock"
+  ],
+  "artwork": "assets/artwork/front/564_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/564_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 54
+    },
+    {
+      "name": "attack",
+      "value": 78
+    },
+    {
+      "name": "defense",
+      "value": 103
+    },
+    {
+      "name": "special-attack",
+      "value": 53
+    },
+    {
+      "name": "special-defense",
+      "value": 45
+    },
+    {
+      "name": "speed",
+      "value": 22
+    }
+  ],
+  "abilities": [
+    {
+      "name": "solid-rock",
+      "hidden": false,
+      "entries": "Decreases damage taken from super-effective moves by 1/4."
+    },
+    {
+      "name": "sturdy",
+      "hidden": false,
+      "entries": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    },
+    {
+      "name": "swift-swim",
+      "hidden": true,
+      "entries": "Doubles Speed during rain."
+    }
+  ],
+  "moves": [
+    "slam",
+    "body-slam",
+    "bite",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "strength",
+    "rock-throw",
+    "earthquake",
+    "dig",
+    "toxic",
+    "double-team",
+    "withdraw",
+    "bide",
+    "waterfall",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "flail",
+    "protect",
+    "icy-wind",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "crunch",
+    "ancient-power",
+    "rock-smash",
+    "whirlpool",
+    "facade",
+    "knock-off",
+    "secret-power",
+    "dive",
+    "rock-tomb",
+    "muddy-water",
+    "iron-defense",
+    "block",
+    "mud-shot",
+    "rock-blast",
+    "water-pulse",
+    "brine",
+    "guard-swap",
+    "rock-polish",
+    "aqua-tail",
+    "earth-power",
+    "zen-headbutt",
+    "stone-edge",
+    "stealth-rock",
+    "aqua-jet",
+    "wide-guard",
+    "smack-down",
+    "round",
+    "scald",
+    "shell-smash",
+    "bulldoze",
+    "confide",
+    "liquidation",
+    "meteor-beam"
+  ],
+  "evolution": [
+    {
+      "id": 564,
+      "name": "tirtouga",
+      "details": []
+    },
+    {
+      "id": 565,
+      "name": "carracosta",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 37,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Prototurtle Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "blue",
+  "shape": "quadruped",
+  "growth_rate": "medium",
+  "base_experience": 71,
+  "order": 686,
+  "egg_groups": [
+    "water1",
+    "water3"
+  ],
+  "forms": [
+    "tirtouga"
+  ],
+  "gender_rate": 1
+}

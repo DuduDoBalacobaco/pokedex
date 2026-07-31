@@ -1,0 +1,165 @@
+{
+  "id": 641,
+  "name": "tornadus-incarnate",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.5 m",
+  "weight": "63 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/641_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/641_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 79
+    },
+    {
+      "name": "attack",
+      "value": 115
+    },
+    {
+      "name": "defense",
+      "value": 70
+    },
+    {
+      "name": "special-attack",
+      "value": 125
+    },
+    {
+      "name": "special-defense",
+      "value": 80
+    },
+    {
+      "name": "speed",
+      "value": 111
+    }
+  ],
+  "abilities": [
+    {
+      "name": "prankster",
+      "hidden": false,
+      "entries": "Raises non-damaging moves' priority by one stage."
+    },
+    {
+      "name": "defiant",
+      "hidden": true,
+      "entries": "Raises Attack two stages upon having any stat lowered."
+    }
+  ],
+  "moves": [
+    "gust",
+    "fly",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "leer",
+    "bite",
+    "hyper-beam",
+    "strength",
+    "toxic",
+    "psychic",
+    "agility",
+    "double-team",
+    "metronome",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "reversal",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "icy-wind",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "rock-smash",
+    "uproar",
+    "heat-wave",
+    "torment",
+    "facade",
+    "taunt",
+    "role-play",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "secret-power",
+    "astonish",
+    "weather-ball",
+    "air-cutter",
+    "extrasensory",
+    "aerial-ace",
+    "bulk-up",
+    "hammer-arm",
+    "tailwind",
+    "u-turn",
+    "payback",
+    "assurance",
+    "embargo",
+    "fling",
+    "dark-pulse",
+    "air-slash",
+    "focus-blast",
+    "giga-impact",
+    "nasty-plot",
+    "defog",
+    "grass-knot",
+    "smack-down",
+    "sludge-wave",
+    "foul-play",
+    "round",
+    "sky-drop",
+    "incinerate",
+    "acrobatics",
+    "hurricane",
+    "confide",
+    "brutal-swing",
+    "lash-out",
+    "bleakwind-storm",
+    "tera-blast",
+    "snowscape",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 641,
+      "name": "tornadus",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Cyclone Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 90,
+  "capture_rate": 3,
+  "color": "green",
+  "shape": "arms",
+  "growth_rate": "slow",
+  "base_experience": 261,
+  "order": 764,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "tornadus-incarnate"
+  ],
+  "gender_rate": 0
+}

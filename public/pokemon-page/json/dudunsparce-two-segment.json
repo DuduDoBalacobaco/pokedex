@@ -1,0 +1,197 @@
+{
+  "id": 982,
+  "name": "dudunsparce-two-segment",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "3.6 m",
+  "weight": "39.2 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/982_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/982_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 125
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 80
+    },
+    {
+      "name": "special-attack",
+      "value": 85
+    },
+    {
+      "name": "special-defense",
+      "value": 75
+    },
+    {
+      "name": "speed",
+      "value": 55
+    }
+  ],
+  "abilities": [
+    {
+      "name": "serene-grace",
+      "hidden": false,
+      "entries": "Doubles the chance of moves' extra effects occurring."
+    },
+    {
+      "name": "run-away",
+      "hidden": false,
+      "entries": "Ensures success fleeing from wild battles."
+    },
+    {
+      "name": "rattled",
+      "hidden": true,
+      "entries": "Raises Speed one stage upon being hit by a Dark, Ghost, or Bug move."
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "flamethrower",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "solar-beam",
+    "thunderbolt",
+    "thunder",
+    "earthquake",
+    "dig",
+    "toxic",
+    "agility",
+    "screech",
+    "defense-curl",
+    "fire-blast",
+    "amnesia",
+    "glare",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "curse",
+    "flail",
+    "spite",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "outrage",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "sleep-talk",
+    "pain-split",
+    "baton-pass",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "ancient-power",
+    "shadow-ball",
+    "uproar",
+    "facade",
+    "helping-hand",
+    "yawn",
+    "endeavor",
+    "hyper-voice",
+    "rock-tomb",
+    "mud-shot",
+    "poison-tail",
+    "calm-mind",
+    "roost",
+    "gyro-ball",
+    "tailwind",
+    "poison-jab",
+    "air-slash",
+    "dragon-rush",
+    "earth-power",
+    "giga-impact",
+    "zen-headbutt",
+    "stone-edge",
+    "stealth-rock",
+    "heavy-slam",
+    "coil",
+    "stored-power",
+    "hex",
+    "bulldoze",
+    "dragon-tail",
+    "wild-charge",
+    "drill-run",
+    "hurricane",
+    "boomburst",
+    "throat-chop",
+    "lunge",
+    "smart-strike",
+    "stomping-tantrum",
+    "body-press",
+    "breaking-swipe",
+    "scale-shot",
+    "skitter-smack",
+    "dual-wingbeat",
+    "tera-blast",
+    "ice-spinner",
+    "pounce",
+    "chilling-water",
+    "hyper-drill"
+  ],
+  "evolution": [
+    {
+      "id": 206,
+      "name": "dunsparce",
+      "details": []
+    },
+    {
+      "id": 982,
+      "name": "dudunsparce",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": "hyper-drill",
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Land Snake Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 45,
+  "color": "yellow",
+  "shape": "squiggle",
+  "growth_rate": "medium",
+  "base_experience": 182,
+  "order": 917,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "dudunsparce-two-segment"
+  ],
+  "gender_rate": 4
+}

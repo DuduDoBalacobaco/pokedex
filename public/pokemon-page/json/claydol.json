@@ -1,0 +1,196 @@
+{
+  "id": 344,
+  "name": "claydol",
+  "habitat_img": "assets/img/habitats/webp/rough-terrain.webp",
+  "habitat_name": "rough-terrain",
+  "height": "1.5 m",
+  "weight": "108 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "ground",
+    "psychic"
+  ],
+  "artwork": "assets/artwork/front/344_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/344_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 70
+    },
+    {
+      "name": "defense",
+      "value": 105
+    },
+    {
+      "name": "special-attack",
+      "value": 70
+    },
+    {
+      "name": "special-defense",
+      "value": 120
+    },
+    {
+      "name": "speed",
+      "value": 75
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "hidden": false,
+      "entries": "Evades Ground moves."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "double-edge",
+    "ice-beam",
+    "psybeam",
+    "hyper-beam",
+    "strength",
+    "solar-beam",
+    "earthquake",
+    "dig",
+    "toxic",
+    "confusion",
+    "psychic",
+    "teleport",
+    "mimic",
+    "double-team",
+    "harden",
+    "light-screen",
+    "reflect",
+    "self-destruct",
+    "dream-eater",
+    "flash",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "rapid-spin",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "ancient-power",
+    "shadow-ball",
+    "future-sight",
+    "rock-smash",
+    "facade",
+    "trick",
+    "magic-coat",
+    "recycle",
+    "skill-swap",
+    "imprison",
+    "secret-power",
+    "rock-tomb",
+    "cosmic-power",
+    "signal-beam",
+    "extrasensory",
+    "sand-tomb",
+    "iron-defense",
+    "calm-mind",
+    "gravity",
+    "gyro-ball",
+    "natural-gift",
+    "heal-block",
+    "power-trick",
+    "power-swap",
+    "guard-swap",
+    "rock-polish",
+    "earth-power",
+    "giga-impact",
+    "nasty-plot",
+    "zen-headbutt",
+    "trick-room",
+    "stone-edge",
+    "stealth-rock",
+    "grass-knot",
+    "charge-beam",
+    "guard-split",
+    "power-split",
+    "wonder-room",
+    "psyshock",
+    "telekinesis",
+    "smack-down",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "hex",
+    "bulldoze",
+    "drill-run",
+    "confide",
+    "eerie-impulse",
+    "dazzling-gleam",
+    "psychic-terrain",
+    "body-press",
+    "expanding-force",
+    "scorching-sands"
+  ],
+  "evolution": [
+    {
+      "id": 343,
+      "name": "baltoy",
+      "details": []
+    },
+    {
+      "id": 344,
+      "name": "claydol",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Clay Doll Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 90,
+  "color": "black",
+  "shape": "arms",
+  "growth_rate": "medium",
+  "base_experience": 175,
+  "order": 457,
+  "egg_groups": [
+    "mineral"
+  ],
+  "forms": [
+    "claydol"
+  ],
+  "gender_rate": -1
+}

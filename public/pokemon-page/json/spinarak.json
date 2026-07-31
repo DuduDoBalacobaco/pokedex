@@ -1,0 +1,193 @@
+{
+  "id": 167,
+  "name": "spinarak",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "0.5 m",
+  "weight": "8.5 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "bug",
+    "poison"
+  ],
+  "artwork": "assets/artwork/front/167_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/167_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 60
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 40
+    },
+    {
+      "name": "speed",
+      "value": 30
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swarm",
+      "hidden": false,
+      "entries": "Strengthens Bug moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "insomnia",
+      "hidden": false,
+      "entries": "Prevents sleep."
+    },
+    {
+      "name": "sniper",
+      "hidden": true,
+      "entries": "Strengthens critical hits to inflict 3× damage rather than 2×."
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "double-edge",
+    "poison-sting",
+    "twineedle",
+    "pin-missile",
+    "sonic-boom",
+    "disable",
+    "psybeam",
+    "absorb",
+    "solar-beam",
+    "string-shot",
+    "dig",
+    "toxic",
+    "psychic",
+    "agility",
+    "night-shade",
+    "mimic",
+    "screech",
+    "double-team",
+    "constrict",
+    "leech-life",
+    "flash",
+    "fury-swipes",
+    "rest",
+    "substitute",
+    "thief",
+    "spider-web",
+    "snore",
+    "curse",
+    "spite",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "megahorn",
+    "baton-pass",
+    "pursuit",
+    "hidden-power",
+    "sunny-day",
+    "facade",
+    "knock-off",
+    "refresh",
+    "secret-power",
+    "signal-beam",
+    "bounce",
+    "natural-gift",
+    "sucker-punch",
+    "toxic-spikes",
+    "poison-jab",
+    "night-slash",
+    "x-scissor",
+    "bug-buzz",
+    "shadow-sneak",
+    "cross-poison",
+    "captivate",
+    "bug-bite",
+    "hone-claws",
+    "venoshock",
+    "rage-powder",
+    "sludge-wave",
+    "acid-spray",
+    "foul-play",
+    "round",
+    "hex",
+    "struggle-bug",
+    "electroweb",
+    "sticky-web",
+    "confide",
+    "infestation",
+    "toxic-thread",
+    "lunge",
+    "skitter-smack",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 167,
+      "name": "spinarak",
+      "details": []
+    },
+    {
+      "id": 168,
+      "name": "ariados",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 22,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "String Spit Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 255,
+  "color": "green",
+  "shape": "armor",
+  "growth_rate": "fast",
+  "base_experience": 50,
+  "order": 264,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "spinarak"
+  ],
+  "gender_rate": 4
+}

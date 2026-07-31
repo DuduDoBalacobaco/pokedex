@@ -1,0 +1,168 @@
+{
+  "id": 442,
+  "name": "spiritomb",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1 m",
+  "weight": "108 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "ghost",
+    "dark"
+  ],
+  "artwork": "assets/artwork/front/442_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/442_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 92
+    },
+    {
+      "name": "defense",
+      "value": 108
+    },
+    {
+      "name": "special-attack",
+      "value": 92
+    },
+    {
+      "name": "special-defense",
+      "value": 108
+    },
+    {
+      "name": "speed",
+      "value": 35
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "hidden": false,
+      "entries": "Increases the PP cost of moves targetting the Pokémon by one."
+    },
+    {
+      "name": "infiltrator",
+      "hidden": true,
+      "entries": "Bypasses Light Screen, Reflect, and Safeguard."
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "disable",
+    "psybeam",
+    "hyper-beam",
+    "toxic",
+    "psychic",
+    "hypnosis",
+    "night-shade",
+    "double-team",
+    "smokescreen",
+    "confuse-ray",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "nightmare",
+    "snore",
+    "curse",
+    "spite",
+    "protect",
+    "scary-face",
+    "feint-attack",
+    "destiny-bond",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "pursuit",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "uproar",
+    "torment",
+    "will-o-wisp",
+    "memento",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "trick",
+    "skill-swap",
+    "imprison",
+    "grudge",
+    "snatch",
+    "secret-power",
+    "rock-tomb",
+    "silver-wind",
+    "extrasensory",
+    "calm-mind",
+    "shock-wave",
+    "water-pulse",
+    "natural-gift",
+    "payback",
+    "embargo",
+    "sucker-punch",
+    "dark-pulse",
+    "giga-impact",
+    "nasty-plot",
+    "shadow-sneak",
+    "trick-room",
+    "captivate",
+    "ominous-wind",
+    "wonder-room",
+    "psyshock",
+    "telekinesis",
+    "foul-play",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "hex",
+    "quash",
+    "retaliate",
+    "snarl",
+    "phantom-force",
+    "confide",
+    "infestation",
+    "burning-jealousy",
+    "lash-out",
+    "poltergeist",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 442,
+      "name": "spiritomb",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Forbidden Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 100,
+  "color": "purple",
+  "shape": "blob",
+  "growth_rate": "medium",
+  "base_experience": 170,
+  "order": 567,
+  "egg_groups": [
+    "indeterminate"
+  ],
+  "forms": [
+    "spiritomb"
+  ],
+  "gender_rate": 4
+}

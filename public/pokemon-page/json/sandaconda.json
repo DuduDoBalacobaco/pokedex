@@ -1,0 +1,168 @@
+{
+  "id": 844,
+  "name": "sandaconda",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "3.8 m",
+  "weight": "65.5 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "ground"
+  ],
+  "artwork": "assets/artwork/front/844_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/844_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 72
+    },
+    {
+      "name": "attack",
+      "value": 107
+    },
+    {
+      "name": "defense",
+      "value": 125
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 71
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-spit",
+      "hidden": false,
+      "entries": "Creates a sandstorm when hit by an attack."
+    },
+    {
+      "name": "shed-skin",
+      "hidden": false,
+      "entries": "Has a 33% chance of curing any major status ailment after each turn."
+    },
+    {
+      "name": "sand-veil",
+      "hidden": true,
+      "entries": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+    }
+  ],
+  "moves": [
+    "slam",
+    "sand-attack",
+    "headbutt",
+    "body-slam",
+    "wrap",
+    "take-down",
+    "hyper-beam",
+    "earthquake",
+    "dig",
+    "screech",
+    "minimize",
+    "skull-bash",
+    "glare",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "outrage",
+    "sandstorm",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "facade",
+    "endeavor",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "mud-shot",
+    "poison-tail",
+    "rock-blast",
+    "last-resort",
+    "dragon-rush",
+    "earth-power",
+    "giga-impact",
+    "thunder-fang",
+    "fire-fang",
+    "zen-headbutt",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "coil",
+    "round",
+    "bulldoze",
+    "drill-run",
+    "hurricane",
+    "belch",
+    "high-horsepower",
+    "brutal-swing",
+    "body-press",
+    "scale-shot",
+    "skitter-smack",
+    "scorching-sands",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 843,
+      "name": "silicobra",
+      "details": []
+    },
+    {
+      "id": 844,
+      "name": "sandaconda",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Sand Snake Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 120,
+  "color": "green",
+  "shape": "squiggle",
+  "growth_rate": "medium",
+  "base_experience": 179,
+  "order": 1025,
+  "egg_groups": [
+    "ground",
+    "dragon"
+  ],
+  "forms": [
+    "sandaconda"
+  ],
+  "gender_rate": 4
+}

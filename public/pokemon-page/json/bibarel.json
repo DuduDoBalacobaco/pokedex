@@ -1,0 +1,195 @@
+{
+  "id": 400,
+  "name": "bibarel",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1 m",
+  "weight": "31.5 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "normal",
+    "water"
+  ],
+  "artwork": "assets/artwork/front/400_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/400_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 79
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 60
+    },
+    {
+      "name": "special-attack",
+      "value": 55
+    },
+    {
+      "name": "special-defense",
+      "value": 60
+    },
+    {
+      "name": "speed",
+      "value": 71
+    }
+  ],
+  "abilities": [
+    {
+      "name": "simple",
+      "hidden": false,
+      "entries": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
+    },
+    {
+      "name": "unaware",
+      "hidden": false,
+      "entries": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+    },
+    {
+      "name": "moody",
+      "hidden": true,
+      "entries": "Raises a random stat two stages and lowers another one stage after each turn."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "headbutt",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "bite",
+    "growl",
+    "water-gun",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "strength",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "dig",
+    "toxic",
+    "double-team",
+    "defense-curl",
+    "waterfall",
+    "swift",
+    "amnesia",
+    "rest",
+    "hyper-fang",
+    "super-fang",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "protect",
+    "mud-slap",
+    "icy-wind",
+    "endure",
+    "rollout",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "shadow-ball",
+    "rock-smash",
+    "whirlpool",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "superpower",
+    "yawn",
+    "secret-power",
+    "dive",
+    "covet",
+    "shock-wave",
+    "water-pulse",
+    "natural-gift",
+    "pluck",
+    "fling",
+    "last-resort",
+    "aqua-tail",
+    "giga-impact",
+    "rock-climb",
+    "captivate",
+    "stealth-rock",
+    "grass-knot",
+    "charge-beam",
+    "aqua-jet",
+    "round",
+    "echoed-voice",
+    "scald",
+    "retaliate",
+    "bulldoze",
+    "work-up",
+    "rototiller",
+    "confide",
+    "stomping-tantrum",
+    "liquidation"
+  ],
+  "evolution": [
+    {
+      "id": 399,
+      "name": "bidoof",
+      "details": []
+    },
+    {
+      "id": 400,
+      "name": "bibarel",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 15,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Beaver Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 127,
+  "color": "brown",
+  "shape": "upright",
+  "growth_rate": "medium",
+  "base_experience": 144,
+  "order": 531,
+  "egg_groups": [
+    "water1",
+    "ground"
+  ],
+  "forms": [
+    "bibarel"
+  ],
+  "gender_rate": 4
+}

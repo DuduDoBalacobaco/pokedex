@@ -1,0 +1,180 @@
+{
+  "id": 484,
+  "name": "palkia",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "4.2 m",
+  "weight": "336 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "water",
+    "dragon"
+  ],
+  "artwork": "assets/artwork/front/484_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/484_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 90
+    },
+    {
+      "name": "attack",
+      "value": 120
+    },
+    {
+      "name": "defense",
+      "value": 100
+    },
+    {
+      "name": "special-attack",
+      "value": 150
+    },
+    {
+      "name": "special-defense",
+      "value": 120
+    },
+    {
+      "name": "speed",
+      "value": 100
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "hidden": false,
+      "entries": "Increases the PP cost of moves targetting the Pokémon by one."
+    },
+    {
+      "name": "telepathy",
+      "hidden": true,
+      "entries": "Protects against friendly Pokémon's damaging moves."
+    }
+  ],
+  "moves": [
+    "cut",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "roar",
+    "flamethrower",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "strength",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "earthquake",
+    "toxic",
+    "double-team",
+    "fire-blast",
+    "waterfall",
+    "swift",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "icy-wind",
+    "outrage",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "dragon-breath",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "ancient-power",
+    "rock-smash",
+    "whirlpool",
+    "hail",
+    "facade",
+    "focus-punch",
+    "trick",
+    "brick-break",
+    "secret-power",
+    "dive",
+    "hyper-voice",
+    "rock-tomb",
+    "aerial-ace",
+    "dragon-claw",
+    "bulk-up",
+    "shock-wave",
+    "water-pulse",
+    "gravity",
+    "brine",
+    "natural-gift",
+    "fling",
+    "heal-block",
+    "aqua-ring",
+    "aura-sphere",
+    "aqua-tail",
+    "dragon-pulse",
+    "power-gem",
+    "focus-blast",
+    "earth-power",
+    "giga-impact",
+    "avalanche",
+    "shadow-claw",
+    "trick-room",
+    "draco-meteor",
+    "stone-edge",
+    "spacial-rend",
+    "hone-claws",
+    "heavy-slam",
+    "round",
+    "echoed-voice",
+    "incinerate",
+    "bulldoze",
+    "dragon-tail",
+    "confide",
+    "stomping-tantrum",
+    "liquidation",
+    "body-press",
+    "breaking-swipe",
+    "scale-shot",
+    "dual-wingbeat",
+    "tera-blast",
+    "snowscape",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 484,
+      "name": "palkia",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Spatial Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 0,
+  "capture_rate": 3,
+  "color": "purple",
+  "shape": "upright",
+  "growth_rate": "slow",
+  "base_experience": 306,
+  "order": 597,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "palkia"
+  ],
+  "gender_rate": -1
+}

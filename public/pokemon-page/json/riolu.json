@@ -1,0 +1,208 @@
+{
+  "id": 447,
+  "name": "riolu",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.7 m",
+  "weight": "20.2 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/447_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/447_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 70
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 35
+    },
+    {
+      "name": "special-defense",
+      "value": 40
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "steadfast",
+      "hidden": false,
+      "entries": "Raises Speed one stage upon flinching."
+    },
+    {
+      "name": "inner-focus",
+      "hidden": false,
+      "entries": "Prevents flinching."
+    },
+    {
+      "name": "prankster",
+      "hidden": true,
+      "entries": "Raises non-damaging moves' priority by one stage."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "ice-punch",
+    "thunder-punch",
+    "swords-dance",
+    "mega-kick",
+    "headbutt",
+    "take-down",
+    "bite",
+    "roar",
+    "low-kick",
+    "counter",
+    "strength",
+    "earthquake",
+    "dig",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "screech",
+    "double-team",
+    "swift",
+    "high-jump-kick",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "mind-reader",
+    "snore",
+    "reversal",
+    "protect",
+    "mud-slap",
+    "foresight",
+    "detect",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "metal-claw",
+    "hidden-power",
+    "cross-chop",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "psych-up",
+    "rock-smash",
+    "facade",
+    "focus-punch",
+    "follow-me",
+    "helping-hand",
+    "role-play",
+    "revenge",
+    "brick-break",
+    "secret-power",
+    "blaze-kick",
+    "meteor-mash",
+    "rock-tomb",
+    "sky-uppercut",
+    "aerial-ace",
+    "iron-defense",
+    "howl",
+    "bulk-up",
+    "natural-gift",
+    "feint",
+    "close-combat",
+    "payback",
+    "fling",
+    "copycat",
+    "magnet-rise",
+    "force-palm",
+    "aura-sphere",
+    "poison-jab",
+    "drain-punch",
+    "vacuum-wave",
+    "focus-blast",
+    "nasty-plot",
+    "bullet-punch",
+    "shadow-claw",
+    "zen-headbutt",
+    "captivate",
+    "low-sweep",
+    "round",
+    "quick-guard",
+    "circle-throw",
+    "retaliate",
+    "final-gambit",
+    "bulldoze",
+    "work-up",
+    "dual-chop",
+    "confide",
+    "power-up-punch",
+    "laser-focus",
+    "coaching",
+    "tera-blast",
+    "trailblaze",
+    "upper-hand"
+  ],
+  "evolution": [
+    {
+      "id": 447,
+      "name": "riolu",
+      "details": []
+    },
+    {
+      "id": 448,
+      "name": "lucario",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": 160,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "day",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": true,
+  "genus": "Emanation Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 75,
+  "color": "blue",
+  "shape": "upright",
+  "growth_rate": "medium-slow",
+  "base_experience": 57,
+  "order": 572,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "riolu"
+  ],
+  "gender_rate": 1
+}

@@ -1,0 +1,200 @@
+{
+  "id": 406,
+  "name": "budew",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.2 m",
+  "weight": "1.2 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "grass",
+    "poison"
+  ],
+  "artwork": "assets/artwork/front/406_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/406_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 30
+    },
+    {
+      "name": "defense",
+      "value": 35
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 55
+    }
+  ],
+  "abilities": [
+    {
+      "name": "natural-cure",
+      "hidden": false,
+      "entries": "Cures any major status ailment upon switching out."
+    },
+    {
+      "name": "poison-point",
+      "hidden": false,
+      "entries": "Has a 30% chance of poisoning attacking Pokémon on contact."
+    },
+    {
+      "name": "leaf-guard",
+      "hidden": true,
+      "entries": "Protects against major status ailments during strong sunlight."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "poison-sting",
+    "pin-missile",
+    "absorb",
+    "mega-drain",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "sleep-powder",
+    "petal-dance",
+    "toxic",
+    "double-team",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "mind-reader",
+    "snore",
+    "cotton-spore",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "spikes",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "uproar",
+    "facade",
+    "nature-power",
+    "secret-power",
+    "weather-ball",
+    "grass-whistle",
+    "extrasensory",
+    "bullet-seed",
+    "covet",
+    "water-sport",
+    "natural-gift",
+    "worry-seed",
+    "poison-jab",
+    "seed-bomb",
+    "energy-ball",
+    "leaf-storm",
+    "captivate",
+    "grass-knot",
+    "venoshock",
+    "round",
+    "confide",
+    "dazzling-gleam",
+    "life-dew",
+    "grassy-glide"
+  ],
+  "evolution": [
+    {
+      "id": 406,
+      "name": "budew",
+      "details": []
+    },
+    {
+      "id": 315,
+      "name": "roselia",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": 160,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "day",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 407,
+      "name": "roserade",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "shiny-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": true,
+  "genus": "Bud Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 255,
+  "color": "green",
+  "shape": "humanoid",
+  "growth_rate": "medium-slow",
+  "base_experience": 56,
+  "order": 423,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "budew"
+  ],
+  "gender_rate": 4
+}

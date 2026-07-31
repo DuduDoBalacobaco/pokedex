@@ -1,0 +1,166 @@
+{
+  "id": 800,
+  "name": "necrozma",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2.4 m",
+  "weight": "230 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "psychic"
+  ],
+  "artwork": "assets/artwork/front/800_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/800_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 97
+    },
+    {
+      "name": "attack",
+      "value": 107
+    },
+    {
+      "name": "defense",
+      "value": 101
+    },
+    {
+      "name": "special-attack",
+      "value": 127
+    },
+    {
+      "name": "special-defense",
+      "value": 89
+    },
+    {
+      "name": "speed",
+      "value": 79
+    }
+  ],
+  "abilities": [
+    {
+      "name": "prism-armor",
+      "hidden": false,
+      "entries": "Reduces super-effective damage to 0.75×."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "body-slam",
+    "hyper-beam",
+    "solar-beam",
+    "thunder-wave",
+    "earthquake",
+    "toxic",
+    "confusion",
+    "psychic",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "swift",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "scary-face",
+    "outrage",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "metal-claw",
+    "morning-sun",
+    "moonlight",
+    "hidden-power",
+    "sunny-day",
+    "future-sight",
+    "heat-wave",
+    "facade",
+    "recycle",
+    "brick-break",
+    "knock-off",
+    "imprison",
+    "hyper-voice",
+    "rock-tomb",
+    "cosmic-power",
+    "signal-beam",
+    "aerial-ace",
+    "iron-defense",
+    "calm-mind",
+    "dragon-dance",
+    "rock-blast",
+    "shock-wave",
+    "gravity",
+    "gyro-ball",
+    "embargo",
+    "fling",
+    "wring-out",
+    "magnet-rise",
+    "rock-polish",
+    "dark-pulse",
+    "night-slash",
+    "x-scissor",
+    "dragon-pulse",
+    "power-gem",
+    "earth-power",
+    "giga-impact",
+    "shadow-claw",
+    "psycho-cut",
+    "mirror-shot",
+    "flash-cannon",
+    "trick-room",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "charge-beam",
+    "psyshock",
+    "autotomize",
+    "telekinesis",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "bulldoze",
+    "confide",
+    "smart-strike",
+    "brutal-swing",
+    "psychic-fangs",
+    "prismatic-laser",
+    "photon-geyser",
+    "breaking-swipe",
+    "expanding-force",
+    "meteor-beam",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 800,
+      "name": "necrozma",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Prism Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 0,
+  "capture_rate": 255,
+  "color": "black",
+  "shape": "arms",
+  "growth_rate": "slow",
+  "base_experience": 270,
+  "order": 977,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "necrozma"
+  ],
+  "gender_rate": -1
+}

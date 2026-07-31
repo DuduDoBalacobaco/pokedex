@@ -1,0 +1,176 @@
+{
+  "id": 642,
+  "name": "thundurus-incarnate",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.5 m",
+  "weight": "61 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "electric",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/642_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/642_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 79
+    },
+    {
+      "name": "attack",
+      "value": 115
+    },
+    {
+      "name": "defense",
+      "value": 70
+    },
+    {
+      "name": "special-attack",
+      "value": 125
+    },
+    {
+      "name": "special-defense",
+      "value": 80
+    },
+    {
+      "name": "speed",
+      "value": 111
+    }
+  ],
+  "abilities": [
+    {
+      "name": "prankster",
+      "hidden": false,
+      "entries": "Raises non-damaging moves' priority by one stage."
+    },
+    {
+      "name": "defiant",
+      "hidden": true,
+      "entries": "Raises Attack two stages upon having any stat lowered."
+    }
+  ],
+  "moves": [
+    "thunder-punch",
+    "fly",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "leer",
+    "bite",
+    "hyper-beam",
+    "strength",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "psychic",
+    "agility",
+    "double-team",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "endure",
+    "swagger",
+    "spark",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "rock-smash",
+    "uproar",
+    "torment",
+    "facade",
+    "charge",
+    "taunt",
+    "role-play",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "secret-power",
+    "astonish",
+    "weather-ball",
+    "extrasensory",
+    "bulk-up",
+    "shock-wave",
+    "hammer-arm",
+    "u-turn",
+    "payback",
+    "assurance",
+    "embargo",
+    "fling",
+    "heal-block",
+    "dark-pulse",
+    "focus-blast",
+    "giga-impact",
+    "nasty-plot",
+    "zen-headbutt",
+    "flash-cannon",
+    "defog",
+    "discharge",
+    "grass-knot",
+    "charge-beam",
+    "smack-down",
+    "sludge-wave",
+    "electro-ball",
+    "foul-play",
+    "round",
+    "sky-drop",
+    "incinerate",
+    "acrobatics",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "snarl",
+    "confide",
+    "eerie-impulse",
+    "electric-terrain",
+    "smart-strike",
+    "brutal-swing",
+    "rising-voltage",
+    "lash-out",
+    "wildbolt-storm",
+    "tera-blast",
+    "supercell-slam"
+  ],
+  "evolution": [
+    {
+      "id": 642,
+      "name": "thundurus",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Bolt Strike Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 90,
+  "capture_rate": 3,
+  "color": "blue",
+  "shape": "arms",
+  "growth_rate": "slow",
+  "base_experience": 261,
+  "order": 766,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "thundurus-incarnate"
+  ],
+  "gender_rate": 0
+}

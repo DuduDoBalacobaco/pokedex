@@ -1,0 +1,221 @@
+{
+  "id": 624,
+  "name": "pawniard",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.5 m",
+  "weight": "10.2 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "dark",
+    "steel"
+  ],
+  "artwork": "assets/artwork/front/624_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/624_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 45
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 70
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 40
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "defiant",
+      "hidden": false,
+      "entries": "Raises Attack two stages upon having any stat lowered."
+    },
+    {
+      "name": "inner-focus",
+      "hidden": false,
+      "entries": "Prevents flinching."
+    },
+    {
+      "name": "pressure",
+      "hidden": true,
+      "entries": "Increases the PP cost of moves targetting the Pokémon by one."
+    }
+  ],
+  "moves": [
+    "scratch",
+    "guillotine",
+    "swords-dance",
+    "cut",
+    "headbutt",
+    "take-down",
+    "leer",
+    "low-kick",
+    "thunder-wave",
+    "dig",
+    "toxic",
+    "screech",
+    "double-team",
+    "rest",
+    "slash",
+    "substitute",
+    "thief",
+    "snore",
+    "spite",
+    "protect",
+    "scary-face",
+    "feint-attack",
+    "sandstorm",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "mean-look",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pursuit",
+    "metal-claw",
+    "hidden-power",
+    "rain-dance",
+    "rock-smash",
+    "beat-up",
+    "torment",
+    "facade",
+    "taunt",
+    "role-play",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "snatch",
+    "secret-power",
+    "rock-tomb",
+    "metal-sound",
+    "aerial-ace",
+    "iron-defense",
+    "payback",
+    "assurance",
+    "embargo",
+    "fling",
+    "sucker-punch",
+    "magnet-rise",
+    "rock-polish",
+    "poison-jab",
+    "dark-pulse",
+    "night-slash",
+    "air-slash",
+    "x-scissor",
+    "shadow-claw",
+    "psycho-cut",
+    "flash-cannon",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "grass-knot",
+    "hone-claws",
+    "low-sweep",
+    "foul-play",
+    "round",
+    "quick-guard",
+    "retaliate",
+    "dual-chop",
+    "snarl",
+    "confide",
+    "power-up-punch",
+    "laser-focus",
+    "steel-beam",
+    "lash-out",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 624,
+      "name": "pawniard",
+      "details": []
+    },
+    {
+      "id": 625,
+      "name": "bisharp",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 52,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 983,
+      "name": "kingambit",
+      "details": [
+        {
+          "trigger": "three-defeated-bisharp",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Sharp Blade Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 35,
+  "capture_rate": 120,
+  "color": "red",
+  "shape": "humanoid",
+  "growth_rate": "medium",
+  "base_experience": 68,
+  "order": 747,
+  "egg_groups": [
+    "humanshape"
+  ],
+  "forms": [
+    "pawniard"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,201 @@
+{
+  "id": 867,
+  "name": "runerigus",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.6 m",
+  "weight": "66.6 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "ground",
+    "ghost"
+  ],
+  "artwork": "assets/artwork/front/867_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/867_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 58
+    },
+    {
+      "name": "attack",
+      "value": 95
+    },
+    {
+      "name": "defense",
+      "value": 145
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 105
+    },
+    {
+      "name": "speed",
+      "value": 30
+    }
+  ],
+  "abilities": [
+    {
+      "name": "wandering-spirit",
+      "hidden": false,
+      "entries": "Swaps abilities with opponents on contact."
+    }
+  ],
+  "moves": [
+    "slam",
+    "disable",
+    "hyper-beam",
+    "earthquake",
+    "psychic",
+    "night-shade",
+    "confuse-ray",
+    "haze",
+    "self-destruct",
+    "amnesia",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "protect",
+    "scary-face",
+    "destiny-bond",
+    "sandstorm",
+    "giga-drain",
+    "endure",
+    "mean-look",
+    "attract",
+    "sleep-talk",
+    "safeguard",
+    "rain-dance",
+    "shadow-ball",
+    "will-o-wisp",
+    "memento",
+    "facade",
+    "taunt",
+    "trick",
+    "revenge",
+    "skill-swap",
+    "imprison",
+    "astonish",
+    "fake-tears",
+    "rock-tomb",
+    "shadow-punch",
+    "sand-tomb",
+    "iron-defense",
+    "calm-mind",
+    "rock-blast",
+    "payback",
+    "power-swap",
+    "guard-swap",
+    "toxic-spikes",
+    "dark-pulse",
+    "dragon-pulse",
+    "energy-ball",
+    "earth-power",
+    "giga-impact",
+    "nasty-plot",
+    "shadow-claw",
+    "zen-headbutt",
+    "trick-room",
+    "stone-edge",
+    "stealth-rock",
+    "grass-knot",
+    "guard-split",
+    "power-split",
+    "wonder-room",
+    "psyshock",
+    "round",
+    "ally-switch",
+    "hex",
+    "bulldoze",
+    "phantom-force",
+    "crafty-shield",
+    "brutal-swing",
+    "body-press",
+    "poltergeist"
+  ],
+  "evolution": [
+    {
+      "id": 562,
+      "name": "yamask",
+      "details": []
+    },
+    {
+      "id": 563,
+      "name": "cofagrigus",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 34,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 867,
+      "name": "runerigus",
+      "details": [
+        {
+          "trigger": "take-damage",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Grudge Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 90,
+  "color": "gray",
+  "shape": "blob",
+  "growth_rate": "medium",
+  "base_experience": 169,
+  "order": 1051,
+  "egg_groups": [
+    "mineral",
+    "indeterminate"
+  ],
+  "forms": [
+    "runerigus"
+  ],
+  "gender_rate": 4
+}

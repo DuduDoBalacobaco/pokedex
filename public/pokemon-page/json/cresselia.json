@@ -1,0 +1,158 @@
+{
+  "id": 488,
+  "name": "cresselia",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.5 m",
+  "weight": "85.6 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "psychic"
+  ],
+  "artwork": "assets/artwork/front/488_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/488_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 120
+    },
+    {
+      "name": "attack",
+      "value": 70
+    },
+    {
+      "name": "defense",
+      "value": 110
+    },
+    {
+      "name": "special-attack",
+      "value": 75
+    },
+    {
+      "name": "special-defense",
+      "value": 120
+    },
+    {
+      "name": "speed",
+      "value": 85
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "hidden": false,
+      "entries": "Evades Ground moves."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "mist",
+    "ice-beam",
+    "psybeam",
+    "aurora-beam",
+    "hyper-beam",
+    "solar-beam",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "confusion",
+    "psychic",
+    "double-team",
+    "recover",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "swift",
+    "dream-eater",
+    "flash",
+    "rest",
+    "slash",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "moonlight",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "facade",
+    "helping-hand",
+    "trick",
+    "magic-coat",
+    "recycle",
+    "skill-swap",
+    "secret-power",
+    "signal-beam",
+    "calm-mind",
+    "gravity",
+    "natural-gift",
+    "psycho-shift",
+    "power-swap",
+    "guard-swap",
+    "power-gem",
+    "energy-ball",
+    "giga-impact",
+    "psycho-cut",
+    "zen-headbutt",
+    "trick-room",
+    "captivate",
+    "grass-knot",
+    "charge-beam",
+    "lunar-dance",
+    "psyshock",
+    "telekinesis",
+    "magic-room",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "moonblast",
+    "confide",
+    "dazzling-gleam",
+    "psychic-terrain",
+    "expanding-force",
+    "lunar-blessing",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 488,
+      "name": "cresselia",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Lunar Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 100,
+  "capture_rate": 3,
+  "color": "yellow",
+  "shape": "squiggle",
+  "growth_rate": "slow",
+  "base_experience": 270,
+  "order": 602,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "cresselia"
+  ],
+  "gender_rate": 8
+}

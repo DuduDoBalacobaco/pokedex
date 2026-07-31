@@ -1,0 +1,192 @@
+{
+  "id": 319,
+  "name": "sharpedo",
+  "habitat_img": "assets/img/habitats/webp/sea.webp",
+  "habitat_name": "sea",
+  "height": "1.8 m",
+  "weight": "88.8 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "water",
+    "dark"
+  ],
+  "artwork": "assets/artwork/front/319_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/319_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 120
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 95
+    },
+    {
+      "name": "special-defense",
+      "value": 40
+    },
+    {
+      "name": "speed",
+      "value": 95
+    }
+  ],
+  "abilities": [
+    {
+      "name": "rough-skin",
+      "hidden": false,
+      "entries": "Damages attacking Pokémon for 1/8 their max HP on contact."
+    },
+    {
+      "name": "speed-boost",
+      "hidden": true,
+      "entries": "Raises Speed one stage after each turn."
+    }
+  ],
+  "moves": [
+    "take-down",
+    "thrash",
+    "double-edge",
+    "leer",
+    "bite",
+    "roar",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "strength",
+    "earthquake",
+    "toxic",
+    "agility",
+    "rage",
+    "mimic",
+    "screech",
+    "double-team",
+    "focus-energy",
+    "waterfall",
+    "swift",
+    "skull-bash",
+    "rest",
+    "super-fang",
+    "slash",
+    "substitute",
+    "thief",
+    "snore",
+    "spite",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "destiny-bond",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "crunch",
+    "ancient-power",
+    "rock-smash",
+    "whirlpool",
+    "uproar",
+    "hail",
+    "torment",
+    "facade",
+    "taunt",
+    "secret-power",
+    "dive",
+    "poison-fang",
+    "rock-tomb",
+    "bounce",
+    "water-pulse",
+    "brine",
+    "natural-gift",
+    "feint",
+    "close-combat",
+    "payback",
+    "assurance",
+    "poison-jab",
+    "dark-pulse",
+    "night-slash",
+    "giga-impact",
+    "avalanche",
+    "ice-fang",
+    "zen-headbutt",
+    "captivate",
+    "aqua-jet",
+    "round",
+    "scald",
+    "retaliate",
+    "bulldoze",
+    "snarl",
+    "confide",
+    "psychic-fangs",
+    "liquidation",
+    "scale-shot",
+    "flip-turn",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 318,
+      "name": "carvanha",
+      "details": []
+    },
+    {
+      "id": 319,
+      "name": "sharpedo",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Brutal Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 35,
+  "capture_rate": 60,
+  "color": "blue",
+  "shape": "fish",
+  "growth_rate": "slow",
+  "base_experience": 161,
+  "order": 429,
+  "egg_groups": [
+    "water2"
+  ],
+  "forms": [
+    "sharpedo"
+  ],
+  "gender_rate": 4
+}

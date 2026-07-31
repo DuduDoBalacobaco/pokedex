@@ -1,0 +1,168 @@
+{
+  "id": 636,
+  "name": "larvesta",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.1 m",
+  "weight": "28.8 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "bug",
+    "fire"
+  ],
+  "artwork": "assets/artwork/front/636_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/636_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 55
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 55
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 55
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flame-body",
+      "hidden": false,
+      "entries": "Has a 30% chance of burning attacking Pokémon on contact."
+    },
+    {
+      "name": "swarm",
+      "hidden": true,
+      "entries": "Strengthens Bug moves to inflict 1.5× damage at 1/3 max HP or less."
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "ember",
+    "flamethrower",
+    "absorb",
+    "solar-beam",
+    "string-shot",
+    "fire-spin",
+    "toxic",
+    "psychic",
+    "screech",
+    "double-team",
+    "harden",
+    "light-screen",
+    "fire-blast",
+    "amnesia",
+    "leech-life",
+    "rest",
+    "substitute",
+    "flame-wheel",
+    "snore",
+    "protect",
+    "foresight",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "morning-sun",
+    "hidden-power",
+    "sunny-day",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "secret-power",
+    "overheat",
+    "signal-beam",
+    "calm-mind",
+    "u-turn",
+    "magnet-rise",
+    "flare-blitz",
+    "bug-buzz",
+    "zen-headbutt",
+    "bug-bite",
+    "flame-charge",
+    "round",
+    "incinerate",
+    "acrobatics",
+    "struggle-bug",
+    "wild-charge",
+    "confide",
+    "lunge",
+    "skitter-smack",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 636,
+      "name": "larvesta",
+      "details": []
+    },
+    {
+      "id": 637,
+      "name": "volcarona",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 59,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Torch Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "white",
+  "shape": "armor",
+  "growth_rate": "slow",
+  "base_experience": 72,
+  "order": 759,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "larvesta"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,168 @@
+{
+  "id": 755,
+  "name": "morelull",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.2 m",
+  "weight": "1.5 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "grass",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/755_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/755_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 35
+    },
+    {
+      "name": "defense",
+      "value": 55
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 75
+    },
+    {
+      "name": "speed",
+      "value": 15
+    }
+  ],
+  "abilities": [
+    {
+      "name": "illuminate",
+      "hidden": false,
+      "entries": "Doubles the wild encounter rate."
+    },
+    {
+      "name": "effect-spore",
+      "hidden": false,
+      "entries": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
+    },
+    {
+      "name": "rain-dish",
+      "hidden": true,
+      "entries": "Heals for 1/16 max HP after each turn during rain."
+    }
+  ],
+  "moves": [
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "sleep-powder",
+    "thunder-wave",
+    "toxic",
+    "double-team",
+    "confuse-ray",
+    "light-screen",
+    "amnesia",
+    "dream-eater",
+    "spore",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "sludge-bomb",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "synthesis",
+    "moonlight",
+    "hidden-power",
+    "sunny-day",
+    "facade",
+    "nature-power",
+    "ingrain",
+    "magic-coat",
+    "recycle",
+    "astonish",
+    "signal-beam",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "grass-knot",
+    "wonder-room",
+    "magic-room",
+    "after-you",
+    "round",
+    "draining-kiss",
+    "moonblast",
+    "confide",
+    "dazzling-gleam",
+    "strength-sap",
+    "spotlight",
+    "pollen-puff"
+  ],
+  "evolution": [
+    {
+      "id": 755,
+      "name": "morelull",
+      "details": []
+    },
+    {
+      "id": 756,
+      "name": "shiinotic",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 24,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Illuminating Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "purple",
+  "shape": "blob",
+  "growth_rate": "medium",
+  "base_experience": 57,
+  "order": 913,
+  "egg_groups": [
+    "plant"
+  ],
+  "forms": [
+    "morelull"
+  ],
+  "gender_rate": 4
+}

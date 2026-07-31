@@ -1,0 +1,182 @@
+{
+  "id": 128,
+  "name": "tauros",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "1.4 m",
+  "weight": "88.4 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/128_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/128_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 75
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 95
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 110
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "hidden": false,
+      "entries": "Lowers opponents' Attack one stage upon entering battle."
+    },
+    {
+      "name": "anger-point",
+      "hidden": false,
+      "entries": "Raises Attack to the maximum of six stages upon receiving a critical hit."
+    },
+    {
+      "name": "sheer-force",
+      "hidden": true,
+      "entries": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    }
+  ],
+  "moves": [
+    "stomp",
+    "headbutt",
+    "horn-attack",
+    "horn-drill",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "tail-whip",
+    "leer",
+    "flamethrower",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "strength",
+    "solar-beam",
+    "thunderbolt",
+    "thunder",
+    "earthquake",
+    "fissure",
+    "dig",
+    "toxic",
+    "rage",
+    "mimic",
+    "double-team",
+    "focus-energy",
+    "bide",
+    "fire-blast",
+    "skull-bash",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "reversal",
+    "spite",
+    "protect",
+    "scary-face",
+    "zap-cannon",
+    "icy-wind",
+    "outrage",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "megahorn",
+    "pursuit",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "shadow-ball",
+    "rock-smash",
+    "whirlpool",
+    "uproar",
+    "facade",
+    "helping-hand",
+    "role-play",
+    "revenge",
+    "endeavor",
+    "refresh",
+    "secret-power",
+    "rock-tomb",
+    "shock-wave",
+    "water-pulse",
+    "natural-gift",
+    "close-combat",
+    "payback",
+    "assurance",
+    "giga-impact",
+    "zen-headbutt",
+    "rock-climb",
+    "iron-head",
+    "stone-edge",
+    "captivate",
+    "round",
+    "incinerate",
+    "retaliate",
+    "bulldoze",
+    "work-up",
+    "wild-charge",
+    "confide",
+    "high-horsepower",
+    "throat-chop",
+    "smart-strike",
+    "stomping-tantrum",
+    "lash-out",
+    "tera-blast",
+    "raging-bull",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 128,
+      "name": "tauros",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Wild Bull Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "brown",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 172,
+  "order": 209,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "tauros"
+  ],
+  "gender_rate": 0
+}

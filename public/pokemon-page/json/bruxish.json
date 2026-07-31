@@ -1,0 +1,171 @@
+{
+  "id": 779,
+  "name": "bruxish",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.9 m",
+  "weight": "19 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "water",
+    "psychic"
+  ],
+  "artwork": "assets/artwork/front/779_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/779_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 68
+    },
+    {
+      "name": "attack",
+      "value": 105
+    },
+    {
+      "name": "defense",
+      "value": 70
+    },
+    {
+      "name": "special-attack",
+      "value": 70
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 92
+    }
+  ],
+  "abilities": [
+    {
+      "name": "dazzling",
+      "hidden": false,
+      "entries": "Opposing Pokémon cannot use priority attacks."
+    },
+    {
+      "name": "strong-jaw",
+      "hidden": false,
+      "entries": "Strengthens biting moves to 1.5× their power."
+    },
+    {
+      "name": "wonder-skin",
+      "hidden": true,
+      "entries": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "take-down",
+    "bite",
+    "disable",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "toxic",
+    "confusion",
+    "psychic",
+    "agility",
+    "rage",
+    "screech",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "waterfall",
+    "dream-eater",
+    "psywave",
+    "rest",
+    "super-fang",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "pain-split",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "crunch",
+    "whirlpool",
+    "uproar",
+    "torment",
+    "facade",
+    "taunt",
+    "magic-coat",
+    "snatch",
+    "poison-fang",
+    "astonish",
+    "signal-beam",
+    "aerial-ace",
+    "bulk-up",
+    "calm-mind",
+    "water-pulse",
+    "payback",
+    "embargo",
+    "fling",
+    "aqua-tail",
+    "giga-impact",
+    "ice-fang",
+    "trick-room",
+    "aqua-jet",
+    "wonder-room",
+    "psyshock",
+    "venoshock",
+    "telekinesis",
+    "magic-room",
+    "synchronoise",
+    "after-you",
+    "round",
+    "ally-switch",
+    "scald",
+    "frost-breath",
+    "confide",
+    "psychic-terrain",
+    "psychic-fangs",
+    "liquidation",
+    "expanding-force",
+    "flip-turn",
+    "wave-crash",
+    "tera-blast",
+    "chilling-water",
+    "psychic-noise"
+  ],
+  "evolution": [
+    {
+      "id": 779,
+      "name": "bruxish",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Gnash Teeth Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 80,
+  "color": "pink",
+  "shape": "fish",
+  "growth_rate": "medium",
+  "base_experience": 166,
+  "order": 955,
+  "egg_groups": [
+    "water2"
+  ],
+  "forms": [
+    "bruxish"
+  ],
+  "gender_rate": 4
+}

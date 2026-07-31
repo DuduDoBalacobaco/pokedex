@@ -1,0 +1,203 @@
+{
+  "id": 349,
+  "name": "feebas",
+  "habitat_img": "assets/img/habitats/webp/waters-edge.webp",
+  "habitat_name": "waters-edge",
+  "height": "0.6 m",
+  "weight": "7.4 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "water"
+  ],
+  "artwork": "assets/artwork/front/349_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/349_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 20
+    },
+    {
+      "name": "attack",
+      "value": 15
+    },
+    {
+      "name": "defense",
+      "value": 20
+    },
+    {
+      "name": "special-attack",
+      "value": 10
+    },
+    {
+      "name": "special-defense",
+      "value": 55
+    },
+    {
+      "name": "speed",
+      "value": 80
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "hidden": false,
+      "entries": "Doubles Speed during rain."
+    },
+    {
+      "name": "oblivious",
+      "hidden": false,
+      "entries": "Prevents infatuation and protects against Captivate."
+    },
+    {
+      "name": "adaptability",
+      "hidden": true,
+      "entries": "Increases the same-type attack bonus from 1.5× to 2×."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "double-edge",
+    "mist",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "toxic",
+    "hypnosis",
+    "mimic",
+    "double-team",
+    "confuse-ray",
+    "light-screen",
+    "haze",
+    "waterfall",
+    "swift",
+    "splash",
+    "rest",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dragon-breath",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "mirror-coat",
+    "whirlpool",
+    "hail",
+    "facade",
+    "secret-power",
+    "dive",
+    "mud-sport",
+    "tickle",
+    "muddy-water",
+    "mud-shot",
+    "water-pulse",
+    "brine",
+    "natural-gift",
+    "dragon-pulse",
+    "captivate",
+    "round",
+    "scald",
+    "confide",
+    "scale-shot",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 349,
+      "name": "feebas",
+      "details": []
+    },
+    {
+      "id": 350,
+      "name": "milotic",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": 170,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": "prism-scale",
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": 170,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Fish Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 255,
+  "color": "brown",
+  "shape": "fish",
+  "growth_rate": "slow-then-very-fast",
+  "base_experience": 40,
+  "order": 462,
+  "egg_groups": [
+    "water1",
+    "dragon"
+  ],
+  "forms": [
+    "feebas"
+  ],
+  "gender_rate": 4
+}

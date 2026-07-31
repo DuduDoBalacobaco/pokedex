@@ -1,0 +1,166 @@
+{
+  "id": 777,
+  "name": "togedemaru",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "3.3 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "electric",
+    "steel"
+  ],
+  "artwork": "assets/artwork/front/777_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/777_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 65
+    },
+    {
+      "name": "attack",
+      "value": 98
+    },
+    {
+      "name": "defense",
+      "value": 63
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 73
+    },
+    {
+      "name": "speed",
+      "value": 96
+    }
+  ],
+  "abilities": [
+    {
+      "name": "iron-barbs",
+      "hidden": false,
+      "entries": "Damages attacking Pokémon for 1/8 their max HP on contact."
+    },
+    {
+      "name": "lightning-rod",
+      "hidden": false,
+      "entries": "Redirects single-target Electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+    },
+    {
+      "name": "sturdy",
+      "hidden": true,
+      "entries": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "twineedle",
+    "pin-missile",
+    "hyper-beam",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "agility",
+    "double-team",
+    "defense-curl",
+    "reflect",
+    "swift",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "snore",
+    "flail",
+    "reversal",
+    "protect",
+    "endure",
+    "rollout",
+    "swagger",
+    "spark",
+    "attract",
+    "sleep-talk",
+    "return",
+    "present",
+    "frustration",
+    "encore",
+    "iron-tail",
+    "hidden-power",
+    "fake-out",
+    "facade",
+    "charge",
+    "helping-hand",
+    "role-play",
+    "wish",
+    "endeavor",
+    "tickle",
+    "bounce",
+    "covet",
+    "shock-wave",
+    "gravity",
+    "gyro-ball",
+    "u-turn",
+    "payback",
+    "assurance",
+    "fling",
+    "last-resort",
+    "magnet-rise",
+    "poison-jab",
+    "giga-impact",
+    "zen-headbutt",
+    "discharge",
+    "iron-head",
+    "grass-knot",
+    "charge-beam",
+    "electro-ball",
+    "after-you",
+    "round",
+    "volt-switch",
+    "work-up",
+    "electroweb",
+    "wild-charge",
+    "fell-stinger",
+    "disarming-voice",
+    "confide",
+    "spiky-shield",
+    "eerie-impulse",
+    "electric-terrain",
+    "nuzzle",
+    "zing-zap",
+    "steel-beam",
+    "steel-roller",
+    "rising-voltage"
+  ],
+  "evolution": [
+    {
+      "id": 777,
+      "name": "togedemaru",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Roly-Poly Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 180,
+  "color": "gray",
+  "shape": "upright",
+  "growth_rate": "medium",
+  "base_experience": 152,
+  "order": 949,
+  "egg_groups": [
+    "ground",
+    "fairy"
+  ],
+  "forms": [
+    "togedemaru"
+  ],
+  "gender_rate": 4
+}

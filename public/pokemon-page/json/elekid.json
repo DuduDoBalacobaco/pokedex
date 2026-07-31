@@ -1,0 +1,218 @@
+{
+  "id": 239,
+  "name": "elekid",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "0.6 m",
+  "weight": "23.5 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/239_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/239_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 45
+    },
+    {
+      "name": "attack",
+      "value": 63
+    },
+    {
+      "name": "defense",
+      "value": 37
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 55
+    },
+    {
+      "name": "speed",
+      "value": 95
+    }
+  ],
+  "abilities": [
+    {
+      "name": "static",
+      "hidden": false,
+      "entries": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+    },
+    {
+      "name": "vital-spirit",
+      "hidden": true,
+      "entries": "Prevents sleep."
+    }
+  ],
+  "moves": [
+    "karate-chop",
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "mega-kick",
+    "rolling-kick",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "low-kick",
+    "counter",
+    "seismic-toss",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "psychic",
+    "meditate",
+    "quick-attack",
+    "mimic",
+    "screech",
+    "double-team",
+    "barrier",
+    "light-screen",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "protect",
+    "mud-slap",
+    "zap-cannon",
+    "detect",
+    "endure",
+    "swagger",
+    "spark",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dynamic-punch",
+    "hidden-power",
+    "cross-chop",
+    "rain-dance",
+    "rock-smash",
+    "uproar",
+    "facade",
+    "focus-punch",
+    "follow-me",
+    "charge",
+    "taunt",
+    "helping-hand",
+    "brick-break",
+    "knock-off",
+    "secret-power",
+    "metal-sound",
+    "signal-beam",
+    "covet",
+    "shock-wave",
+    "hammer-arm",
+    "natural-gift",
+    "feint",
+    "fling",
+    "magnet-rise",
+    "focus-blast",
+    "discharge",
+    "captivate",
+    "charge-beam",
+    "electro-ball",
+    "round",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "dual-chop",
+    "confide",
+    "eerie-impulse",
+    "electric-terrain",
+    "power-up-punch",
+    "tera-blast",
+    "trailblaze",
+    "supercell-slam"
+  ],
+  "evolution": [
+    {
+      "id": 239,
+      "name": "elekid",
+      "details": []
+    },
+    {
+      "id": 125,
+      "name": "electabuzz",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 466,
+      "name": "electivire",
+      "details": [
+        {
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": "electirizer",
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": true,
+  "genus": "Electric Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "yellow",
+  "shape": "humanoid",
+  "growth_rate": "medium",
+  "base_experience": 72,
+  "order": 201,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "elekid"
+  ],
+  "gender_rate": 2
+}

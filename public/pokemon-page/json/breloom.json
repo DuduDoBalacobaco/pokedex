@@ -1,0 +1,216 @@
+{
+  "id": 286,
+  "name": "breloom",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "1.2 m",
+  "weight": "39.2 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "grass",
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/286_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/286_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 130
+    },
+    {
+      "name": "defense",
+      "value": 80
+    },
+    {
+      "name": "special-attack",
+      "value": 60
+    },
+    {
+      "name": "special-defense",
+      "value": 60
+    },
+    {
+      "name": "speed",
+      "value": 70
+    }
+  ],
+  "abilities": [
+    {
+      "name": "effect-spore",
+      "hidden": false,
+      "entries": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
+    },
+    {
+      "name": "poison-heal",
+      "hidden": false,
+      "entries": "Heals for 1/8 max HP after each turn when poisoned in place of damage."
+    },
+    {
+      "name": "technician",
+      "hidden": true,
+      "entries": "Strengthens moves of 60 base power or less to 1.5× their power."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "thunder-punch",
+    "swords-dance",
+    "cut",
+    "mega-kick",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "low-kick",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "swift",
+    "spore",
+    "flash",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "mind-reader",
+    "snore",
+    "reversal",
+    "protect",
+    "mach-punch",
+    "sludge-bomb",
+    "mud-slap",
+    "giga-drain",
+    "endure",
+    "charm",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "dynamic-punch",
+    "iron-tail",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "facade",
+    "focus-punch",
+    "helping-hand",
+    "superpower",
+    "brick-break",
+    "snatch",
+    "secret-power",
+    "fake-tears",
+    "rock-tomb",
+    "sky-uppercut",
+    "bullet-seed",
+    "aerial-ace",
+    "bulk-up",
+    "mud-shot",
+    "magical-leaf",
+    "natural-gift",
+    "feint",
+    "close-combat",
+    "fling",
+    "worry-seed",
+    "force-palm",
+    "poison-jab",
+    "seed-bomb",
+    "drain-punch",
+    "vacuum-wave",
+    "focus-blast",
+    "energy-ball",
+    "giga-impact",
+    "zen-headbutt",
+    "leaf-storm",
+    "gunk-shot",
+    "stone-edge",
+    "captivate",
+    "grass-knot",
+    "venoshock",
+    "low-sweep",
+    "round",
+    "retaliate",
+    "bulldoze",
+    "work-up",
+    "grassy-terrain",
+    "confide",
+    "power-up-punch",
+    "laser-focus",
+    "tera-blast",
+    "pounce"
+  ],
+  "evolution": [
+    {
+      "id": 285,
+      "name": "shroomish",
+      "details": []
+    },
+    {
+      "id": 286,
+      "name": "breloom",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 23,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Mushroom Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 90,
+  "color": "green",
+  "shape": "upright",
+  "growth_rate": "fast-then-very-slow",
+  "base_experience": 161,
+  "order": 389,
+  "egg_groups": [
+    "fairy",
+    "plant"
+  ],
+  "forms": [
+    "breloom"
+  ],
+  "gender_rate": 4
+}

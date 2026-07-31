@@ -1,0 +1,183 @@
+{
+  "id": 268,
+  "name": "cascoon",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "0.7 m",
+  "weight": "11.5 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "bug"
+  ],
+  "artwork": "assets/artwork/front/268_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/268_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 35
+    },
+    {
+      "name": "defense",
+      "value": 55
+    },
+    {
+      "name": "special-attack",
+      "value": 25
+    },
+    {
+      "name": "special-defense",
+      "value": 25
+    },
+    {
+      "name": "speed",
+      "value": 15
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shed-skin",
+      "hidden": false,
+      "entries": "Has a 33% chance of curing any major status ailment after each turn."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "poison-sting",
+    "string-shot",
+    "harden",
+    "iron-defense",
+    "bug-bite",
+    "electroweb"
+  ],
+  "evolution": [
+    {
+      "id": 265,
+      "name": "wurmple",
+      "details": []
+    },
+    {
+      "id": 266,
+      "name": "silcoon",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 7,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "name": "beautifly",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 10,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "name": "cascoon",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 7,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "name": "dustox",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 10,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Cocoon Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 120,
+  "color": "purple",
+  "shape": "ball",
+  "growth_rate": "medium",
+  "base_experience": 72,
+  "order": 368,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "cascoon"
+  ],
+  "gender_rate": 4
+}

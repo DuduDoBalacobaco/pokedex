@@ -1,0 +1,152 @@
+{
+  "id": 492,
+  "name": "shaymin-land",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.2 m",
+  "weight": "2.1 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/492_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/492_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 100
+    },
+    {
+      "name": "special-attack",
+      "value": 100
+    },
+    {
+      "name": "special-defense",
+      "value": 100
+    },
+    {
+      "name": "speed",
+      "value": 100
+    }
+  ],
+  "abilities": [
+    {
+      "name": "natural-cure",
+      "hidden": false,
+      "entries": "Cures any major status ailment upon switching out."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "headbutt",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "leech-seed",
+    "growth",
+    "solar-beam",
+    "sleep-powder",
+    "toxic",
+    "psychic",
+    "quick-attack",
+    "double-team",
+    "recover",
+    "defense-curl",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "sweet-kiss",
+    "mud-slap",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "baton-pass",
+    "sweet-scent",
+    "synthesis",
+    "hidden-power",
+    "sunny-day",
+    "psych-up",
+    "facade",
+    "nature-power",
+    "endeavor",
+    "secret-power",
+    "aromatherapy",
+    "air-cutter",
+    "grass-whistle",
+    "bullet-seed",
+    "aerial-ace",
+    "covet",
+    "magical-leaf",
+    "healing-wish",
+    "natural-gift",
+    "tailwind",
+    "lucky-chant",
+    "last-resort",
+    "worry-seed",
+    "seed-bomb",
+    "air-slash",
+    "energy-ball",
+    "earth-power",
+    "giga-impact",
+    "zen-headbutt",
+    "leaf-storm",
+    "grass-knot",
+    "seed-flare",
+    "ominous-wind",
+    "round",
+    "petal-blizzard",
+    "disarming-voice",
+    "grassy-terrain",
+    "play-rough",
+    "confide",
+    "dazzling-gleam",
+    "baby-doll-eyes",
+    "leafage",
+    "laser-focus",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 492,
+      "name": "shaymin",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": true,
+  "is_baby": false,
+  "genus": "Gratitude Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 100,
+  "capture_rate": 45,
+  "color": "green",
+  "shape": "quadruped",
+  "growth_rate": "medium-slow",
+  "base_experience": 270,
+  "order": 606,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "shaymin-land"
+  ],
+  "gender_rate": -1
+}

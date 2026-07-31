@@ -1,0 +1,187 @@
+{
+  "id": 530,
+  "name": "excadrill",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.7 m",
+  "weight": "40.4 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "ground",
+    "steel"
+  ],
+  "artwork": "assets/artwork/front/530_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/530_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 110
+    },
+    {
+      "name": "attack",
+      "value": 135
+    },
+    {
+      "name": "defense",
+      "value": 60
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 65
+    },
+    {
+      "name": "speed",
+      "value": 88
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-rush",
+      "hidden": false,
+      "entries": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
+    },
+    {
+      "name": "sand-force",
+      "hidden": false,
+      "entries": "Strengthens Rock, Ground, and Steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
+    },
+    {
+      "name": "mold-breaker",
+      "hidden": true,
+      "entries": "Bypasses targets' abilities if they could hinder or prevent a move."
+    }
+  ],
+  "moves": [
+    "scratch",
+    "swords-dance",
+    "cut",
+    "horn-drill",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "strength",
+    "earthquake",
+    "fissure",
+    "dig",
+    "toxic",
+    "double-team",
+    "fury-swipes",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "megahorn",
+    "rapid-spin",
+    "metal-claw",
+    "hidden-power",
+    "sunny-day",
+    "rock-smash",
+    "facade",
+    "helping-hand",
+    "brick-break",
+    "secret-power",
+    "mud-sport",
+    "crush-claw",
+    "rock-tomb",
+    "metal-sound",
+    "sand-tomb",
+    "aerial-ace",
+    "iron-defense",
+    "mud-shot",
+    "rock-blast",
+    "fling",
+    "magnet-rise",
+    "poison-jab",
+    "x-scissor",
+    "focus-blast",
+    "earth-power",
+    "giga-impact",
+    "shadow-claw",
+    "iron-head",
+    "stealth-rock",
+    "hone-claws",
+    "round",
+    "bulldoze",
+    "drill-run",
+    "rototiller",
+    "confide",
+    "high-horsepower",
+    "throat-chop",
+    "smart-strike",
+    "brutal-swing",
+    "stomping-tantrum",
+    "steel-beam",
+    "scorching-sands",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 529,
+      "name": "drilbur",
+      "details": []
+    },
+    {
+      "id": 530,
+      "name": "excadrill",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 31,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Subterrene Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 60,
+  "color": "gray",
+  "shape": "humanoid",
+  "growth_rate": "medium",
+  "base_experience": 178,
+  "order": 645,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "excadrill"
+  ],
+  "gender_rate": 4
+}

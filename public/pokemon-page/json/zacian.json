@@ -1,0 +1,139 @@
+{
+  "id": 888,
+  "name": "zacian",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2.8 m",
+  "weight": "110 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/888_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/888_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 92
+    },
+    {
+      "name": "attack",
+      "value": 120
+    },
+    {
+      "name": "defense",
+      "value": 115
+    },
+    {
+      "name": "special-attack",
+      "value": 80
+    },
+    {
+      "name": "special-defense",
+      "value": 115
+    },
+    {
+      "name": "speed",
+      "value": 138
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intrepid-sword",
+      "hidden": false,
+      "entries": "Boosts Attack in battle."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "body-slam",
+    "take-down",
+    "bite",
+    "hyper-beam",
+    "dig",
+    "agility",
+    "quick-attack",
+    "focus-energy",
+    "swift",
+    "rest",
+    "slash",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "scary-face",
+    "endure",
+    "false-swipe",
+    "sleep-talk",
+    "iron-tail",
+    "metal-claw",
+    "crunch",
+    "facade",
+    "helping-hand",
+    "revenge",
+    "brick-break",
+    "imprison",
+    "hyper-voice",
+    "iron-defense",
+    "howl",
+    "close-combat",
+    "assurance",
+    "poison-jab",
+    "air-slash",
+    "focus-blast",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "psycho-cut",
+    "flash-cannon",
+    "iron-head",
+    "round",
+    "quick-guard",
+    "retaliate",
+    "work-up",
+    "wild-charge",
+    "sacred-sword",
+    "tail-slap",
+    "snarl",
+    "noble-roar",
+    "misty-terrain",
+    "play-rough",
+    "moonblast",
+    "dazzling-gleam",
+    "solar-blade",
+    "laser-focus",
+    "brutal-swing",
+    "psychic-fangs",
+    "steel-beam",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 888,
+      "name": "zacian",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Warrior Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 0,
+  "capture_rate": 10,
+  "color": "blue",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 335,
+  "order": 1075,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "zacian"
+  ],
+  "gender_rate": -1
+}

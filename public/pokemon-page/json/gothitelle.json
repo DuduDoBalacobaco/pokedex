@@ -1,0 +1,229 @@
+{
+  "id": 576,
+  "name": "gothitelle",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.5 m",
+  "weight": "44 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "psychic"
+  ],
+  "artwork": "assets/artwork/front/576_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/576_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 55
+    },
+    {
+      "name": "defense",
+      "value": 95
+    },
+    {
+      "name": "special-attack",
+      "value": 95
+    },
+    {
+      "name": "special-defense",
+      "value": 110
+    },
+    {
+      "name": "speed",
+      "value": 65
+    }
+  ],
+  "abilities": [
+    {
+      "name": "frisk",
+      "hidden": false,
+      "entries": "Reveals an opponent's held item upon entering battle."
+    },
+    {
+      "name": "competitive",
+      "hidden": false,
+      "entries": "Raises Special Attack by two stages upon having any stat lowered."
+    },
+    {
+      "name": "shadow-tag",
+      "hidden": true,
+      "entries": "Prevents opponents from fleeing or switching out."
+    }
+  ],
+  "moves": [
+    "pound",
+    "double-slap",
+    "body-slam",
+    "psybeam",
+    "hyper-beam",
+    "thunderbolt",
+    "thunder-wave",
+    "toxic",
+    "confusion",
+    "psychic",
+    "hypnosis",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "metronome",
+    "swift",
+    "dream-eater",
+    "flash",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "feint-attack",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "frustration",
+    "safeguard",
+    "hidden-power",
+    "rain-dance",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "uproar",
+    "torment",
+    "flatter",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "trick",
+    "role-play",
+    "magic-coat",
+    "recycle",
+    "brick-break",
+    "skill-swap",
+    "imprison",
+    "snatch",
+    "secret-power",
+    "fake-tears",
+    "rock-tomb",
+    "tickle",
+    "cosmic-power",
+    "signal-beam",
+    "covet",
+    "calm-mind",
+    "shock-wave",
+    "gravity",
+    "payback",
+    "embargo",
+    "fling",
+    "heal-block",
+    "guard-swap",
+    "dark-pulse",
+    "focus-blast",
+    "energy-ball",
+    "giga-impact",
+    "nasty-plot",
+    "zen-headbutt",
+    "trick-room",
+    "grass-knot",
+    "charge-beam",
+    "psyshock",
+    "telekinesis",
+    "magic-room",
+    "low-sweep",
+    "foul-play",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "play-nice",
+    "confide",
+    "power-up-punch",
+    "laser-focus",
+    "psychic-terrain",
+    "expanding-force",
+    "tera-blast",
+    "psychic-noise"
+  ],
+  "evolution": [
+    {
+      "id": 574,
+      "name": "gothita",
+      "details": []
+    },
+    {
+      "id": 575,
+      "name": "gothorita",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 32,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 576,
+      "name": "gothitelle",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 41,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Astral Body Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 50,
+  "color": "purple",
+  "shape": "humanoid",
+  "growth_rate": "medium-slow",
+  "base_experience": 221,
+  "order": 698,
+  "egg_groups": [
+    "humanshape"
+  ],
+  "forms": [
+    "gothitelle"
+  ],
+  "gender_rate": 6
+}

@@ -1,0 +1,245 @@
+{
+  "id": 173,
+  "name": "cleffa",
+  "habitat_img": "assets/img/habitats/webp/mountain.webp",
+  "habitat_name": "mountain",
+  "height": "0.3 m",
+  "weight": "3 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/173_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/173_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 25
+    },
+    {
+      "name": "defense",
+      "value": 28
+    },
+    {
+      "name": "special-attack",
+      "value": 45
+    },
+    {
+      "name": "special-defense",
+      "value": 55
+    },
+    {
+      "name": "speed",
+      "value": 15
+    }
+  ],
+  "abilities": [
+    {
+      "name": "cute-charm",
+      "hidden": false,
+      "entries": "Has a 30% chance of infatuating attacking Pokémon on contact."
+    },
+    {
+      "name": "magic-guard",
+      "hidden": false,
+      "entries": "Protects against damage not directly caused by a move."
+    },
+    {
+      "name": "friend-guard",
+      "hidden": true,
+      "entries": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
+    }
+  ],
+  "moves": [
+    "pound",
+    "mega-punch",
+    "mega-kick",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "double-edge",
+    "sing",
+    "flamethrower",
+    "psybeam",
+    "counter",
+    "seismic-toss",
+    "solar-beam",
+    "thunder-wave",
+    "dig",
+    "toxic",
+    "psychic",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "light-screen",
+    "reflect",
+    "metronome",
+    "fire-blast",
+    "swift",
+    "amnesia",
+    "soft-boiled",
+    "dream-eater",
+    "flash",
+    "splash",
+    "rest",
+    "substitute",
+    "nightmare",
+    "snore",
+    "curse",
+    "protect",
+    "sweet-kiss",
+    "belly-drum",
+    "mud-slap",
+    "zap-cannon",
+    "icy-wind",
+    "detect",
+    "endure",
+    "charm",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "present",
+    "frustration",
+    "safeguard",
+    "encore",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "uproar",
+    "facade",
+    "helping-hand",
+    "trick",
+    "role-play",
+    "wish",
+    "magic-coat",
+    "recycle",
+    "endeavor",
+    "secret-power",
+    "hyper-voice",
+    "aromatherapy",
+    "fake-tears",
+    "tickle",
+    "signal-beam",
+    "covet",
+    "magical-leaf",
+    "calm-mind",
+    "shock-wave",
+    "water-pulse",
+    "gravity",
+    "natural-gift",
+    "fling",
+    "copycat",
+    "last-resort",
+    "zen-headbutt",
+    "captivate",
+    "grass-knot",
+    "wonder-room",
+    "psyshock",
+    "telekinesis",
+    "after-you",
+    "round",
+    "echoed-voice",
+    "stored-power",
+    "heal-pulse",
+    "incinerate",
+    "work-up",
+    "disarming-voice",
+    "draining-kiss",
+    "misty-terrain",
+    "play-rough",
+    "fairy-wind",
+    "moonblast",
+    "confide",
+    "dazzling-gleam",
+    "baby-doll-eyes",
+    "tera-blast",
+    "chilling-water",
+    "alluring-voice"
+  ],
+  "evolution": [
+    {
+      "id": 173,
+      "name": "cleffa",
+      "details": []
+    },
+    {
+      "id": 35,
+      "name": "clefairy",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": 160,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "clefable",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "moon-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": true,
+  "genus": "Star Shape Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 140,
+  "capture_rate": 150,
+  "color": "pink",
+  "shape": "upright",
+  "growth_rate": "fast",
+  "base_experience": 44,
+  "order": 63,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "cleffa"
+  ],
+  "gender_rate": 6
+}

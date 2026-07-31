@@ -1,0 +1,219 @@
+{
+  "id": 1,
+  "name": "bulbasaur",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "0.7 m",
+  "weight": "6.9 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "grass",
+    "poison"
+  ],
+  "artwork": "assets/artwork/front/1_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/1_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 45
+    },
+    {
+      "name": "attack",
+      "value": 49
+    },
+    {
+      "name": "defense",
+      "value": 49
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 65
+    },
+    {
+      "name": "speed",
+      "value": 45
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "hidden": false,
+      "entries": "Strengthens Grass moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "chlorophyll",
+      "hidden": true,
+      "entries": "Doubles Speed during strong sunlight."
+    }
+  ],
+  "moves": [
+    "razor-wind",
+    "swords-dance",
+    "cut",
+    "bind",
+    "vine-whip",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "strength",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "poison-powder",
+    "sleep-powder",
+    "petal-dance",
+    "string-shot",
+    "toxic",
+    "rage",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "light-screen",
+    "reflect",
+    "bide",
+    "sludge",
+    "skull-bash",
+    "amnesia",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "outrage",
+    "giga-drain",
+    "endure",
+    "charm",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "sweet-scent",
+    "synthesis",
+    "hidden-power",
+    "sunny-day",
+    "rock-smash",
+    "facade",
+    "nature-power",
+    "helping-hand",
+    "ingrain",
+    "knock-off",
+    "secret-power",
+    "weather-ball",
+    "grass-whistle",
+    "bullet-seed",
+    "magical-leaf",
+    "natural-gift",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "leaf-storm",
+    "power-whip",
+    "captivate",
+    "grass-knot",
+    "venoshock",
+    "acid-spray",
+    "round",
+    "echoed-voice",
+    "grass-pledge",
+    "work-up",
+    "grassy-terrain",
+    "confide",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 1,
+      "name": "bulbasaur",
+      "details": []
+    },
+    {
+      "id": 2,
+      "name": "ivysaur",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 16,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "venusaur",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 32,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Seed Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "green",
+  "shape": "quadruped",
+  "growth_rate": "medium-slow",
+  "base_experience": 64,
+  "order": 1,
+  "egg_groups": [
+    "monster",
+    "plant"
+  ],
+  "forms": [
+    "bulbasaur"
+  ],
+  "gender_rate": 1
+}

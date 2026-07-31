@@ -1,0 +1,178 @@
+{
+  "id": 765,
+  "name": "oranguru",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.5 m",
+  "weight": "76 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "normal",
+    "psychic"
+  ],
+  "artwork": "assets/artwork/front/765_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/765_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 90
+    },
+    {
+      "name": "attack",
+      "value": 60
+    },
+    {
+      "name": "defense",
+      "value": 80
+    },
+    {
+      "name": "special-attack",
+      "value": 90
+    },
+    {
+      "name": "special-defense",
+      "value": 110
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "hidden": false,
+      "entries": "Prevents flinching."
+    },
+    {
+      "name": "telepathy",
+      "hidden": false,
+      "entries": "Protects against friendly Pokémon's damaging moves."
+    },
+    {
+      "name": "symbiosis",
+      "hidden": true,
+      "entries": "Passes the bearer's held item to an ally when the ally uses up its item."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "mega-kick",
+    "body-slam",
+    "take-down",
+    "psybeam",
+    "hyper-beam",
+    "thunderbolt",
+    "thunder",
+    "earthquake",
+    "toxic",
+    "confusion",
+    "psychic",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "swift",
+    "dream-eater",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "spite",
+    "protect",
+    "scary-face",
+    "feint-attack",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "pain-split",
+    "encore",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "facade",
+    "nature-power",
+    "taunt",
+    "trick",
+    "magic-coat",
+    "brick-break",
+    "yawn",
+    "knock-off",
+    "endeavor",
+    "skill-swap",
+    "imprison",
+    "snatch",
+    "hyper-voice",
+    "extrasensory",
+    "block",
+    "covet",
+    "calm-mind",
+    "gravity",
+    "payback",
+    "embargo",
+    "fling",
+    "last-resort",
+    "focus-blast",
+    "energy-ball",
+    "giga-impact",
+    "nasty-plot",
+    "zen-headbutt",
+    "trick-room",
+    "charge-beam",
+    "wonder-room",
+    "psyshock",
+    "telekinesis",
+    "magic-room",
+    "foul-play",
+    "after-you",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "quash",
+    "bulldoze",
+    "work-up",
+    "confide",
+    "psychic-terrain",
+    "instruct",
+    "brutal-swing",
+    "expanding-force",
+    "terrain-pulse",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water",
+    "psychic-noise"
+  ],
+  "evolution": [
+    {
+      "id": 765,
+      "name": "oranguru",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Sage Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "white",
+  "shape": "humanoid",
+  "growth_rate": "slow",
+  "base_experience": 172,
+  "order": 924,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "oranguru"
+  ],
+  "gender_rate": 4
+}

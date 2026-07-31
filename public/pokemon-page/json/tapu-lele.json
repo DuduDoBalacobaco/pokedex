@@ -1,0 +1,153 @@
+{
+  "id": 786,
+  "name": "tapu-lele",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.2 m",
+  "weight": "18.6 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "psychic",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/786_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/786_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 75
+    },
+    {
+      "name": "special-attack",
+      "value": 130
+    },
+    {
+      "name": "special-defense",
+      "value": 115
+    },
+    {
+      "name": "speed",
+      "value": 95
+    }
+  ],
+  "abilities": [
+    {
+      "name": "psychic-surge",
+      "hidden": false,
+      "entries": "When this Pokémon enters battle, it changes the terrain to Psychic Terrain."
+    },
+    {
+      "name": "telepathy",
+      "hidden": true,
+      "entries": "Protects against friendly Pokémon's damaging moves."
+    }
+  ],
+  "moves": [
+    "psybeam",
+    "hyper-beam",
+    "thunderbolt",
+    "thunder",
+    "toxic",
+    "confusion",
+    "psychic",
+    "double-team",
+    "withdraw",
+    "light-screen",
+    "reflect",
+    "psywave",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "endure",
+    "charm",
+    "swagger",
+    "mean-look",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "sweet-scent",
+    "hidden-power",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "torment",
+    "flatter",
+    "facade",
+    "nature-power",
+    "taunt",
+    "magic-coat",
+    "skill-swap",
+    "astonish",
+    "aromatherapy",
+    "tickle",
+    "extrasensory",
+    "iron-defense",
+    "calm-mind",
+    "gravity",
+    "fling",
+    "power-swap",
+    "guard-swap",
+    "focus-blast",
+    "energy-ball",
+    "giga-impact",
+    "psycho-cut",
+    "grass-knot",
+    "charge-beam",
+    "wonder-room",
+    "psyshock",
+    "telekinesis",
+    "magic-room",
+    "round",
+    "echoed-voice",
+    "stored-power",
+    "ally-switch",
+    "draining-kiss",
+    "play-rough",
+    "moonblast",
+    "confide",
+    "aromatic-mist",
+    "dazzling-gleam",
+    "psychic-terrain",
+    "speed-swap",
+    "natures-madness"
+  ],
+  "evolution": [
+    {
+      "id": 786,
+      "name": "tapu-lele",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Land Spirit Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 3,
+  "color": "pink",
+  "shape": "arms",
+  "growth_rate": "slow",
+  "base_experience": 257,
+  "order": 963,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "tapu-lele"
+  ],
+  "gender_rate": -1
+}

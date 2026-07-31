@@ -1,0 +1,136 @@
+{
+  "id": 905,
+  "name": "enamorus-incarnate",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.6 m",
+  "weight": "48 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "fairy",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/905_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/905_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 74
+    },
+    {
+      "name": "attack",
+      "value": 115
+    },
+    {
+      "name": "defense",
+      "value": 70
+    },
+    {
+      "name": "special-attack",
+      "value": 135
+    },
+    {
+      "name": "special-defense",
+      "value": 80
+    },
+    {
+      "name": "speed",
+      "value": 106
+    }
+  ],
+  "abilities": [
+    {
+      "name": "cute-charm",
+      "hidden": false,
+      "entries": "Has a 30% chance of infatuating attacking Pokémon on contact."
+    },
+    {
+      "name": "contrary",
+      "hidden": true,
+      "entries": "Inverts stat changes."
+    }
+  ],
+  "moves": [
+    "fly",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "bite",
+    "hyper-beam",
+    "psychic",
+    "agility",
+    "rest",
+    "substitute",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "psych-up",
+    "uproar",
+    "torment",
+    "flatter",
+    "facade",
+    "taunt",
+    "superpower",
+    "imprison",
+    "astonish",
+    "weather-ball",
+    "extrasensory",
+    "iron-defense",
+    "calm-mind",
+    "healing-wish",
+    "tailwind",
+    "focus-blast",
+    "earth-power",
+    "giga-impact",
+    "zen-headbutt",
+    "iron-head",
+    "grass-knot",
+    "disarming-voice",
+    "draining-kiss",
+    "grassy-terrain",
+    "misty-terrain",
+    "play-rough",
+    "fairy-wind",
+    "moonblast",
+    "mystical-fire",
+    "dazzling-gleam",
+    "misty-explosion",
+    "springtide-storm",
+    "tera-blast",
+    "alluring-voice"
+  ],
+  "evolution": [
+    {
+      "id": 905,
+      "name": "enamorus",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Love-Hate Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 3,
+  "color": "pink",
+  "shape": "arms",
+  "growth_rate": "slow",
+  "base_experience": 116,
+  "order": -1,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "enamorus-incarnate"
+  ],
+  "gender_rate": 8
+}

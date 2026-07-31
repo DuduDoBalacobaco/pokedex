@@ -1,0 +1,177 @@
+{
+  "id": 313,
+  "name": "volbeat",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "0.7 m",
+  "weight": "17.7 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "bug"
+  ],
+  "artwork": "assets/artwork/front/313_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/313_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 65
+    },
+    {
+      "name": "attack",
+      "value": 73
+    },
+    {
+      "name": "defense",
+      "value": 75
+    },
+    {
+      "name": "special-attack",
+      "value": 47
+    },
+    {
+      "name": "special-defense",
+      "value": 85
+    },
+    {
+      "name": "speed",
+      "value": 85
+    }
+  ],
+  "abilities": [
+    {
+      "name": "illuminate",
+      "hidden": false,
+      "entries": "Doubles the wild encounter rate."
+    },
+    {
+      "name": "swarm",
+      "hidden": false,
+      "entries": "Strengthens Bug moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "prankster",
+      "hidden": true,
+      "entries": "Raises non-damaging moves' priority by one stage."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "ice-punch",
+    "thunder-punch",
+    "mega-kick",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "counter",
+    "seismic-toss",
+    "solar-beam",
+    "string-shot",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "quick-attack",
+    "mimic",
+    "double-team",
+    "confuse-ray",
+    "light-screen",
+    "metronome",
+    "swift",
+    "dizzy-punch",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "mud-slap",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dynamic-punch",
+    "baton-pass",
+    "encore",
+    "moonlight",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "helping-hand",
+    "trick",
+    "brick-break",
+    "endeavor",
+    "secret-power",
+    "tail-glow",
+    "air-cutter",
+    "silver-wind",
+    "signal-beam",
+    "aerial-ace",
+    "shock-wave",
+    "water-pulse",
+    "roost",
+    "natural-gift",
+    "tailwind",
+    "u-turn",
+    "fling",
+    "air-slash",
+    "bug-buzz",
+    "zen-headbutt",
+    "defog",
+    "captivate",
+    "bug-bite",
+    "charge-beam",
+    "ominous-wind",
+    "round",
+    "acrobatics",
+    "struggle-bug",
+    "play-rough",
+    "play-nice",
+    "confide",
+    "dazzling-gleam",
+    "infestation",
+    "power-up-punch",
+    "lunge",
+    "skitter-smack",
+    "tera-blast",
+    "pounce",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 313,
+      "name": "volbeat",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Firefly Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 150,
+  "color": "gray",
+  "shape": "upright",
+  "growth_rate": "slow-then-very-fast",
+  "base_experience": 151,
+  "order": 421,
+  "egg_groups": [
+    "bug",
+    "humanshape"
+  ],
+  "forms": [
+    "volbeat"
+  ],
+  "gender_rate": 0
+}

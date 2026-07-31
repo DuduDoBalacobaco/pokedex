@@ -1,0 +1,183 @@
+{
+  "id": 520,
+  "name": "tranquill",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.6 m",
+  "weight": "15 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "normal",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/520_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/520_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 62
+    },
+    {
+      "name": "attack",
+      "value": 77
+    },
+    {
+      "name": "defense",
+      "value": 62
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 42
+    },
+    {
+      "name": "speed",
+      "value": 65
+    }
+  ],
+  "abilities": [
+    {
+      "name": "big-pecks",
+      "hidden": false,
+      "entries": "Protects against Defense drops."
+    },
+    {
+      "name": "super-luck",
+      "hidden": false,
+      "entries": "Raises moves' critical hit rates one stage."
+    },
+    {
+      "name": "rivalry",
+      "hidden": true,
+      "entries": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
+    }
+  ],
+  "moves": [
+    "razor-wind",
+    "gust",
+    "fly",
+    "leer",
+    "growl",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "double-team",
+    "focus-energy",
+    "swift",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "detect",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "heat-wave",
+    "facade",
+    "taunt",
+    "secret-power",
+    "feather-dance",
+    "air-cutter",
+    "aerial-ace",
+    "roost",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "air-slash",
+    "defog",
+    "round",
+    "echoed-voice",
+    "work-up",
+    "confide",
+    "dual-wingbeat"
+  ],
+  "evolution": [
+    {
+      "id": 519,
+      "name": "pidove",
+      "details": []
+    },
+    {
+      "id": 520,
+      "name": "tranquill",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 21,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 521,
+      "name": "unfezant",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 32,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Wild Pigeon Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 120,
+  "color": "gray",
+  "shape": "wings",
+  "growth_rate": "medium-slow",
+  "base_experience": 125,
+  "order": 635,
+  "egg_groups": [
+    "flying"
+  ],
+  "forms": [
+    "tranquill"
+  ],
+  "gender_rate": 4
+}

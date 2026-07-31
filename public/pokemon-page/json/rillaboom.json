@@ -1,0 +1,215 @@
+{
+  "id": 812,
+  "name": "rillaboom",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2.1 m",
+  "weight": "90 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/812_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/812_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 125
+    },
+    {
+      "name": "defense",
+      "value": 90
+    },
+    {
+      "name": "special-attack",
+      "value": 60
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 85
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "hidden": false,
+      "entries": "Strengthens Grass moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "grassy-surge",
+      "hidden": true,
+      "entries": "When this Pokémon enters battle, it changes the terrain to Grassy Terrain."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "scratch",
+    "swords-dance",
+    "slam",
+    "mega-kick",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "hyper-beam",
+    "low-kick",
+    "strength",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "earthquake",
+    "screech",
+    "focus-energy",
+    "swift",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "scary-face",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "attract",
+    "sleep-talk",
+    "sunny-day",
+    "fake-out",
+    "uproar",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "superpower",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "hyper-voice",
+    "bullet-seed",
+    "frenzy-plant",
+    "bulk-up",
+    "mud-shot",
+    "magical-leaf",
+    "hammer-arm",
+    "u-turn",
+    "assurance",
+    "fling",
+    "worry-seed",
+    "seed-bomb",
+    "drain-punch",
+    "focus-blast",
+    "energy-ball",
+    "earth-power",
+    "giga-impact",
+    "leaf-storm",
+    "grass-knot",
+    "wood-hammer",
+    "double-hit",
+    "low-sweep",
+    "round",
+    "acrobatics",
+    "grass-pledge",
+    "bulldoze",
+    "work-up",
+    "snarl",
+    "noble-roar",
+    "grassy-terrain",
+    "boomburst",
+    "darkest-lariat",
+    "high-horsepower",
+    "solar-blade",
+    "brutal-swing",
+    "stomping-tantrum",
+    "body-press",
+    "drum-beating",
+    "branch-poke",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 810,
+      "name": "grookey",
+      "details": []
+    },
+    {
+      "id": 811,
+      "name": "thwackey",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 16,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 812,
+      "name": "rillaboom",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Drummer Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 45,
+  "color": "green",
+  "shape": "humanoid",
+  "growth_rate": "medium-slow",
+  "base_experience": 265,
+  "order": 993,
+  "egg_groups": [
+    "ground",
+    "plant"
+  ],
+  "forms": [
+    "rillaboom"
+  ],
+  "gender_rate": 1
+}

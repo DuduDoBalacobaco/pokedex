@@ -1,0 +1,191 @@
+{
+  "id": 981,
+  "name": "farigiraf",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "3.2 m",
+  "weight": "160 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "normal",
+    "psychic"
+  ],
+  "artwork": "assets/artwork/front/981_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/981_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 120
+    },
+    {
+      "name": "attack",
+      "value": 90
+    },
+    {
+      "name": "defense",
+      "value": 70
+    },
+    {
+      "name": "special-attack",
+      "value": 110
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "cud-chew",
+      "hidden": false,
+      "entries": "Causes the Pokémon to reuse an already consumed Berry at the end of the next turn."
+    },
+    {
+      "name": "armor-tail",
+      "hidden": false,
+      "entries": "Prevents the opponent from using any moves that have priority, such as Quick Attack."
+    },
+    {
+      "name": "sap-sipper",
+      "hidden": true,
+      "entries": "Absorbs Grass moves, raising Attack one stage."
+    }
+  ],
+  "moves": [
+    "stomp",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "roar",
+    "psybeam",
+    "hyper-beam",
+    "low-kick",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "earthquake",
+    "confusion",
+    "psychic",
+    "agility",
+    "night-shade",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "swift",
+    "amnesia",
+    "rest",
+    "substitute",
+    "thief",
+    "curse",
+    "protect",
+    "endure",
+    "mean-look",
+    "sleep-talk",
+    "baton-pass",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "mirror-coat",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "beat-up",
+    "uproar",
+    "facade",
+    "helping-hand",
+    "trick",
+    "wish",
+    "endeavor",
+    "skill-swap",
+    "imprison",
+    "hyper-voice",
+    "astonish",
+    "calm-mind",
+    "gravity",
+    "assurance",
+    "power-swap",
+    "guard-swap",
+    "energy-ball",
+    "giga-impact",
+    "nasty-plot",
+    "zen-headbutt",
+    "trick-room",
+    "iron-head",
+    "grass-knot",
+    "charge-beam",
+    "double-hit",
+    "psyshock",
+    "foul-play",
+    "stored-power",
+    "ally-switch",
+    "bulldoze",
+    "dazzling-gleam",
+    "high-horsepower",
+    "psychic-terrain",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "expanding-force",
+    "tera-blast",
+    "trailblaze",
+    "twin-beam",
+    "psychic-noise"
+  ],
+  "evolution": [
+    {
+      "id": 203,
+      "name": "girafarig",
+      "details": []
+    },
+    {
+      "id": 981,
+      "name": "farigiraf",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": "twin-beam",
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Long Neck Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 45,
+  "color": "brown",
+  "shape": "quadruped",
+  "growth_rate": "medium",
+  "base_experience": 260,
+  "order": 928,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "farigiraf"
+  ],
+  "gender_rate": 4
+}

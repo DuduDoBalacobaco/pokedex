@@ -1,0 +1,230 @@
+{
+  "id": 252,
+  "name": "treecko",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "0.5 m",
+  "weight": "5 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/252_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/252_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 45
+    },
+    {
+      "name": "defense",
+      "value": 35
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 55
+    },
+    {
+      "name": "speed",
+      "value": 70
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "hidden": false,
+      "entries": "Strengthens Grass moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "unburden",
+      "hidden": true,
+      "entries": "Doubles Speed upon using or losing a held item."
+    }
+  ],
+  "moves": [
+    "pound",
+    "mega-punch",
+    "thunder-punch",
+    "razor-wind",
+    "swords-dance",
+    "cut",
+    "slam",
+    "double-kick",
+    "mega-kick",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "low-kick",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "solar-beam",
+    "dig",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "mimic",
+    "screech",
+    "double-team",
+    "swift",
+    "flash",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "mud-slap",
+    "detect",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "dynamic-punch",
+    "dragon-breath",
+    "pursuit",
+    "iron-tail",
+    "synthesis",
+    "hidden-power",
+    "sunny-day",
+    "crunch",
+    "rock-smash",
+    "facade",
+    "focus-punch",
+    "nature-power",
+    "helping-hand",
+    "brick-break",
+    "endeavor",
+    "secret-power",
+    "mud-sport",
+    "crush-claw",
+    "rock-tomb",
+    "grass-whistle",
+    "bullet-seed",
+    "aerial-ace",
+    "magical-leaf",
+    "natural-gift",
+    "assurance",
+    "fling",
+    "worry-seed",
+    "night-slash",
+    "seed-bomb",
+    "drain-punch",
+    "energy-ball",
+    "leaf-storm",
+    "captivate",
+    "grass-knot",
+    "round",
+    "quick-guard",
+    "acrobatics",
+    "grass-pledge",
+    "dragon-tail",
+    "work-up",
+    "grassy-terrain",
+    "confide",
+    "power-up-punch",
+    "leafage",
+    "breaking-swipe",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze",
+    "upper-hand"
+  ],
+  "evolution": [
+    {
+      "id": 252,
+      "name": "treecko",
+      "details": []
+    },
+    {
+      "id": 253,
+      "name": "grovyle",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 16,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "sceptile",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Wood Gecko Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "green",
+  "shape": "upright",
+  "growth_rate": "medium-slow",
+  "base_experience": 62,
+  "order": 347,
+  "egg_groups": [
+    "monster",
+    "dragon"
+  ],
+  "forms": [
+    "treecko"
+  ],
+  "gender_rate": 1
+}

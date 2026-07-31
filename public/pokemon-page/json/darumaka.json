@@ -1,0 +1,193 @@
+{
+  "id": 554,
+  "name": "darumaka",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.6 m",
+  "weight": "37.5 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "fire"
+  ],
+  "artwork": "assets/artwork/front/554_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/554_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 90
+    },
+    {
+      "name": "defense",
+      "value": 45
+    },
+    {
+      "name": "special-attack",
+      "value": 15
+    },
+    {
+      "name": "special-defense",
+      "value": 45
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "hustle",
+      "hidden": false,
+      "entries": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    },
+    {
+      "name": "inner-focus",
+      "hidden": true,
+      "entries": "Prevents flinching."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "mega-kick",
+    "headbutt",
+    "tackle",
+    "take-down",
+    "thrash",
+    "bite",
+    "roar",
+    "ember",
+    "flamethrower",
+    "strength",
+    "solar-beam",
+    "fire-spin",
+    "dig",
+    "toxic",
+    "rage",
+    "double-team",
+    "focus-energy",
+    "fire-blast",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "flame-wheel",
+    "snore",
+    "protect",
+    "belly-drum",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "encore",
+    "hidden-power",
+    "sunny-day",
+    "rock-smash",
+    "uproar",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "superpower",
+    "brick-break",
+    "yawn",
+    "endeavor",
+    "snatch",
+    "secret-power",
+    "overheat",
+    "rock-tomb",
+    "extrasensory",
+    "hammer-arm",
+    "gyro-ball",
+    "u-turn",
+    "fling",
+    "flare-blitz",
+    "fire-fang",
+    "zen-headbutt",
+    "grass-knot",
+    "flame-charge",
+    "round",
+    "incinerate",
+    "work-up",
+    "confide",
+    "power-up-punch"
+  ],
+  "evolution": [
+    {
+      "id": 554,
+      "name": "darumaka",
+      "details": []
+    },
+    {
+      "id": 555,
+      "name": "darmanitan",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "ice-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Zen Charm Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 120,
+  "color": "red",
+  "shape": "humanoid",
+  "growth_rate": "medium-slow",
+  "base_experience": 63,
+  "order": 671,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "darumaka"
+  ],
+  "gender_rate": 4
+}

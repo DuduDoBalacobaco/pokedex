@@ -1,0 +1,216 @@
+{
+  "id": 446,
+  "name": "munchlax",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.6 m",
+  "weight": "105 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/446_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/446_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 135
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 85
+    },
+    {
+      "name": "speed",
+      "value": 5
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pickup",
+      "hidden": false,
+      "entries": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+    },
+    {
+      "name": "thick-fat",
+      "hidden": false,
+      "entries": "Halves damage from Fire and Ice moves."
+    },
+    {
+      "name": "gluttony",
+      "hidden": true,
+      "entries": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "pay-day",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "whirlwind",
+    "mega-kick",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "bite",
+    "flamethrower",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "counter",
+    "strength",
+    "solar-beam",
+    "thunderbolt",
+    "thunder",
+    "earthquake",
+    "fissure",
+    "dig",
+    "toxic",
+    "psychic",
+    "screech",
+    "double-team",
+    "defense-curl",
+    "metronome",
+    "self-destruct",
+    "lick",
+    "fire-blast",
+    "amnesia",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "flail",
+    "protect",
+    "belly-drum",
+    "mud-slap",
+    "icy-wind",
+    "sandstorm",
+    "endure",
+    "charm",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "encore",
+    "pursuit",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "shadow-ball",
+    "rock-smash",
+    "whirlpool",
+    "uproar",
+    "stockpile",
+    "swallow",
+    "facade",
+    "focus-punch",
+    "helping-hand",
+    "superpower",
+    "recycle",
+    "brick-break",
+    "snatch",
+    "secret-power",
+    "hyper-voice",
+    "odor-sleuth",
+    "rock-tomb",
+    "covet",
+    "shock-wave",
+    "water-pulse",
+    "natural-gift",
+    "fling",
+    "last-resort",
+    "seed-bomb",
+    "giga-impact",
+    "zen-headbutt",
+    "rock-climb",
+    "gunk-shot",
+    "captivate",
+    "after-you",
+    "round",
+    "chip-away",
+    "incinerate",
+    "retaliate",
+    "bulldoze",
+    "work-up",
+    "belch",
+    "confide",
+    "power-up-punch",
+    "high-horsepower",
+    "stomping-tantrum",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 446,
+      "name": "munchlax",
+      "details": []
+    },
+    {
+      "id": 143,
+      "name": "snorlax",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": 160,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": true,
+  "genus": "Big Eater Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 50,
+  "color": "black",
+  "shape": "humanoid",
+  "growth_rate": "slow",
+  "base_experience": 78,
+  "order": 234,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "munchlax"
+  ],
+  "gender_rate": 1
+}

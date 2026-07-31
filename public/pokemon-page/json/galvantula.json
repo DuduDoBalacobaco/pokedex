@@ -1,0 +1,181 @@
+{
+  "id": 596,
+  "name": "galvantula",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.8 m",
+  "weight": "14.3 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "bug",
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/596_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/596_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 77
+    },
+    {
+      "name": "defense",
+      "value": 60
+    },
+    {
+      "name": "special-attack",
+      "value": 97
+    },
+    {
+      "name": "special-defense",
+      "value": 60
+    },
+    {
+      "name": "speed",
+      "value": 108
+    }
+  ],
+  "abilities": [
+    {
+      "name": "compound-eyes",
+      "hidden": false,
+      "entries": "Increases moves' accuracy to 1.3×."
+    },
+    {
+      "name": "unnerve",
+      "hidden": false,
+      "entries": "Prevents opposing Pokémon from eating held Berries."
+    },
+    {
+      "name": "swarm",
+      "hidden": true,
+      "entries": "Strengthens Bug moves to inflict 1.5× damage at 1/3 max HP or less."
+    }
+  ],
+  "moves": [
+    "cut",
+    "poison-sting",
+    "pin-missile",
+    "hyper-beam",
+    "absorb",
+    "string-shot",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "agility",
+    "screech",
+    "double-team",
+    "light-screen",
+    "swift",
+    "leech-life",
+    "flash",
+    "rest",
+    "slash",
+    "substitute",
+    "thief",
+    "spider-web",
+    "snore",
+    "protect",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "facade",
+    "charge",
+    "helping-hand",
+    "secret-power",
+    "signal-beam",
+    "bounce",
+    "shock-wave",
+    "gastro-acid",
+    "sucker-punch",
+    "magnet-rise",
+    "poison-jab",
+    "x-scissor",
+    "bug-buzz",
+    "energy-ball",
+    "giga-impact",
+    "discharge",
+    "cross-poison",
+    "bug-bite",
+    "charge-beam",
+    "electro-ball",
+    "round",
+    "volt-switch",
+    "struggle-bug",
+    "electroweb",
+    "wild-charge",
+    "sticky-web",
+    "confide",
+    "infestation",
+    "throat-chop",
+    "lunge",
+    "speed-swap",
+    "rising-voltage",
+    "skitter-smack",
+    "tera-blast",
+    "pounce"
+  ],
+  "evolution": [
+    {
+      "id": 595,
+      "name": "joltik",
+      "details": []
+    },
+    {
+      "id": 596,
+      "name": "galvantula",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "EleSpider Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 75,
+  "color": "yellow",
+  "shape": "armor",
+  "growth_rate": "medium",
+  "base_experience": 165,
+  "order": 718,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "galvantula"
+  ],
+  "gender_rate": 4
+}

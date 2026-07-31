@@ -1,0 +1,174 @@
+{
+  "id": 910,
+  "name": "crocalor",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1 m",
+  "weight": "30.7 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "fire"
+  ],
+  "artwork": "assets/artwork/front/910_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/910_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 81
+    },
+    {
+      "name": "attack",
+      "value": 55
+    },
+    {
+      "name": "defense",
+      "value": 78
+    },
+    {
+      "name": "special-attack",
+      "value": 90
+    },
+    {
+      "name": "special-defense",
+      "value": 58
+    },
+    {
+      "name": "speed",
+      "value": 49
+    }
+  ],
+  "abilities": [
+    {
+      "name": "blaze",
+      "hidden": false,
+      "entries": "Strengthens Fire moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "unaware",
+      "hidden": true,
+      "entries": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "leer",
+    "bite",
+    "roar",
+    "ember",
+    "flamethrower",
+    "fire-spin",
+    "dig",
+    "lick",
+    "fire-blast",
+    "rest",
+    "substitute",
+    "curse",
+    "protect",
+    "mud-slap",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "sunny-day",
+    "crunch",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "helping-hand",
+    "yawn",
+    "hyper-voice",
+    "overheat",
+    "flare-blitz",
+    "seed-bomb",
+    "thunder-fang",
+    "fire-fang",
+    "zen-headbutt",
+    "flame-charge",
+    "round",
+    "incinerate",
+    "fire-pledge",
+    "snarl",
+    "disarming-voice",
+    "stomping-tantrum",
+    "tera-blast",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 909,
+      "name": "fuecoco",
+      "details": []
+    },
+    {
+      "id": 910,
+      "name": "crocalor",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 16,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 911,
+      "name": "skeledirge",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Fire Croc Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 45,
+  "color": "red",
+  "shape": "upright",
+  "growth_rate": "medium-slow",
+  "base_experience": 144,
+  "order": 910,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "crocalor"
+  ],
+  "gender_rate": 1
+}

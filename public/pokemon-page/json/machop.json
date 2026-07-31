@@ -1,0 +1,235 @@
+{
+  "id": 66,
+  "name": "machop",
+  "habitat_img": "assets/img/habitats/webp/mountain.webp",
+  "habitat_name": "mountain",
+  "height": "0.8 m",
+  "weight": "19.5 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/66_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/66_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 80
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 35
+    },
+    {
+      "name": "special-defense",
+      "value": 35
+    },
+    {
+      "name": "speed",
+      "value": 35
+    }
+  ],
+  "abilities": [
+    {
+      "name": "guts",
+      "hidden": false,
+      "entries": "Increases Attack to 1.5× with a major status ailment."
+    },
+    {
+      "name": "no-guard",
+      "hidden": false,
+      "entries": "Ensures all moves used by and against the Pokémon hit."
+    },
+    {
+      "name": "steadfast",
+      "hidden": true,
+      "entries": "Raises Speed one stage upon flinching."
+    }
+  ],
+  "moves": [
+    "karate-chop",
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "mega-kick",
+    "rolling-kick",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "flamethrower",
+    "submission",
+    "low-kick",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "earthquake",
+    "fissure",
+    "dig",
+    "toxic",
+    "meditate",
+    "rage",
+    "mimic",
+    "double-team",
+    "light-screen",
+    "focus-energy",
+    "bide",
+    "metronome",
+    "fire-blast",
+    "skull-bash",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "mach-punch",
+    "scary-face",
+    "mud-slap",
+    "foresight",
+    "detect",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dynamic-punch",
+    "encore",
+    "vital-throw",
+    "hidden-power",
+    "cross-chop",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "facade",
+    "focus-punch",
+    "smelling-salts",
+    "helping-hand",
+    "role-play",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "secret-power",
+    "rock-tomb",
+    "tickle",
+    "bulk-up",
+    "wake-up-slap",
+    "natural-gift",
+    "close-combat",
+    "payback",
+    "fling",
+    "power-trick",
+    "poison-jab",
+    "vacuum-wave",
+    "focus-blast",
+    "bullet-punch",
+    "rock-climb",
+    "captivate",
+    "double-hit",
+    "smack-down",
+    "heavy-slam",
+    "low-sweep",
+    "round",
+    "quick-guard",
+    "incinerate",
+    "retaliate",
+    "bulldoze",
+    "work-up",
+    "dual-chop",
+    "confide",
+    "power-up-punch",
+    "coaching"
+  ],
+  "evolution": [
+    {
+      "id": 66,
+      "name": "machop",
+      "details": []
+    },
+    {
+      "id": 67,
+      "name": "machoke",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 28,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "machamp",
+      "details": [
+        {
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Superpower Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 180,
+  "color": "gray",
+  "shape": "upright",
+  "growth_rate": "medium-slow",
+  "base_experience": 61,
+  "order": 107,
+  "egg_groups": [
+    "humanshape"
+  ],
+  "forms": [
+    "machop"
+  ],
+  "gender_rate": 2
+}

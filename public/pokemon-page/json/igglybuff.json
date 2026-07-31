@@ -1,0 +1,233 @@
+{
+  "id": 174,
+  "name": "igglybuff",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "0.3 m",
+  "weight": "1 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "normal",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/174_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/174_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 90
+    },
+    {
+      "name": "attack",
+      "value": 30
+    },
+    {
+      "name": "defense",
+      "value": 15
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 20
+    },
+    {
+      "name": "speed",
+      "value": 15
+    }
+  ],
+  "abilities": [
+    {
+      "name": "cute-charm",
+      "hidden": false,
+      "entries": "Has a 30% chance of infatuating attacking Pokémon on contact."
+    },
+    {
+      "name": "competitive",
+      "hidden": false,
+      "entries": "Raises Special Attack by two stages upon having any stat lowered."
+    },
+    {
+      "name": "friend-guard",
+      "hidden": true,
+      "entries": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
+    }
+  ],
+  "moves": [
+    "pound",
+    "mega-punch",
+    "mega-kick",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "sing",
+    "disable",
+    "flamethrower",
+    "counter",
+    "seismic-toss",
+    "solar-beam",
+    "thunder-wave",
+    "dig",
+    "toxic",
+    "psychic",
+    "mimic",
+    "screech",
+    "double-team",
+    "defense-curl",
+    "light-screen",
+    "reflect",
+    "fire-blast",
+    "swift",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "nightmare",
+    "snore",
+    "curse",
+    "protect",
+    "feint-attack",
+    "sweet-kiss",
+    "mud-slap",
+    "zap-cannon",
+    "perish-song",
+    "icy-wind",
+    "detect",
+    "endure",
+    "charm",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "present",
+    "frustration",
+    "safeguard",
+    "pain-split",
+    "encore",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "uproar",
+    "facade",
+    "helping-hand",
+    "role-play",
+    "wish",
+    "magic-coat",
+    "recycle",
+    "endeavor",
+    "secret-power",
+    "hyper-voice",
+    "fake-tears",
+    "bounce",
+    "covet",
+    "shock-wave",
+    "water-pulse",
+    "gravity",
+    "natural-gift",
+    "fling",
+    "copycat",
+    "punishment",
+    "last-resort",
+    "captivate",
+    "grass-knot",
+    "round",
+    "echoed-voice",
+    "heal-pulse",
+    "incinerate",
+    "work-up",
+    "wild-charge",
+    "disarming-voice",
+    "draining-kiss",
+    "misty-terrain",
+    "play-rough",
+    "confide",
+    "dazzling-gleam",
+    "tera-blast",
+    "trailblaze",
+    "alluring-voice"
+  ],
+  "evolution": [
+    {
+      "id": 174,
+      "name": "igglybuff",
+      "details": []
+    },
+    {
+      "id": 39,
+      "name": "jigglypuff",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": 160,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "wigglytuff",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "moon-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": true,
+  "genus": "Balloon Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 170,
+  "color": "pink",
+  "shape": "humanoid",
+  "growth_rate": "fast",
+  "base_experience": 42,
+  "order": 70,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "igglybuff"
+  ],
+  "gender_rate": 6
+}

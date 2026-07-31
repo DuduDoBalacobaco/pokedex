@@ -1,0 +1,228 @@
+{
+  "id": 651,
+  "name": "quilladin",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.7 m",
+  "weight": "29 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/651_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/651_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 61
+    },
+    {
+      "name": "attack",
+      "value": 78
+    },
+    {
+      "name": "defense",
+      "value": 95
+    },
+    {
+      "name": "special-attack",
+      "value": 56
+    },
+    {
+      "name": "special-defense",
+      "value": 58
+    },
+    {
+      "name": "speed",
+      "value": 57
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "hidden": false,
+      "entries": "Strengthens Grass moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "bulletproof",
+      "hidden": true,
+      "entries": "Protects against bullet, ball, and bomb-based moves."
+    }
+  ],
+  "moves": [
+    "thunder-punch",
+    "swords-dance",
+    "cut",
+    "vine-whip",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "pin-missile",
+    "bite",
+    "growl",
+    "roar",
+    "low-kick",
+    "strength",
+    "leech-seed",
+    "solar-beam",
+    "dig",
+    "toxic",
+    "double-team",
+    "reflect",
+    "swift",
+    "flash",
+    "rest",
+    "rock-slide",
+    "super-fang",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "belly-drum",
+    "sludge-bomb",
+    "spikes",
+    "giga-drain",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "iron-tail",
+    "metal-claw",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "facade",
+    "focus-punch",
+    "nature-power",
+    "taunt",
+    "helping-hand",
+    "superpower",
+    "brick-break",
+    "endeavor",
+    "secret-power",
+    "needle-arm",
+    "rock-tomb",
+    "bullet-seed",
+    "aerial-ace",
+    "iron-defense",
+    "bulk-up",
+    "mud-shot",
+    "magical-leaf",
+    "gyro-ball",
+    "payback",
+    "fling",
+    "worry-seed",
+    "poison-jab",
+    "seed-bomb",
+    "drain-punch",
+    "energy-ball",
+    "shadow-claw",
+    "zen-headbutt",
+    "leaf-storm",
+    "iron-head",
+    "stone-edge",
+    "grass-knot",
+    "wood-hammer",
+    "hone-claws",
+    "wide-guard",
+    "smack-down",
+    "low-sweep",
+    "round",
+    "quick-guard",
+    "retaliate",
+    "grass-pledge",
+    "bulldoze",
+    "work-up",
+    "dual-chop",
+    "grassy-terrain",
+    "confide",
+    "power-up-punch",
+    "stomping-tantrum",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 650,
+      "name": "chespin",
+      "details": []
+    },
+    {
+      "id": 651,
+      "name": "quilladin",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 16,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 652,
+      "name": "chesnaught",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Spiny Armor Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "green",
+  "shape": "upright",
+  "growth_rate": "medium-slow",
+  "base_experience": 142,
+  "order": 781,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "quilladin"
+  ],
+  "gender_rate": 1
+}

@@ -1,0 +1,179 @@
+{
+  "id": 804,
+  "name": "naganadel",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "3.6 m",
+  "weight": "150 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "poison",
+    "dragon"
+  ],
+  "artwork": "assets/artwork/front/804_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/804_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 73
+    },
+    {
+      "name": "attack",
+      "value": 73
+    },
+    {
+      "name": "defense",
+      "value": 73
+    },
+    {
+      "name": "special-attack",
+      "value": 127
+    },
+    {
+      "name": "special-defense",
+      "value": 73
+    },
+    {
+      "name": "speed",
+      "value": 121
+    }
+  ],
+  "abilities": [
+    {
+      "name": "beast-boost",
+      "hidden": false,
+      "entries": "Raises this Pokémon's highest stat by one stage when it faints another Pokémon."
+    }
+  ],
+  "moves": [
+    "fly",
+    "fury-attack",
+    "pin-missile",
+    "growl",
+    "acid",
+    "flamethrower",
+    "hyper-beam",
+    "peck",
+    "thunderbolt",
+    "toxic",
+    "double-team",
+    "fire-blast",
+    "swift",
+    "leech-life",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "sludge-bomb",
+    "spikes",
+    "outrage",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "uproar",
+    "heat-wave",
+    "facade",
+    "helping-hand",
+    "snatch",
+    "air-cutter",
+    "signal-beam",
+    "aerial-ace",
+    "dragon-claw",
+    "dragon-dance",
+    "shock-wave",
+    "tailwind",
+    "u-turn",
+    "assurance",
+    "gastro-acid",
+    "toxic-spikes",
+    "poison-jab",
+    "dark-pulse",
+    "air-slash",
+    "x-scissor",
+    "dragon-pulse",
+    "dragon-rush",
+    "giga-impact",
+    "nasty-plot",
+    "shadow-claw",
+    "draco-meteor",
+    "cross-poison",
+    "gunk-shot",
+    "venoshock",
+    "sludge-wave",
+    "round",
+    "echoed-voice",
+    "ally-switch",
+    "hex",
+    "sky-drop",
+    "acrobatics",
+    "dragon-tail",
+    "snarl",
+    "fell-stinger",
+    "confide",
+    "venom-drench",
+    "laser-focus",
+    "throat-chop",
+    "smart-strike",
+    "breaking-swipe",
+    "scale-shot",
+    "dual-wingbeat"
+  ],
+  "evolution": [
+    {
+      "id": 803,
+      "name": "poipole",
+      "details": []
+    },
+    {
+      "id": 804,
+      "name": "naganadel",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": "dragon-pulse",
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Poison Pin Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 0,
+  "capture_rate": 45,
+  "color": "purple",
+  "shape": "wings",
+  "growth_rate": "slow",
+  "base_experience": 243,
+  "order": 985,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "naganadel"
+  ],
+  "gender_rate": -1
+}

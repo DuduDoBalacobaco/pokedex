@@ -1,0 +1,162 @@
+{
+  "id": 966,
+  "name": "revavroom",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.8 m",
+  "weight": "120 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "steel",
+    "poison"
+  ],
+  "artwork": "assets/artwork/front/966_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/966_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 80
+    },
+    {
+      "name": "attack",
+      "value": 119
+    },
+    {
+      "name": "defense",
+      "value": 90
+    },
+    {
+      "name": "special-attack",
+      "value": 54
+    },
+    {
+      "name": "special-defense",
+      "value": 67
+    },
+    {
+      "name": "speed",
+      "value": 90
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overcoat",
+      "hidden": false,
+      "entries": "Protects against damage from weather."
+    },
+    {
+      "name": "filter",
+      "hidden": true,
+      "entries": "Decreases damage taken from super-effective moves by 1/4."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "toxic",
+    "screech",
+    "haze",
+    "lick",
+    "smog",
+    "sludge",
+    "poison-gas",
+    "rest",
+    "substitute",
+    "thief",
+    "curse",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "facade",
+    "taunt",
+    "endeavor",
+    "overheat",
+    "metal-sound",
+    "iron-defense",
+    "gyro-ball",
+    "assurance",
+    "toxic-spikes",
+    "magnet-rise",
+    "poison-jab",
+    "giga-impact",
+    "zen-headbutt",
+    "flash-cannon",
+    "gunk-shot",
+    "iron-head",
+    "venoshock",
+    "sludge-wave",
+    "heavy-slam",
+    "acid-spray",
+    "shift-gear",
+    "bulldoze",
+    "high-horsepower",
+    "steel-beam",
+    "lash-out",
+    "tera-blast",
+    "spin-out",
+    "hard-press",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 965,
+      "name": "varoom",
+      "details": []
+    },
+    {
+      "id": 966,
+      "name": "revavroom",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 40,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Multi-Cyl Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 75,
+  "color": "gray",
+  "shape": "legs",
+  "growth_rate": "medium",
+  "base_experience": 175,
+  "order": 943,
+  "egg_groups": [
+    "mineral"
+  ],
+  "forms": [
+    "revavroom"
+  ],
+  "gender_rate": 4
+}

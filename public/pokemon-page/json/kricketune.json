@@ -1,0 +1,180 @@
+{
+  "id": 402,
+  "name": "kricketune",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1 m",
+  "weight": "25.5 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "bug"
+  ],
+  "artwork": "assets/artwork/front/402_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/402_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 77
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 51
+    },
+    {
+      "name": "special-attack",
+      "value": 55
+    },
+    {
+      "name": "special-defense",
+      "value": 51
+    },
+    {
+      "name": "speed",
+      "value": 65
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swarm",
+      "hidden": false,
+      "entries": "Strengthens Bug moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "technician",
+      "hidden": true,
+      "entries": "Strengthens moves of 60 base power or less to 1.5× their power."
+    }
+  ],
+  "moves": [
+    "pound",
+    "swords-dance",
+    "cut",
+    "tackle",
+    "take-down",
+    "growl",
+    "sing",
+    "hyper-beam",
+    "strength",
+    "absorb",
+    "string-shot",
+    "toxic",
+    "screech",
+    "double-team",
+    "focus-energy",
+    "bide",
+    "leech-life",
+    "flash",
+    "rest",
+    "slash",
+    "substitute",
+    "snore",
+    "protect",
+    "mud-slap",
+    "perish-song",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "frustration",
+    "baton-pass",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "uproar",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "secret-power",
+    "hyper-voice",
+    "silver-wind",
+    "aerial-ace",
+    "natural-gift",
+    "night-slash",
+    "x-scissor",
+    "bug-buzz",
+    "giga-impact",
+    "captivate",
+    "bug-bite",
+    "hone-claws",
+    "round",
+    "echoed-voice",
+    "struggle-bug",
+    "sticky-web",
+    "fell-stinger",
+    "confide",
+    "infestation",
+    "power-up-punch",
+    "laser-focus",
+    "throat-chop",
+    "lunge",
+    "skitter-smack",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 401,
+      "name": "kricketot",
+      "details": []
+    },
+    {
+      "id": 402,
+      "name": "kricketune",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 10,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Cricket Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "red",
+  "shape": "bug-wings",
+  "growth_rate": "medium-slow",
+  "base_experience": 134,
+  "order": 533,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "kricketune"
+  ],
+  "gender_rate": 4
+}

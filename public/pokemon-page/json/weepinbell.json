@@ -1,0 +1,215 @@
+{
+  "id": 70,
+  "name": "weepinbell",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "1 m",
+  "weight": "6.4 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "grass",
+    "poison"
+  ],
+  "artwork": "assets/artwork/front/70_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/70_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 65
+    },
+    {
+      "name": "attack",
+      "value": 90
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 85
+    },
+    {
+      "name": "special-defense",
+      "value": 45
+    },
+    {
+      "name": "speed",
+      "value": 55
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "hidden": false,
+      "entries": "Doubles Speed during strong sunlight."
+    },
+    {
+      "name": "gluttony",
+      "hidden": true,
+      "entries": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "bind",
+    "slam",
+    "vine-whip",
+    "headbutt",
+    "body-slam",
+    "wrap",
+    "take-down",
+    "double-edge",
+    "acid",
+    "mega-drain",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "sleep-powder",
+    "toxic",
+    "rage",
+    "mimic",
+    "double-team",
+    "reflect",
+    "bide",
+    "swift",
+    "leech-life",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "protect",
+    "sludge-bomb",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "encore",
+    "sweet-scent",
+    "morning-sun",
+    "synthesis",
+    "hidden-power",
+    "sunny-day",
+    "facade",
+    "nature-power",
+    "ingrain",
+    "knock-off",
+    "secret-power",
+    "weather-ball",
+    "tickle",
+    "bullet-seed",
+    "magical-leaf",
+    "natural-gift",
+    "wring-out",
+    "gastro-acid",
+    "worry-seed",
+    "sucker-punch",
+    "poison-jab",
+    "seed-bomb",
+    "energy-ball",
+    "leaf-storm",
+    "power-whip",
+    "captivate",
+    "grass-knot",
+    "bug-bite",
+    "venoshock",
+    "sludge-wave",
+    "acid-spray",
+    "round",
+    "clear-smog",
+    "grassy-terrain",
+    "confide",
+    "infestation",
+    "strength-sap",
+    "lunge",
+    "grassy-glide",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 69,
+      "name": "bellsprout",
+      "details": []
+    },
+    {
+      "id": 70,
+      "name": "weepinbell",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 21,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "victreebel",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "leaf-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Flycatcher Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 120,
+  "color": "green",
+  "shape": "blob",
+  "growth_rate": "medium-slow",
+  "base_experience": 137,
+  "order": 111,
+  "egg_groups": [
+    "plant"
+  ],
+  "forms": [
+    "weepinbell"
+  ],
+  "gender_rate": 4
+}

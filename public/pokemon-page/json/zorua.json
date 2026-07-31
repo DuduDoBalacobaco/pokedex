@@ -1,0 +1,204 @@
+{
+  "id": 570,
+  "name": "zorua",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.7 m",
+  "weight": "12.5 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "dark"
+  ],
+  "artwork": "assets/artwork/front/570_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/570_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 65
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 80
+    },
+    {
+      "name": "special-defense",
+      "value": 40
+    },
+    {
+      "name": "speed",
+      "value": 65
+    }
+  ],
+  "abilities": [
+    {
+      "name": "illusion",
+      "hidden": false,
+      "entries": "Takes the appearance of the last conscious party Pokémon upon being sent out until hit by a damaging move."
+    }
+  ],
+  "moves": [
+    "scratch",
+    "swords-dance",
+    "cut",
+    "take-down",
+    "leer",
+    "roar",
+    "counter",
+    "dig",
+    "toxic",
+    "agility",
+    "night-shade",
+    "double-team",
+    "confuse-ray",
+    "swift",
+    "fury-swipes",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "spite",
+    "protect",
+    "scary-face",
+    "feint-attack",
+    "sludge-bomb",
+    "detect",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "encore",
+    "pursuit",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "uproar",
+    "torment",
+    "memento",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "trick",
+    "revenge",
+    "knock-off",
+    "imprison",
+    "snatch",
+    "secret-power",
+    "hyper-voice",
+    "fake-tears",
+    "extrasensory",
+    "aerial-ace",
+    "bounce",
+    "covet",
+    "calm-mind",
+    "u-turn",
+    "payback",
+    "assurance",
+    "embargo",
+    "fling",
+    "copycat",
+    "punishment",
+    "sucker-punch",
+    "dark-pulse",
+    "nasty-plot",
+    "shadow-claw",
+    "captivate",
+    "grass-knot",
+    "hone-claws",
+    "foul-play",
+    "round",
+    "hex",
+    "incinerate",
+    "retaliate",
+    "night-daze",
+    "snarl",
+    "confide",
+    "skitter-smack",
+    "burning-jealousy",
+    "lash-out",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 570,
+      "name": "zorua",
+      "details": []
+    },
+    {
+      "id": 571,
+      "name": "zoroark",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Tricky Fox Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 75,
+  "color": "gray",
+  "shape": "quadruped",
+  "growth_rate": "medium-slow",
+  "base_experience": 66,
+  "order": 692,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "zorua"
+  ],
+  "gender_rate": 1
+}

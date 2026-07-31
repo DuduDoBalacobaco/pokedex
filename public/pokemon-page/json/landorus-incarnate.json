@@ -1,0 +1,164 @@
+{
+  "id": 645,
+  "name": "landorus-incarnate",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.5 m",
+  "weight": "68 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "ground",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/645_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/645_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 89
+    },
+    {
+      "name": "attack",
+      "value": 125
+    },
+    {
+      "name": "defense",
+      "value": 90
+    },
+    {
+      "name": "special-attack",
+      "value": 115
+    },
+    {
+      "name": "special-defense",
+      "value": 80
+    },
+    {
+      "name": "speed",
+      "value": 101
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sand-force",
+      "hidden": false,
+      "entries": "Strengthens Rock, Ground, and Steel moves to 1.3× their power during a sandstorm.  Protects against sandstorm damage."
+    },
+    {
+      "name": "sheer-force",
+      "hidden": true,
+      "entries": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "fly",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "leer",
+    "bite",
+    "hyper-beam",
+    "strength",
+    "rock-throw",
+    "earthquake",
+    "fissure",
+    "dig",
+    "toxic",
+    "psychic",
+    "double-team",
+    "self-destruct",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "mud-slap",
+    "outrage",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "rock-smash",
+    "facade",
+    "taunt",
+    "role-play",
+    "superpower",
+    "brick-break",
+    "knock-off",
+    "imprison",
+    "secret-power",
+    "weather-ball",
+    "rock-tomb",
+    "extrasensory",
+    "sand-tomb",
+    "block",
+    "bulk-up",
+    "mud-shot",
+    "calm-mind",
+    "gravity",
+    "hammer-arm",
+    "u-turn",
+    "payback",
+    "fling",
+    "punishment",
+    "rock-polish",
+    "focus-blast",
+    "earth-power",
+    "giga-impact",
+    "nasty-plot",
+    "defog",
+    "stone-edge",
+    "stealth-rock",
+    "grass-knot",
+    "smack-down",
+    "sludge-wave",
+    "round",
+    "bulldoze",
+    "confide",
+    "brutal-swing",
+    "stomping-tantrum",
+    "scorching-sands",
+    "sandsear-storm",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 645,
+      "name": "landorus",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Abundance Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 90,
+  "capture_rate": 3,
+  "color": "brown",
+  "shape": "arms",
+  "growth_rate": "slow",
+  "base_experience": 270,
+  "order": 770,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "landorus-incarnate"
+  ],
+  "gender_rate": 0
+}

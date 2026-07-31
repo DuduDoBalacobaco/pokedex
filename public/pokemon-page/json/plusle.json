@@ -1,0 +1,168 @@
+{
+  "id": 311,
+  "name": "plusle",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "0.4 m",
+  "weight": "4.2 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/311_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/311_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 85
+    },
+    {
+      "name": "special-defense",
+      "value": 75
+    },
+    {
+      "name": "speed",
+      "value": 95
+    }
+  ],
+  "abilities": [
+    {
+      "name": "plus",
+      "hidden": false,
+      "entries": "Increases Special Attack to 1.5× when a friendly Pokémon has Plus or Minus."
+    },
+    {
+      "name": "lightning-rod",
+      "hidden": true,
+      "entries": "Redirects single-target Electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "thunder-punch",
+    "mega-kick",
+    "headbutt",
+    "body-slam",
+    "double-edge",
+    "growl",
+    "sing",
+    "counter",
+    "seismic-toss",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "light-screen",
+    "metronome",
+    "swift",
+    "flash",
+    "rest",
+    "super-fang",
+    "substitute",
+    "snore",
+    "protect",
+    "sweet-kiss",
+    "mud-slap",
+    "endure",
+    "charm",
+    "rollout",
+    "swagger",
+    "spark",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dynamic-punch",
+    "baton-pass",
+    "encore",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "uproar",
+    "facade",
+    "charge",
+    "helping-hand",
+    "wish",
+    "endeavor",
+    "skill-swap",
+    "secret-power",
+    "fake-tears",
+    "signal-beam",
+    "covet",
+    "shock-wave",
+    "natural-gift",
+    "fling",
+    "lucky-chant",
+    "copycat",
+    "last-resort",
+    "magnet-rise",
+    "switcheroo",
+    "nasty-plot",
+    "discharge",
+    "captivate",
+    "grass-knot",
+    "charge-beam",
+    "electro-ball",
+    "entrainment",
+    "round",
+    "echoed-voice",
+    "bestow",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "play-rough",
+    "play-nice",
+    "confide",
+    "eerie-impulse",
+    "electric-terrain",
+    "nuzzle",
+    "tearful-look",
+    "tera-blast",
+    "trailblaze",
+    "alluring-voice"
+  ],
+  "evolution": [
+    {
+      "id": 311,
+      "name": "plusle",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Cheering Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 200,
+  "color": "yellow",
+  "shape": "upright",
+  "growth_rate": "medium",
+  "base_experience": 142,
+  "order": 419,
+  "egg_groups": [
+    "fairy"
+  ],
+  "forms": [
+    "plusle"
+  ],
+  "gender_rate": 4
+}

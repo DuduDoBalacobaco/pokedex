@@ -1,0 +1,201 @@
+{
+  "id": 398,
+  "name": "staraptor",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.2 m",
+  "weight": "24.9 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "normal",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/398_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/398_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 85
+    },
+    {
+      "name": "attack",
+      "value": 120
+    },
+    {
+      "name": "defense",
+      "value": 70
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 60
+    },
+    {
+      "name": "speed",
+      "value": 100
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "hidden": false,
+      "entries": "Lowers opponents' Attack one stage upon entering battle."
+    },
+    {
+      "name": "reckless",
+      "hidden": true,
+      "entries": "Strengthens recoil moves to 1.2× their power."
+    }
+  ],
+  "moves": [
+    "gust",
+    "wing-attack",
+    "whirlwind",
+    "fly",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "growl",
+    "hyper-beam",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "double-team",
+    "swift",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "mud-slap",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "heat-wave",
+    "facade",
+    "helping-hand",
+    "brick-break",
+    "endeavor",
+    "secret-power",
+    "feather-dance",
+    "blaze-kick",
+    "air-cutter",
+    "aerial-ace",
+    "bulk-up",
+    "roost",
+    "natural-gift",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "close-combat",
+    "air-slash",
+    "focus-blast",
+    "brave-bird",
+    "giga-impact",
+    "defog",
+    "captivate",
+    "ominous-wind",
+    "round",
+    "echoed-voice",
+    "acrobatics",
+    "retaliate",
+    "final-gambit",
+    "struggle-bug",
+    "work-up",
+    "hurricane",
+    "confide",
+    "laser-focus",
+    "dual-wingbeat",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 396,
+      "name": "starly",
+      "details": []
+    },
+    {
+      "id": 397,
+      "name": "staravia",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 14,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 398,
+      "name": "staraptor",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 34,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Predator Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "brown",
+  "shape": "wings",
+  "growth_rate": "medium-slow",
+  "base_experience": 218,
+  "order": 529,
+  "egg_groups": [
+    "flying"
+  ],
+  "forms": [
+    "staraptor"
+  ],
+  "gender_rate": 4
+}

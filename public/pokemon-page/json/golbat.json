@@ -1,0 +1,216 @@
+{
+  "id": 42,
+  "name": "golbat",
+  "habitat_img": "assets/img/habitats/webp/cave.webp",
+  "habitat_name": "cave",
+  "height": "1.6 m",
+  "weight": "55 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "poison",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/42_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/42_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 75
+    },
+    {
+      "name": "attack",
+      "value": 80
+    },
+    {
+      "name": "defense",
+      "value": 70
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 75
+    },
+    {
+      "name": "speed",
+      "value": 90
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "hidden": false,
+      "entries": "Prevents flinching."
+    },
+    {
+      "name": "infiltrator",
+      "hidden": true,
+      "entries": "Bypasses Light Screen, Reflect, and Safeguard."
+    }
+  ],
+  "moves": [
+    "razor-wind",
+    "gust",
+    "wing-attack",
+    "whirlwind",
+    "fly",
+    "headbutt",
+    "take-down",
+    "double-edge",
+    "bite",
+    "supersonic",
+    "hyper-beam",
+    "absorb",
+    "mega-drain",
+    "toxic",
+    "hypnosis",
+    "agility",
+    "quick-attack",
+    "rage",
+    "mimic",
+    "screech",
+    "double-team",
+    "confuse-ray",
+    "haze",
+    "bide",
+    "swift",
+    "leech-life",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "protect",
+    "sludge-bomb",
+    "detect",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "mean-look",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "shadow-ball",
+    "uproar",
+    "heat-wave",
+    "torment",
+    "facade",
+    "taunt",
+    "snatch",
+    "secret-power",
+    "poison-fang",
+    "astonish",
+    "air-cutter",
+    "aerial-ace",
+    "roost",
+    "natural-gift",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "payback",
+    "assurance",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "nasty-plot",
+    "zen-headbutt",
+    "defog",
+    "cross-poison",
+    "captivate",
+    "ominous-wind",
+    "venoshock",
+    "round",
+    "quick-guard",
+    "acrobatics",
+    "confide",
+    "venom-drench",
+    "dual-wingbeat"
+  ],
+  "evolution": [
+    {
+      "id": 41,
+      "name": "zubat",
+      "details": []
+    },
+    {
+      "id": 42,
+      "name": "golbat",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 22,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "name": "crobat",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": 160,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Bat Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 90,
+  "color": "purple",
+  "shape": "wings",
+  "growth_rate": "medium",
+  "base_experience": 159,
+  "order": 74,
+  "egg_groups": [
+    "flying"
+  ],
+  "forms": [
+    "golbat"
+  ],
+  "gender_rate": 4
+}

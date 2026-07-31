@@ -1,0 +1,209 @@
+{
+  "id": 607,
+  "name": "litwick",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "3.1 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "ghost",
+    "fire"
+  ],
+  "artwork": "assets/artwork/front/607_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/607_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 30
+    },
+    {
+      "name": "defense",
+      "value": 55
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 55
+    },
+    {
+      "name": "speed",
+      "value": 20
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "hidden": false,
+      "entries": "Protects against Fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+    },
+    {
+      "name": "flame-body",
+      "hidden": false,
+      "entries": "Has a 30% chance of burning attacking Pokémon on contact."
+    },
+    {
+      "name": "infiltrator",
+      "hidden": true,
+      "entries": "Bypasses Light Screen, Reflect, and Safeguard."
+    }
+  ],
+  "moves": [
+    "acid",
+    "ember",
+    "flamethrower",
+    "solar-beam",
+    "fire-spin",
+    "toxic",
+    "psychic",
+    "night-shade",
+    "double-team",
+    "minimize",
+    "confuse-ray",
+    "haze",
+    "smog",
+    "fire-blast",
+    "dream-eater",
+    "flash",
+    "acid-armor",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "spite",
+    "protect",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "pain-split",
+    "hidden-power",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "heat-wave",
+    "will-o-wisp",
+    "memento",
+    "facade",
+    "taunt",
+    "trick",
+    "imprison",
+    "secret-power",
+    "astonish",
+    "overheat",
+    "calm-mind",
+    "shock-wave",
+    "payback",
+    "embargo",
+    "flare-blitz",
+    "dark-pulse",
+    "energy-ball",
+    "trick-room",
+    "captivate",
+    "power-split",
+    "telekinesis",
+    "flame-burst",
+    "flame-charge",
+    "round",
+    "clear-smog",
+    "ally-switch",
+    "hex",
+    "incinerate",
+    "inferno",
+    "confide",
+    "mystical-fire",
+    "skitter-smack",
+    "burning-jealousy",
+    "poltergeist",
+    "tera-blast",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 607,
+      "name": "litwick",
+      "details": []
+    },
+    {
+      "id": 608,
+      "name": "lampent",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 41,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 609,
+      "name": "chandelure",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "dusk-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Candle Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "white",
+  "shape": "blob",
+  "growth_rate": "medium-slow",
+  "base_experience": 55,
+  "order": 729,
+  "egg_groups": [
+    "indeterminate"
+  ],
+  "forms": [
+    "litwick"
+  ],
+  "gender_rate": 4
+}

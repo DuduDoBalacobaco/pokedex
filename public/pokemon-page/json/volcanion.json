@@ -1,0 +1,159 @@
+{
+  "id": 721,
+  "name": "volcanion",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.7 m",
+  "weight": "195 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "fire",
+    "water"
+  ],
+  "artwork": "assets/artwork/front/721_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/721_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 80
+    },
+    {
+      "name": "attack",
+      "value": 110
+    },
+    {
+      "name": "defense",
+      "value": 120
+    },
+    {
+      "name": "special-attack",
+      "value": 130
+    },
+    {
+      "name": "special-defense",
+      "value": 90
+    },
+    {
+      "name": "speed",
+      "value": 70
+    }
+  ],
+  "abilities": [
+    {
+      "name": "water-absorb",
+      "hidden": false,
+      "entries": "Absorbs Water moves, healing for 1/4 max HP."
+    }
+  ],
+  "moves": [
+    "cut",
+    "stomp",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "roar",
+    "flamethrower",
+    "mist",
+    "water-gun",
+    "hydro-pump",
+    "hyper-beam",
+    "strength",
+    "solar-beam",
+    "fire-spin",
+    "earthquake",
+    "dig",
+    "toxic",
+    "double-team",
+    "haze",
+    "focus-energy",
+    "self-destruct",
+    "fire-blast",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "taunt",
+    "superpower",
+    "brick-break",
+    "secret-power",
+    "weather-ball",
+    "overheat",
+    "rock-tomb",
+    "mud-shot",
+    "water-pulse",
+    "gyro-ball",
+    "fling",
+    "flare-blitz",
+    "focus-blast",
+    "earth-power",
+    "giga-impact",
+    "thunder-fang",
+    "fire-fang",
+    "flash-cannon",
+    "defog",
+    "stone-edge",
+    "smack-down",
+    "sludge-wave",
+    "heavy-slam",
+    "flame-charge",
+    "round",
+    "scald",
+    "incinerate",
+    "bulldoze",
+    "wild-charge",
+    "heat-crash",
+    "misty-terrain",
+    "confide",
+    "steam-eruption",
+    "stomping-tantrum",
+    "liquidation",
+    "body-press",
+    "scorching-sands",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 721,
+      "name": "volcanion",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": true,
+  "is_baby": false,
+  "genus": "Steam Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 100,
+  "capture_rate": 3,
+  "color": "brown",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 270,
+  "order": 867,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "volcanion"
+  ],
+  "gender_rate": -1
+}

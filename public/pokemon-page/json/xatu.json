@@ -1,0 +1,203 @@
+{
+  "id": 178,
+  "name": "xatu",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "1.5 m",
+  "weight": "15 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "psychic",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/178_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/178_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 65
+    },
+    {
+      "name": "attack",
+      "value": 75
+    },
+    {
+      "name": "defense",
+      "value": 70
+    },
+    {
+      "name": "special-attack",
+      "value": 95
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 95
+    }
+  ],
+  "abilities": [
+    {
+      "name": "synchronize",
+      "hidden": false,
+      "entries": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+    },
+    {
+      "name": "early-bird",
+      "hidden": false,
+      "entries": "Makes sleep pass twice as quickly."
+    },
+    {
+      "name": "magic-bounce",
+      "hidden": true,
+      "entries": "Reflects most non-damaging moves back at their user."
+    }
+  ],
+  "moves": [
+    "fly",
+    "double-edge",
+    "leer",
+    "hyper-beam",
+    "peck",
+    "solar-beam",
+    "thunder-wave",
+    "toxic",
+    "psychic",
+    "teleport",
+    "night-shade",
+    "mimic",
+    "double-team",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "swift",
+    "dream-eater",
+    "sky-attack",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "nightmare",
+    "snore",
+    "curse",
+    "protect",
+    "detect",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "baton-pass",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "heat-wave",
+    "facade",
+    "trick",
+    "wish",
+    "magic-coat",
+    "skill-swap",
+    "imprison",
+    "secret-power",
+    "air-cutter",
+    "silver-wind",
+    "cosmic-power",
+    "signal-beam",
+    "aerial-ace",
+    "calm-mind",
+    "roost",
+    "miracle-eye",
+    "natural-gift",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "psycho-shift",
+    "lucky-chant",
+    "me-first",
+    "power-swap",
+    "guard-swap",
+    "sucker-punch",
+    "air-slash",
+    "giga-impact",
+    "zen-headbutt",
+    "defog",
+    "trick-room",
+    "captivate",
+    "grass-knot",
+    "ominous-wind",
+    "psyshock",
+    "telekinesis",
+    "magic-room",
+    "foul-play",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "confide",
+    "dazzling-gleam",
+    "laser-focus",
+    "expanding-force",
+    "dual-wingbeat"
+  ],
+  "evolution": [
+    {
+      "id": 177,
+      "name": "natu",
+      "details": []
+    },
+    {
+      "id": 178,
+      "name": "xatu",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 25,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Mystic Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 75,
+  "color": "green",
+  "shape": "wings",
+  "growth_rate": "medium",
+  "base_experience": 165,
+  "order": 272,
+  "egg_groups": [
+    "flying"
+  ],
+  "forms": [
+    "xatu"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,159 @@
+{
+  "id": 638,
+  "name": "cobalion",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2.1 m",
+  "weight": "250 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "steel",
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/638_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/638_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 91
+    },
+    {
+      "name": "attack",
+      "value": 90
+    },
+    {
+      "name": "defense",
+      "value": 129
+    },
+    {
+      "name": "special-attack",
+      "value": 90
+    },
+    {
+      "name": "special-defense",
+      "value": 72
+    },
+    {
+      "name": "speed",
+      "value": 108
+    }
+  ],
+  "abilities": [
+    {
+      "name": "justified",
+      "hidden": false,
+      "entries": "Raises Attack one stage upon taking damage from a Dark move."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "double-kick",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "roar",
+    "hyper-beam",
+    "strength",
+    "thunder-wave",
+    "toxic",
+    "quick-attack",
+    "double-team",
+    "reflect",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "scary-face",
+    "sandstorm",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "megahorn",
+    "metal-claw",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "rock-smash",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "secret-power",
+    "metal-sound",
+    "aerial-ace",
+    "iron-defense",
+    "block",
+    "bounce",
+    "calm-mind",
+    "metal-burst",
+    "close-combat",
+    "magnet-rise",
+    "aura-sphere",
+    "rock-polish",
+    "poison-jab",
+    "air-slash",
+    "x-scissor",
+    "vacuum-wave",
+    "focus-blast",
+    "giga-impact",
+    "zen-headbutt",
+    "flash-cannon",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "hone-claws",
+    "heavy-slam",
+    "round",
+    "quick-guard",
+    "retaliate",
+    "volt-switch",
+    "work-up",
+    "sacred-sword",
+    "confide",
+    "laser-focus",
+    "smart-strike",
+    "body-press",
+    "steel-beam",
+    "coaching",
+    "tera-blast",
+    "upper-hand"
+  ],
+  "evolution": [
+    {
+      "id": 638,
+      "name": "cobalion",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Iron Will Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 35,
+  "capture_rate": 3,
+  "color": "blue",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 261,
+  "order": 761,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "cobalion"
+  ],
+  "gender_rate": -1
+}

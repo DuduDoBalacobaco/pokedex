@@ -1,0 +1,197 @@
+{
+  "id": 341,
+  "name": "corphish",
+  "habitat_img": "assets/img/habitats/webp/waters-edge.webp",
+  "habitat_name": "waters-edge",
+  "height": "0.6 m",
+  "weight": "11.5 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "water"
+  ],
+  "artwork": "assets/artwork/front/341_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/341_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 43
+    },
+    {
+      "name": "attack",
+      "value": 80
+    },
+    {
+      "name": "defense",
+      "value": 65
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 35
+    },
+    {
+      "name": "speed",
+      "value": 35
+    }
+  ],
+  "abilities": [
+    {
+      "name": "hyper-cutter",
+      "hidden": false,
+      "entries": "Prevents Attack from being lowered by other Pokémon."
+    },
+    {
+      "name": "shell-armor",
+      "hidden": false,
+      "entries": "Protects against critical hits."
+    },
+    {
+      "name": "adaptability",
+      "hidden": true,
+      "entries": "Increases the same-type attack bonus from 1.5× to 2×."
+    }
+  ],
+  "moves": [
+    "vice-grip",
+    "guillotine",
+    "swords-dance",
+    "cut",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "bubble-beam",
+    "counter",
+    "strength",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "harden",
+    "waterfall",
+    "bubble",
+    "crabhammer",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "thief",
+    "snore",
+    "spite",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "icy-wind",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "metal-claw",
+    "hidden-power",
+    "rain-dance",
+    "crunch",
+    "ancient-power",
+    "rock-smash",
+    "whirlpool",
+    "hail",
+    "facade",
+    "taunt",
+    "superpower",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "secret-power",
+    "mud-sport",
+    "rock-tomb",
+    "muddy-water",
+    "aerial-ace",
+    "iron-defense",
+    "mud-shot",
+    "dragon-dance",
+    "water-pulse",
+    "natural-gift",
+    "payback",
+    "fling",
+    "trump-card",
+    "night-slash",
+    "x-scissor",
+    "switcheroo",
+    "captivate",
+    "aqua-jet",
+    "double-hit",
+    "hone-claws",
+    "round",
+    "chip-away",
+    "scald",
+    "razor-shell",
+    "confide",
+    "liquidation",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 341,
+      "name": "corphish",
+      "details": []
+    },
+    {
+      "id": 342,
+      "name": "crawdaunt",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Ruffian Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 205,
+  "color": "red",
+  "shape": "armor",
+  "growth_rate": "fast-then-very-slow",
+  "base_experience": 62,
+  "order": 454,
+  "egg_groups": [
+    "water1",
+    "water3"
+  ],
+  "forms": [
+    "corphish"
+  ],
+  "gender_rate": 4
+}

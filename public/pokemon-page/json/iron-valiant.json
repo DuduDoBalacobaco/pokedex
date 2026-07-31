@@ -1,0 +1,157 @@
+{
+  "id": 1006,
+  "name": "iron-valiant",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.4 m",
+  "weight": "35 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "fairy",
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/1006_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/1006_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 74
+    },
+    {
+      "name": "attack",
+      "value": 130
+    },
+    {
+      "name": "defense",
+      "value": 90
+    },
+    {
+      "name": "special-attack",
+      "value": 120
+    },
+    {
+      "name": "special-defense",
+      "value": 60
+    },
+    {
+      "name": "speed",
+      "value": 116
+    }
+  ],
+  "abilities": [
+    {
+      "name": "quark-drive",
+      "hidden": false,
+      "entries": "Raises highest stat on Electric Terrain, or if holding Booster Energy."
+    }
+  ],
+  "moves": [
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "swords-dance",
+    "disable",
+    "psybeam",
+    "hyper-beam",
+    "low-kick",
+    "thunderbolt",
+    "thunder-wave",
+    "psychic",
+    "hypnosis",
+    "agility",
+    "double-team",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "metronome",
+    "swift",
+    "rest",
+    "substitute",
+    "reversal",
+    "protect",
+    "destiny-bond",
+    "icy-wind",
+    "endure",
+    "false-swipe",
+    "fury-cutter",
+    "sleep-talk",
+    "encore",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "taunt",
+    "helping-hand",
+    "trick",
+    "brick-break",
+    "knock-off",
+    "skill-swap",
+    "imprison",
+    "hyper-voice",
+    "aerial-ace",
+    "magical-leaf",
+    "calm-mind",
+    "leaf-blade",
+    "feint",
+    "close-combat",
+    "fling",
+    "aura-sphere",
+    "poison-jab",
+    "night-slash",
+    "x-scissor",
+    "drain-punch",
+    "vacuum-wave",
+    "focus-blast",
+    "energy-ball",
+    "giga-impact",
+    "shadow-claw",
+    "shadow-sneak",
+    "psycho-cut",
+    "zen-headbutt",
+    "trick-room",
+    "grass-knot",
+    "charge-beam",
+    "wide-guard",
+    "psyshock",
+    "stored-power",
+    "quick-guard",
+    "hex",
+    "misty-terrain",
+    "moonblast",
+    "electric-terrain",
+    "dazzling-gleam",
+    "throat-chop",
+    "psychic-terrain",
+    "liquidation",
+    "spirit-break",
+    "expanding-force",
+    "coaching",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 1006,
+      "name": "iron-valiant",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Paradox Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 0,
+  "capture_rate": 10,
+  "color": "white",
+  "shape": "humanoid",
+  "growth_rate": "slow",
+  "base_experience": 295,
+  "order": 993,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "iron-valiant"
+  ],
+  "gender_rate": -1
+}

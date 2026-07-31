@@ -1,0 +1,173 @@
+{
+  "id": 580,
+  "name": "ducklett",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.5 m",
+  "weight": "5.5 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "water",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/580_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/580_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 62
+    },
+    {
+      "name": "attack",
+      "value": 44
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 44
+    },
+    {
+      "name": "special-defense",
+      "value": 50
+    },
+    {
+      "name": "speed",
+      "value": 55
+    }
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "hidden": false,
+      "entries": "Prevents accuracy from being lowered."
+    },
+    {
+      "name": "big-pecks",
+      "hidden": false,
+      "entries": "Protects against Defense drops."
+    },
+    {
+      "name": "hydration",
+      "hidden": true,
+      "entries": "Cures any major status ailment after each turn during rain."
+    }
+  ],
+  "moves": [
+    "gust",
+    "wing-attack",
+    "fly",
+    "double-edge",
+    "water-gun",
+    "surf",
+    "ice-beam",
+    "bubble-beam",
+    "toxic",
+    "double-team",
+    "mirror-move",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "whirlpool",
+    "uproar",
+    "hail",
+    "facade",
+    "helping-hand",
+    "endeavor",
+    "secret-power",
+    "dive",
+    "feather-dance",
+    "mud-sport",
+    "air-cutter",
+    "aerial-ace",
+    "water-sport",
+    "water-pulse",
+    "roost",
+    "brine",
+    "pluck",
+    "tailwind",
+    "lucky-chant",
+    "me-first",
+    "aqua-ring",
+    "air-slash",
+    "brave-bird",
+    "defog",
+    "aqua-jet",
+    "round",
+    "scald",
+    "hurricane",
+    "disarming-voice",
+    "confide",
+    "liquidation",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 580,
+      "name": "ducklett",
+      "details": []
+    },
+    {
+      "id": 581,
+      "name": "swanna",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Water Bird Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "blue",
+  "shape": "wings",
+  "growth_rate": "medium",
+  "base_experience": 61,
+  "order": 702,
+  "egg_groups": [
+    "water1",
+    "flying"
+  ],
+  "forms": [
+    "ducklett"
+  ],
+  "gender_rate": 4
+}

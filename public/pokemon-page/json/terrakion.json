@@ -1,0 +1,152 @@
+{
+  "id": 639,
+  "name": "terrakion",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.9 m",
+  "weight": "260 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "rock",
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/639_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/639_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 91
+    },
+    {
+      "name": "attack",
+      "value": 129
+    },
+    {
+      "name": "defense",
+      "value": 90
+    },
+    {
+      "name": "special-attack",
+      "value": 72
+    },
+    {
+      "name": "special-defense",
+      "value": 90
+    },
+    {
+      "name": "speed",
+      "value": 108
+    }
+  ],
+  "abilities": [
+    {
+      "name": "justified",
+      "hidden": false,
+      "entries": "Raises Attack one stage upon taking damage from a Dark move."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "double-kick",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "roar",
+    "hyper-beam",
+    "strength",
+    "earthquake",
+    "toxic",
+    "quick-attack",
+    "double-team",
+    "reflect",
+    "swift",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "scary-face",
+    "sandstorm",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "megahorn",
+    "hidden-power",
+    "psych-up",
+    "rock-smash",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "secret-power",
+    "rock-tomb",
+    "aerial-ace",
+    "block",
+    "calm-mind",
+    "rock-blast",
+    "close-combat",
+    "aura-sphere",
+    "rock-polish",
+    "poison-jab",
+    "air-slash",
+    "x-scissor",
+    "focus-blast",
+    "earth-power",
+    "giga-impact",
+    "zen-headbutt",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "smack-down",
+    "round",
+    "quick-guard",
+    "retaliate",
+    "bulldoze",
+    "work-up",
+    "sacred-sword",
+    "confide",
+    "high-horsepower",
+    "laser-focus",
+    "smart-strike",
+    "stomping-tantrum",
+    "coaching",
+    "tera-blast",
+    "upper-hand"
+  ],
+  "evolution": [
+    {
+      "id": 639,
+      "name": "terrakion",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Cavern Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 35,
+  "capture_rate": 3,
+  "color": "gray",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 261,
+  "order": 762,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "terrakion"
+  ],
+  "gender_rate": -1
+}

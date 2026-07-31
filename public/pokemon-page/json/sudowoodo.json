@@ -1,0 +1,212 @@
+{
+  "id": 185,
+  "name": "sudowoodo",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "1.2 m",
+  "weight": "38 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "rock"
+  ],
+  "artwork": "assets/artwork/front/185_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/185_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 115
+    },
+    {
+      "name": "special-attack",
+      "value": 30
+    },
+    {
+      "name": "special-defense",
+      "value": 65
+    },
+    {
+      "name": "speed",
+      "value": 30
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "hidden": false,
+      "entries": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    },
+    {
+      "name": "rock-head",
+      "hidden": false,
+      "entries": "Protects against recoil damage."
+    },
+    {
+      "name": "rattled",
+      "hidden": true,
+      "entries": "Raises Speed one stage upon being hit by a Dark, Ghost, or Bug move."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "slam",
+    "mega-kick",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "low-kick",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "rock-throw",
+    "earthquake",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "harden",
+    "defense-curl",
+    "self-destruct",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "flail",
+    "protect",
+    "feint-attack",
+    "mud-slap",
+    "spikes",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dynamic-punch",
+    "hidden-power",
+    "sunny-day",
+    "psych-up",
+    "rock-smash",
+    "uproar",
+    "torment",
+    "facade",
+    "focus-punch",
+    "nature-power",
+    "taunt",
+    "helping-hand",
+    "role-play",
+    "brick-break",
+    "endeavor",
+    "secret-power",
+    "fake-tears",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "block",
+    "mud-shot",
+    "covet",
+    "calm-mind",
+    "rock-blast",
+    "hammer-arm",
+    "natural-gift",
+    "fling",
+    "copycat",
+    "sucker-punch",
+    "rock-polish",
+    "power-gem",
+    "drain-punch",
+    "earth-power",
+    "giga-impact",
+    "stone-edge",
+    "captivate",
+    "stealth-rock",
+    "grass-knot",
+    "wood-hammer",
+    "head-smash",
+    "smack-down",
+    "low-sweep",
+    "foul-play",
+    "after-you",
+    "round",
+    "bulldoze",
+    "confide",
+    "power-up-punch",
+    "high-horsepower",
+    "stomping-tantrum",
+    "tearful-look",
+    "body-press",
+    "meteor-beam",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 438,
+      "name": "bonsly",
+      "details": []
+    },
+    {
+      "id": 185,
+      "name": "sudowoodo",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": "mimic",
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Imitation Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 65,
+  "color": "brown",
+  "shape": "humanoid",
+  "growth_rate": "medium",
+  "base_experience": 144,
+  "order": 281,
+  "egg_groups": [
+    "mineral"
+  ],
+  "forms": [
+    "sudowoodo"
+  ],
+  "gender_rate": 4
+}

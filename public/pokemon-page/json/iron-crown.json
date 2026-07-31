@@ -1,0 +1,126 @@
+{
+  "id": 1023,
+  "name": "iron-crown",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.6 m",
+  "weight": "156 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "steel",
+    "psychic"
+  ],
+  "artwork": "assets/artwork/front/1023_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/1023_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 90
+    },
+    {
+      "name": "attack",
+      "value": 72
+    },
+    {
+      "name": "defense",
+      "value": 100
+    },
+    {
+      "name": "special-attack",
+      "value": 122
+    },
+    {
+      "name": "special-defense",
+      "value": 108
+    },
+    {
+      "name": "speed",
+      "value": 98
+    }
+  ],
+  "abilities": [
+    {
+      "name": "quark-drive",
+      "hidden": false,
+      "entries": "Raises highest stat on Electric Terrain, or if holding Booster Energy."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "hyper-beam",
+    "confusion",
+    "psychic",
+    "agility",
+    "rest",
+    "slash",
+    "substitute",
+    "protect",
+    "scary-face",
+    "endure",
+    "sleep-talk",
+    "metal-claw",
+    "future-sight",
+    "facade",
+    "brick-break",
+    "metal-sound",
+    "iron-defense",
+    "calm-mind",
+    "gravity",
+    "metal-burst",
+    "air-slash",
+    "x-scissor",
+    "focus-blast",
+    "giga-impact",
+    "psycho-cut",
+    "zen-headbutt",
+    "flash-cannon",
+    "iron-head",
+    "psyshock",
+    "heavy-slam",
+    "stored-power",
+    "quick-guard",
+    "volt-switch",
+    "bulldoze",
+    "sacred-sword",
+    "electric-terrain",
+    "solar-blade",
+    "smart-strike",
+    "steel-beam",
+    "expanding-force",
+    "tera-blast",
+    "tachyon-cutter",
+    "supercell-slam",
+    "psychic-noise"
+  ],
+  "evolution": [
+    {
+      "id": 1023,
+      "name": "iron-crown",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Paradox Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 0,
+  "capture_rate": 10,
+  "color": "blue",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 295,
+  "order": 1107,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "iron-crown"
+  ],
+  "gender_rate": -1
+}

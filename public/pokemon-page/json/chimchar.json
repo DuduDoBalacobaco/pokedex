@@ -1,0 +1,232 @@
+{
+  "id": 390,
+  "name": "chimchar",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.5 m",
+  "weight": "6.2 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "fire"
+  ],
+  "artwork": "assets/artwork/front/390_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/390_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 44
+    },
+    {
+      "name": "attack",
+      "value": 58
+    },
+    {
+      "name": "defense",
+      "value": 44
+    },
+    {
+      "name": "special-attack",
+      "value": 58
+    },
+    {
+      "name": "special-defense",
+      "value": 44
+    },
+    {
+      "name": "speed",
+      "value": 61
+    }
+  ],
+  "abilities": [
+    {
+      "name": "blaze",
+      "hidden": false,
+      "entries": "Strengthens Fire moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "iron-fist",
+      "hidden": true,
+      "entries": "Strengthens punch-based moves to 1.2× their power."
+    }
+  ],
+  "moves": [
+    "fire-punch",
+    "thunder-punch",
+    "scratch",
+    "swords-dance",
+    "cut",
+    "double-kick",
+    "headbutt",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "leer",
+    "ember",
+    "flamethrower",
+    "submission",
+    "low-kick",
+    "counter",
+    "strength",
+    "fire-spin",
+    "dig",
+    "toxic",
+    "agility",
+    "double-team",
+    "focus-energy",
+    "metronome",
+    "fire-blast",
+    "swift",
+    "fury-swipes",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "flame-wheel",
+    "snore",
+    "protect",
+    "mud-slap",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "encore",
+    "iron-tail",
+    "hidden-power",
+    "sunny-day",
+    "psych-up",
+    "rock-smash",
+    "fake-out",
+    "uproar",
+    "heat-wave",
+    "torment",
+    "will-o-wisp",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "helping-hand",
+    "role-play",
+    "assist",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "secret-power",
+    "blaze-kick",
+    "slack-off",
+    "fake-tears",
+    "overheat",
+    "rock-tomb",
+    "aerial-ace",
+    "bulk-up",
+    "covet",
+    "natural-gift",
+    "u-turn",
+    "fling",
+    "flare-blitz",
+    "poison-jab",
+    "vacuum-wave",
+    "switcheroo",
+    "nasty-plot",
+    "shadow-claw",
+    "zen-headbutt",
+    "rock-climb",
+    "gunk-shot",
+    "captivate",
+    "stealth-rock",
+    "grass-knot",
+    "hone-claws",
+    "flame-charge",
+    "low-sweep",
+    "round",
+    "quick-guard",
+    "incinerate",
+    "acrobatics",
+    "fire-pledge",
+    "work-up",
+    "confide",
+    "power-up-punch",
+    "burning-jealousy",
+    "tera-blast",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 390,
+      "name": "chimchar",
+      "details": []
+    },
+    {
+      "id": 391,
+      "name": "monferno",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 14,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 392,
+      "name": "infernape",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Chimp Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "brown",
+  "shape": "upright",
+  "growth_rate": "medium-slow",
+  "base_experience": 62,
+  "order": 521,
+  "egg_groups": [
+    "ground",
+    "humanshape"
+  ],
+  "forms": [
+    "chimchar"
+  ],
+  "gender_rate": 1
+}

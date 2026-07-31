@@ -1,0 +1,134 @@
+{
+  "id": 602,
+  "name": "tynamo",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.2 m",
+  "weight": "0.3 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/602_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/602_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 35
+    },
+    {
+      "name": "attack",
+      "value": 55
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 45
+    },
+    {
+      "name": "special-defense",
+      "value": 40
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "hidden": false,
+      "entries": "Evades Ground moves."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "thunder-wave",
+    "spark",
+    "charge",
+    "knock-off",
+    "magnet-rise",
+    "charge-beam",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 602,
+      "name": "tynamo",
+      "details": []
+    },
+    {
+      "id": 603,
+      "name": "eelektrik",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 39,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 604,
+      "name": "eelektross",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "thunder-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "EleFish Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "white",
+  "shape": "fish",
+  "growth_rate": "slow",
+  "base_experience": 55,
+  "order": 724,
+  "egg_groups": [
+    "indeterminate"
+  ],
+  "forms": [
+    "tynamo"
+  ],
+  "gender_rate": 4
+}

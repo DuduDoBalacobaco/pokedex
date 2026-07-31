@@ -1,0 +1,193 @@
+{
+  "id": 301,
+  "name": "delcatty",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "1.1 m",
+  "weight": "32.6 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/301_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/301_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 65
+    },
+    {
+      "name": "defense",
+      "value": 65
+    },
+    {
+      "name": "special-attack",
+      "value": 55
+    },
+    {
+      "name": "special-defense",
+      "value": 55
+    },
+    {
+      "name": "speed",
+      "value": 90
+    }
+  ],
+  "abilities": [
+    {
+      "name": "cute-charm",
+      "hidden": false,
+      "entries": "Has a 30% chance of infatuating attacking Pokémon on contact."
+    },
+    {
+      "name": "normalize",
+      "hidden": false,
+      "entries": "Makes the Pokémon's moves all act Normal-type."
+    },
+    {
+      "name": "wonder-skin",
+      "hidden": true,
+      "entries": "Lowers incoming non-damaging moves' base accuracy to exactly 50%."
+    }
+  ],
+  "moves": [
+    "double-slap",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "double-edge",
+    "tail-whip",
+    "growl",
+    "sing",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "strength",
+    "solar-beam",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "swift",
+    "dream-eater",
+    "flash",
+    "fury-swipes",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "sweet-kiss",
+    "mud-slap",
+    "icy-wind",
+    "endure",
+    "charm",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "frustration",
+    "safeguard",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "rock-smash",
+    "fake-out",
+    "uproar",
+    "facade",
+    "helping-hand",
+    "secret-power",
+    "hyper-voice",
+    "covet",
+    "calm-mind",
+    "shock-wave",
+    "water-pulse",
+    "natural-gift",
+    "payback",
+    "copycat",
+    "last-resort",
+    "sucker-punch",
+    "giga-impact",
+    "nasty-plot",
+    "zen-headbutt",
+    "captivate",
+    "grass-knot",
+    "charge-beam",
+    "round",
+    "echoed-voice",
+    "retaliate",
+    "work-up",
+    "wild-charge",
+    "disarming-voice",
+    "play-rough",
+    "confide",
+    "baby-doll-eyes",
+    "laser-focus",
+    "stomping-tantrum"
+  ],
+  "evolution": [
+    {
+      "id": 300,
+      "name": "skitty",
+      "details": []
+    },
+    {
+      "id": 301,
+      "name": "delcatty",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "moon-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Prim Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 60,
+  "color": "purple",
+  "shape": "quadruped",
+  "growth_rate": "fast",
+  "base_experience": 140,
+  "order": 404,
+  "egg_groups": [
+    "ground",
+    "fairy"
+  ],
+  "forms": [
+    "delcatty"
+  ],
+  "gender_rate": 6
+}

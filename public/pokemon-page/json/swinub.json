@@ -1,0 +1,215 @@
+{
+  "id": 220,
+  "name": "swinub",
+  "habitat_img": "assets/img/habitats/webp/cave.webp",
+  "habitat_name": "cave",
+  "height": "0.4 m",
+  "weight": "6.5 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "ice",
+    "ground"
+  ],
+  "artwork": "assets/artwork/front/220_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/220_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 30
+    },
+    {
+      "name": "special-defense",
+      "value": 30
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "oblivious",
+      "hidden": false,
+      "entries": "Prevents infatuation and protects against Captivate."
+    },
+    {
+      "name": "snow-cloak",
+      "hidden": false,
+      "entries": "Increases evasion to 1.25× during hail.  Protects against hail damage."
+    },
+    {
+      "name": "thick-fat",
+      "hidden": true,
+      "entries": "Halves damage from Fire and Ice moves."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "bite",
+    "roar",
+    "mist",
+    "ice-beam",
+    "blizzard",
+    "strength",
+    "earthquake",
+    "fissure",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "light-screen",
+    "haze",
+    "reflect",
+    "amnesia",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "flail",
+    "reversal",
+    "powder-snow",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "icy-wind",
+    "detect",
+    "sandstorm",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "ancient-power",
+    "rock-smash",
+    "hail",
+    "facade",
+    "superpower",
+    "endeavor",
+    "secret-power",
+    "mud-sport",
+    "odor-sleuth",
+    "rock-tomb",
+    "sand-tomb",
+    "icicle-spear",
+    "mud-shot",
+    "natural-gift",
+    "earth-power",
+    "avalanche",
+    "ice-shard",
+    "ice-fang",
+    "mud-bomb",
+    "stone-edge",
+    "captivate",
+    "stealth-rock",
+    "smack-down",
+    "round",
+    "bulldoze",
+    "icicle-crash",
+    "freeze-dry",
+    "confide",
+    "high-horsepower",
+    "stomping-tantrum",
+    "tera-blast",
+    "snowscape",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 220,
+      "name": "swinub",
+      "details": []
+    },
+    {
+      "id": 221,
+      "name": "piloswine",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 33,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 473,
+      "name": "mamoswine",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": "ancient-power",
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Pig Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 225,
+  "color": "brown",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 50,
+  "order": 318,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "swinub"
+  ],
+  "gender_rate": 4
+}

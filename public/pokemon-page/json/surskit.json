@@ -1,0 +1,182 @@
+{
+  "id": 283,
+  "name": "surskit",
+  "habitat_img": "assets/img/habitats/webp/waters-edge.webp",
+  "habitat_name": "waters-edge",
+  "height": "0.5 m",
+  "weight": "1.7 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "bug",
+    "water"
+  ],
+  "artwork": "assets/artwork/front/283_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/283_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 30
+    },
+    {
+      "name": "defense",
+      "value": 32
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 52
+    },
+    {
+      "name": "speed",
+      "value": 65
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "hidden": false,
+      "entries": "Doubles Speed during rain."
+    },
+    {
+      "name": "rain-dish",
+      "hidden": true,
+      "entries": "Heals for 1/16 max HP after each turn during rain."
+    }
+  ],
+  "moves": [
+    "take-down",
+    "double-edge",
+    "mist",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "psybeam",
+    "bubble-beam",
+    "solar-beam",
+    "string-shot",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "mimic",
+    "double-team",
+    "haze",
+    "waterfall",
+    "swift",
+    "leech-life",
+    "bubble",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "mind-reader",
+    "snore",
+    "protect",
+    "mud-slap",
+    "foresight",
+    "icy-wind",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "baton-pass",
+    "sweet-scent",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "facade",
+    "helping-hand",
+    "secret-power",
+    "signal-beam",
+    "mud-shot",
+    "water-sport",
+    "water-pulse",
+    "natural-gift",
+    "bug-buzz",
+    "captivate",
+    "bug-bite",
+    "aqua-jet",
+    "power-split",
+    "soak",
+    "round",
+    "scald",
+    "acrobatics",
+    "struggle-bug",
+    "sticky-web",
+    "fell-stinger",
+    "confide",
+    "infestation",
+    "lunge",
+    "liquidation",
+    "skitter-smack",
+    "tera-blast",
+    "pounce",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 283,
+      "name": "surskit",
+      "details": []
+    },
+    {
+      "id": 284,
+      "name": "masquerain",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 22,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Pond Skater Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 200,
+  "color": "blue",
+  "shape": "armor",
+  "growth_rate": "medium",
+  "base_experience": 54,
+  "order": 386,
+  "egg_groups": [
+    "water1",
+    "bug"
+  ],
+  "forms": [
+    "surskit"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,239 @@
+{
+  "id": 791,
+  "name": "solgaleo",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "3.4 m",
+  "weight": "230 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "psychic",
+    "steel"
+  ],
+  "artwork": "assets/artwork/front/791_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/791_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 137
+    },
+    {
+      "name": "attack",
+      "value": 137
+    },
+    {
+      "name": "defense",
+      "value": 107
+    },
+    {
+      "name": "special-attack",
+      "value": 113
+    },
+    {
+      "name": "special-defense",
+      "value": 89
+    },
+    {
+      "name": "speed",
+      "value": 97
+    }
+  ],
+  "abilities": [
+    {
+      "name": "full-metal-body",
+      "hidden": false,
+      "entries": "Other Pokémon cannot lower this Pokémon's stats."
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "roar",
+    "flamethrower",
+    "hyper-beam",
+    "solar-beam",
+    "fire-spin",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "earthquake",
+    "toxic",
+    "psychic",
+    "agility",
+    "teleport",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "fire-blast",
+    "swift",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "outrage",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "iron-tail",
+    "metal-claw",
+    "morning-sun",
+    "hidden-power",
+    "sunny-day",
+    "crunch",
+    "psych-up",
+    "future-sight",
+    "facade",
+    "helping-hand",
+    "superpower",
+    "knock-off",
+    "endeavor",
+    "hyper-voice",
+    "rock-tomb",
+    "metal-sound",
+    "cosmic-power",
+    "iron-defense",
+    "calm-mind",
+    "shock-wave",
+    "wake-up-slap",
+    "gyro-ball",
+    "metal-burst",
+    "close-combat",
+    "last-resort",
+    "flare-blitz",
+    "focus-blast",
+    "giga-impact",
+    "zen-headbutt",
+    "flash-cannon",
+    "trick-room",
+    "iron-head",
+    "stone-edge",
+    "wide-guard",
+    "psyshock",
+    "heavy-slam",
+    "flame-charge",
+    "round",
+    "bulldoze",
+    "work-up",
+    "wild-charge",
+    "heat-crash",
+    "snarl",
+    "noble-roar",
+    "confide",
+    "mystical-fire",
+    "psychic-fangs",
+    "sunsteel-strike",
+    "steel-beam",
+    "expanding-force",
+    "steel-roller",
+    "meteor-beam",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 789,
+      "name": "cosmog",
+      "details": []
+    },
+    {
+      "id": 790,
+      "name": "cosmoem",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 43,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 791,
+      "name": "solgaleo",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 53,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 792,
+      "name": "lunala",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 53,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Sunne Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 0,
+  "capture_rate": 45,
+  "color": "white",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 306,
+  "order": 968,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "solgaleo"
+  ],
+  "gender_rate": -1
+}

@@ -1,0 +1,214 @@
+{
+  "id": 355,
+  "name": "duskull",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "0.8 m",
+  "weight": "15 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "ghost"
+  ],
+  "artwork": "assets/artwork/front/355_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/355_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 20
+    },
+    {
+      "name": "attack",
+      "value": 40
+    },
+    {
+      "name": "defense",
+      "value": 90
+    },
+    {
+      "name": "special-attack",
+      "value": 30
+    },
+    {
+      "name": "special-defense",
+      "value": 90
+    },
+    {
+      "name": "speed",
+      "value": 25
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "hidden": false,
+      "entries": "Evades Ground moves."
+    },
+    {
+      "name": "frisk",
+      "hidden": true,
+      "entries": "Reveals an opponent's held item upon entering battle."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "body-slam",
+    "double-edge",
+    "leer",
+    "disable",
+    "ice-beam",
+    "blizzard",
+    "absorb",
+    "toxic",
+    "psychic",
+    "night-shade",
+    "mimic",
+    "double-team",
+    "confuse-ray",
+    "haze",
+    "dream-eater",
+    "leech-life",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "nightmare",
+    "snore",
+    "curse",
+    "spite",
+    "protect",
+    "feint-attack",
+    "foresight",
+    "destiny-bond",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "mean-look",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "pursuit",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "torment",
+    "will-o-wisp",
+    "memento",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "trick",
+    "revenge",
+    "skill-swap",
+    "imprison",
+    "grudge",
+    "snatch",
+    "secret-power",
+    "astonish",
+    "calm-mind",
+    "gravity",
+    "natural-gift",
+    "payback",
+    "embargo",
+    "fling",
+    "sucker-punch",
+    "dark-pulse",
+    "shadow-sneak",
+    "trick-room",
+    "captivate",
+    "charge-beam",
+    "ominous-wind",
+    "wonder-room",
+    "telekinesis",
+    "round",
+    "ally-switch",
+    "hex",
+    "phantom-force",
+    "confide",
+    "infestation",
+    "skitter-smack",
+    "poltergeist",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 355,
+      "name": "duskull",
+      "details": []
+    },
+    {
+      "id": 356,
+      "name": "dusclops",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 37,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 477,
+      "name": "dusknoir",
+      "details": [
+        {
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": "reaper-cloth",
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Requiem Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 35,
+  "capture_rate": 190,
+  "color": "black",
+  "shape": "arms",
+  "growth_rate": "fast",
+  "base_experience": 59,
+  "order": 472,
+  "egg_groups": [
+    "indeterminate"
+  ],
+  "forms": [
+    "duskull"
+  ],
+  "gender_rate": 4
+}

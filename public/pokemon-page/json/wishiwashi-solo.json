@@ -1,0 +1,128 @@
+{
+  "id": 746,
+  "name": "wishiwashi-solo",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.2 m",
+  "weight": "0.3 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "water"
+  ],
+  "artwork": "assets/artwork/front/746_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/746_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 45
+    },
+    {
+      "name": "attack",
+      "value": 20
+    },
+    {
+      "name": "defense",
+      "value": 20
+    },
+    {
+      "name": "special-attack",
+      "value": 25
+    },
+    {
+      "name": "special-defense",
+      "value": 25
+    },
+    {
+      "name": "speed",
+      "value": 40
+    }
+  ],
+  "abilities": [
+    {
+      "name": "schooling",
+      "hidden": false,
+      "entries": "Wishiwashi becomes Schooling Form when its HP is 25% or higher."
+    }
+  ],
+  "moves": [
+    "take-down",
+    "double-edge",
+    "growl",
+    "mist",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "earthquake",
+    "toxic",
+    "double-team",
+    "waterfall",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "feint-attack",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "whirlpool",
+    "beat-up",
+    "uproar",
+    "hail",
+    "facade",
+    "helping-hand",
+    "endeavor",
+    "dive",
+    "muddy-water",
+    "mud-shot",
+    "covet",
+    "water-sport",
+    "water-pulse",
+    "brine",
+    "u-turn",
+    "aqua-ring",
+    "aqua-tail",
+    "soak",
+    "round",
+    "scald",
+    "bulldoze",
+    "confide",
+    "liquidation",
+    "tearful-look",
+    "scale-shot",
+    "flip-turn"
+  ],
+  "evolution": [
+    {
+      "id": 746,
+      "name": "wishiwashi",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Small Fry Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 60,
+  "color": "blue",
+  "shape": "fish",
+  "growth_rate": "fast",
+  "base_experience": 61,
+  "order": 901,
+  "egg_groups": [
+    "water2"
+  ],
+  "forms": [
+    "wishiwashi-solo"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,128 @@
+{
+  "id": 872,
+  "name": "snom",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "3.8 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "ice",
+    "bug"
+  ],
+  "artwork": "assets/artwork/front/872_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/872_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 30
+    },
+    {
+      "name": "attack",
+      "value": 25
+    },
+    {
+      "name": "defense",
+      "value": 35
+    },
+    {
+      "name": "special-attack",
+      "value": 45
+    },
+    {
+      "name": "special-defense",
+      "value": 30
+    },
+    {
+      "name": "speed",
+      "value": 20
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shield-dust",
+      "hidden": false,
+      "entries": "Protects against incoming moves' extra effects."
+    },
+    {
+      "name": "ice-scales",
+      "hidden": true,
+      "entries": "Halves damage from Special moves."
+    }
+  ],
+  "moves": [
+    "rest",
+    "substitute",
+    "snore",
+    "powder-snow",
+    "protect",
+    "icy-wind",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "mirror-coat",
+    "facade",
+    "icicle-spear",
+    "bug-buzz",
+    "bug-bite",
+    "round",
+    "struggle-bug",
+    "fairy-wind",
+    "lunge",
+    "skitter-smack",
+    "tera-blast",
+    "pounce"
+  ],
+  "evolution": [
+    {
+      "id": 872,
+      "name": "snom",
+      "details": []
+    },
+    {
+      "id": 873,
+      "name": "frosmoth",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": 160,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "night",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Worm Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 190,
+  "color": "white",
+  "shape": "squiggle",
+  "growth_rate": "medium",
+  "base_experience": 37,
+  "order": 1056,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "snom"
+  ],
+  "gender_rate": 4
+}

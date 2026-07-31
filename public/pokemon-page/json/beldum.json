@@ -1,0 +1,140 @@
+{
+  "id": 374,
+  "name": "beldum",
+  "habitat_img": "assets/img/habitats/webp/rough-terrain.webp",
+  "habitat_name": "rough-terrain",
+  "height": "0.6 m",
+  "weight": "95.2 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "steel",
+    "psychic"
+  ],
+  "artwork": "assets/artwork/front/374_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/374_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 55
+    },
+    {
+      "name": "defense",
+      "value": 80
+    },
+    {
+      "name": "special-attack",
+      "value": 35
+    },
+    {
+      "name": "special-defense",
+      "value": 60
+    },
+    {
+      "name": "speed",
+      "value": 30
+    }
+  ],
+  "abilities": [
+    {
+      "name": "clear-body",
+      "hidden": false,
+      "entries": "Prevents stats from being lowered by other Pokémon."
+    },
+    {
+      "name": "light-metal",
+      "hidden": true,
+      "entries": "Halves the Pokémon's weight."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "take-down",
+    "iron-defense",
+    "zen-headbutt",
+    "iron-head",
+    "steel-beam",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 374,
+      "name": "beldum",
+      "details": []
+    },
+    {
+      "id": 375,
+      "name": "metang",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 20,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 376,
+      "name": "metagross",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 45,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Iron Ball Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 35,
+  "capture_rate": 3,
+  "color": "blue",
+  "shape": "blob",
+  "growth_rate": "slow",
+  "base_experience": 60,
+  "order": 496,
+  "egg_groups": [
+    "mineral"
+  ],
+  "forms": [
+    "beldum"
+  ],
+  "gender_rate": -1
+}

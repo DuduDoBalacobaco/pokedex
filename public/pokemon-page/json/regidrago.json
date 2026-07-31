@@ -1,0 +1,119 @@
+{
+  "id": 895,
+  "name": "regidrago",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2.1 m",
+  "weight": "200 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "dragon"
+  ],
+  "artwork": "assets/artwork/front/895_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/895_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 200
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 100
+    },
+    {
+      "name": "special-defense",
+      "value": 50
+    },
+    {
+      "name": "speed",
+      "value": 80
+    }
+  ],
+  "abilities": [
+    {
+      "name": "dragons-maw",
+      "hidden": false,
+      "entries": "Powers up Dragon-type moves."
+    }
+  ],
+  "moves": [
+    "vice-grip",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "bite",
+    "hyper-beam",
+    "earthquake",
+    "light-screen",
+    "reflect",
+    "focus-energy",
+    "self-destruct",
+    "swift",
+    "explosion",
+    "rest",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "dragon-breath",
+    "twister",
+    "crunch",
+    "ancient-power",
+    "facade",
+    "dragon-claw",
+    "dragon-dance",
+    "hammer-arm",
+    "dragon-pulse",
+    "earth-power",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "draco-meteor",
+    "round",
+    "laser-focus",
+    "breaking-swipe",
+    "scale-shot",
+    "dragon-energy",
+    "tera-blast",
+    "dragon-cheer"
+  ],
+  "evolution": [
+    {
+      "id": 895,
+      "name": "regidrago",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Dragon Orb Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 35,
+  "capture_rate": 3,
+  "color": "green",
+  "shape": "humanoid",
+  "growth_rate": "slow",
+  "base_experience": 290,
+  "order": 1087,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "regidrago"
+  ],
+  "gender_rate": -1
+}

@@ -1,0 +1,216 @@
+{
+  "id": 162,
+  "name": "furret",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "1.8 m",
+  "weight": "32.5 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/162_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/162_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 85
+    },
+    {
+      "name": "attack",
+      "value": 76
+    },
+    {
+      "name": "defense",
+      "value": 64
+    },
+    {
+      "name": "special-attack",
+      "value": 45
+    },
+    {
+      "name": "special-defense",
+      "value": 55
+    },
+    {
+      "name": "speed",
+      "value": 90
+    }
+  ],
+  "abilities": [
+    {
+      "name": "run-away",
+      "hidden": false,
+      "entries": "Ensures success fleeing from wild battles."
+    },
+    {
+      "name": "keen-eye",
+      "hidden": false,
+      "entries": "Prevents accuracy from being lowered."
+    },
+    {
+      "name": "frisk",
+      "hidden": true,
+      "entries": "Reveals an opponent's held item upon entering battle."
+    }
+  ],
+  "moves": [
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "scratch",
+    "cut",
+    "slam",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "flamethrower",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "strength",
+    "solar-beam",
+    "thunderbolt",
+    "thunder",
+    "dig",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "focus-energy",
+    "swift",
+    "amnesia",
+    "fury-swipes",
+    "rest",
+    "super-fang",
+    "slash",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "mud-slap",
+    "foresight",
+    "detect",
+    "endure",
+    "charm",
+    "rollout",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dynamic-punch",
+    "baton-pass",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "shadow-ball",
+    "rock-smash",
+    "whirlpool",
+    "uproar",
+    "facade",
+    "focus-punch",
+    "follow-me",
+    "helping-hand",
+    "trick",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "secret-power",
+    "hyper-voice",
+    "covet",
+    "shock-wave",
+    "water-pulse",
+    "natural-gift",
+    "u-turn",
+    "fling",
+    "me-first",
+    "last-resort",
+    "sucker-punch",
+    "aqua-tail",
+    "seed-bomb",
+    "focus-blast",
+    "giga-impact",
+    "shadow-claw",
+    "zen-headbutt",
+    "captivate",
+    "grass-knot",
+    "charge-beam",
+    "hone-claws",
+    "coil",
+    "round",
+    "echoed-voice",
+    "retaliate",
+    "work-up",
+    "play-rough",
+    "confide",
+    "baby-doll-eyes",
+    "power-up-punch",
+    "brutal-swing",
+    "tera-blast",
+    "tidy-up",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 161,
+      "name": "sentret",
+      "details": []
+    },
+    {
+      "id": 162,
+      "name": "furret",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 15,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Long Body Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 90,
+  "color": "brown",
+  "shape": "quadruped",
+  "growth_rate": "medium",
+  "base_experience": 145,
+  "order": 259,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "furret"
+  ],
+  "gender_rate": 4
+}

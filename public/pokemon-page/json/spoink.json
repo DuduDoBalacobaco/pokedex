@@ -1,0 +1,203 @@
+{
+  "id": 325,
+  "name": "spoink",
+  "habitat_img": "assets/img/habitats/webp/mountain.webp",
+  "habitat_name": "mountain",
+  "height": "0.7 m",
+  "weight": "30.6 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "psychic"
+  ],
+  "artwork": "assets/artwork/front/325_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/325_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 25
+    },
+    {
+      "name": "defense",
+      "value": 35
+    },
+    {
+      "name": "special-attack",
+      "value": 70
+    },
+    {
+      "name": "special-defense",
+      "value": 80
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "hidden": false,
+      "entries": "Halves damage from Fire and Ice moves."
+    },
+    {
+      "name": "own-tempo",
+      "hidden": false,
+      "entries": "Prevents confusion."
+    },
+    {
+      "name": "gluttony",
+      "hidden": true,
+      "entries": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+    }
+  ],
+  "moves": [
+    "whirlwind",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "psybeam",
+    "thunder-wave",
+    "toxic",
+    "confusion",
+    "psychic",
+    "night-shade",
+    "mimic",
+    "double-team",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "swift",
+    "amnesia",
+    "dream-eater",
+    "flash",
+    "psywave",
+    "splash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "frustration",
+    "encore",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "mirror-coat",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "uproar",
+    "torment",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "trick",
+    "role-play",
+    "magic-coat",
+    "recycle",
+    "endeavor",
+    "skill-swap",
+    "imprison",
+    "snatch",
+    "secret-power",
+    "odor-sleuth",
+    "signal-beam",
+    "extrasensory",
+    "bounce",
+    "covet",
+    "calm-mind",
+    "shock-wave",
+    "natural-gift",
+    "payback",
+    "lucky-chant",
+    "power-gem",
+    "zen-headbutt",
+    "flash-cannon",
+    "trick-room",
+    "captivate",
+    "grass-knot",
+    "charge-beam",
+    "psyshock",
+    "telekinesis",
+    "simple-beam",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "snarl",
+    "confide",
+    "dazzling-gleam",
+    "psychic-terrain",
+    "lunge",
+    "expanding-force",
+    "tera-blast",
+    "snowscape",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 325,
+      "name": "spoink",
+      "details": []
+    },
+    {
+      "id": 326,
+      "name": "grumpig",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 32,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Bounce Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 255,
+  "color": "black",
+  "shape": "arms",
+  "growth_rate": "fast",
+  "base_experience": 66,
+  "order": 437,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "spoink"
+  ],
+  "gender_rate": 4
+}

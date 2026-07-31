@@ -1,0 +1,243 @@
+{
+  "id": 45,
+  "name": "vileplume",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "1.2 m",
+  "weight": "18.6 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "grass",
+    "poison"
+  ],
+  "artwork": "assets/artwork/front/45_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/45_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 75
+    },
+    {
+      "name": "attack",
+      "value": 80
+    },
+    {
+      "name": "defense",
+      "value": 85
+    },
+    {
+      "name": "special-attack",
+      "value": 110
+    },
+    {
+      "name": "special-defense",
+      "value": 90
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "hidden": false,
+      "entries": "Doubles Speed during strong sunlight."
+    },
+    {
+      "name": "effect-spore",
+      "hidden": true,
+      "entries": "Has a 30% chance of inflcting either paralysis, poison, or sleep on attacking Pokémon on contact."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "acid",
+    "hyper-beam",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "sleep-powder",
+    "petal-dance",
+    "toxic",
+    "rage",
+    "mimic",
+    "double-team",
+    "reflect",
+    "bide",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "flail",
+    "protect",
+    "sludge-bomb",
+    "giga-drain",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "sweet-scent",
+    "synthesis",
+    "moonlight",
+    "hidden-power",
+    "sunny-day",
+    "facade",
+    "nature-power",
+    "helping-hand",
+    "ingrain",
+    "secret-power",
+    "teeter-dance",
+    "weather-ball",
+    "aromatherapy",
+    "tickle",
+    "bullet-seed",
+    "magical-leaf",
+    "natural-gift",
+    "fling",
+    "gastro-acid",
+    "worry-seed",
+    "seed-bomb",
+    "drain-punch",
+    "energy-ball",
+    "giga-impact",
+    "leaf-storm",
+    "captivate",
+    "grass-knot",
+    "venoshock",
+    "sludge-wave",
+    "acid-spray",
+    "after-you",
+    "round",
+    "petal-blizzard",
+    "grassy-terrain",
+    "moonblast",
+    "confide",
+    "dazzling-gleam",
+    "infestation",
+    "strength-sap",
+    "solar-blade",
+    "pollen-puff",
+    "grassy-glide",
+    "corrosive-gas",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 43,
+      "name": "oddish",
+      "details": []
+    },
+    {
+      "id": 44,
+      "name": "gloom",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 21,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "vileplume",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "leaf-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "name": "bellossom",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "sun-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Flower Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "red",
+  "shape": "humanoid",
+  "growth_rate": "medium-slow",
+  "base_experience": 221,
+  "order": 78,
+  "egg_groups": [
+    "plant"
+  ],
+  "forms": [
+    "vileplume"
+  ],
+  "gender_rate": 4
+}

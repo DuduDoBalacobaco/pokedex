@@ -1,0 +1,215 @@
+{
+  "id": 545,
+  "name": "scolipede",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2.5 m",
+  "weight": "200.5 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "bug",
+    "poison"
+  ],
+  "artwork": "assets/artwork/front/545_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/545_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 89
+    },
+    {
+      "name": "special-attack",
+      "value": 55
+    },
+    {
+      "name": "special-defense",
+      "value": 69
+    },
+    {
+      "name": "speed",
+      "value": 112
+    }
+  ],
+  "abilities": [
+    {
+      "name": "poison-point",
+      "hidden": false,
+      "entries": "Has a 30% chance of poisoning attacking Pokémon on contact."
+    },
+    {
+      "name": "swarm",
+      "hidden": false,
+      "entries": "Strengthens Bug moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "speed-boost",
+      "hidden": true,
+      "entries": "Raises Speed one stage after each turn."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "take-down",
+    "double-edge",
+    "poison-sting",
+    "pin-missile",
+    "bite",
+    "hyper-beam",
+    "strength",
+    "solar-beam",
+    "earthquake",
+    "dig",
+    "toxic",
+    "agility",
+    "screech",
+    "double-team",
+    "defense-curl",
+    "leech-life",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "sludge-bomb",
+    "spikes",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "megahorn",
+    "baton-pass",
+    "pursuit",
+    "iron-tail",
+    "hidden-power",
+    "sunny-day",
+    "rock-smash",
+    "facade",
+    "superpower",
+    "endeavor",
+    "snatch",
+    "secret-power",
+    "rock-tomb",
+    "signal-beam",
+    "iron-defense",
+    "poison-tail",
+    "gyro-ball",
+    "payback",
+    "assurance",
+    "toxic-spikes",
+    "poison-jab",
+    "aqua-tail",
+    "x-scissor",
+    "giga-impact",
+    "rock-climb",
+    "cross-poison",
+    "gunk-shot",
+    "bug-bite",
+    "double-hit",
+    "venoshock",
+    "acid-spray",
+    "round",
+    "hex",
+    "struggle-bug",
+    "bulldoze",
+    "steamroller",
+    "confide",
+    "venom-drench",
+    "infestation",
+    "throat-chop",
+    "smart-strike",
+    "stomping-tantrum",
+    "steel-roller",
+    "skitter-smack",
+    "pounce",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 543,
+      "name": "venipede",
+      "details": []
+    },
+    {
+      "id": 544,
+      "name": "whirlipede",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 22,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 545,
+      "name": "scolipede",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Megapede Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "red",
+  "shape": "armor",
+  "growth_rate": "medium-slow",
+  "base_experience": 218,
+  "order": 661,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "scolipede"
+  ],
+  "gender_rate": 4
+}

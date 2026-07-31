@@ -1,0 +1,185 @@
+{
+  "id": 241,
+  "name": "miltank",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "1.2 m",
+  "weight": "75.5 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/241_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/241_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 95
+    },
+    {
+      "name": "attack",
+      "value": 80
+    },
+    {
+      "name": "defense",
+      "value": 105
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 100
+    }
+  ],
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "hidden": false,
+      "entries": "Halves damage from Fire and Ice moves."
+    },
+    {
+      "name": "scrappy",
+      "hidden": false,
+      "entries": "Lets the Pokémon's Normal and Fighting moves hit Ghost Pokémon."
+    },
+    {
+      "name": "sap-sipper",
+      "hidden": true,
+      "entries": "Absorbs Grass moves, raising Attack one stage."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "stomp",
+    "mega-kick",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "double-edge",
+    "growl",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "solar-beam",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "earthquake",
+    "toxic",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "bide",
+    "metronome",
+    "dizzy-punch",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "mud-slap",
+    "zap-cannon",
+    "icy-wind",
+    "sandstorm",
+    "endure",
+    "charm",
+    "rollout",
+    "swagger",
+    "milk-drink",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "present",
+    "frustration",
+    "dynamic-punch",
+    "sweet-scent",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "rock-smash",
+    "whirlpool",
+    "facade",
+    "focus-punch",
+    "helping-hand",
+    "brick-break",
+    "secret-power",
+    "rock-tomb",
+    "block",
+    "shock-wave",
+    "water-pulse",
+    "wake-up-slap",
+    "hammer-arm",
+    "gyro-ball",
+    "natural-gift",
+    "fling",
+    "punishment",
+    "focus-blast",
+    "giga-impact",
+    "zen-headbutt",
+    "iron-head",
+    "captivate",
+    "stealth-rock",
+    "heavy-slam",
+    "after-you",
+    "round",
+    "echoed-voice",
+    "retaliate",
+    "bulldoze",
+    "work-up",
+    "heart-stamp",
+    "belch",
+    "play-rough",
+    "confide",
+    "power-up-punch",
+    "high-horsepower",
+    "stomping-tantrum",
+    "body-press",
+    "steel-roller"
+  ],
+  "evolution": [
+    {
+      "id": 241,
+      "name": "miltank",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Milk Cow Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "pink",
+  "shape": "upright",
+  "growth_rate": "slow",
+  "base_experience": 172,
+  "order": 336,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "miltank"
+  ],
+  "gender_rate": 8
+}

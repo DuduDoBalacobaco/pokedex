@@ -1,0 +1,172 @@
+{
+  "id": 144,
+  "name": "articuno",
+  "habitat_img": "assets/img/habitats/webp/rare.webp",
+  "habitat_name": "rare",
+  "height": "1.7 m",
+  "weight": "55.4 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "ice",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/144_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/144_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 90
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 100
+    },
+    {
+      "name": "special-attack",
+      "value": 95
+    },
+    {
+      "name": "special-defense",
+      "value": 125
+    },
+    {
+      "name": "speed",
+      "value": 85
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "hidden": false,
+      "entries": "Increases the PP cost of moves targetting the Pokémon by one."
+    },
+    {
+      "name": "snow-cloak",
+      "hidden": true,
+      "entries": "Increases evasion to 1.25× during hail.  Protects against hail damage."
+    }
+  ],
+  "moves": [
+    "razor-wind",
+    "gust",
+    "whirlwind",
+    "fly",
+    "headbutt",
+    "take-down",
+    "double-edge",
+    "leer",
+    "roar",
+    "mist",
+    "water-gun",
+    "ice-beam",
+    "blizzard",
+    "bubble-beam",
+    "hyper-beam",
+    "peck",
+    "toxic",
+    "agility",
+    "rage",
+    "mimic",
+    "double-team",
+    "light-screen",
+    "haze",
+    "reflect",
+    "bide",
+    "swift",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "mind-reader",
+    "snore",
+    "curse",
+    "powder-snow",
+    "protect",
+    "mud-slap",
+    "icy-wind",
+    "detect",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "frustration",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "mirror-coat",
+    "ancient-power",
+    "rock-smash",
+    "hail",
+    "facade",
+    "helping-hand",
+    "secret-power",
+    "feather-dance",
+    "weather-ball",
+    "air-cutter",
+    "signal-beam",
+    "extrasensory",
+    "sheer-cold",
+    "aerial-ace",
+    "icicle-spear",
+    "water-pulse",
+    "roost",
+    "natural-gift",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "avalanche",
+    "ice-shard",
+    "defog",
+    "ominous-wind",
+    "round",
+    "sky-drop",
+    "frost-breath",
+    "hurricane",
+    "freeze-dry",
+    "confide",
+    "laser-focus",
+    "aurora-veil",
+    "triple-axel",
+    "dual-wingbeat",
+    "tera-blast",
+    "ice-spinner",
+    "snowscape"
+  ],
+  "evolution": [
+    {
+      "id": 144,
+      "name": "articuno",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Freeze Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 35,
+  "capture_rate": 3,
+  "color": "blue",
+  "shape": "wings",
+  "growth_rate": "slow",
+  "base_experience": 261,
+  "order": 236,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "articuno"
+  ],
+  "gender_rate": -1
+}

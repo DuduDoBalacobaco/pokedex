@@ -1,0 +1,236 @@
+{
+  "id": 263,
+  "name": "zigzagoon",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "0.4 m",
+  "weight": "17.5 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/263_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/263_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 38
+    },
+    {
+      "name": "attack",
+      "value": 30
+    },
+    {
+      "name": "defense",
+      "value": 41
+    },
+    {
+      "name": "special-attack",
+      "value": 30
+    },
+    {
+      "name": "special-defense",
+      "value": 41
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pickup",
+      "hidden": false,
+      "entries": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+    },
+    {
+      "name": "gluttony",
+      "hidden": false,
+      "entries": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+    },
+    {
+      "name": "quick-feet",
+      "hidden": true,
+      "entries": "Increases Speed to 1.5× with a major status ailment."
+    }
+  ],
+  "moves": [
+    "cut",
+    "sand-attack",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "pin-missile",
+    "growl",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "swift",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "snore",
+    "flail",
+    "protect",
+    "belly-drum",
+    "mud-slap",
+    "icy-wind",
+    "endure",
+    "charm",
+    "rollout",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pursuit",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "extreme-speed",
+    "shadow-ball",
+    "rock-smash",
+    "whirlpool",
+    "facade",
+    "helping-hand",
+    "trick",
+    "secret-power",
+    "mud-sport",
+    "hyper-voice",
+    "odor-sleuth",
+    "tickle",
+    "mud-shot",
+    "covet",
+    "shock-wave",
+    "water-pulse",
+    "natural-gift",
+    "fling",
+    "last-resort",
+    "seed-bomb",
+    "rock-climb",
+    "gunk-shot",
+    "captivate",
+    "grass-knot",
+    "charge-beam",
+    "hone-claws",
+    "simple-beam",
+    "round",
+    "echoed-voice",
+    "retaliate",
+    "bestow",
+    "work-up",
+    "tail-slap",
+    "confide",
+    "baby-doll-eyes"
+  ],
+  "evolution": [
+    {
+      "id": 263,
+      "name": "zigzagoon",
+      "details": []
+    },
+    {
+      "id": 264,
+      "name": "linoone",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 20,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "level-up",
+          "min_level": 20,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 862,
+      "name": "obstagoon",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "night",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Tiny Raccoon Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 255,
+  "color": "brown",
+  "shape": "quadruped",
+  "growth_rate": "medium",
+  "base_experience": 56,
+  "order": 361,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "zigzagoon"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,180 @@
+{
+  "id": 515,
+  "name": "panpour",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.6 m",
+  "weight": "13.5 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "water"
+  ],
+  "artwork": "assets/artwork/front/515_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/515_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 53
+    },
+    {
+      "name": "defense",
+      "value": 48
+    },
+    {
+      "name": "special-attack",
+      "value": 53
+    },
+    {
+      "name": "special-defense",
+      "value": 48
+    },
+    {
+      "name": "speed",
+      "value": 64
+    }
+  ],
+  "abilities": [
+    {
+      "name": "gluttony",
+      "hidden": false,
+      "entries": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+    },
+    {
+      "name": "torrent",
+      "hidden": true,
+      "entries": "Strengthens Water moves to inflict 1.5× damage at 1/3 max HP or less."
+    }
+  ],
+  "moves": [
+    "ice-punch",
+    "scratch",
+    "cut",
+    "leer",
+    "bite",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "low-kick",
+    "dig",
+    "toxic",
+    "double-team",
+    "lick",
+    "waterfall",
+    "fury-swipes",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "icy-wind",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "crunch",
+    "rock-smash",
+    "uproar",
+    "hail",
+    "torment",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "helping-hand",
+    "role-play",
+    "recycle",
+    "knock-off",
+    "endeavor",
+    "secret-power",
+    "dive",
+    "mud-sport",
+    "astonish",
+    "rock-tomb",
+    "tickle",
+    "covet",
+    "water-sport",
+    "water-pulse",
+    "brine",
+    "natural-gift",
+    "payback",
+    "fling",
+    "gastro-acid",
+    "aqua-ring",
+    "aqua-tail",
+    "nasty-plot",
+    "shadow-claw",
+    "gunk-shot",
+    "grass-knot",
+    "hone-claws",
+    "low-sweep",
+    "round",
+    "scald",
+    "acrobatics",
+    "water-pledge",
+    "work-up",
+    "disarming-voice",
+    "play-nice",
+    "confide"
+  ],
+  "evolution": [
+    {
+      "id": 515,
+      "name": "panpour",
+      "details": []
+    },
+    {
+      "id": 516,
+      "name": "simipour",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "water-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Spray Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "blue",
+  "shape": "upright",
+  "growth_rate": "medium",
+  "base_experience": 63,
+  "order": 630,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "panpour"
+  ],
+  "gender_rate": 1
+}

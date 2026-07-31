@@ -1,0 +1,213 @@
+{
+  "id": 463,
+  "name": "lickilicky",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.7 m",
+  "weight": "140 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/463_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/463_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 110
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 95
+    },
+    {
+      "name": "special-attack",
+      "value": 80
+    },
+    {
+      "name": "special-defense",
+      "value": 95
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "hidden": false,
+      "entries": "Prevents confusion."
+    },
+    {
+      "name": "oblivious",
+      "hidden": false,
+      "entries": "Prevents infatuation and protects against Captivate."
+    },
+    {
+      "name": "cloud-nine",
+      "hidden": true,
+      "entries": "Negates all effects of weather, but does not prevent the weather itself."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "swords-dance",
+    "cut",
+    "bind",
+    "slam",
+    "stomp",
+    "mega-kick",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "wrap",
+    "double-edge",
+    "supersonic",
+    "disable",
+    "flamethrower",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "strength",
+    "solar-beam",
+    "thunderbolt",
+    "thunder",
+    "earthquake",
+    "dig",
+    "toxic",
+    "screech",
+    "double-team",
+    "defense-curl",
+    "self-destruct",
+    "lick",
+    "fire-blast",
+    "amnesia",
+    "dream-eater",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "belly-drum",
+    "mud-slap",
+    "icy-wind",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "rock-smash",
+    "whirlpool",
+    "facade",
+    "focus-punch",
+    "helping-hand",
+    "brick-break",
+    "knock-off",
+    "refresh",
+    "secret-power",
+    "rock-tomb",
+    "muddy-water",
+    "block",
+    "shock-wave",
+    "water-pulse",
+    "gyro-ball",
+    "natural-gift",
+    "fling",
+    "wring-out",
+    "me-first",
+    "aqua-tail",
+    "focus-blast",
+    "giga-impact",
+    "zen-headbutt",
+    "rock-climb",
+    "power-whip",
+    "captivate",
+    "round",
+    "chip-away",
+    "incinerate",
+    "retaliate",
+    "bulldoze",
+    "dragon-tail",
+    "work-up",
+    "confide",
+    "power-up-punch",
+    "brutal-swing",
+    "stomping-tantrum",
+    "body-press",
+    "steel-roller",
+    "terrain-pulse"
+  ],
+  "evolution": [
+    {
+      "id": 108,
+      "name": "lickitung",
+      "details": []
+    },
+    {
+      "id": 463,
+      "name": "lickilicky",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": "rollout",
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Licking Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 30,
+  "color": "pink",
+  "shape": "humanoid",
+  "growth_rate": "medium",
+  "base_experience": 180,
+  "order": 172,
+  "egg_groups": [
+    "monster"
+  ],
+  "forms": [
+    "lickilicky"
+  ],
+  "gender_rate": 4
+}

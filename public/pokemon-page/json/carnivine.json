@@ -1,0 +1,146 @@
+{
+  "id": 455,
+  "name": "carnivine",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.4 m",
+  "weight": "27 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/455_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/455_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 74
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 72
+    },
+    {
+      "name": "special-attack",
+      "value": 90
+    },
+    {
+      "name": "special-defense",
+      "value": 72
+    },
+    {
+      "name": "speed",
+      "value": 46
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "hidden": false,
+      "entries": "Evades Ground moves."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "bind",
+    "slam",
+    "vine-whip",
+    "bite",
+    "hyper-beam",
+    "absorb",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "stun-spore",
+    "sleep-powder",
+    "toxic",
+    "double-team",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "feint-attack",
+    "sludge-bomb",
+    "mud-slap",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "sweet-scent",
+    "synthesis",
+    "hidden-power",
+    "sunny-day",
+    "crunch",
+    "stockpile",
+    "spit-up",
+    "swallow",
+    "facade",
+    "nature-power",
+    "ingrain",
+    "knock-off",
+    "secret-power",
+    "grass-whistle",
+    "bullet-seed",
+    "magical-leaf",
+    "natural-gift",
+    "payback",
+    "fling",
+    "wring-out",
+    "gastro-acid",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "giga-impact",
+    "defog",
+    "power-whip",
+    "captivate",
+    "grass-knot",
+    "bug-bite",
+    "rage-powder",
+    "acid-spray",
+    "round",
+    "leaf-tornado",
+    "confide",
+    "infestation",
+    "throat-chop"
+  ],
+  "evolution": [
+    {
+      "id": 455,
+      "name": "carnivine",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Bug Catcher Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 200,
+  "color": "green",
+  "shape": "tentacles",
+  "growth_rate": "slow",
+  "base_experience": 159,
+  "order": 581,
+  "egg_groups": [
+    "plant"
+  ],
+  "forms": [
+    "carnivine"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,194 @@
+{
+  "id": 681,
+  "name": "aegislash-shield",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.7 m",
+  "weight": "53 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "steel",
+    "ghost"
+  ],
+  "artwork": "assets/artwork/front/681_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/681_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 140
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 140
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "stance-change",
+      "hidden": false,
+      "entries": "Changes Aegislash to Blade Forme before using a damaging move, or Shield Forme before using King’s Shield."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "tackle",
+    "hyper-beam",
+    "toxic",
+    "screech",
+    "double-team",
+    "reflect",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "snore",
+    "reversal",
+    "spite",
+    "protect",
+    "destiny-bond",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pursuit",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "shadow-ball",
+    "rock-smash",
+    "facade",
+    "brick-break",
+    "secret-power",
+    "metal-sound",
+    "aerial-ace",
+    "iron-defense",
+    "block",
+    "shock-wave",
+    "gyro-ball",
+    "close-combat",
+    "power-trick",
+    "magnet-rise",
+    "night-slash",
+    "air-slash",
+    "giga-impact",
+    "shadow-claw",
+    "shadow-sneak",
+    "psycho-cut",
+    "zen-headbutt",
+    "flash-cannon",
+    "iron-head",
+    "head-smash",
+    "double-hit",
+    "wide-guard",
+    "autotomize",
+    "after-you",
+    "round",
+    "retaliate",
+    "sacred-sword",
+    "kings-shield",
+    "confide",
+    "solar-blade",
+    "laser-focus",
+    "brutal-swing",
+    "steel-beam",
+    "poltergeist"
+  ],
+  "evolution": [
+    {
+      "id": 679,
+      "name": "honedge",
+      "details": []
+    },
+    {
+      "id": 680,
+      "name": "doublade",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 681,
+      "name": "aegislash",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "dusk-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Royal Sword Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "brown",
+  "shape": "blob",
+  "growth_rate": "medium",
+  "base_experience": 234,
+  "order": 815,
+  "egg_groups": [
+    "mineral"
+  ],
+  "forms": [
+    "aegislash-shield"
+  ],
+  "gender_rate": 4
+}

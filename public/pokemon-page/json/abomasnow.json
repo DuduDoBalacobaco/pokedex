@@ -1,0 +1,206 @@
+{
+  "id": 460,
+  "name": "abomasnow",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2.2 m",
+  "weight": "135.5 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "grass",
+    "ice"
+  ],
+  "artwork": "assets/artwork/front/460_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/460_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 90
+    },
+    {
+      "name": "attack",
+      "value": 92
+    },
+    {
+      "name": "defense",
+      "value": 75
+    },
+    {
+      "name": "special-attack",
+      "value": 92
+    },
+    {
+      "name": "special-defense",
+      "value": 85
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "snow-warning",
+      "hidden": false,
+      "entries": "Summons hail that lasts indefinitely upon entering battle."
+    },
+    {
+      "name": "soundproof",
+      "hidden": true,
+      "entries": "Protects against sound-based moves."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "ice-punch",
+    "swords-dance",
+    "mega-kick",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "mist",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "low-kick",
+    "strength",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "earthquake",
+    "toxic",
+    "double-team",
+    "light-screen",
+    "flash",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "powder-snow",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "icy-wind",
+    "outrage",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "iron-tail",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "shadow-ball",
+    "rock-smash",
+    "hail",
+    "facade",
+    "focus-punch",
+    "helping-hand",
+    "role-play",
+    "ingrain",
+    "brick-break",
+    "secret-power",
+    "weather-ball",
+    "rock-tomb",
+    "grass-whistle",
+    "sheer-cold",
+    "bullet-seed",
+    "icicle-spear",
+    "block",
+    "magical-leaf",
+    "water-pulse",
+    "natural-gift",
+    "fling",
+    "worry-seed",
+    "seed-bomb",
+    "focus-blast",
+    "energy-ball",
+    "earth-power",
+    "giga-impact",
+    "avalanche",
+    "ice-shard",
+    "rock-climb",
+    "leaf-storm",
+    "captivate",
+    "grass-knot",
+    "wood-hammer",
+    "round",
+    "bulldoze",
+    "frost-breath",
+    "icicle-crash",
+    "confide",
+    "ice-hammer",
+    "leafage",
+    "aurora-veil",
+    "stomping-tantrum",
+    "body-press",
+    "grassy-glide",
+    "tera-blast",
+    "ice-spinner",
+    "snowscape",
+    "trailblaze",
+    "chilling-water",
+    "hard-press"
+  ],
+  "evolution": [
+    {
+      "id": 459,
+      "name": "snover",
+      "details": []
+    },
+    {
+      "id": 460,
+      "name": "abomasnow",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 40,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Frost Tree Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 60,
+  "color": "white",
+  "shape": "upright",
+  "growth_rate": "slow",
+  "base_experience": 173,
+  "order": 585,
+  "egg_groups": [
+    "monster",
+    "plant"
+  ],
+  "forms": [
+    "abomasnow"
+  ],
+  "gender_rate": 4
+}

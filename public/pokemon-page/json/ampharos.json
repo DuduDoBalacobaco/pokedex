@@ -1,0 +1,236 @@
+{
+  "id": 181,
+  "name": "ampharos",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "1.4 m",
+  "weight": "61.5 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/181_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/181_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 90
+    },
+    {
+      "name": "attack",
+      "value": 75
+    },
+    {
+      "name": "defense",
+      "value": 85
+    },
+    {
+      "name": "special-attack",
+      "value": 115
+    },
+    {
+      "name": "special-defense",
+      "value": 90
+    },
+    {
+      "name": "speed",
+      "value": 55
+    }
+  ],
+  "abilities": [
+    {
+      "name": "static",
+      "hidden": false,
+      "entries": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+    },
+    {
+      "name": "plus",
+      "hidden": true,
+      "entries": "Increases Special Attack to 1.5× when a friendly Pokémon has Plus or Minus."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "mega-kick",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "roar",
+    "hyper-beam",
+    "low-kick",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "dig",
+    "toxic",
+    "agility",
+    "mimic",
+    "screech",
+    "double-team",
+    "confuse-ray",
+    "defense-curl",
+    "light-screen",
+    "reflect",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "cotton-spore",
+    "protect",
+    "zap-cannon",
+    "outrage",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "frustration",
+    "safeguard",
+    "dynamic-punch",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "flatter",
+    "facade",
+    "focus-punch",
+    "charge",
+    "helping-hand",
+    "brick-break",
+    "endeavor",
+    "secret-power",
+    "signal-beam",
+    "shock-wave",
+    "natural-gift",
+    "fling",
+    "magnet-rise",
+    "dragon-pulse",
+    "power-gem",
+    "focus-blast",
+    "giga-impact",
+    "rock-climb",
+    "discharge",
+    "captivate",
+    "charge-beam",
+    "electro-ball",
+    "after-you",
+    "round",
+    "echoed-voice",
+    "volt-switch",
+    "bulldoze",
+    "dragon-tail",
+    "electroweb",
+    "wild-charge",
+    "cotton-guard",
+    "ion-deluge",
+    "parabolic-charge",
+    "confide",
+    "eerie-impulse",
+    "magnetic-flux",
+    "electric-terrain",
+    "dazzling-gleam",
+    "power-up-punch",
+    "laser-focus",
+    "brutal-swing",
+    "stomping-tantrum",
+    "breaking-swipe",
+    "meteor-beam",
+    "rising-voltage",
+    "tera-blast",
+    "trailblaze",
+    "dragon-cheer",
+    "supercell-slam"
+  ],
+  "evolution": [
+    {
+      "id": 179,
+      "name": "mareep",
+      "details": []
+    },
+    {
+      "id": 180,
+      "name": "flaaffy",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 15,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "name": "ampharos",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Light Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "yellow",
+  "shape": "upright",
+  "growth_rate": "medium-slow",
+  "base_experience": 230,
+  "order": 275,
+  "egg_groups": [
+    "monster",
+    "ground"
+  ],
+  "forms": [
+    "ampharos"
+  ],
+  "gender_rate": 4
+}

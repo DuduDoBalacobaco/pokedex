@@ -1,0 +1,202 @@
+{
+  "id": 528,
+  "name": "swoobat",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.9 m",
+  "weight": "10.5 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "psychic",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/528_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/528_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 67
+    },
+    {
+      "name": "attack",
+      "value": 57
+    },
+    {
+      "name": "defense",
+      "value": 55
+    },
+    {
+      "name": "special-attack",
+      "value": 77
+    },
+    {
+      "name": "special-defense",
+      "value": 55
+    },
+    {
+      "name": "speed",
+      "value": 114
+    }
+  ],
+  "abilities": [
+    {
+      "name": "unaware",
+      "hidden": false,
+      "entries": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+    },
+    {
+      "name": "klutz",
+      "hidden": false,
+      "entries": "Prevents the Pokémon from using its held item in battle."
+    },
+    {
+      "name": "simple",
+      "hidden": true,
+      "entries": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
+    }
+  ],
+  "moves": [
+    "gust",
+    "fly",
+    "hyper-beam",
+    "thunder-wave",
+    "toxic",
+    "confusion",
+    "psychic",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "swift",
+    "amnesia",
+    "dream-eater",
+    "sky-attack",
+    "flash",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "baton-pass",
+    "hidden-power",
+    "rain-dance",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "uproar",
+    "heat-wave",
+    "torment",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "trick",
+    "magic-coat",
+    "knock-off",
+    "endeavor",
+    "skill-swap",
+    "imprison",
+    "secret-power",
+    "fake-tears",
+    "air-cutter",
+    "odor-sleuth",
+    "signal-beam",
+    "aerial-ace",
+    "calm-mind",
+    "shock-wave",
+    "roost",
+    "gyro-ball",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "assurance",
+    "embargo",
+    "air-slash",
+    "energy-ball",
+    "giga-impact",
+    "nasty-plot",
+    "psycho-cut",
+    "zen-headbutt",
+    "defog",
+    "trick-room",
+    "charge-beam",
+    "psyshock",
+    "telekinesis",
+    "simple-beam",
+    "after-you",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "acrobatics",
+    "heart-stamp",
+    "confide",
+    "venom-drench",
+    "laser-focus",
+    "speed-swap",
+    "psychic-fangs",
+    "expanding-force",
+    "dual-wingbeat"
+  ],
+  "evolution": [
+    {
+      "id": 527,
+      "name": "woobat",
+      "details": []
+    },
+    {
+      "id": 528,
+      "name": "swoobat",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": 160,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Courting Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "blue",
+  "shape": "wings",
+  "growth_rate": "medium",
+  "base_experience": 149,
+  "order": 643,
+  "egg_groups": [
+    "ground",
+    "flying"
+  ],
+  "forms": [
+    "swoobat"
+  ],
+  "gender_rate": 4
+}

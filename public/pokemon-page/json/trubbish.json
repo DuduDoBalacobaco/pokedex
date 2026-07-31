@@ -1,0 +1,168 @@
+{
+  "id": 568,
+  "name": "trubbish",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.6 m",
+  "weight": "31 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "poison"
+  ],
+  "artwork": "assets/artwork/front/568_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/568_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 62
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 62
+    },
+    {
+      "name": "speed",
+      "value": 65
+    }
+  ],
+  "abilities": [
+    {
+      "name": "stench",
+      "hidden": false,
+      "entries": "Has a 10% chance of making target Pokémon flinch with each hit."
+    },
+    {
+      "name": "sticky-hold",
+      "hidden": false,
+      "entries": "Prevents a held item from being removed by other Pokémon."
+    },
+    {
+      "name": "aftermath",
+      "hidden": true,
+      "entries": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+    }
+  ],
+  "moves": [
+    "pound",
+    "double-slap",
+    "sand-attack",
+    "take-down",
+    "toxic",
+    "double-team",
+    "haze",
+    "self-destruct",
+    "sludge",
+    "amnesia",
+    "poison-gas",
+    "explosion",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "spite",
+    "protect",
+    "sludge-bomb",
+    "spikes",
+    "giga-drain",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "stockpile",
+    "swallow",
+    "facade",
+    "recycle",
+    "secret-power",
+    "mud-sport",
+    "rock-blast",
+    "payback",
+    "toxic-spikes",
+    "dark-pulse",
+    "seed-bomb",
+    "drain-punch",
+    "gunk-shot",
+    "venoshock",
+    "autotomize",
+    "sludge-wave",
+    "acid-spray",
+    "round",
+    "clear-smog",
+    "belch",
+    "confide",
+    "venom-drench",
+    "infestation",
+    "corrosive-gas"
+  ],
+  "evolution": [
+    {
+      "id": 568,
+      "name": "trubbish",
+      "details": []
+    },
+    {
+      "id": 569,
+      "name": "garbodor",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Trash Bag Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "green",
+  "shape": "humanoid",
+  "growth_rate": "medium",
+  "base_experience": 66,
+  "order": 690,
+  "egg_groups": [
+    "mineral"
+  ],
+  "forms": [
+    "trubbish"
+  ],
+  "gender_rate": 4
+}

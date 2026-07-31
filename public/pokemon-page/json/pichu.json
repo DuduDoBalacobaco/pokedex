@@ -1,0 +1,237 @@
+{
+  "id": 172,
+  "name": "pichu",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "0.3 m",
+  "weight": "2 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/172_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/172_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 20
+    },
+    {
+      "name": "attack",
+      "value": 40
+    },
+    {
+      "name": "defense",
+      "value": 15
+    },
+    {
+      "name": "special-attack",
+      "value": 35
+    },
+    {
+      "name": "special-defense",
+      "value": 35
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "static",
+      "hidden": false,
+      "entries": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+    },
+    {
+      "name": "lightning-rod",
+      "hidden": true,
+      "entries": "Redirects single-target Electric moves to this Pokémon where possible.  Absorbs Electric moves, raising Special Attack one stage."
+    }
+  ],
+  "moves": [
+    "double-slap",
+    "mega-punch",
+    "thunder-punch",
+    "mega-kick",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "surf",
+    "counter",
+    "seismic-toss",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "quick-attack",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "light-screen",
+    "reflect",
+    "bide",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "flail",
+    "reversal",
+    "protect",
+    "sweet-kiss",
+    "mud-slap",
+    "zap-cannon",
+    "detect",
+    "endure",
+    "charm",
+    "rollout",
+    "swagger",
+    "spark",
+    "attract",
+    "sleep-talk",
+    "return",
+    "present",
+    "frustration",
+    "encore",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "fake-out",
+    "uproar",
+    "facade",
+    "charge",
+    "helping-hand",
+    "wish",
+    "secret-power",
+    "tickle",
+    "signal-beam",
+    "covet",
+    "volt-tackle",
+    "shock-wave",
+    "natural-gift",
+    "fling",
+    "lucky-chant",
+    "magnet-rise",
+    "nasty-plot",
+    "captivate",
+    "grass-knot",
+    "charge-beam",
+    "electro-ball",
+    "round",
+    "echoed-voice",
+    "bestow",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "disarming-voice",
+    "play-rough",
+    "play-nice",
+    "confide",
+    "electric-terrain",
+    "nuzzle",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 172,
+      "name": "pichu",
+      "details": []
+    },
+    {
+      "id": 25,
+      "name": "pikachu",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": 220,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "raichu",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "thunder-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "thunder-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": true,
+  "genus": "Tiny Mouse Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "yellow",
+  "shape": "quadruped",
+  "growth_rate": "medium",
+  "base_experience": 41,
+  "order": 34,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "pichu",
+    "pichu-spiky-eared"
+  ],
+  "gender_rate": 4
+}

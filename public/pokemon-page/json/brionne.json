@@ -1,0 +1,199 @@
+{
+  "id": 729,
+  "name": "brionne",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.6 m",
+  "weight": "17.5 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "water"
+  ],
+  "artwork": "assets/artwork/front/729_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/729_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 69
+    },
+    {
+      "name": "defense",
+      "value": 69
+    },
+    {
+      "name": "special-attack",
+      "value": 91
+    },
+    {
+      "name": "special-defense",
+      "value": 81
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "torrent",
+      "hidden": false,
+      "entries": "Strengthens Water moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "liquid-voice",
+      "hidden": true,
+      "entries": "Sound-based moves become Water-type."
+    }
+  ],
+  "moves": [
+    "pound",
+    "double-slap",
+    "body-slam",
+    "growl",
+    "sing",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "bubble-beam",
+    "toxic",
+    "double-team",
+    "waterfall",
+    "swift",
+    "amnesia",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "perish-song",
+    "icy-wind",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "encore",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "whirlpool",
+    "uproar",
+    "hail",
+    "facade",
+    "helping-hand",
+    "dive",
+    "hyper-voice",
+    "covet",
+    "water-pulse",
+    "brine",
+    "aqua-ring",
+    "aqua-tail",
+    "captivate",
+    "aqua-jet",
+    "wonder-room",
+    "round",
+    "echoed-voice",
+    "scald",
+    "acrobatics",
+    "water-pledge",
+    "work-up",
+    "disarming-voice",
+    "draining-kiss",
+    "misty-terrain",
+    "play-rough",
+    "moonblast",
+    "confide",
+    "baby-doll-eyes",
+    "life-dew",
+    "flip-turn",
+    "triple-axel",
+    "tera-blast",
+    "ice-spinner",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 728,
+      "name": "popplio",
+      "details": []
+    },
+    {
+      "id": 729,
+      "name": "brionne",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 17,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 730,
+      "name": "primarina",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 34,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Pop Star Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "blue",
+  "shape": "fish",
+  "growth_rate": "medium-slow",
+  "base_experience": 147,
+  "order": 875,
+  "egg_groups": [
+    "water1",
+    "ground"
+  ],
+  "forms": [
+    "brionne"
+  ],
+  "gender_rate": 1
+}

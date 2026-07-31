@@ -1,0 +1,145 @@
+{
+  "id": 1005,
+  "name": "roaring-moon",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2 m",
+  "weight": "380 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "dragon",
+    "dark"
+  ],
+  "artwork": "assets/artwork/front/1005_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/1005_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 105
+    },
+    {
+      "name": "attack",
+      "value": 139
+    },
+    {
+      "name": "defense",
+      "value": 71
+    },
+    {
+      "name": "special-attack",
+      "value": 55
+    },
+    {
+      "name": "special-defense",
+      "value": 101
+    },
+    {
+      "name": "speed",
+      "value": 119
+    }
+  ],
+  "abilities": [
+    {
+      "name": "protosynthesis",
+      "hidden": false,
+      "entries": "Raises highest stat in harsh sunlight, or if holding Booster Energy."
+    }
+  ],
+  "moves": [
+    "fly",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "bite",
+    "roar",
+    "flamethrower",
+    "hydro-pump",
+    "hyper-beam",
+    "fire-spin",
+    "earthquake",
+    "dig",
+    "focus-energy",
+    "fire-blast",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "protect",
+    "scary-face",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "dragon-breath",
+    "metal-claw",
+    "sunny-day",
+    "crunch",
+    "heat-wave",
+    "facade",
+    "taunt",
+    "brick-break",
+    "knock-off",
+    "hyper-voice",
+    "aerial-ace",
+    "dragon-claw",
+    "dragon-dance",
+    "roost",
+    "tailwind",
+    "u-turn",
+    "dark-pulse",
+    "night-slash",
+    "air-slash",
+    "x-scissor",
+    "dragon-pulse",
+    "dragon-rush",
+    "giga-impact",
+    "shadow-claw",
+    "thunder-fang",
+    "fire-fang",
+    "zen-headbutt",
+    "draco-meteor",
+    "iron-head",
+    "stone-edge",
+    "incinerate",
+    "acrobatics",
+    "dragon-tail",
+    "hurricane",
+    "snarl",
+    "throat-chop",
+    "stomping-tantrum",
+    "jaw-lock",
+    "body-press",
+    "breaking-swipe",
+    "scale-shot",
+    "lash-out",
+    "tera-blast",
+    "dragon-cheer"
+  ],
+  "evolution": [
+    {
+      "id": 1005,
+      "name": "roaring-moon",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Paradox Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 0,
+  "capture_rate": 10,
+  "color": "green",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 295,
+  "order": 985,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "roaring-moon"
+  ],
+  "gender_rate": -1
+}

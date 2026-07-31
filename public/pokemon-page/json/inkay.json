@@ -1,0 +1,198 @@
+{
+  "id": 686,
+  "name": "inkay",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.4 m",
+  "weight": "3.5 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "dark",
+    "psychic"
+  ],
+  "artwork": "assets/artwork/front/686_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/686_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 53
+    },
+    {
+      "name": "attack",
+      "value": 54
+    },
+    {
+      "name": "defense",
+      "value": 53
+    },
+    {
+      "name": "special-attack",
+      "value": 37
+    },
+    {
+      "name": "special-defense",
+      "value": 46
+    },
+    {
+      "name": "speed",
+      "value": 45
+    }
+  ],
+  "abilities": [
+    {
+      "name": "contrary",
+      "hidden": false,
+      "entries": "Inverts stat changes."
+    },
+    {
+      "name": "suction-cups",
+      "hidden": false,
+      "entries": "Prevents being forced out of battle by other Pokémon's moves."
+    },
+    {
+      "name": "infiltrator",
+      "hidden": true,
+      "entries": "Bypasses Light Screen, Reflect, and Safeguard."
+    }
+  ],
+  "moves": [
+    "cut",
+    "bind",
+    "tackle",
+    "wrap",
+    "disable",
+    "flamethrower",
+    "psybeam",
+    "peck",
+    "thunderbolt",
+    "toxic",
+    "psychic",
+    "hypnosis",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "swift",
+    "constrict",
+    "flash",
+    "psywave",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "thief",
+    "snore",
+    "spite",
+    "protect",
+    "destiny-bond",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "baton-pass",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "future-sight",
+    "torment",
+    "flatter",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "trick",
+    "role-play",
+    "superpower",
+    "knock-off",
+    "skill-swap",
+    "snatch",
+    "secret-power",
+    "camouflage",
+    "fake-tears",
+    "aerial-ace",
+    "calm-mind",
+    "gravity",
+    "pluck",
+    "acupressure",
+    "payback",
+    "embargo",
+    "fling",
+    "guard-swap",
+    "dark-pulse",
+    "night-slash",
+    "switcheroo",
+    "nasty-plot",
+    "psycho-cut",
+    "trick-room",
+    "power-split",
+    "psyshock",
+    "telekinesis",
+    "foul-play",
+    "simple-beam",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "retaliate",
+    "topsy-turvy",
+    "confide",
+    "lunge",
+    "liquidation",
+    "expanding-force",
+    "lash-out",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 686,
+      "name": "inkay",
+      "details": []
+    },
+    {
+      "id": 687,
+      "name": "malamar",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": true
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Revolving Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "blue",
+  "shape": "tentacles",
+  "growth_rate": "medium",
+  "base_experience": 58,
+  "order": 821,
+  "egg_groups": [
+    "water1",
+    "water2"
+  ],
+  "forms": [
+    "inkay"
+  ],
+  "gender_rate": 4
+}

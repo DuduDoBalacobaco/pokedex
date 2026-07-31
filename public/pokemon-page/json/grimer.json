@@ -1,0 +1,224 @@
+{
+  "id": 88,
+  "name": "grimer",
+  "habitat_img": "assets/img/habitats/webp/urban.webp",
+  "habitat_name": "urban",
+  "height": "0.9 m",
+  "weight": "30 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "poison"
+  ],
+  "artwork": "assets/artwork/front/88_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/88_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 80
+    },
+    {
+      "name": "attack",
+      "value": 80
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 50
+    },
+    {
+      "name": "speed",
+      "value": 25
+    }
+  ],
+  "abilities": [
+    {
+      "name": "stench",
+      "hidden": false,
+      "entries": "Has a 10% chance of making target Pokémon flinch with each hit."
+    },
+    {
+      "name": "sticky-hold",
+      "hidden": false,
+      "entries": "Prevents a held item from being removed by other Pokémon."
+    },
+    {
+      "name": "poison-touch",
+      "hidden": true,
+      "entries": "Has a 30% chance of poisoning target Pokémon upon contact."
+    }
+  ],
+  "moves": [
+    "pound",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "disable",
+    "flamethrower",
+    "strength",
+    "mega-drain",
+    "thunderbolt",
+    "thunder",
+    "dig",
+    "toxic",
+    "rage",
+    "mimic",
+    "screech",
+    "double-team",
+    "harden",
+    "minimize",
+    "confuse-ray",
+    "haze",
+    "bide",
+    "metronome",
+    "self-destruct",
+    "lick",
+    "smog",
+    "sludge",
+    "fire-blast",
+    "poison-gas",
+    "acid-armor",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "mud-slap",
+    "zap-cannon",
+    "sandstorm",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "mean-look",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pain-split",
+    "dynamic-punch",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "shadow-ball",
+    "stockpile",
+    "spit-up",
+    "swallow",
+    "torment",
+    "memento",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "imprison",
+    "secret-power",
+    "rock-tomb",
+    "shadow-punch",
+    "mud-shot",
+    "shock-wave",
+    "natural-gift",
+    "payback",
+    "fling",
+    "poison-jab",
+    "drain-punch",
+    "shadow-sneak",
+    "mud-bomb",
+    "zen-headbutt",
+    "gunk-shot",
+    "captivate",
+    "venoshock",
+    "sludge-wave",
+    "acid-spray",
+    "round",
+    "hex",
+    "incinerate",
+    "belch",
+    "confide",
+    "infestation",
+    "power-up-punch",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 88,
+      "name": "grimer",
+      "details": []
+    },
+    {
+      "id": 89,
+      "name": "muk",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 38,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "level-up",
+          "min_level": 38,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Sludge Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "purple",
+  "shape": "arms",
+  "growth_rate": "medium",
+  "base_experience": 65,
+  "order": 141,
+  "egg_groups": [
+    "indeterminate"
+  ],
+  "forms": [
+    "grimer"
+  ],
+  "gender_rate": 4
+}

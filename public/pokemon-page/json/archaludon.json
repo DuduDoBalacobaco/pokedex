@@ -1,0 +1,172 @@
+{
+  "id": 1018,
+  "name": "archaludon",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2 m",
+  "weight": "60 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "steel",
+    "dragon"
+  ],
+  "artwork": "assets/artwork/front/1018_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/1018_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 90
+    },
+    {
+      "name": "attack",
+      "value": 105
+    },
+    {
+      "name": "defense",
+      "value": 130
+    },
+    {
+      "name": "special-attack",
+      "value": 125
+    },
+    {
+      "name": "special-defense",
+      "value": 65
+    },
+    {
+      "name": "speed",
+      "value": 85
+    }
+  ],
+  "abilities": [
+    {
+      "name": "stamina",
+      "hidden": false,
+      "entries": "Raises this Pokémon's Defense by one stage when it takes damage from a move."
+    },
+    {
+      "name": "sturdy",
+      "hidden": false,
+      "entries": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    },
+    {
+      "name": "stalwart",
+      "hidden": true,
+      "entries": "Ignores moves and abilities that draw in moves."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "roar",
+    "hyper-beam",
+    "solar-beam",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "earthquake",
+    "light-screen",
+    "reflect",
+    "focus-energy",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "protect",
+    "scary-face",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "metal-claw",
+    "mirror-coat",
+    "rock-smash",
+    "facade",
+    "brick-break",
+    "rock-tomb",
+    "metal-sound",
+    "iron-defense",
+    "dragon-claw",
+    "gyro-ball",
+    "metal-burst",
+    "aura-sphere",
+    "dark-pulse",
+    "night-slash",
+    "dragon-pulse",
+    "giga-impact",
+    "flash-cannon",
+    "draco-meteor",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "hone-claws",
+    "smack-down",
+    "heavy-slam",
+    "foul-play",
+    "dragon-tail",
+    "snarl",
+    "body-press",
+    "breaking-swipe",
+    "steel-beam",
+    "meteor-beam",
+    "tera-blast",
+    "electro-shot",
+    "hard-press",
+    "dragon-cheer"
+  ],
+  "evolution": [
+    {
+      "id": 884,
+      "name": "duraludon",
+      "details": []
+    },
+    {
+      "id": 1018,
+      "name": "archaludon",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "metal-alloy",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Alloy Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 10,
+  "color": "white",
+  "shape": "upright",
+  "growth_rate": "medium",
+  "base_experience": 300,
+  "order": 1102,
+  "egg_groups": [
+    "mineral",
+    "dragon"
+  ],
+  "forms": [
+    "archaludon"
+  ],
+  "gender_rate": 4
+}

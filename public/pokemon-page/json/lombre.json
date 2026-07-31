@@ -1,0 +1,235 @@
+{
+  "id": 271,
+  "name": "lombre",
+  "habitat_img": "assets/img/habitats/webp/waters-edge.webp",
+  "habitat_name": "waters-edge",
+  "height": "1.2 m",
+  "weight": "32.5 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "water",
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/271_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/271_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 60
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "hidden": false,
+      "entries": "Doubles Speed during rain."
+    },
+    {
+      "name": "rain-dish",
+      "hidden": false,
+      "entries": "Heals for 1/16 max HP after each turn during rain."
+    },
+    {
+      "name": "own-tempo",
+      "hidden": true,
+      "entries": "Prevents confusion."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "swords-dance",
+    "mega-kick",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "mist",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "bubble-beam",
+    "counter",
+    "strength",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "razor-leaf",
+    "solar-beam",
+    "toxic",
+    "mimic",
+    "double-team",
+    "metronome",
+    "waterfall",
+    "bubble",
+    "flash",
+    "fury-swipes",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "flail",
+    "protect",
+    "mud-slap",
+    "icy-wind",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dynamic-punch",
+    "encore",
+    "sweet-scent",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "whirlpool",
+    "fake-out",
+    "uproar",
+    "hail",
+    "facade",
+    "nature-power",
+    "brick-break",
+    "knock-off",
+    "secret-power",
+    "dive",
+    "teeter-dance",
+    "hyper-voice",
+    "astonish",
+    "weather-ball",
+    "tickle",
+    "muddy-water",
+    "bullet-seed",
+    "mud-shot",
+    "magical-leaf",
+    "water-sport",
+    "water-pulse",
+    "natural-gift",
+    "fling",
+    "seed-bomb",
+    "drain-punch",
+    "energy-ball",
+    "zen-headbutt",
+    "captivate",
+    "grass-knot",
+    "hone-claws",
+    "round",
+    "echoed-voice",
+    "scald",
+    "disarming-voice",
+    "grassy-terrain",
+    "confide",
+    "power-up-punch",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 270,
+      "name": "lotad",
+      "details": []
+    },
+    {
+      "id": 271,
+      "name": "lombre",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 14,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "name": "ludicolo",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "water-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Jolly Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 120,
+  "color": "green",
+  "shape": "humanoid",
+  "growth_rate": "medium-slow",
+  "base_experience": 119,
+  "order": 371,
+  "egg_groups": [
+    "water1",
+    "plant"
+  ],
+  "forms": [
+    "lombre"
+  ],
+  "gender_rate": 4
+}

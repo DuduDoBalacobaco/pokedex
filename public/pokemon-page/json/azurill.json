@@ -1,0 +1,211 @@
+{
+  "id": 298,
+  "name": "azurill",
+  "habitat_img": "assets/img/habitats/webp/waters-edge.webp",
+  "habitat_name": "waters-edge",
+  "height": "0.2 m",
+  "weight": "2 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "normal",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/298_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/298_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 20
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 20
+    },
+    {
+      "name": "special-defense",
+      "value": 40
+    },
+    {
+      "name": "speed",
+      "value": 20
+    }
+  ],
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "hidden": false,
+      "entries": "Halves damage from Fire and Ice moves."
+    },
+    {
+      "name": "huge-power",
+      "hidden": false,
+      "entries": "Doubles Attack in battle."
+    },
+    {
+      "name": "sap-sipper",
+      "hidden": true,
+      "entries": "Absorbs Grass moves, raising Attack one stage."
+    }
+  ],
+  "moves": [
+    "slam",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "tail-whip",
+    "sing",
+    "supersonic",
+    "water-gun",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "bubble-beam",
+    "toxic",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "light-screen",
+    "waterfall",
+    "swift",
+    "bubble",
+    "splash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "belly-drum",
+    "mud-slap",
+    "perish-song",
+    "icy-wind",
+    "endure",
+    "charm",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "present",
+    "frustration",
+    "encore",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "whirlpool",
+    "uproar",
+    "hail",
+    "facade",
+    "helping-hand",
+    "knock-off",
+    "refresh",
+    "secret-power",
+    "camouflage",
+    "hyper-voice",
+    "fake-tears",
+    "tickle",
+    "muddy-water",
+    "bounce",
+    "mud-shot",
+    "covet",
+    "water-sport",
+    "water-pulse",
+    "natural-gift",
+    "copycat",
+    "captivate",
+    "aqua-jet",
+    "soak",
+    "round",
+    "scald",
+    "work-up",
+    "draining-kiss",
+    "confide",
+    "brutal-swing",
+    "tera-blast",
+    "alluring-voice"
+  ],
+  "evolution": [
+    {
+      "id": 298,
+      "name": "azurill",
+      "details": []
+    },
+    {
+      "id": 183,
+      "name": "marill",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": 160,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "name": "azumarill",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 18,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": true,
+  "genus": "Polka Dot Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 150,
+  "color": "blue",
+  "shape": "legs",
+  "growth_rate": "fast",
+  "base_experience": 38,
+  "order": 277,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "azurill"
+  ],
+  "gender_rate": 6
+}

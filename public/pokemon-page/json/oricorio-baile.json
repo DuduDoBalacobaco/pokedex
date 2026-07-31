@@ -1,0 +1,142 @@
+{
+  "id": 741,
+  "name": "oricorio-baile",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.6 m",
+  "weight": "3.4 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "fire",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/741_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/741_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 75
+    },
+    {
+      "name": "attack",
+      "value": 70
+    },
+    {
+      "name": "defense",
+      "value": 70
+    },
+    {
+      "name": "special-attack",
+      "value": 98
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 93
+    }
+  ],
+  "abilities": [
+    {
+      "name": "dancer",
+      "hidden": false,
+      "entries": "Whenever another Pokémon uses a dance move, this Pokémon will use the same move immediately afterwards."
+    }
+  ],
+  "moves": [
+    "pound",
+    "double-slap",
+    "swords-dance",
+    "fly",
+    "take-down",
+    "growl",
+    "peck",
+    "toxic",
+    "agility",
+    "double-team",
+    "mirror-move",
+    "swift",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "icy-wind",
+    "sandstorm",
+    "endure",
+    "charm",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "baton-pass",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "flatter",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "role-play",
+    "feather-dance",
+    "teeter-dance",
+    "air-cutter",
+    "aerial-ace",
+    "covet",
+    "calm-mind",
+    "roost",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "embargo",
+    "air-slash",
+    "defog",
+    "captivate",
+    "quiver-dance",
+    "round",
+    "quash",
+    "acrobatics",
+    "work-up",
+    "hurricane",
+    "confide",
+    "revelation-dance",
+    "dual-wingbeat",
+    "tera-blast",
+    "trailblaze",
+    "alluring-voice"
+  ],
+  "evolution": [
+    {
+      "id": 741,
+      "name": "oricorio",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Dancing Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "red",
+  "shape": "wings",
+  "growth_rate": "medium",
+  "base_experience": 167,
+  "order": 889,
+  "egg_groups": [
+    "flying"
+  ],
+  "forms": [
+    "oricorio-baile"
+  ],
+  "gender_rate": 6
+}

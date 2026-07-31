@@ -1,0 +1,174 @@
+{
+  "id": 546,
+  "name": "cottonee",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "0.6 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "grass",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/546_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/546_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 27
+    },
+    {
+      "name": "defense",
+      "value": 60
+    },
+    {
+      "name": "special-attack",
+      "value": 37
+    },
+    {
+      "name": "special-defense",
+      "value": 50
+    },
+    {
+      "name": "speed",
+      "value": 66
+    }
+  ],
+  "abilities": [
+    {
+      "name": "prankster",
+      "hidden": false,
+      "entries": "Raises non-damaging moves' priority by one stage."
+    },
+    {
+      "name": "infiltrator",
+      "hidden": false,
+      "entries": "Bypasses Light Screen, Reflect, and Safeguard."
+    },
+    {
+      "name": "chlorophyll",
+      "hidden": true,
+      "entries": "Doubles Speed during strong sunlight."
+    }
+  ],
+  "moves": [
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "toxic",
+    "double-team",
+    "swift",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "cotton-spore",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "encore",
+    "hidden-power",
+    "sunny-day",
+    "beat-up",
+    "memento",
+    "facade",
+    "nature-power",
+    "taunt",
+    "helping-hand",
+    "knock-off",
+    "endeavor",
+    "secret-power",
+    "fake-tears",
+    "grass-whistle",
+    "tickle",
+    "covet",
+    "natural-gift",
+    "tailwind",
+    "worry-seed",
+    "seed-bomb",
+    "energy-ball",
+    "switcheroo",
+    "defog",
+    "captivate",
+    "grass-knot",
+    "round",
+    "cotton-guard",
+    "grassy-terrain",
+    "misty-terrain",
+    "fairy-wind",
+    "confide",
+    "dazzling-gleam",
+    "grassy-glide",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 546,
+      "name": "cottonee",
+      "details": []
+    },
+    {
+      "id": 547,
+      "name": "whimsicott",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "sun-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Cotton Puff Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "green",
+  "shape": "ball",
+  "growth_rate": "medium",
+  "base_experience": 56,
+  "order": 662,
+  "egg_groups": [
+    "plant",
+    "fairy"
+  ],
+  "forms": [
+    "cottonee"
+  ],
+  "gender_rate": 4
+}

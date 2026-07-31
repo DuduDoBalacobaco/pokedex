@@ -1,0 +1,121 @@
+{
+  "id": 771,
+  "name": "pyukumuku",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "1.2 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "water"
+  ],
+  "artwork": "assets/artwork/front/771_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/771_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 55
+    },
+    {
+      "name": "attack",
+      "value": 60
+    },
+    {
+      "name": "defense",
+      "value": 130
+    },
+    {
+      "name": "special-attack",
+      "value": 30
+    },
+    {
+      "name": "special-defense",
+      "value": 130
+    },
+    {
+      "name": "speed",
+      "value": 5
+    }
+  ],
+  "abilities": [
+    {
+      "name": "innards-out",
+      "hidden": false,
+      "entries": "When this Pokémon faints from an opponent's move, that opponent takes damage equal to the HP this Pokémon had remaining."
+    },
+    {
+      "name": "unaware",
+      "hidden": true,
+      "entries": "Ignores other Pokémon's stat modifiers for damage and accuracy calculation."
+    }
+  ],
+  "moves": [
+    "counter",
+    "toxic",
+    "screech",
+    "double-team",
+    "recover",
+    "harden",
+    "light-screen",
+    "reflect",
+    "bide",
+    "rest",
+    "substitute",
+    "curse",
+    "spite",
+    "protect",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "safeguard",
+    "pain-split",
+    "baton-pass",
+    "rain-dance",
+    "mirror-coat",
+    "psych-up",
+    "hail",
+    "memento",
+    "taunt",
+    "helping-hand",
+    "recycle",
+    "mud-sport",
+    "tickle",
+    "block",
+    "water-sport",
+    "gastro-acid",
+    "soak",
+    "quash",
+    "bestow",
+    "confide",
+    "venom-drench",
+    "purify"
+  ],
+  "evolution": [
+    {
+      "id": 771,
+      "name": "pyukumuku",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Sea Cucumber Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 60,
+  "color": "black",
+  "shape": "squiggle",
+  "growth_rate": "fast",
+  "base_experience": 144,
+  "order": 930,
+  "egg_groups": [
+    "water1"
+  ],
+  "forms": [
+    "pyukumuku"
+  ],
+  "gender_rate": 4
+}

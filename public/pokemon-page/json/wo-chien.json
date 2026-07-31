@@ -1,0 +1,129 @@
+{
+  "id": 1001,
+  "name": "wo-chien",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.5 m",
+  "weight": "74.2 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "dark",
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/1001_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/1001_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 85
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 100
+    },
+    {
+      "name": "special-attack",
+      "value": 95
+    },
+    {
+      "name": "special-defense",
+      "value": 135
+    },
+    {
+      "name": "speed",
+      "value": 70
+    }
+  ],
+  "abilities": [
+    {
+      "name": "tablets-of-ruin",
+      "hidden": false,
+      "entries": "Lowers Attack of all Pokémon except itself."
+    }
+  ],
+  "moves": [
+    "body-slam",
+    "take-down",
+    "hyper-beam",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "solar-beam",
+    "poison-powder",
+    "stun-spore",
+    "light-screen",
+    "reflect",
+    "rest",
+    "substitute",
+    "spite",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "giga-drain",
+    "endure",
+    "mean-look",
+    "sleep-talk",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "taunt",
+    "ingrain",
+    "knock-off",
+    "tickle",
+    "bullet-seed",
+    "mud-shot",
+    "magical-leaf",
+    "payback",
+    "dark-pulse",
+    "seed-bomb",
+    "energy-ball",
+    "giga-impact",
+    "zen-headbutt",
+    "leaf-storm",
+    "power-whip",
+    "grass-knot",
+    "foul-play",
+    "hex",
+    "snarl",
+    "grassy-terrain",
+    "solar-blade",
+    "pollen-puff",
+    "body-press",
+    "lash-out",
+    "tera-blast",
+    "ruination",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 1001,
+      "name": "wo-chien",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Ruinous Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 0,
+  "capture_rate": 6,
+  "color": "brown",
+  "shape": "squiggle",
+  "growth_rate": "slow",
+  "base_experience": 285,
+  "order": 996,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "wo-chien"
+  ],
+  "gender_rate": -1
+}

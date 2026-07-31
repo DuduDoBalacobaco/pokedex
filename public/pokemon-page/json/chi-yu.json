@@ -1,0 +1,123 @@
+{
+  "id": 1004,
+  "name": "chi-yu",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.4 m",
+  "weight": "4.9 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "dark",
+    "fire"
+  ],
+  "artwork": "assets/artwork/front/1004_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/1004_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 55
+    },
+    {
+      "name": "attack",
+      "value": 80
+    },
+    {
+      "name": "defense",
+      "value": 80
+    },
+    {
+      "name": "special-attack",
+      "value": 135
+    },
+    {
+      "name": "special-defense",
+      "value": 120
+    },
+    {
+      "name": "speed",
+      "value": 100
+    }
+  ],
+  "abilities": [
+    {
+      "name": "beads-of-ruin",
+      "hidden": false,
+      "entries": "Lowers Special Defense of all Pokémon except itself."
+    }
+  ],
+  "moves": [
+    "take-down",
+    "ember",
+    "flamethrower",
+    "hyper-beam",
+    "fire-spin",
+    "psychic",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "fire-blast",
+    "rest",
+    "substitute",
+    "flame-wheel",
+    "spite",
+    "protect",
+    "scary-face",
+    "endure",
+    "swagger",
+    "mean-look",
+    "sleep-talk",
+    "sunny-day",
+    "crunch",
+    "heat-wave",
+    "will-o-wisp",
+    "memento",
+    "facade",
+    "taunt",
+    "overheat",
+    "bounce",
+    "payback",
+    "flare-blitz",
+    "dark-pulse",
+    "giga-impact",
+    "nasty-plot",
+    "zen-headbutt",
+    "lava-plume",
+    "flame-charge",
+    "hex",
+    "incinerate",
+    "inferno",
+    "snarl",
+    "burning-jealousy",
+    "lash-out",
+    "tera-blast",
+    "ruination",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 1004,
+      "name": "chi-yu",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Ruinous Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 0,
+  "capture_rate": 6,
+  "color": "red",
+  "shape": "fish",
+  "growth_rate": "slow",
+  "base_experience": 285,
+  "order": 997,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "chi-yu"
+  ],
+  "gender_rate": -1
+}

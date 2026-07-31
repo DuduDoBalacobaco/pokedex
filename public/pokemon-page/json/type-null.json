@@ -1,0 +1,157 @@
+{
+  "id": 772,
+  "name": "type-null",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.9 m",
+  "weight": "120.5 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/772_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/772_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 95
+    },
+    {
+      "name": "attack",
+      "value": 95
+    },
+    {
+      "name": "defense",
+      "value": 95
+    },
+    {
+      "name": "special-attack",
+      "value": 95
+    },
+    {
+      "name": "special-defense",
+      "value": 95
+    },
+    {
+      "name": "speed",
+      "value": 59
+    }
+  ],
+  "abilities": [
+    {
+      "name": "battle-armor",
+      "hidden": false,
+      "entries": "Protects against critical hits."
+    }
+  ],
+  "moves": [
+    "razor-wind",
+    "swords-dance",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "roar",
+    "hyper-beam",
+    "thunder-wave",
+    "toxic",
+    "rage",
+    "double-team",
+    "swift",
+    "rest",
+    "rock-slide",
+    "tri-attack",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "icy-wind",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pursuit",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "hail",
+    "facade",
+    "magic-coat",
+    "imprison",
+    "crush-claw",
+    "metal-sound",
+    "signal-beam",
+    "aerial-ace",
+    "iron-defense",
+    "dragon-claw",
+    "u-turn",
+    "payback",
+    "heal-block",
+    "punishment",
+    "last-resort",
+    "air-slash",
+    "x-scissor",
+    "giga-impact",
+    "shadow-claw",
+    "iron-head",
+    "double-hit",
+    "flame-charge",
+    "round",
+    "work-up",
+    "confide",
+    "terrain-pulse"
+  ],
+  "evolution": [
+    {
+      "id": 772,
+      "name": "type-null",
+      "details": []
+    },
+    {
+      "id": 773,
+      "name": "silvally",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": 160,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Synthetic Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 0,
+  "capture_rate": 3,
+  "color": "gray",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 107,
+  "order": 931,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "type-null"
+  ],
+  "gender_rate": -1
+}

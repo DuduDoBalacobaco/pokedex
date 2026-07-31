@@ -1,0 +1,125 @@
+{
+  "id": 415,
+  "name": "combee",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "5.5 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "bug",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/415_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/415_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 30
+    },
+    {
+      "name": "attack",
+      "value": 30
+    },
+    {
+      "name": "defense",
+      "value": 42
+    },
+    {
+      "name": "special-attack",
+      "value": 30
+    },
+    {
+      "name": "special-defense",
+      "value": 42
+    },
+    {
+      "name": "speed",
+      "value": 70
+    }
+  ],
+  "abilities": [
+    {
+      "name": "honey-gather",
+      "hidden": false,
+      "entries": "The Pokémon may pick up Honey after battle."
+    },
+    {
+      "name": "hustle",
+      "hidden": true,
+      "entries": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    }
+  ],
+  "moves": [
+    "gust",
+    "string-shot",
+    "swift",
+    "snore",
+    "mud-slap",
+    "sleep-talk",
+    "sweet-scent",
+    "endeavor",
+    "air-cutter",
+    "tailwind",
+    "bug-buzz",
+    "bug-bite",
+    "ominous-wind",
+    "struggle-bug",
+    "lunge",
+    "skitter-smack",
+    "dual-wingbeat",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 415,
+      "name": "combee",
+      "details": []
+    },
+    {
+      "id": 416,
+      "name": "vespiquen",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 21,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Tiny Bee Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 120,
+  "color": "yellow",
+  "shape": "heads",
+  "growth_rate": "medium-slow",
+  "base_experience": 49,
+  "order": 546,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "combee"
+  ],
+  "gender_rate": 1
+}

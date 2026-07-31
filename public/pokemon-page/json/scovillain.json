@@ -1,0 +1,167 @@
+{
+  "id": 952,
+  "name": "scovillain",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.9 m",
+  "weight": "15 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "grass",
+    "fire"
+  ],
+  "artwork": "assets/artwork/front/952_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/952_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 65
+    },
+    {
+      "name": "attack",
+      "value": 108
+    },
+    {
+      "name": "defense",
+      "value": 65
+    },
+    {
+      "name": "special-attack",
+      "value": 108
+    },
+    {
+      "name": "special-defense",
+      "value": 65
+    },
+    {
+      "name": "speed",
+      "value": 75
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chlorophyll",
+      "hidden": false,
+      "entries": "Doubles Speed during strong sunlight."
+    },
+    {
+      "name": "insomnia",
+      "hidden": false,
+      "entries": "Prevents sleep."
+    },
+    {
+      "name": "moody",
+      "hidden": true,
+      "entries": "Raises a random stat two stages and lowers another one stage after each turn."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "take-down",
+    "leer",
+    "bite",
+    "flamethrower",
+    "hyper-beam",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "fire-spin",
+    "fire-blast",
+    "rest",
+    "super-fang",
+    "substitute",
+    "thief",
+    "protect",
+    "scary-face",
+    "sandstorm",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "sunny-day",
+    "crunch",
+    "will-o-wisp",
+    "facade",
+    "helping-hand",
+    "ingrain",
+    "endeavor",
+    "overheat",
+    "bullet-seed",
+    "magical-leaf",
+    "worry-seed",
+    "flare-blitz",
+    "seed-bomb",
+    "energy-ball",
+    "giga-impact",
+    "thunder-fang",
+    "fire-fang",
+    "zen-headbutt",
+    "leaf-storm",
+    "grass-knot",
+    "double-hit",
+    "rage-powder",
+    "grassy-terrain",
+    "leafage",
+    "stomping-tantrum",
+    "grassy-glide",
+    "burning-jealousy",
+    "lash-out",
+    "tera-blast",
+    "spicy-extract",
+    "trailblaze",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 951,
+      "name": "capsakid",
+      "details": []
+    },
+    {
+      "id": 952,
+      "name": "scovillain",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "fire-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Spicy Pepper Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 75,
+  "color": "green",
+  "shape": "upright",
+  "growth_rate": "medium",
+  "base_experience": 170,
+  "order": 939,
+  "egg_groups": [
+    "plant"
+  ],
+  "forms": [
+    "scovillain"
+  ],
+  "gender_rate": 4
+}

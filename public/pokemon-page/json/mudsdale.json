@@ -1,0 +1,174 @@
+{
+  "id": 750,
+  "name": "mudsdale",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2.5 m",
+  "weight": "920 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "ground"
+  ],
+  "artwork": "assets/artwork/front/750_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/750_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 125
+    },
+    {
+      "name": "defense",
+      "value": 100
+    },
+    {
+      "name": "special-attack",
+      "value": 55
+    },
+    {
+      "name": "special-defense",
+      "value": 85
+    },
+    {
+      "name": "speed",
+      "value": 35
+    }
+  ],
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "hidden": false,
+      "entries": "Prevents confusion."
+    },
+    {
+      "name": "stamina",
+      "hidden": false,
+      "entries": "Raises this Pokémon's Defense by one stage when it takes damage from a move."
+    },
+    {
+      "name": "inner-focus",
+      "hidden": true,
+      "entries": "Prevents flinching."
+    }
+  ],
+  "moves": [
+    "stomp",
+    "double-kick",
+    "mega-kick",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "roar",
+    "hyper-beam",
+    "low-kick",
+    "counter",
+    "strength",
+    "earthquake",
+    "fissure",
+    "toxic",
+    "double-team",
+    "bide",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "sunny-day",
+    "rock-smash",
+    "facade",
+    "superpower",
+    "revenge",
+    "endeavor",
+    "mud-sport",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "mud-shot",
+    "close-combat",
+    "payback",
+    "focus-blast",
+    "earth-power",
+    "giga-impact",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "smack-down",
+    "heavy-slam",
+    "low-sweep",
+    "round",
+    "bulldoze",
+    "rototiller",
+    "confide",
+    "high-horsepower",
+    "stomping-tantrum",
+    "body-press",
+    "lash-out",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 749,
+      "name": "mudbray",
+      "details": []
+    },
+    {
+      "id": 750,
+      "name": "mudsdale",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Draft Horse Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 60,
+  "color": "brown",
+  "shape": "quadruped",
+  "growth_rate": "medium",
+  "base_experience": 175,
+  "order": 906,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "mudsdale"
+  ],
+  "gender_rate": 4
+}

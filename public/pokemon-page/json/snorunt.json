@@ -1,0 +1,199 @@
+{
+  "id": 361,
+  "name": "snorunt",
+  "habitat_img": "assets/img/habitats/webp/cave.webp",
+  "habitat_name": "cave",
+  "height": "0.7 m",
+  "weight": "16.8 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "ice"
+  ],
+  "artwork": "assets/artwork/front/361_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/361_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 50
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "hidden": false,
+      "entries": "Prevents flinching."
+    },
+    {
+      "name": "ice-body",
+      "hidden": false,
+      "entries": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+    },
+    {
+      "name": "moody",
+      "hidden": true,
+      "entries": "Raises a random stat two stages and lowers another one stage after each turn."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "bite",
+    "sing",
+    "disable",
+    "ice-beam",
+    "blizzard",
+    "toxic",
+    "mimic",
+    "double-team",
+    "light-screen",
+    "bide",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "spite",
+    "powder-snow",
+    "protect",
+    "spikes",
+    "icy-wind",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "hidden-power",
+    "rain-dance",
+    "crunch",
+    "shadow-ball",
+    "hail",
+    "facade",
+    "helping-hand",
+    "secret-power",
+    "astonish",
+    "weather-ball",
+    "fake-tears",
+    "icicle-spear",
+    "block",
+    "water-pulse",
+    "natural-gift",
+    "switcheroo",
+    "avalanche",
+    "ice-shard",
+    "ice-fang",
+    "captivate",
+    "round",
+    "hex",
+    "frost-breath",
+    "icicle-crash",
+    "confide",
+    "tera-blast",
+    "ice-spinner",
+    "snowscape",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 361,
+      "name": "snorunt",
+      "details": []
+    },
+    {
+      "id": 362,
+      "name": "glalie",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 42,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 478,
+      "name": "froslass",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "dawn-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Snow Hat Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "gray",
+  "shape": "humanoid",
+  "growth_rate": "medium",
+  "base_experience": 60,
+  "order": 480,
+  "egg_groups": [
+    "fairy",
+    "mineral"
+  ],
+  "forms": [
+    "snorunt"
+  ],
+  "gender_rate": 4
+}

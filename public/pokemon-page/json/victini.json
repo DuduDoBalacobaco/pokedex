@@ -1,0 +1,171 @@
+{
+  "id": 494,
+  "name": "victini",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.4 m",
+  "weight": "4 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "psychic",
+    "fire"
+  ],
+  "artwork": "assets/artwork/front/494_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/494_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 100
+    },
+    {
+      "name": "special-attack",
+      "value": 100
+    },
+    {
+      "name": "special-defense",
+      "value": 100
+    },
+    {
+      "name": "speed",
+      "value": 100
+    }
+  ],
+  "abilities": [
+    {
+      "name": "victory-star",
+      "hidden": false,
+      "entries": "Increases moves' accuracy to 1.1× for friendly Pokémon."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "thunder-punch",
+    "mega-kick",
+    "headbutt",
+    "double-edge",
+    "flamethrower",
+    "hyper-beam",
+    "solar-beam",
+    "fire-spin",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "confusion",
+    "psychic",
+    "quick-attack",
+    "double-team",
+    "light-screen",
+    "focus-energy",
+    "fire-blast",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "baton-pass",
+    "encore",
+    "hidden-power",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "rock-smash",
+    "uproar",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "trick",
+    "role-play",
+    "magic-coat",
+    "brick-break",
+    "skill-swap",
+    "secret-power",
+    "blaze-kick",
+    "overheat",
+    "signal-beam",
+    "bounce",
+    "shock-wave",
+    "u-turn",
+    "embargo",
+    "fling",
+    "power-swap",
+    "guard-swap",
+    "last-resort",
+    "flare-blitz",
+    "focus-blast",
+    "energy-ball",
+    "giga-impact",
+    "zen-headbutt",
+    "trick-room",
+    "grass-knot",
+    "charge-beam",
+    "psyshock",
+    "telekinesis",
+    "flame-burst",
+    "flame-charge",
+    "round",
+    "stored-power",
+    "incinerate",
+    "final-gambit",
+    "inferno",
+    "work-up",
+    "wild-charge",
+    "searing-shot",
+    "v-create",
+    "confide",
+    "mystical-fire",
+    "dazzling-gleam",
+    "power-up-punch",
+    "laser-focus",
+    "speed-swap",
+    "expanding-force",
+    "scorching-sands"
+  ],
+  "evolution": [
+    {
+      "id": 494,
+      "name": "victini",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": true,
+  "is_baby": false,
+  "genus": "Victory Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 100,
+  "capture_rate": 3,
+  "color": "yellow",
+  "shape": "humanoid",
+  "growth_rate": "slow",
+  "base_experience": 270,
+  "order": 609,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "victini"
+  ],
+  "gender_rate": -1
+}

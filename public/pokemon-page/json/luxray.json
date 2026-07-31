@@ -1,0 +1,215 @@
+{
+  "id": 405,
+  "name": "luxray",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.4 m",
+  "weight": "42 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/405_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/405_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 80
+    },
+    {
+      "name": "attack",
+      "value": 120
+    },
+    {
+      "name": "defense",
+      "value": 79
+    },
+    {
+      "name": "special-attack",
+      "value": 95
+    },
+    {
+      "name": "special-defense",
+      "value": 79
+    },
+    {
+      "name": "speed",
+      "value": 70
+    }
+  ],
+  "abilities": [
+    {
+      "name": "rivalry",
+      "hidden": false,
+      "entries": "Increases damage inflicted to 1.25× against Pokémon of the same gender, but decreases damage to 0.75× against the opposite gender."
+    },
+    {
+      "name": "intimidate",
+      "hidden": false,
+      "entries": "Lowers opponents' Attack one stage upon entering battle."
+    },
+    {
+      "name": "guts",
+      "hidden": true,
+      "entries": "Increases Attack to 1.5× with a major status ailment."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "bite",
+    "roar",
+    "hyper-beam",
+    "strength",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "double-team",
+    "confuse-ray",
+    "light-screen",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "endure",
+    "swagger",
+    "spark",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "facade",
+    "charge",
+    "helping-hand",
+    "superpower",
+    "secret-power",
+    "fake-tears",
+    "signal-beam",
+    "howl",
+    "shock-wave",
+    "natural-gift",
+    "magnet-rise",
+    "night-slash",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "discharge",
+    "captivate",
+    "charge-beam",
+    "electro-ball",
+    "round",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "snarl",
+    "play-rough",
+    "confide",
+    "eerie-impulse",
+    "electric-terrain",
+    "baby-doll-eyes",
+    "laser-focus",
+    "throat-chop",
+    "psychic-fangs",
+    "rising-voltage",
+    "tera-blast",
+    "trailblaze",
+    "supercell-slam"
+  ],
+  "evolution": [
+    {
+      "id": 403,
+      "name": "shinx",
+      "details": []
+    },
+    {
+      "id": 404,
+      "name": "luxio",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 15,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 405,
+      "name": "luxray",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Gleam Eyes Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "blue",
+  "shape": "quadruped",
+  "growth_rate": "medium-slow",
+  "base_experience": 235,
+  "order": 536,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "luxray"
+  ],
+  "gender_rate": 4
+}

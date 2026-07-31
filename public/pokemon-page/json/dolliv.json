@@ -1,0 +1,165 @@
+{
+  "id": 929,
+  "name": "dolliv",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.6 m",
+  "weight": "11.9 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "grass",
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/929_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/929_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 52
+    },
+    {
+      "name": "attack",
+      "value": 53
+    },
+    {
+      "name": "defense",
+      "value": 60
+    },
+    {
+      "name": "special-attack",
+      "value": 78
+    },
+    {
+      "name": "special-defense",
+      "value": 78
+    },
+    {
+      "name": "speed",
+      "value": 33
+    }
+  ],
+  "abilities": [
+    {
+      "name": "early-bird",
+      "hidden": false,
+      "entries": "Makes sleep pass twice as quickly."
+    },
+    {
+      "name": "harvest",
+      "hidden": true,
+      "entries": "Has a 50% chance of restoring a used Berry after each turn if the Pokémon has held no items in the meantime."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "razor-leaf",
+    "solar-beam",
+    "swift",
+    "rest",
+    "substitute",
+    "flail",
+    "protect",
+    "giga-drain",
+    "endure",
+    "charm",
+    "sleep-talk",
+    "sweet-scent",
+    "sunny-day",
+    "facade",
+    "helping-hand",
+    "weather-ball",
+    "bullet-seed",
+    "magical-leaf",
+    "seed-bomb",
+    "energy-ball",
+    "earth-power",
+    "leaf-storm",
+    "grass-knot",
+    "grassy-terrain",
+    "solar-blade",
+    "terrain-pulse",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 928,
+      "name": "smoliv",
+      "details": []
+    },
+    {
+      "id": 929,
+      "name": "dolliv",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 25,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 930,
+      "name": "arboliva",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Olive Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 120,
+  "color": "green",
+  "shape": "humanoid",
+  "growth_rate": "medium-slow",
+  "base_experience": 124,
+  "order": 936,
+  "egg_groups": [
+    "plant"
+  ],
+  "forms": [
+    "dolliv"
+  ],
+  "gender_rate": 4
+}

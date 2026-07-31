@@ -1,0 +1,201 @@
+{
+  "id": 622,
+  "name": "golett",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1 m",
+  "weight": "92 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "ground",
+    "ghost"
+  ],
+  "artwork": "assets/artwork/front/622_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/622_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 59
+    },
+    {
+      "name": "attack",
+      "value": 74
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 35
+    },
+    {
+      "name": "special-defense",
+      "value": 50
+    },
+    {
+      "name": "speed",
+      "value": 35
+    }
+  ],
+  "abilities": [
+    {
+      "name": "iron-fist",
+      "hidden": false,
+      "entries": "Strengthens punch-based moves to 1.2× their power."
+    },
+    {
+      "name": "klutz",
+      "hidden": false,
+      "entries": "Prevents the Pokémon from using its held item in battle."
+    },
+    {
+      "name": "no-guard",
+      "hidden": true,
+      "entries": "Ensures all moves used by and against the Pokémon hit."
+    }
+  ],
+  "moves": [
+    "pound",
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "mega-kick",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "ice-beam",
+    "low-kick",
+    "strength",
+    "earthquake",
+    "dig",
+    "toxic",
+    "psychic",
+    "night-shade",
+    "double-team",
+    "confuse-ray",
+    "defense-curl",
+    "reflect",
+    "self-destruct",
+    "flash",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "protect",
+    "mud-slap",
+    "icy-wind",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "magnitude",
+    "dynamic-punch",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "rock-smash",
+    "facade",
+    "focus-punch",
+    "helping-hand",
+    "superpower",
+    "magic-coat",
+    "brick-break",
+    "knock-off",
+    "imprison",
+    "secret-power",
+    "astonish",
+    "rock-tomb",
+    "signal-beam",
+    "shadow-punch",
+    "iron-defense",
+    "block",
+    "shock-wave",
+    "gravity",
+    "hammer-arm",
+    "gyro-ball",
+    "fling",
+    "rock-polish",
+    "drain-punch",
+    "focus-blast",
+    "earth-power",
+    "stealth-rock",
+    "grass-knot",
+    "telekinesis",
+    "smack-down",
+    "heavy-slam",
+    "low-sweep",
+    "round",
+    "ally-switch",
+    "hex",
+    "bulldoze",
+    "phantom-force",
+    "confide",
+    "power-up-punch",
+    "stomping-tantrum",
+    "poltergeist",
+    "scorching-sands",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 622,
+      "name": "golett",
+      "details": []
+    },
+    {
+      "id": 623,
+      "name": "golurk",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 43,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Automaton Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "green",
+  "shape": "humanoid",
+  "growth_rate": "medium",
+  "base_experience": 61,
+  "order": 745,
+  "egg_groups": [
+    "mineral"
+  ],
+  "forms": [
+    "golett"
+  ],
+  "gender_rate": -1
+}

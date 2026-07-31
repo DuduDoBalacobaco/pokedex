@@ -1,0 +1,144 @@
+{
+  "id": 876,
+  "name": "indeedee-male",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.9 m",
+  "weight": "28 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "psychic",
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/876_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/876_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 65
+    },
+    {
+      "name": "defense",
+      "value": 55
+    },
+    {
+      "name": "special-attack",
+      "value": 105
+    },
+    {
+      "name": "special-defense",
+      "value": 95
+    },
+    {
+      "name": "speed",
+      "value": 95
+    }
+  ],
+  "abilities": [
+    {
+      "name": "inner-focus",
+      "hidden": false,
+      "entries": "Prevents flinching."
+    },
+    {
+      "name": "synchronize",
+      "hidden": false,
+      "entries": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+    },
+    {
+      "name": "psychic-surge",
+      "hidden": true,
+      "entries": "When this Pokémon enters battle, it changes the terrain to Psychic Terrain."
+    }
+  ],
+  "moves": [
+    "pay-day",
+    "body-slam",
+    "take-down",
+    "psybeam",
+    "psychic",
+    "metronome",
+    "swift",
+    "rest",
+    "tri-attack",
+    "substitute",
+    "snore",
+    "protect",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "encore",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "fake-out",
+    "facade",
+    "helping-hand",
+    "trick",
+    "skill-swap",
+    "imprison",
+    "hyper-voice",
+    "aromatherapy",
+    "extrasensory",
+    "magical-leaf",
+    "calm-mind",
+    "gravity",
+    "healing-wish",
+    "power-swap",
+    "last-resort",
+    "drain-punch",
+    "energy-ball",
+    "zen-headbutt",
+    "trick-room",
+    "power-split",
+    "wonder-room",
+    "psyshock",
+    "magic-room",
+    "after-you",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "disarming-voice",
+    "draining-kiss",
+    "play-rough",
+    "play-nice",
+    "mystical-fire",
+    "dazzling-gleam",
+    "psychic-terrain",
+    "expanding-force",
+    "terrain-pulse",
+    "tera-blast",
+    "psychic-noise"
+  ],
+  "evolution": [
+    {
+      "id": 876,
+      "name": "indeedee",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Emotion Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 140,
+  "capture_rate": 30,
+  "color": "purple",
+  "shape": "upright",
+  "growth_rate": "fast",
+  "base_experience": 166,
+  "order": 1061,
+  "egg_groups": [
+    "fairy"
+  ],
+  "forms": [
+    "indeedee-male"
+  ],
+  "gender_rate": 4
+}

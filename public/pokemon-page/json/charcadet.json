@@ -1,0 +1,159 @@
+{
+  "id": 935,
+  "name": "charcadet",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.6 m",
+  "weight": "10.5 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "fire"
+  ],
+  "artwork": "assets/artwork/front/935_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/935_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 40
+    },
+    {
+      "name": "speed",
+      "value": 35
+    }
+  ],
+  "abilities": [
+    {
+      "name": "flash-fire",
+      "hidden": false,
+      "entries": "Protects against Fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+    },
+    {
+      "name": "flame-body",
+      "hidden": true,
+      "entries": "Has a 30% chance of burning attacking Pokémon on contact."
+    }
+  ],
+  "moves": [
+    "take-down",
+    "leer",
+    "disable",
+    "ember",
+    "flamethrower",
+    "fire-spin",
+    "night-shade",
+    "confuse-ray",
+    "fire-blast",
+    "substitute",
+    "spite",
+    "protect",
+    "destiny-bond",
+    "endure",
+    "sleep-talk",
+    "sunny-day",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "helping-hand",
+    "astonish",
+    "overheat",
+    "flare-blitz",
+    "lava-plume",
+    "flame-charge",
+    "clear-smog",
+    "incinerate",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 935,
+      "name": "charcadet",
+      "details": []
+    },
+    {
+      "id": 936,
+      "name": "armarouge",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "auspicious-armor",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 937,
+      "name": "ceruledge",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "malicious-armor",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Fire Child Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 90,
+  "color": "red",
+  "shape": "humanoid",
+  "growth_rate": "slow",
+  "base_experience": 51,
+  "order": 1003,
+  "egg_groups": [
+    "humanshape"
+  ],
+  "forms": [
+    "charcadet"
+  ],
+  "gender_rate": 4
+}

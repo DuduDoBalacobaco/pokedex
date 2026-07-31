@@ -1,0 +1,189 @@
+{
+  "id": 225,
+  "name": "delibird",
+  "habitat_img": "assets/img/habitats/webp/mountain.webp",
+  "habitat_name": "mountain",
+  "height": "0.9 m",
+  "weight": "16 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "ice",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/225_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/225_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 45
+    },
+    {
+      "name": "attack",
+      "value": 55
+    },
+    {
+      "name": "defense",
+      "value": 45
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 45
+    },
+    {
+      "name": "speed",
+      "value": 75
+    }
+  ],
+  "abilities": [
+    {
+      "name": "vital-spirit",
+      "hidden": false,
+      "entries": "Prevents sleep."
+    },
+    {
+      "name": "hustle",
+      "hidden": false,
+      "entries": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    },
+    {
+      "name": "insomnia",
+      "hidden": true,
+      "entries": "Prevents sleep."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "ice-punch",
+    "fly",
+    "mega-kick",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "ice-beam",
+    "blizzard",
+    "aurora-beam",
+    "hyper-beam",
+    "drill-peck",
+    "counter",
+    "seismic-toss",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "mimic",
+    "double-team",
+    "haze",
+    "swift",
+    "sky-attack",
+    "splash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "mud-slap",
+    "spikes",
+    "destiny-bond",
+    "icy-wind",
+    "detect",
+    "endure",
+    "rollout",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "present",
+    "frustration",
+    "baton-pass",
+    "rapid-spin",
+    "hidden-power",
+    "rain-dance",
+    "future-sight",
+    "fake-out",
+    "hail",
+    "memento",
+    "facade",
+    "focus-punch",
+    "helping-hand",
+    "recycle",
+    "brick-break",
+    "endeavor",
+    "secret-power",
+    "feather-dance",
+    "ice-ball",
+    "weather-ball",
+    "air-cutter",
+    "signal-beam",
+    "aerial-ace",
+    "icicle-spear",
+    "bounce",
+    "water-pulse",
+    "natural-gift",
+    "pluck",
+    "tailwind",
+    "assurance",
+    "fling",
+    "seed-bomb",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "avalanche",
+    "ice-shard",
+    "defog",
+    "gunk-shot",
+    "captivate",
+    "foul-play",
+    "round",
+    "acrobatics",
+    "bestow",
+    "frost-breath",
+    "drill-run",
+    "freeze-dry",
+    "confide",
+    "power-up-punch",
+    "brutal-swing",
+    "aurora-veil",
+    "triple-axel",
+    "dual-wingbeat",
+    "tera-blast",
+    "ice-spinner",
+    "snowscape",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 225,
+      "name": "delibird",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Delivery Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "red",
+  "shape": "wings",
+  "growth_rate": "fast",
+  "base_experience": 116,
+  "order": 325,
+  "egg_groups": [
+    "water1",
+    "ground"
+  ],
+  "forms": [
+    "delibird"
+  ],
+  "gender_rate": 4
+}

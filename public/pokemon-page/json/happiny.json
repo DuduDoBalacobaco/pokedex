@@ -1,0 +1,216 @@
+{
+  "id": 440,
+  "name": "happiny",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.6 m",
+  "weight": "24.4 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/440_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/440_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 5
+    },
+    {
+      "name": "defense",
+      "value": 5
+    },
+    {
+      "name": "special-attack",
+      "value": 15
+    },
+    {
+      "name": "special-defense",
+      "value": 65
+    },
+    {
+      "name": "speed",
+      "value": 30
+    }
+  ],
+  "abilities": [
+    {
+      "name": "natural-cure",
+      "hidden": false,
+      "entries": "Cures any major status ailment upon switching out."
+    },
+    {
+      "name": "serene-grace",
+      "hidden": false,
+      "entries": "Doubles the chance of moves' extra effects occurring."
+    },
+    {
+      "name": "friend-guard",
+      "hidden": true,
+      "entries": "Decreases all direct damage taken by friendly Pokémon to 0.75×."
+    }
+  ],
+  "moves": [
+    "pound",
+    "headbutt",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "flamethrower",
+    "counter",
+    "seismic-toss",
+    "solar-beam",
+    "thunder-wave",
+    "toxic",
+    "psychic",
+    "double-team",
+    "minimize",
+    "defense-curl",
+    "light-screen",
+    "metronome",
+    "fire-blast",
+    "soft-boiled",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "snore",
+    "protect",
+    "sweet-kiss",
+    "mud-slap",
+    "icy-wind",
+    "endure",
+    "charm",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "present",
+    "frustration",
+    "safeguard",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "uproar",
+    "hail",
+    "facade",
+    "helping-hand",
+    "recycle",
+    "endeavor",
+    "refresh",
+    "secret-power",
+    "hyper-voice",
+    "aromatherapy",
+    "covet",
+    "calm-mind",
+    "shock-wave",
+    "water-pulse",
+    "gravity",
+    "natural-gift",
+    "fling",
+    "copycat",
+    "last-resort",
+    "drain-punch",
+    "mud-bomb",
+    "zen-headbutt",
+    "captivate",
+    "grass-knot",
+    "round",
+    "echoed-voice",
+    "stored-power",
+    "incinerate",
+    "work-up",
+    "disarming-voice",
+    "draining-kiss",
+    "fairy-wind",
+    "confide",
+    "baby-doll-eyes",
+    "tera-blast",
+    "snowscape"
+  ],
+  "evolution": [
+    {
+      "id": 440,
+      "name": "happiny",
+      "details": []
+    },
+    {
+      "id": 113,
+      "name": "chansey",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": "oval-stone",
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "day",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "name": "blissey",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": 160,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": true,
+  "genus": "Playhouse Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 140,
+  "capture_rate": 130,
+  "color": "pink",
+  "shape": "humanoid",
+  "growth_rate": "fast",
+  "base_experience": 110,
+  "order": 179,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "happiny"
+  ],
+  "gender_rate": 8
+}

@@ -1,0 +1,162 @@
+{
+  "id": 244,
+  "name": "entei",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "2.1 m",
+  "weight": "198 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "fire"
+  ],
+  "artwork": "assets/artwork/front/244_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/244_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 115
+    },
+    {
+      "name": "attack",
+      "value": 115
+    },
+    {
+      "name": "defense",
+      "value": 85
+    },
+    {
+      "name": "special-attack",
+      "value": 90
+    },
+    {
+      "name": "special-defense",
+      "value": 75
+    },
+    {
+      "name": "speed",
+      "value": 100
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "hidden": false,
+      "entries": "Increases the PP cost of moves targetting the Pokémon by one."
+    },
+    {
+      "name": "inner-focus",
+      "hidden": true,
+      "entries": "Prevents flinching."
+    }
+  ],
+  "moves": [
+    "cut",
+    "stomp",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "bite",
+    "roar",
+    "ember",
+    "flamethrower",
+    "hyper-beam",
+    "strength",
+    "solar-beam",
+    "fire-spin",
+    "dig",
+    "toxic",
+    "agility",
+    "mimic",
+    "double-team",
+    "smokescreen",
+    "reflect",
+    "fire-blast",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "flame-wheel",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "detect",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "sacred-fire",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "psych-up",
+    "extreme-speed",
+    "shadow-ball",
+    "rock-smash",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "helping-hand",
+    "eruption",
+    "secret-power",
+    "weather-ball",
+    "overheat",
+    "extrasensory",
+    "calm-mind",
+    "natural-gift",
+    "flare-blitz",
+    "giga-impact",
+    "fire-fang",
+    "rock-climb",
+    "lava-plume",
+    "iron-head",
+    "stone-edge",
+    "flame-charge",
+    "round",
+    "incinerate",
+    "quash",
+    "bulldoze",
+    "snarl",
+    "confide",
+    "laser-focus",
+    "stomping-tantrum",
+    "scorching-sands",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 244,
+      "name": "entei",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Volcano Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 35,
+  "capture_rate": 3,
+  "color": "brown",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 261,
+  "order": 338,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "entei"
+  ],
+  "gender_rate": -1
+}

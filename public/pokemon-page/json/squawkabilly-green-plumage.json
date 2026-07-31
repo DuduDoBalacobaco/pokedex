@@ -1,0 +1,134 @@
+{
+  "id": 931,
+  "name": "squawkabilly-green-plumage",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.6 m",
+  "weight": "2.4 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "normal",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/931_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/931_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 82
+    },
+    {
+      "name": "attack",
+      "value": 96
+    },
+    {
+      "name": "defense",
+      "value": 51
+    },
+    {
+      "name": "special-attack",
+      "value": 45
+    },
+    {
+      "name": "special-defense",
+      "value": 51
+    },
+    {
+      "name": "speed",
+      "value": 92
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "hidden": false,
+      "entries": "Lowers opponents' Attack one stage upon entering battle."
+    },
+    {
+      "name": "hustle",
+      "hidden": false,
+      "entries": "Strengthens physical moves to inflict 1.5× damage, but decreases their accuracy to 0.8×."
+    },
+    {
+      "name": "guts",
+      "hidden": true,
+      "entries": "Increases Attack to 1.5× with a major status ailment."
+    }
+  ],
+  "moves": [
+    "fly",
+    "fury-attack",
+    "take-down",
+    "double-edge",
+    "growl",
+    "hyper-beam",
+    "peck",
+    "quick-attack",
+    "mimic",
+    "rest",
+    "substitute",
+    "thief",
+    "reversal",
+    "protect",
+    "scary-face",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "sunny-day",
+    "uproar",
+    "heat-wave",
+    "torment",
+    "flatter",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "endeavor",
+    "feather-dance",
+    "hyper-voice",
+    "fake-tears",
+    "air-cutter",
+    "aerial-ace",
+    "roost",
+    "tailwind",
+    "u-turn",
+    "copycat",
+    "air-slash",
+    "brave-bird",
+    "giga-impact",
+    "foul-play",
+    "final-gambit",
+    "hurricane",
+    "parting-shot",
+    "lash-out",
+    "dual-wingbeat",
+    "tera-blast",
+    "pounce"
+  ],
+  "evolution": [
+    {
+      "id": 931,
+      "name": "squawkabilly",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Parrot Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 190,
+  "color": "green",
+  "shape": "wings",
+  "growth_rate": "slow-then-very-fast",
+  "base_experience": 146,
+  "order": 960,
+  "egg_groups": [
+    "flying"
+  ],
+  "forms": [
+    "squawkabilly-green-plumage"
+  ],
+  "gender_rate": 4
+}

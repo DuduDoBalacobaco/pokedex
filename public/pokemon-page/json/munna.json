@@ -1,0 +1,186 @@
+{
+  "id": 517,
+  "name": "munna",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.6 m",
+  "weight": "23.3 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "psychic"
+  ],
+  "artwork": "assets/artwork/front/517_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/517_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 76
+    },
+    {
+      "name": "attack",
+      "value": 25
+    },
+    {
+      "name": "defense",
+      "value": 45
+    },
+    {
+      "name": "special-attack",
+      "value": 67
+    },
+    {
+      "name": "special-defense",
+      "value": 55
+    },
+    {
+      "name": "speed",
+      "value": 24
+    }
+  ],
+  "abilities": [
+    {
+      "name": "forewarn",
+      "hidden": false,
+      "entries": "Reveals the opponents' strongest move upon entering battle."
+    },
+    {
+      "name": "synchronize",
+      "hidden": false,
+      "entries": "Copies burns, paralysis, and poison received onto the Pokémon that inflicted them."
+    },
+    {
+      "name": "telepathy",
+      "hidden": true,
+      "entries": "Protects against friendly Pokémon's damaging moves."
+    }
+  ],
+  "moves": [
+    "sonic-boom",
+    "psybeam",
+    "thunder-wave",
+    "toxic",
+    "psychic",
+    "hypnosis",
+    "double-team",
+    "defense-curl",
+    "barrier",
+    "light-screen",
+    "reflect",
+    "swift",
+    "amnesia",
+    "dream-eater",
+    "flash",
+    "psywave",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "nightmare",
+    "snore",
+    "curse",
+    "protect",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "frustration",
+    "safeguard",
+    "pain-split",
+    "baton-pass",
+    "moonlight",
+    "hidden-power",
+    "rain-dance",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "torment",
+    "facade",
+    "helping-hand",
+    "trick",
+    "magic-coat",
+    "yawn",
+    "skill-swap",
+    "imprison",
+    "secret-power",
+    "rock-tomb",
+    "signal-beam",
+    "calm-mind",
+    "shock-wave",
+    "gravity",
+    "gyro-ball",
+    "healing-wish",
+    "lucky-chant",
+    "power-swap",
+    "guard-swap",
+    "worry-seed",
+    "energy-ball",
+    "zen-headbutt",
+    "trick-room",
+    "charge-beam",
+    "wonder-room",
+    "psyshock",
+    "telekinesis",
+    "synchronoise",
+    "after-you",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "moonblast",
+    "confide",
+    "dazzling-gleam",
+    "expanding-force"
+  ],
+  "evolution": [
+    {
+      "id": 517,
+      "name": "munna",
+      "details": []
+    },
+    {
+      "id": 518,
+      "name": "musharna",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "moon-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Dream Eater Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "pink",
+  "shape": "quadruped",
+  "growth_rate": "fast",
+  "base_experience": 58,
+  "order": 632,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "munna"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,202 @@
+{
+  "id": 660,
+  "name": "diggersby",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1 m",
+  "weight": "42.4 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "normal",
+    "ground"
+  ],
+  "artwork": "assets/artwork/front/660_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/660_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 85
+    },
+    {
+      "name": "attack",
+      "value": 56
+    },
+    {
+      "name": "defense",
+      "value": 77
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 77
+    },
+    {
+      "name": "speed",
+      "value": 78
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pickup",
+      "hidden": false,
+      "entries": "Picks up other Pokémon's used and Flung held items.  May also pick up an item after battle."
+    },
+    {
+      "name": "cheek-pouch",
+      "hidden": false,
+      "entries": "Restores HP upon eating a Berry, in addition to the Berry's effect."
+    },
+    {
+      "name": "huge-power",
+      "hidden": true,
+      "entries": "Doubles Attack in battle."
+    }
+  ],
+  "moves": [
+    "double-slap",
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "swords-dance",
+    "cut",
+    "double-kick",
+    "mega-kick",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "leer",
+    "surf",
+    "hyper-beam",
+    "low-kick",
+    "strength",
+    "earthquake",
+    "fissure",
+    "dig",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "double-team",
+    "rest",
+    "rock-slide",
+    "super-fang",
+    "substitute",
+    "thief",
+    "snore",
+    "flail",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "spikes",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "rock-smash",
+    "uproar",
+    "torment",
+    "facade",
+    "focus-punch",
+    "nature-power",
+    "superpower",
+    "recycle",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "snatch",
+    "secret-power",
+    "odor-sleuth",
+    "rock-tomb",
+    "sand-tomb",
+    "bulk-up",
+    "bounce",
+    "mud-shot",
+    "hammer-arm",
+    "u-turn",
+    "payback",
+    "fling",
+    "gastro-acid",
+    "last-resort",
+    "earth-power",
+    "giga-impact",
+    "gunk-shot",
+    "iron-head",
+    "stone-edge",
+    "grass-knot",
+    "smack-down",
+    "foul-play",
+    "round",
+    "bulldoze",
+    "work-up",
+    "wild-charge",
+    "rototiller",
+    "confide",
+    "power-up-punch",
+    "high-horsepower",
+    "laser-focus",
+    "brutal-swing",
+    "stomping-tantrum",
+    "scorching-sands",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 659,
+      "name": "bunnelby",
+      "details": []
+    },
+    {
+      "id": 660,
+      "name": "diggersby",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 20,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Digging Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 127,
+  "color": "brown",
+  "shape": "upright",
+  "growth_rate": "medium",
+  "base_experience": 148,
+  "order": 792,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "diggersby"
+  ],
+  "gender_rate": 4
+}

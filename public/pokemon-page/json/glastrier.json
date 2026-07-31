@@ -1,0 +1,131 @@
+{
+  "id": 896,
+  "name": "glastrier",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2.2 m",
+  "weight": "800 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "ice"
+  ],
+  "artwork": "assets/artwork/front/896_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/896_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 145
+    },
+    {
+      "name": "defense",
+      "value": 130
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 110
+    },
+    {
+      "name": "speed",
+      "value": 30
+    }
+  ],
+  "abilities": [
+    {
+      "name": "chilling-neigh",
+      "hidden": false,
+      "entries": "Boosts Attack after knocking out a Pokémon."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "stomp",
+    "double-kick",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "tail-whip",
+    "roar",
+    "mist",
+    "ice-beam",
+    "blizzard",
+    "hyper-beam",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "scary-face",
+    "icy-wind",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "megahorn",
+    "crunch",
+    "uproar",
+    "hail",
+    "torment",
+    "facade",
+    "taunt",
+    "superpower",
+    "icicle-spear",
+    "iron-defense",
+    "mud-shot",
+    "close-combat",
+    "payback",
+    "assurance",
+    "giga-impact",
+    "avalanche",
+    "zen-headbutt",
+    "heavy-slam",
+    "round",
+    "bulldoze",
+    "snarl",
+    "icicle-crash",
+    "high-horsepower",
+    "throat-chop",
+    "smart-strike",
+    "stomping-tantrum",
+    "body-press",
+    "lash-out",
+    "tera-blast",
+    "snowscape",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 896,
+      "name": "glastrier",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Wild Horse Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 35,
+  "capture_rate": 3,
+  "color": "white",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 290,
+  "order": 1088,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "glastrier"
+  ],
+  "gender_rate": -1
+}

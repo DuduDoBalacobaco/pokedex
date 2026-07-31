@@ -1,0 +1,211 @@
+{
+  "id": 342,
+  "name": "crawdaunt",
+  "habitat_img": "assets/img/habitats/webp/waters-edge.webp",
+  "habitat_name": "waters-edge",
+  "height": "1.1 m",
+  "weight": "32.8 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "water",
+    "dark"
+  ],
+  "artwork": "assets/artwork/front/342_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/342_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 63
+    },
+    {
+      "name": "attack",
+      "value": 120
+    },
+    {
+      "name": "defense",
+      "value": 85
+    },
+    {
+      "name": "special-attack",
+      "value": 90
+    },
+    {
+      "name": "special-defense",
+      "value": 55
+    },
+    {
+      "name": "speed",
+      "value": 55
+    }
+  ],
+  "abilities": [
+    {
+      "name": "hyper-cutter",
+      "hidden": false,
+      "entries": "Prevents Attack from being lowered by other Pokémon."
+    },
+    {
+      "name": "shell-armor",
+      "hidden": false,
+      "entries": "Protects against critical hits."
+    },
+    {
+      "name": "adaptability",
+      "hidden": true,
+      "entries": "Increases the same-type attack bonus from 1.5× to 2×."
+    }
+  ],
+  "moves": [
+    "vice-grip",
+    "guillotine",
+    "swords-dance",
+    "cut",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "bubble-beam",
+    "hyper-beam",
+    "counter",
+    "strength",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "harden",
+    "waterfall",
+    "swift",
+    "bubble",
+    "crabhammer",
+    "rest",
+    "rock-slide",
+    "slash",
+    "substitute",
+    "thief",
+    "snore",
+    "spite",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "mud-slap",
+    "icy-wind",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "metal-claw",
+    "hidden-power",
+    "rain-dance",
+    "crunch",
+    "ancient-power",
+    "rock-smash",
+    "whirlpool",
+    "hail",
+    "facade",
+    "nature-power",
+    "taunt",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "endeavor",
+    "secret-power",
+    "dive",
+    "rock-tomb",
+    "muddy-water",
+    "aerial-ace",
+    "iron-defense",
+    "mud-shot",
+    "dragon-dance",
+    "water-pulse",
+    "natural-gift",
+    "close-combat",
+    "payback",
+    "fling",
+    "dark-pulse",
+    "night-slash",
+    "x-scissor",
+    "switcheroo",
+    "giga-impact",
+    "nasty-plot",
+    "avalanche",
+    "captivate",
+    "aqua-jet",
+    "double-hit",
+    "hone-claws",
+    "sludge-wave",
+    "round",
+    "scald",
+    "retaliate",
+    "razor-shell",
+    "snarl",
+    "confide",
+    "liquidation",
+    "lash-out",
+    "tera-blast",
+    "chilling-water",
+    "hard-press"
+  ],
+  "evolution": [
+    {
+      "id": 341,
+      "name": "corphish",
+      "details": []
+    },
+    {
+      "id": 342,
+      "name": "crawdaunt",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Rogue Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 155,
+  "color": "red",
+  "shape": "armor",
+  "growth_rate": "fast-then-very-slow",
+  "base_experience": 164,
+  "order": 455,
+  "egg_groups": [
+    "water1",
+    "water3"
+  ],
+  "forms": [
+    "crawdaunt"
+  ],
+  "gender_rate": 4
+}

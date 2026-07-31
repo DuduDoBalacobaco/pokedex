@@ -1,0 +1,168 @@
+{
+  "id": 377,
+  "name": "regirock",
+  "habitat_img": "assets/img/habitats/webp/cave.webp",
+  "habitat_name": "cave",
+  "height": "1.7 m",
+  "weight": "230 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "rock"
+  ],
+  "artwork": "assets/artwork/front/377_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/377_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 80
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 200
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 100
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "clear-body",
+      "hidden": false,
+      "entries": "Prevents stats from being lowered by other Pokémon."
+    },
+    {
+      "name": "sturdy",
+      "hidden": true,
+      "entries": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "stomp",
+    "mega-kick",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "rock-throw",
+    "earthquake",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "self-destruct",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "mud-slap",
+    "zap-cannon",
+    "lock-on",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "dynamic-punch",
+    "hidden-power",
+    "sunny-day",
+    "psych-up",
+    "ancient-power",
+    "rock-smash",
+    "facade",
+    "focus-punch",
+    "superpower",
+    "brick-break",
+    "secret-power",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "block",
+    "rock-blast",
+    "shock-wave",
+    "gravity",
+    "hammer-arm",
+    "natural-gift",
+    "fling",
+    "rock-polish",
+    "power-gem",
+    "drain-punch",
+    "focus-blast",
+    "earth-power",
+    "giga-impact",
+    "flash-cannon",
+    "rock-climb",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "charge-beam",
+    "smack-down",
+    "heavy-slam",
+    "round",
+    "bulldoze",
+    "confide",
+    "power-up-punch",
+    "stomping-tantrum",
+    "body-press",
+    "meteor-beam",
+    "tera-blast",
+    "hard-press"
+  ],
+  "evolution": [
+    {
+      "id": 377,
+      "name": "regirock",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Rock Peak Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 35,
+  "capture_rate": 3,
+  "color": "brown",
+  "shape": "humanoid",
+  "growth_rate": "slow",
+  "base_experience": 261,
+  "order": 500,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "regirock"
+  ],
+  "gender_rate": -1
+}

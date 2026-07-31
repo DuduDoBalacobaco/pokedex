@@ -1,0 +1,173 @@
+{
+  "id": 720,
+  "name": "hoopa",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.5 m",
+  "weight": "9 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "psychic",
+    "ghost"
+  ],
+  "artwork": "assets/artwork/front/720_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/720_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 80
+    },
+    {
+      "name": "attack",
+      "value": 110
+    },
+    {
+      "name": "defense",
+      "value": 60
+    },
+    {
+      "name": "special-attack",
+      "value": 150
+    },
+    {
+      "name": "special-defense",
+      "value": 130
+    },
+    {
+      "name": "speed",
+      "value": 70
+    }
+  ],
+  "abilities": [
+    {
+      "name": "magician",
+      "hidden": false,
+      "entries": "Steals the target's held item when the bearer uses a damaging move."
+    }
+  ],
+  "moves": [
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "take-down",
+    "psybeam",
+    "hyper-beam",
+    "thunderbolt",
+    "thunder-wave",
+    "toxic",
+    "confusion",
+    "psychic",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "swift",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "scary-face",
+    "destiny-bond",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "future-sight",
+    "uproar",
+    "torment",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "trick",
+    "role-play",
+    "magic-coat",
+    "recycle",
+    "brick-break",
+    "knock-off",
+    "skill-swap",
+    "snatch",
+    "secret-power",
+    "astonish",
+    "rock-tomb",
+    "signal-beam",
+    "block",
+    "covet",
+    "calm-mind",
+    "shock-wave",
+    "gravity",
+    "embargo",
+    "fling",
+    "last-resort",
+    "dark-pulse",
+    "drain-punch",
+    "focus-blast",
+    "energy-ball",
+    "giga-impact",
+    "nasty-plot",
+    "zen-headbutt",
+    "trick-room",
+    "gunk-shot",
+    "grass-knot",
+    "charge-beam",
+    "guard-split",
+    "power-split",
+    "wonder-room",
+    "psyshock",
+    "telekinesis",
+    "magic-room",
+    "foul-play",
+    "round",
+    "ally-switch",
+    "quash",
+    "dual-chop",
+    "phantom-force",
+    "confide",
+    "hyperspace-hole",
+    "power-up-punch",
+    "laser-focus",
+    "throat-chop",
+    "psychic-terrain",
+    "expanding-force",
+    "skitter-smack",
+    "lash-out",
+    "tera-blast",
+    "psychic-noise"
+  ],
+  "evolution": [
+    {
+      "id": 720,
+      "name": "hoopa",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": true,
+  "is_baby": false,
+  "genus": "Mischief Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 100,
+  "capture_rate": 3,
+  "color": "purple",
+  "shape": "arms",
+  "growth_rate": "slow",
+  "base_experience": 270,
+  "order": 865,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "hoopa"
+  ],
+  "gender_rate": -1
+}

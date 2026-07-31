@@ -1,0 +1,235 @@
+{
+  "id": 212,
+  "name": "scizor",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "1.8 m",
+  "weight": "118 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "bug",
+    "steel"
+  ],
+  "artwork": "assets/artwork/front/212_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/212_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 130
+    },
+    {
+      "name": "defense",
+      "value": 100
+    },
+    {
+      "name": "special-attack",
+      "value": 55
+    },
+    {
+      "name": "special-defense",
+      "value": 80
+    },
+    {
+      "name": "speed",
+      "value": 65
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swarm",
+      "hidden": false,
+      "entries": "Strengthens Bug moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "technician",
+      "hidden": false,
+      "entries": "Strengthens moves of 60 base power or less to 1.5× their power."
+    },
+    {
+      "name": "light-metal",
+      "hidden": true,
+      "entries": "Halves the Pokémon's weight."
+    }
+  ],
+  "moves": [
+    "razor-wind",
+    "swords-dance",
+    "cut",
+    "wing-attack",
+    "headbutt",
+    "take-down",
+    "double-edge",
+    "leer",
+    "hyper-beam",
+    "counter",
+    "strength",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "mimic",
+    "double-team",
+    "light-screen",
+    "focus-energy",
+    "swift",
+    "rest",
+    "slash",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "scary-face",
+    "detect",
+    "sandstorm",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "fury-cutter",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "baton-pass",
+    "pursuit",
+    "metal-claw",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "facade",
+    "helping-hand",
+    "superpower",
+    "brick-break",
+    "knock-off",
+    "secret-power",
+    "air-cutter",
+    "silver-wind",
+    "sand-tomb",
+    "aerial-ace",
+    "iron-defense",
+    "roost",
+    "natural-gift",
+    "feint",
+    "tailwind",
+    "u-turn",
+    "close-combat",
+    "assurance",
+    "fling",
+    "night-slash",
+    "air-slash",
+    "x-scissor",
+    "bug-buzz",
+    "vacuum-wave",
+    "giga-impact",
+    "bullet-punch",
+    "psycho-cut",
+    "flash-cannon",
+    "defog",
+    "cross-poison",
+    "iron-head",
+    "captivate",
+    "bug-bite",
+    "double-hit",
+    "ominous-wind",
+    "venoshock",
+    "round",
+    "quick-guard",
+    "acrobatics",
+    "struggle-bug",
+    "confide",
+    "laser-focus",
+    "lunge",
+    "brutal-swing",
+    "steel-beam",
+    "skitter-smack",
+    "dual-wingbeat",
+    "tera-blast",
+    "pounce",
+    "trailblaze",
+    "hard-press"
+  ],
+  "evolution": [
+    {
+      "id": 123,
+      "name": "scyther",
+      "details": []
+    },
+    {
+      "id": 212,
+      "name": "scizor",
+      "details": [
+        {
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": "metal-coat",
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 900,
+      "name": "kleavor",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "black-augurite",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Pincer Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 25,
+  "color": "red",
+  "shape": "bug-wings",
+  "growth_rate": "medium",
+  "base_experience": 175,
+  "order": 197,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "scizor"
+  ],
+  "gender_rate": 4
+}

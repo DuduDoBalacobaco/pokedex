@@ -1,0 +1,158 @@
+{
+  "id": 776,
+  "name": "turtonator",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2 m",
+  "weight": "212 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "fire",
+    "dragon"
+  ],
+  "artwork": "assets/artwork/front/776_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/776_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 78
+    },
+    {
+      "name": "defense",
+      "value": 135
+    },
+    {
+      "name": "special-attack",
+      "value": 91
+    },
+    {
+      "name": "special-defense",
+      "value": 85
+    },
+    {
+      "name": "speed",
+      "value": 36
+    }
+  ],
+  "abilities": [
+    {
+      "name": "shell-armor",
+      "hidden": false,
+      "entries": "Protects against critical hits."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "mega-kick",
+    "tackle",
+    "body-slam",
+    "roar",
+    "ember",
+    "flamethrower",
+    "hyper-beam",
+    "solar-beam",
+    "fire-spin",
+    "earthquake",
+    "toxic",
+    "double-team",
+    "smog",
+    "fire-blast",
+    "explosion",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "flail",
+    "protect",
+    "outrage",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "rapid-spin",
+    "iron-tail",
+    "hidden-power",
+    "sunny-day",
+    "uproar",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "taunt",
+    "revenge",
+    "endeavor",
+    "hyper-voice",
+    "overheat",
+    "rock-tomb",
+    "iron-defense",
+    "block",
+    "dragon-claw",
+    "bulk-up",
+    "shock-wave",
+    "payback",
+    "fling",
+    "dragon-pulse",
+    "focus-blast",
+    "giga-impact",
+    "flash-cannon",
+    "draco-meteor",
+    "iron-head",
+    "stone-edge",
+    "charge-beam",
+    "head-smash",
+    "wide-guard",
+    "venoshock",
+    "smack-down",
+    "heavy-slam",
+    "flame-charge",
+    "round",
+    "shell-smash",
+    "incinerate",
+    "bulldoze",
+    "dragon-tail",
+    "work-up",
+    "heat-crash",
+    "confide",
+    "brutal-swing",
+    "shell-trap",
+    "stomping-tantrum",
+    "body-press",
+    "scale-shot",
+    "burning-jealousy",
+    "lash-out",
+    "scorching-sands"
+  ],
+  "evolution": [
+    {
+      "id": 776,
+      "name": "turtonator",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Blast Turtle Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 70,
+  "color": "red",
+  "shape": "upright",
+  "growth_rate": "medium",
+  "base_experience": 170,
+  "order": 948,
+  "egg_groups": [
+    "monster",
+    "dragon"
+  ],
+  "forms": [
+    "turtonator"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,165 @@
+{
+  "id": 245,
+  "name": "suicune",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "2 m",
+  "weight": "187 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "water"
+  ],
+  "artwork": "assets/artwork/front/245_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/245_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 100
+    },
+    {
+      "name": "attack",
+      "value": 75
+    },
+    {
+      "name": "defense",
+      "value": 115
+    },
+    {
+      "name": "special-attack",
+      "value": 90
+    },
+    {
+      "name": "special-defense",
+      "value": 115
+    },
+    {
+      "name": "speed",
+      "value": 85
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "hidden": false,
+      "entries": "Increases the PP cost of moves targetting the Pokémon by one."
+    },
+    {
+      "name": "inner-focus",
+      "hidden": true,
+      "entries": "Prevents flinching."
+    }
+  ],
+  "moves": [
+    "cut",
+    "gust",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "bite",
+    "roar",
+    "mist",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "bubble-beam",
+    "aurora-beam",
+    "hyper-beam",
+    "dig",
+    "toxic",
+    "agility",
+    "mimic",
+    "double-team",
+    "reflect",
+    "waterfall",
+    "swift",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "mud-slap",
+    "icy-wind",
+    "detect",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "mirror-coat",
+    "psych-up",
+    "extreme-speed",
+    "shadow-ball",
+    "rock-smash",
+    "whirlpool",
+    "hail",
+    "facade",
+    "helping-hand",
+    "secret-power",
+    "dive",
+    "weather-ball",
+    "signal-beam",
+    "extrasensory",
+    "sheer-cold",
+    "calm-mind",
+    "water-pulse",
+    "brine",
+    "natural-gift",
+    "tailwind",
+    "air-slash",
+    "giga-impact",
+    "avalanche",
+    "ice-fang",
+    "rock-climb",
+    "iron-head",
+    "ominous-wind",
+    "round",
+    "scald",
+    "quash",
+    "bulldoze",
+    "snarl",
+    "confide",
+    "laser-focus",
+    "liquidation",
+    "tera-blast",
+    "snowscape",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 245,
+      "name": "suicune",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Aurora Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 35,
+  "capture_rate": 3,
+  "color": "blue",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 261,
+  "order": 339,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "suicune"
+  ],
+  "gender_rate": -1
+}

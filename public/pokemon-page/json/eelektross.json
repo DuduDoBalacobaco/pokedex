@@ -1,0 +1,228 @@
+{
+  "id": 604,
+  "name": "eelektross",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2.1 m",
+  "weight": "80.5 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/604_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/604_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 85
+    },
+    {
+      "name": "attack",
+      "value": 115
+    },
+    {
+      "name": "defense",
+      "value": 80
+    },
+    {
+      "name": "special-attack",
+      "value": 105
+    },
+    {
+      "name": "special-defense",
+      "value": 80
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "levitate",
+      "hidden": false,
+      "entries": "Evades Ground moves."
+    }
+  ],
+  "moves": [
+    "fire-punch",
+    "thunder-punch",
+    "cut",
+    "bind",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "roar",
+    "acid",
+    "flamethrower",
+    "hyper-beam",
+    "strength",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "double-team",
+    "confuse-ray",
+    "light-screen",
+    "waterfall",
+    "swift",
+    "flash",
+    "rest",
+    "rock-slide",
+    "super-fang",
+    "substitute",
+    "snore",
+    "protect",
+    "scary-face",
+    "zap-cannon",
+    "outrage",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "rock-smash",
+    "facade",
+    "focus-punch",
+    "charge",
+    "superpower",
+    "brick-break",
+    "knock-off",
+    "secret-power",
+    "poison-fang",
+    "crush-claw",
+    "rock-tomb",
+    "signal-beam",
+    "muddy-water",
+    "dragon-claw",
+    "bulk-up",
+    "bounce",
+    "shock-wave",
+    "u-turn",
+    "close-combat",
+    "gastro-acid",
+    "magnet-rise",
+    "aqua-tail",
+    "dragon-pulse",
+    "drain-punch",
+    "giga-impact",
+    "thunder-fang",
+    "zen-headbutt",
+    "flash-cannon",
+    "discharge",
+    "grass-knot",
+    "charge-beam",
+    "hone-claws",
+    "heavy-slam",
+    "electro-ball",
+    "coil",
+    "acid-spray",
+    "round",
+    "hex",
+    "acrobatics",
+    "volt-switch",
+    "bulldoze",
+    "dragon-tail",
+    "electroweb",
+    "wild-charge",
+    "ion-deluge",
+    "confide",
+    "eerie-impulse",
+    "electric-terrain",
+    "power-up-punch",
+    "throat-chop",
+    "lunge",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "liquidation",
+    "body-press",
+    "rising-voltage",
+    "tera-blast",
+    "supercell-slam"
+  ],
+  "evolution": [
+    {
+      "id": 602,
+      "name": "tynamo",
+      "details": []
+    },
+    {
+      "id": 603,
+      "name": "eelektrik",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 39,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 604,
+      "name": "eelektross",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "thunder-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "EleFish Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 30,
+  "color": "blue",
+  "shape": "fish",
+  "growth_rate": "slow",
+  "base_experience": 232,
+  "order": 726,
+  "egg_groups": [
+    "indeterminate"
+  ],
+  "forms": [
+    "eelektross"
+  ],
+  "gender_rate": 4
+}

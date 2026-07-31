@@ -1,0 +1,151 @@
+{
+  "id": 938,
+  "name": "tadbulb",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "0.4 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/938_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/938_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 61
+    },
+    {
+      "name": "attack",
+      "value": 31
+    },
+    {
+      "name": "defense",
+      "value": 41
+    },
+    {
+      "name": "special-attack",
+      "value": 59
+    },
+    {
+      "name": "special-defense",
+      "value": 35
+    },
+    {
+      "name": "speed",
+      "value": 45
+    }
+  ],
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "hidden": false,
+      "entries": "Prevents confusion."
+    },
+    {
+      "name": "static",
+      "hidden": false,
+      "entries": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+    },
+    {
+      "name": "damp",
+      "hidden": true,
+      "entries": "Prevents Self-Destruct, Explosion, and Aftermath from working while the Pokémon is in battle."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "water-gun",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "confuse-ray",
+    "light-screen",
+    "reflect",
+    "swift",
+    "rest",
+    "substitute",
+    "flail",
+    "protect",
+    "mud-slap",
+    "zap-cannon",
+    "endure",
+    "spark",
+    "sleep-talk",
+    "rain-dance",
+    "charge",
+    "hyper-voice",
+    "weather-ball",
+    "muddy-water",
+    "mud-shot",
+    "water-pulse",
+    "sucker-punch",
+    "discharge",
+    "charge-beam",
+    "electro-ball",
+    "soak",
+    "acid-spray",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "parabolic-charge",
+    "eerie-impulse",
+    "electric-terrain",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 938,
+      "name": "tadbulb",
+      "details": []
+    },
+    {
+      "id": 939,
+      "name": "bellibolt",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "thunder-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "EleTadpole Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 190,
+  "color": "yellow",
+  "shape": "ball",
+  "growth_rate": "medium",
+  "base_experience": 54,
+  "order": 940,
+  "egg_groups": [
+    "water1"
+  ],
+  "forms": [
+    "tadbulb"
+  ],
+  "gender_rate": 4
+}

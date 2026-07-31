@@ -1,0 +1,227 @@
+{
+  "id": 704,
+  "name": "goomy",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "2.8 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "dragon"
+  ],
+  "artwork": "assets/artwork/front/704_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/704_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 45
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 35
+    },
+    {
+      "name": "special-attack",
+      "value": 55
+    },
+    {
+      "name": "special-defense",
+      "value": 75
+    },
+    {
+      "name": "speed",
+      "value": 40
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sap-sipper",
+      "hidden": false,
+      "entries": "Absorbs Grass moves, raising Attack one stage."
+    },
+    {
+      "name": "hydration",
+      "hidden": false,
+      "entries": "Cures any major status ailment after each turn during rain."
+    },
+    {
+      "name": "gooey",
+      "hidden": true,
+      "entries": "Lowers attacking Pokémon's Speed by one stage on contact."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "water-gun",
+    "hydro-pump",
+    "counter",
+    "absorb",
+    "thunderbolt",
+    "toxic",
+    "double-team",
+    "bide",
+    "bubble",
+    "acid-armor",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "flail",
+    "protect",
+    "sludge-bomb",
+    "outrage",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dragon-breath",
+    "iron-tail",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "secret-power",
+    "muddy-water",
+    "mud-shot",
+    "poison-tail",
+    "shock-wave",
+    "water-pulse",
+    "dragon-pulse",
+    "draco-meteor",
+    "sludge-wave",
+    "acid-spray",
+    "round",
+    "confide",
+    "infestation",
+    "life-dew",
+    "skitter-smack",
+    "shelter",
+    "tera-blast",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 704,
+      "name": "goomy",
+      "details": []
+    },
+    {
+      "id": 705,
+      "name": "sliggoo",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 40,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "level-up",
+          "min_level": 40,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 706,
+      "name": "goodra",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 50,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": true,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "level-up",
+          "min_level": 50,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": true,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Soft Tissue Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 35,
+  "capture_rate": 45,
+  "color": "purple",
+  "shape": "squiggle",
+  "growth_rate": "slow",
+  "base_experience": 60,
+  "order": 838,
+  "egg_groups": [
+    "dragon"
+  ],
+  "forms": [
+    "goomy"
+  ],
+  "gender_rate": 4
+}

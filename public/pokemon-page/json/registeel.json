@@ -1,0 +1,170 @@
+{
+  "id": 379,
+  "name": "registeel",
+  "habitat_img": "assets/img/habitats/webp/cave.webp",
+  "habitat_name": "cave",
+  "height": "1.9 m",
+  "weight": "205 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "steel"
+  ],
+  "artwork": "assets/artwork/front/379_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/379_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 80
+    },
+    {
+      "name": "attack",
+      "value": 75
+    },
+    {
+      "name": "defense",
+      "value": 150
+    },
+    {
+      "name": "special-attack",
+      "value": 75
+    },
+    {
+      "name": "special-defense",
+      "value": 150
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "clear-body",
+      "hidden": false,
+      "entries": "Prevents stats from being lowered by other Pokémon."
+    },
+    {
+      "name": "light-metal",
+      "hidden": true,
+      "entries": "Halves the Pokémon's weight."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "ice-punch",
+    "thunder-punch",
+    "stomp",
+    "mega-kick",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "hyper-beam",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "earthquake",
+    "toxic",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "self-destruct",
+    "amnesia",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "mud-slap",
+    "zap-cannon",
+    "lock-on",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "swagger",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "dynamic-punch",
+    "metal-claw",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "ancient-power",
+    "rock-smash",
+    "facade",
+    "focus-punch",
+    "superpower",
+    "brick-break",
+    "secret-power",
+    "rock-tomb",
+    "metal-sound",
+    "sand-tomb",
+    "aerial-ace",
+    "iron-defense",
+    "block",
+    "shock-wave",
+    "gravity",
+    "hammer-arm",
+    "natural-gift",
+    "fling",
+    "magnet-rise",
+    "rock-polish",
+    "focus-blast",
+    "giga-impact",
+    "shadow-claw",
+    "flash-cannon",
+    "rock-climb",
+    "iron-head",
+    "stealth-rock",
+    "charge-beam",
+    "hone-claws",
+    "heavy-slam",
+    "round",
+    "bulldoze",
+    "confide",
+    "power-up-punch",
+    "stomping-tantrum",
+    "body-press",
+    "steel-beam",
+    "steel-roller",
+    "meteor-beam",
+    "tera-blast",
+    "ice-spinner",
+    "hard-press"
+  ],
+  "evolution": [
+    {
+      "id": 379,
+      "name": "registeel",
+      "details": []
+    }
+  ],
+  "is_legendary": true,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Iron Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 35,
+  "capture_rate": 3,
+  "color": "gray",
+  "shape": "humanoid",
+  "growth_rate": "slow",
+  "base_experience": 261,
+  "order": 502,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "registeel"
+  ],
+  "gender_rate": -1
+}

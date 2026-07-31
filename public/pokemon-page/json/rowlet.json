@@ -1,0 +1,227 @@
+{
+  "id": 722,
+  "name": "rowlet",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.3 m",
+  "weight": "1.5 kg",
+  "region_name": "alola",
+  "region_img": "assets/img/region-option-2/webp/alola.webp",
+  "type": [
+    "grass",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/722_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/722_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 68
+    },
+    {
+      "name": "attack",
+      "value": 55
+    },
+    {
+      "name": "defense",
+      "value": 55
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 50
+    },
+    {
+      "name": "speed",
+      "value": 42
+    }
+  ],
+  "abilities": [
+    {
+      "name": "overgrow",
+      "hidden": false,
+      "entries": "Strengthens Grass moves to inflict 1.5× damage at 1/3 max HP or less."
+    },
+    {
+      "name": "long-reach",
+      "hidden": true,
+      "entries": "This Pokémon's moves do not make contact."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "gust",
+    "fury-attack",
+    "tackle",
+    "take-down",
+    "growl",
+    "peck",
+    "razor-leaf",
+    "solar-beam",
+    "toxic",
+    "night-shade",
+    "double-team",
+    "confuse-ray",
+    "light-screen",
+    "haze",
+    "swift",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "foresight",
+    "giga-drain",
+    "endure",
+    "false-swipe",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "baton-pass",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "facade",
+    "nature-power",
+    "helping-hand",
+    "knock-off",
+    "feather-dance",
+    "astonish",
+    "air-cutter",
+    "bullet-seed",
+    "aerial-ace",
+    "covet",
+    "magical-leaf",
+    "leaf-blade",
+    "roost",
+    "pluck",
+    "worry-seed",
+    "sucker-punch",
+    "seed-bomb",
+    "air-slash",
+    "energy-ball",
+    "brave-bird",
+    "nasty-plot",
+    "shadow-claw",
+    "shadow-sneak",
+    "defog",
+    "leaf-storm",
+    "grass-knot",
+    "ominous-wind",
+    "round",
+    "echoed-voice",
+    "grass-pledge",
+    "work-up",
+    "grassy-terrain",
+    "confide",
+    "leafage",
+    "grassy-glide",
+    "dual-wingbeat",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 722,
+      "name": "rowlet",
+      "details": []
+    },
+    {
+      "id": 723,
+      "name": "dartrix",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 17,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 724,
+      "name": "decidueye",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 34,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Grass Quill Pokémon",
+  "generation": "generation-vii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "brown",
+  "shape": "wings",
+  "growth_rate": "medium-slow",
+  "base_experience": 64,
+  "order": 868,
+  "egg_groups": [
+    "flying"
+  ],
+  "forms": [
+    "rowlet"
+  ],
+  "gender_rate": 1
+}

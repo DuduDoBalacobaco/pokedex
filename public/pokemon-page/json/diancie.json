@@ -1,0 +1,167 @@
+{
+  "id": 719,
+  "name": "diancie",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.7 m",
+  "weight": "8.8 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "rock",
+    "fairy"
+  ],
+  "artwork": "assets/artwork/front/719_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/719_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 50
+    },
+    {
+      "name": "attack",
+      "value": 100
+    },
+    {
+      "name": "defense",
+      "value": 150
+    },
+    {
+      "name": "special-attack",
+      "value": 100
+    },
+    {
+      "name": "special-defense",
+      "value": 150
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "clear-body",
+      "hidden": false,
+      "entries": "Prevents stats from being lowered by other Pokémon."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "hyper-beam",
+    "rock-throw",
+    "toxic",
+    "psychic",
+    "double-team",
+    "harden",
+    "light-screen",
+    "reflect",
+    "metronome",
+    "swift",
+    "amnesia",
+    "flash",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "sharpen",
+    "substitute",
+    "snore",
+    "flail",
+    "protect",
+    "spikes",
+    "sandstorm",
+    "endure",
+    "charm",
+    "swagger",
+    "sleep-talk",
+    "heal-bell",
+    "return",
+    "frustration",
+    "safeguard",
+    "baton-pass",
+    "encore",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "ancient-power",
+    "hail",
+    "facade",
+    "nature-power",
+    "helping-hand",
+    "endeavor",
+    "skill-swap",
+    "secret-power",
+    "fake-tears",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "covet",
+    "calm-mind",
+    "gravity",
+    "gyro-ball",
+    "guard-swap",
+    "last-resort",
+    "magnet-rise",
+    "rock-polish",
+    "power-gem",
+    "earth-power",
+    "giga-impact",
+    "flash-cannon",
+    "trick-room",
+    "stone-edge",
+    "stealth-rock",
+    "guard-split",
+    "wonder-room",
+    "psyshock",
+    "telekinesis",
+    "smack-down",
+    "after-you",
+    "round",
+    "stored-power",
+    "ally-switch",
+    "bulldoze",
+    "draining-kiss",
+    "play-rough",
+    "moonblast",
+    "confide",
+    "diamond-storm",
+    "mystical-fire",
+    "dazzling-gleam",
+    "body-press",
+    "meteor-beam",
+    "misty-explosion",
+    "terrain-pulse",
+    "scorching-sands",
+    "tera-blast",
+    "snowscape"
+  ],
+  "evolution": [
+    {
+      "id": 719,
+      "name": "diancie",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": true,
+  "is_baby": false,
+  "genus": "Jewel Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 3,
+  "color": "pink",
+  "shape": "arms",
+  "growth_rate": "slow",
+  "base_experience": 270,
+  "order": 863,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "diancie"
+  ],
+  "gender_rate": -1
+}

@@ -1,0 +1,210 @@
+{
+  "id": 270,
+  "name": "lotad",
+  "habitat_img": "assets/img/habitats/webp/waters-edge.webp",
+  "habitat_name": "waters-edge",
+  "height": "0.5 m",
+  "weight": "2.6 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "water",
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/270_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/270_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 30
+    },
+    {
+      "name": "defense",
+      "value": 30
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 50
+    },
+    {
+      "name": "speed",
+      "value": 30
+    }
+  ],
+  "abilities": [
+    {
+      "name": "swift-swim",
+      "hidden": false,
+      "entries": "Doubles Speed during rain."
+    },
+    {
+      "name": "rain-dish",
+      "hidden": false,
+      "entries": "Heals for 1/16 max HP after each turn during rain."
+    },
+    {
+      "name": "own-tempo",
+      "hidden": true,
+      "entries": "Prevents confusion."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "mist",
+    "water-gun",
+    "surf",
+    "ice-beam",
+    "blizzard",
+    "bubble-beam",
+    "counter",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "razor-leaf",
+    "solar-beam",
+    "toxic",
+    "mimic",
+    "double-team",
+    "bubble",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "flail",
+    "protect",
+    "icy-wind",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "sweet-scent",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "whirlpool",
+    "uproar",
+    "hail",
+    "facade",
+    "nature-power",
+    "secret-power",
+    "teeter-dance",
+    "astonish",
+    "weather-ball",
+    "tickle",
+    "muddy-water",
+    "bullet-seed",
+    "magical-leaf",
+    "water-pulse",
+    "natural-gift",
+    "seed-bomb",
+    "energy-ball",
+    "zen-headbutt",
+    "captivate",
+    "grass-knot",
+    "round",
+    "echoed-voice",
+    "scald",
+    "disarming-voice",
+    "grassy-terrain",
+    "confide",
+    "grassy-glide",
+    "tera-blast",
+    "trailblaze",
+    "chilling-water"
+  ],
+  "evolution": [
+    {
+      "id": 270,
+      "name": "lotad",
+      "details": []
+    },
+    {
+      "id": 271,
+      "name": "lombre",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 14,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "name": "ludicolo",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "water-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Water Weed Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 255,
+  "color": "green",
+  "shape": "armor",
+  "growth_rate": "medium-slow",
+  "base_experience": 44,
+  "order": 370,
+  "egg_groups": [
+    "water1",
+    "plant"
+  ],
+  "forms": [
+    "lotad"
+  ],
+  "gender_rate": 4
+}

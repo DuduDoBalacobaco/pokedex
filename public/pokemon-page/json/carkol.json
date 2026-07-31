@@ -1,0 +1,192 @@
+{
+  "id": 838,
+  "name": "carkol",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.1 m",
+  "weight": "78 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "rock",
+    "fire"
+  ],
+  "artwork": "assets/artwork/front/838_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/838_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 80
+    },
+    {
+      "name": "attack",
+      "value": 60
+    },
+    {
+      "name": "defense",
+      "value": 90
+    },
+    {
+      "name": "special-attack",
+      "value": 60
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "steam-engine",
+      "hidden": false,
+      "entries": "Boosts the Speed stat drastically when the Pokémon is hit by a Fire- or Water-type move."
+    },
+    {
+      "name": "flame-body",
+      "hidden": false,
+      "entries": "Has a 30% chance of burning attacking Pokémon on contact."
+    },
+    {
+      "name": "flash-fire",
+      "hidden": true,
+      "entries": "Protects against Fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+    }
+  ],
+  "moves": [
+    "tackle",
+    "body-slam",
+    "take-down",
+    "flamethrower",
+    "fire-spin",
+    "dig",
+    "smokescreen",
+    "reflect",
+    "self-destruct",
+    "fire-blast",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "protect",
+    "mud-slap",
+    "spikes",
+    "sandstorm",
+    "endure",
+    "attract",
+    "sleep-talk",
+    "rapid-spin",
+    "sunny-day",
+    "ancient-power",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "overheat",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "rock-blast",
+    "gyro-ball",
+    "flare-blitz",
+    "rock-polish",
+    "power-gem",
+    "iron-head",
+    "stone-edge",
+    "stealth-rock",
+    "smack-down",
+    "heavy-slam",
+    "flame-charge",
+    "round",
+    "scald",
+    "incinerate",
+    "bulldoze",
+    "heat-crash",
+    "high-horsepower",
+    "burn-up",
+    "body-press",
+    "meteor-beam",
+    "scorching-sands",
+    "tera-blast",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 837,
+      "name": "rolycoly",
+      "details": []
+    },
+    {
+      "id": 838,
+      "name": "carkol",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 18,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 839,
+      "name": "coalossal",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 34,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Coal Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 120,
+  "color": "black",
+  "shape": "legs",
+  "growth_rate": "medium-slow",
+  "base_experience": 144,
+  "order": 1019,
+  "egg_groups": [
+    "mineral"
+  ],
+  "forms": [
+    "carkol"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,151 @@
+{
+  "id": 556,
+  "name": "maractus",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1 m",
+  "weight": "28 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/556_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/556_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 75
+    },
+    {
+      "name": "attack",
+      "value": 86
+    },
+    {
+      "name": "defense",
+      "value": 67
+    },
+    {
+      "name": "special-attack",
+      "value": 106
+    },
+    {
+      "name": "special-defense",
+      "value": 67
+    },
+    {
+      "name": "speed",
+      "value": 60
+    }
+  ],
+  "abilities": [
+    {
+      "name": "water-absorb",
+      "hidden": false,
+      "entries": "Absorbs Water moves, healing for 1/4 max HP."
+    },
+    {
+      "name": "chlorophyll",
+      "hidden": false,
+      "entries": "Doubles Speed during strong sunlight."
+    },
+    {
+      "name": "storm-drain",
+      "hidden": true,
+      "entries": "Redirects single-target Water moves to this Pokémon where possible.  Absorbs Water moves, raising Special Attack one stage."
+    }
+  ],
+  "moves": [
+    "pin-missile",
+    "peck",
+    "absorb",
+    "mega-drain",
+    "leech-seed",
+    "growth",
+    "solar-beam",
+    "petal-dance",
+    "toxic",
+    "screech",
+    "double-team",
+    "rest",
+    "substitute",
+    "snore",
+    "cotton-spore",
+    "protect",
+    "spikes",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "sweet-scent",
+    "synthesis",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "facade",
+    "nature-power",
+    "helping-hand",
+    "ingrain",
+    "knock-off",
+    "endeavor",
+    "secret-power",
+    "needle-arm",
+    "hyper-voice",
+    "weather-ball",
+    "grass-whistle",
+    "bullet-seed",
+    "aerial-ace",
+    "bounce",
+    "acupressure",
+    "assurance",
+    "worry-seed",
+    "sucker-punch",
+    "poison-jab",
+    "seed-bomb",
+    "drain-punch",
+    "energy-ball",
+    "leaf-storm",
+    "grass-knot",
+    "wood-hammer",
+    "after-you",
+    "round",
+    "cotton-guard",
+    "petal-blizzard",
+    "grassy-terrain",
+    "confide",
+    "spiky-shield",
+    "throat-chop",
+    "grassy-glide"
+  ],
+  "evolution": [
+    {
+      "id": 556,
+      "name": "maractus",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Cactus Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 255,
+  "color": "green",
+  "shape": "blob",
+  "growth_rate": "medium",
+  "base_experience": 161,
+  "order": 677,
+  "egg_groups": [
+    "plant"
+  ],
+  "forms": [
+    "maractus"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,196 @@
+{
+  "id": 695,
+  "name": "heliolisk",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1 m",
+  "weight": "21 kg",
+  "region_name": "kalos",
+  "region_img": "assets/img/region-option-2/webp/kalos.webp",
+  "type": [
+    "electric",
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/695_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/695_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 62
+    },
+    {
+      "name": "attack",
+      "value": 55
+    },
+    {
+      "name": "defense",
+      "value": 52
+    },
+    {
+      "name": "special-attack",
+      "value": 109
+    },
+    {
+      "name": "special-defense",
+      "value": 94
+    },
+    {
+      "name": "speed",
+      "value": 109
+    }
+  ],
+  "abilities": [
+    {
+      "name": "dry-skin",
+      "hidden": false,
+      "entries": "Causes 1/8 max HP in damage each turn during strong sunlight, but heals for 1/8 max HP during rain.  Increases damage from Fire moves to 1.25×, but absorbs Water moves, healing for 1/4 max HP."
+    },
+    {
+      "name": "sand-veil",
+      "hidden": false,
+      "entries": "Increases evasion to 1.25× during a sandstorm.  Protects against sandstorm damage."
+    },
+    {
+      "name": "solar-power",
+      "hidden": true,
+      "entries": "Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight."
+    }
+  ],
+  "moves": [
+    "pound",
+    "mega-punch",
+    "fire-punch",
+    "thunder-punch",
+    "razor-wind",
+    "cut",
+    "mega-kick",
+    "tail-whip",
+    "surf",
+    "hyper-beam",
+    "low-kick",
+    "solar-beam",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "dig",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "double-team",
+    "light-screen",
+    "swift",
+    "glare",
+    "flash",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "protect",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "iron-tail",
+    "morning-sun",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "facade",
+    "charge",
+    "secret-power",
+    "hyper-voice",
+    "weather-ball",
+    "rock-tomb",
+    "signal-beam",
+    "shock-wave",
+    "u-turn",
+    "magnet-rise",
+    "dark-pulse",
+    "dragon-pulse",
+    "dragon-rush",
+    "focus-blast",
+    "giga-impact",
+    "discharge",
+    "grass-knot",
+    "charge-beam",
+    "electro-ball",
+    "low-sweep",
+    "round",
+    "ally-switch",
+    "volt-switch",
+    "bulldoze",
+    "dragon-tail",
+    "electroweb",
+    "wild-charge",
+    "parabolic-charge",
+    "electrify",
+    "confide",
+    "eerie-impulse",
+    "electric-terrain",
+    "brutal-swing",
+    "breaking-swipe",
+    "scale-shot",
+    "rising-voltage",
+    "shed-tail",
+    "pounce",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 694,
+      "name": "helioptile",
+      "details": []
+    },
+    {
+      "id": 695,
+      "name": "heliolisk",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "sun-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Generator Pokémon",
+  "generation": "generation-vi",
+  "base_happiness": 70,
+  "capture_rate": 75,
+  "color": "yellow",
+  "shape": "upright",
+  "growth_rate": "medium",
+  "base_experience": 168,
+  "order": 830,
+  "egg_groups": [
+    "monster",
+    "dragon"
+  ],
+  "forms": [
+    "heliolisk"
+  ],
+  "gender_rate": 4
+}

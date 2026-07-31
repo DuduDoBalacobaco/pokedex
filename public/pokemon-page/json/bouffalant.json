@@ -1,0 +1,159 @@
+{
+  "id": 626,
+  "name": "bouffalant",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.6 m",
+  "weight": "94.6 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/626_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/626_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 95
+    },
+    {
+      "name": "attack",
+      "value": 110
+    },
+    {
+      "name": "defense",
+      "value": 95
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 95
+    },
+    {
+      "name": "speed",
+      "value": 55
+    }
+  ],
+  "abilities": [
+    {
+      "name": "reckless",
+      "hidden": false,
+      "entries": "Strengthens recoil moves to 1.2× their power."
+    },
+    {
+      "name": "sap-sipper",
+      "hidden": false,
+      "entries": "Absorbs Grass moves, raising Attack one stage."
+    },
+    {
+      "name": "soundproof",
+      "hidden": true,
+      "entries": "Protects against sound-based moves."
+    }
+  ],
+  "moves": [
+    "swords-dance",
+    "cut",
+    "stomp",
+    "headbutt",
+    "horn-attack",
+    "fury-attack",
+    "tackle",
+    "body-slam",
+    "thrash",
+    "leer",
+    "surf",
+    "strength",
+    "earthquake",
+    "toxic",
+    "rage",
+    "double-team",
+    "focus-energy",
+    "skull-bash",
+    "amnesia",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "reversal",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "outrage",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "megahorn",
+    "pursuit",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "uproar",
+    "facade",
+    "taunt",
+    "superpower",
+    "revenge",
+    "endeavor",
+    "secret-power",
+    "rock-tomb",
+    "aerial-ace",
+    "mud-shot",
+    "close-combat",
+    "payback",
+    "assurance",
+    "poison-jab",
+    "giga-impact",
+    "zen-headbutt",
+    "rock-climb",
+    "iron-head",
+    "stone-edge",
+    "round",
+    "retaliate",
+    "bulldoze",
+    "work-up",
+    "wild-charge",
+    "cotton-guard",
+    "head-charge",
+    "belch",
+    "confide",
+    "high-horsepower",
+    "throat-chop",
+    "smart-strike",
+    "stomping-tantrum",
+    "lash-out"
+  ],
+  "evolution": [
+    {
+      "id": 626,
+      "name": "bouffalant",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Bash Buffalo Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "brown",
+  "shape": "quadruped",
+  "growth_rate": "medium",
+  "base_experience": 172,
+  "order": 749,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "bouffalant"
+  ],
+  "gender_rate": 4
+}

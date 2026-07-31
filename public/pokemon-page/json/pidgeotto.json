@@ -1,0 +1,198 @@
+{
+  "id": 17,
+  "name": "pidgeotto",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "1.1 m",
+  "weight": "30 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "normal",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/17_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/17_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 63
+    },
+    {
+      "name": "attack",
+      "value": 60
+    },
+    {
+      "name": "defense",
+      "value": 55
+    },
+    {
+      "name": "special-attack",
+      "value": 50
+    },
+    {
+      "name": "special-defense",
+      "value": 50
+    },
+    {
+      "name": "speed",
+      "value": 71
+    }
+  ],
+  "abilities": [
+    {
+      "name": "keen-eye",
+      "hidden": false,
+      "entries": "Prevents accuracy from being lowered."
+    },
+    {
+      "name": "tangled-feet",
+      "hidden": false,
+      "entries": "Doubles evasion when confused."
+    },
+    {
+      "name": "big-pecks",
+      "hidden": true,
+      "entries": "Protects against Defense drops."
+    }
+  ],
+  "moves": [
+    "razor-wind",
+    "gust",
+    "wing-attack",
+    "whirlwind",
+    "fly",
+    "sand-attack",
+    "headbutt",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "toxic",
+    "agility",
+    "quick-attack",
+    "rage",
+    "mimic",
+    "double-team",
+    "reflect",
+    "bide",
+    "mirror-move",
+    "swift",
+    "sky-attack",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "protect",
+    "mud-slap",
+    "detect",
+    "endure",
+    "swagger",
+    "steel-wing",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "twister",
+    "rain-dance",
+    "sunny-day",
+    "uproar",
+    "heat-wave",
+    "facade",
+    "refresh",
+    "secret-power",
+    "feather-dance",
+    "air-cutter",
+    "aerial-ace",
+    "roost",
+    "natural-gift",
+    "pluck",
+    "tailwind",
+    "u-turn",
+    "air-slash",
+    "defog",
+    "captivate",
+    "ominous-wind",
+    "round",
+    "work-up",
+    "hurricane",
+    "confide"
+  ],
+  "evolution": [
+    {
+      "id": 16,
+      "name": "pidgey",
+      "details": []
+    },
+    {
+      "id": 17,
+      "name": "pidgeotto",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 18,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "pidgeot",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 36,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Bird Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 120,
+  "color": "brown",
+  "shape": "wings",
+  "growth_rate": "medium-slow",
+  "base_experience": 122,
+  "order": 22,
+  "egg_groups": [
+    "flying"
+  ],
+  "forms": [
+    "pidgeotto"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,209 @@
+{
+  "id": 563,
+  "name": "cofagrigus",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.7 m",
+  "weight": "76.5 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "ghost"
+  ],
+  "artwork": "assets/artwork/front/563_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/563_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 58
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 145
+    },
+    {
+      "name": "special-attack",
+      "value": 95
+    },
+    {
+      "name": "special-defense",
+      "value": 105
+    },
+    {
+      "name": "speed",
+      "value": 30
+    }
+  ],
+  "abilities": [
+    {
+      "name": "mummy",
+      "hidden": false,
+      "entries": "Changes attacking Pokémon's abilities to Mummy on contact."
+    }
+  ],
+  "moves": [
+    "disable",
+    "hyper-beam",
+    "toxic",
+    "psychic",
+    "night-shade",
+    "double-team",
+    "confuse-ray",
+    "haze",
+    "self-destruct",
+    "dream-eater",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "spite",
+    "protect",
+    "scary-face",
+    "destiny-bond",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "mean-look",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "pain-split",
+    "hidden-power",
+    "rain-dance",
+    "psych-up",
+    "shadow-ball",
+    "will-o-wisp",
+    "memento",
+    "facade",
+    "trick",
+    "role-play",
+    "magic-coat",
+    "revenge",
+    "knock-off",
+    "skill-swap",
+    "imprison",
+    "grudge",
+    "snatch",
+    "secret-power",
+    "astonish",
+    "fake-tears",
+    "shadow-punch",
+    "iron-defense",
+    "block",
+    "calm-mind",
+    "shock-wave",
+    "payback",
+    "embargo",
+    "power-swap",
+    "guard-swap",
+    "toxic-spikes",
+    "dark-pulse",
+    "energy-ball",
+    "giga-impact",
+    "nasty-plot",
+    "shadow-claw",
+    "zen-headbutt",
+    "trick-room",
+    "grass-knot",
+    "ominous-wind",
+    "guard-split",
+    "power-split",
+    "wonder-room",
+    "telekinesis",
+    "after-you",
+    "round",
+    "ally-switch",
+    "hex",
+    "phantom-force",
+    "crafty-shield",
+    "confide",
+    "infestation",
+    "body-press",
+    "poltergeist"
+  ],
+  "evolution": [
+    {
+      "id": 562,
+      "name": "yamask",
+      "details": []
+    },
+    {
+      "id": 563,
+      "name": "cofagrigus",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 34,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 867,
+      "name": "runerigus",
+      "details": [
+        {
+          "trigger": "take-damage",
+          "min_level": null,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Coffin Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 90,
+  "color": "yellow",
+  "shape": "blob",
+  "growth_rate": "medium",
+  "base_experience": 169,
+  "order": 685,
+  "egg_groups": [
+    "mineral",
+    "indeterminate"
+  ],
+  "forms": [
+    "cofagrigus"
+  ],
+  "gender_rate": 4
+}

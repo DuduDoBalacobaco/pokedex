@@ -1,0 +1,188 @@
+{
+  "id": 582,
+  "name": "vanillite",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "0.4 m",
+  "weight": "5.7 kg",
+  "region_name": "unova",
+  "region_img": "assets/img/region-option-2/webp/unova.webp",
+  "type": [
+    "ice"
+  ],
+  "artwork": "assets/artwork/front/582_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/582_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 36
+    },
+    {
+      "name": "attack",
+      "value": 50
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 60
+    },
+    {
+      "name": "speed",
+      "value": 44
+    }
+  ],
+  "abilities": [
+    {
+      "name": "ice-body",
+      "hidden": false,
+      "entries": "Heals for 1/16 max HP after each turn during hail.  Protects against hail damage."
+    },
+    {
+      "name": "snow-cloak",
+      "hidden": false,
+      "entries": "Increases evasion to 1.25× during hail.  Protects against hail damage."
+    },
+    {
+      "name": "weak-armor",
+      "hidden": true,
+      "entries": "Raises Speed and lowers Defense by one stage each upon being hit by a physical move."
+    }
+  ],
+  "moves": [
+    "mist",
+    "ice-beam",
+    "blizzard",
+    "toxic",
+    "double-team",
+    "harden",
+    "light-screen",
+    "self-destruct",
+    "acid-armor",
+    "explosion",
+    "rest",
+    "substitute",
+    "snore",
+    "powder-snow",
+    "protect",
+    "icy-wind",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "mirror-coat",
+    "uproar",
+    "hail",
+    "facade",
+    "taunt",
+    "magic-coat",
+    "imprison",
+    "secret-power",
+    "hyper-voice",
+    "astonish",
+    "signal-beam",
+    "sheer-cold",
+    "icicle-spear",
+    "iron-defense",
+    "water-pulse",
+    "natural-gift",
+    "magnet-rise",
+    "avalanche",
+    "ice-shard",
+    "mirror-shot",
+    "flash-cannon",
+    "autotomize",
+    "round",
+    "ally-switch",
+    "frost-breath",
+    "icicle-crash",
+    "confide",
+    "aurora-veil"
+  ],
+  "evolution": [
+    {
+      "id": 582,
+      "name": "vanillite",
+      "details": []
+    },
+    {
+      "id": 583,
+      "name": "vanillish",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 35,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    },
+    {
+      "id": 584,
+      "name": "vanilluxe",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 47,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Fresh Snow Pokémon",
+  "generation": "generation-v",
+  "base_happiness": 70,
+  "capture_rate": 255,
+  "color": "white",
+  "shape": "blob",
+  "growth_rate": "slow",
+  "base_experience": 61,
+  "order": 704,
+  "egg_groups": [
+    "mineral"
+  ],
+  "forms": [
+    "vanillite"
+  ],
+  "gender_rate": 4
+}

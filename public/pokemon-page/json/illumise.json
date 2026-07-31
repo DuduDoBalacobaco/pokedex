@@ -1,0 +1,181 @@
+{
+  "id": 314,
+  "name": "illumise",
+  "habitat_img": "assets/img/habitats/webp/forest.webp",
+  "habitat_name": "forest",
+  "height": "0.6 m",
+  "weight": "17.7 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "bug"
+  ],
+  "artwork": "assets/artwork/front/314_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/314_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 65
+    },
+    {
+      "name": "attack",
+      "value": 47
+    },
+    {
+      "name": "defense",
+      "value": 75
+    },
+    {
+      "name": "special-attack",
+      "value": 73
+    },
+    {
+      "name": "special-defense",
+      "value": 85
+    },
+    {
+      "name": "speed",
+      "value": 85
+    }
+  ],
+  "abilities": [
+    {
+      "name": "oblivious",
+      "hidden": false,
+      "entries": "Prevents infatuation and protects against Captivate."
+    },
+    {
+      "name": "tinted-lens",
+      "hidden": false,
+      "entries": "Doubles damage inflicted with not-very-effective moves."
+    },
+    {
+      "name": "prankster",
+      "hidden": true,
+      "entries": "Raises non-damaging moves' priority by one stage."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "ice-punch",
+    "thunder-punch",
+    "mega-kick",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "counter",
+    "seismic-toss",
+    "growth",
+    "solar-beam",
+    "string-shot",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "quick-attack",
+    "mimic",
+    "double-team",
+    "confuse-ray",
+    "light-screen",
+    "metronome",
+    "swift",
+    "flash",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "mud-slap",
+    "giga-drain",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dynamic-punch",
+    "baton-pass",
+    "encore",
+    "sweet-scent",
+    "moonlight",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "psych-up",
+    "shadow-ball",
+    "flatter",
+    "facade",
+    "focus-punch",
+    "helping-hand",
+    "trick",
+    "wish",
+    "brick-break",
+    "endeavor",
+    "secret-power",
+    "aromatherapy",
+    "fake-tears",
+    "air-cutter",
+    "silver-wind",
+    "aerial-ace",
+    "covet",
+    "shock-wave",
+    "water-pulse",
+    "roost",
+    "natural-gift",
+    "tailwind",
+    "u-turn",
+    "fling",
+    "air-slash",
+    "bug-buzz",
+    "zen-headbutt",
+    "defog",
+    "captivate",
+    "bug-bite",
+    "charge-beam",
+    "ominous-wind",
+    "round",
+    "acrobatics",
+    "struggle-bug",
+    "disarming-voice",
+    "draining-kiss",
+    "play-rough",
+    "play-nice",
+    "confide",
+    "dazzling-gleam",
+    "infestation",
+    "power-up-punch",
+    "skitter-smack",
+    "tera-blast",
+    "pounce",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 314,
+      "name": "illumise",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Firefly Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 150,
+  "color": "purple",
+  "shape": "humanoid",
+  "growth_rate": "fast-then-very-slow",
+  "base_experience": 151,
+  "order": 422,
+  "egg_groups": [
+    "bug",
+    "humanshape"
+  ],
+  "forms": [
+    "illumise"
+  ],
+  "gender_rate": 8
+}

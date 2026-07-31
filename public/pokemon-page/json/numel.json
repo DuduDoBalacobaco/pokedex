@@ -1,0 +1,202 @@
+{
+  "id": 322,
+  "name": "numel",
+  "habitat_img": "assets/img/habitats/webp/mountain.webp",
+  "habitat_name": "mountain",
+  "height": "0.7 m",
+  "weight": "24 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "fire",
+    "ground"
+  ],
+  "artwork": "assets/artwork/front/322_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/322_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 60
+    },
+    {
+      "name": "attack",
+      "value": 60
+    },
+    {
+      "name": "defense",
+      "value": 40
+    },
+    {
+      "name": "special-attack",
+      "value": 65
+    },
+    {
+      "name": "special-defense",
+      "value": 45
+    },
+    {
+      "name": "speed",
+      "value": 35
+    }
+  ],
+  "abilities": [
+    {
+      "name": "oblivious",
+      "hidden": false,
+      "entries": "Prevents infatuation and protects against Captivate."
+    },
+    {
+      "name": "simple",
+      "hidden": false,
+      "entries": "Doubles the Pokémon's stat modifiers.  These doubled modifiers are still capped at -6 or 6 stages."
+    },
+    {
+      "name": "own-tempo",
+      "hidden": true,
+      "entries": "Prevents confusion."
+    }
+  ],
+  "moves": [
+    "stomp",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "growl",
+    "roar",
+    "ember",
+    "flamethrower",
+    "strength",
+    "growth",
+    "fire-spin",
+    "earthquake",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "defense-curl",
+    "focus-energy",
+    "fire-blast",
+    "amnesia",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "flame-wheel",
+    "snore",
+    "curse",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "charm",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "magnitude",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "ancient-power",
+    "rock-smash",
+    "stockpile",
+    "spit-up",
+    "swallow",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "nature-power",
+    "helping-hand",
+    "yawn",
+    "endeavor",
+    "secret-power",
+    "overheat",
+    "rock-tomb",
+    "howl",
+    "mud-shot",
+    "natural-gift",
+    "flare-blitz",
+    "earth-power",
+    "mud-bomb",
+    "zen-headbutt",
+    "flash-cannon",
+    "lava-plume",
+    "iron-head",
+    "stone-edge",
+    "captivate",
+    "stealth-rock",
+    "flame-burst",
+    "heavy-slam",
+    "flame-charge",
+    "after-you",
+    "round",
+    "echoed-voice",
+    "incinerate",
+    "bulldoze",
+    "heat-crash",
+    "confide",
+    "high-horsepower",
+    "stomping-tantrum",
+    "body-press",
+    "lash-out",
+    "scorching-sands",
+    "tera-blast",
+    "trailblaze",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 322,
+      "name": "numel",
+      "details": []
+    },
+    {
+      "id": 323,
+      "name": "camerupt",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 33,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Numb Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 255,
+  "color": "yellow",
+  "shape": "quadruped",
+  "growth_rate": "medium",
+  "base_experience": 61,
+  "order": 433,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "numel"
+  ],
+  "gender_rate": 4
+}

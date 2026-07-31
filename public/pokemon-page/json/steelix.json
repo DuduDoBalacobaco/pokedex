@@ -1,0 +1,212 @@
+{
+  "id": 208,
+  "name": "steelix",
+  "habitat_img": "assets/img/habitats/webp/cave.webp",
+  "habitat_name": "cave",
+  "height": "9.2 m",
+  "weight": "400 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "steel",
+    "ground"
+  ],
+  "artwork": "assets/artwork/front/208_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/208_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 75
+    },
+    {
+      "name": "attack",
+      "value": 85
+    },
+    {
+      "name": "defense",
+      "value": 200
+    },
+    {
+      "name": "special-attack",
+      "value": 55
+    },
+    {
+      "name": "special-defense",
+      "value": 65
+    },
+    {
+      "name": "speed",
+      "value": 30
+    }
+  ],
+  "abilities": [
+    {
+      "name": "rock-head",
+      "hidden": false,
+      "entries": "Protects against recoil damage."
+    },
+    {
+      "name": "sturdy",
+      "hidden": false,
+      "entries": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    },
+    {
+      "name": "sheer-force",
+      "hidden": true,
+      "entries": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    }
+  ],
+  "moves": [
+    "cut",
+    "bind",
+    "slam",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "double-edge",
+    "roar",
+    "hyper-beam",
+    "strength",
+    "rock-throw",
+    "earthquake",
+    "fissure",
+    "dig",
+    "toxic",
+    "rage",
+    "mimic",
+    "screech",
+    "double-team",
+    "harden",
+    "defense-curl",
+    "self-destruct",
+    "explosion",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "flail",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dragon-breath",
+    "iron-tail",
+    "hidden-power",
+    "twister",
+    "sunny-day",
+    "crunch",
+    "psych-up",
+    "ancient-power",
+    "rock-smash",
+    "torment",
+    "facade",
+    "nature-power",
+    "taunt",
+    "secret-power",
+    "mud-sport",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "block",
+    "dragon-dance",
+    "rock-blast",
+    "gyro-ball",
+    "natural-gift",
+    "payback",
+    "magnet-rise",
+    "rock-polish",
+    "dark-pulse",
+    "aqua-tail",
+    "dragon-pulse",
+    "earth-power",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "flash-cannon",
+    "rock-climb",
+    "iron-head",
+    "stone-edge",
+    "captivate",
+    "stealth-rock",
+    "head-smash",
+    "wide-guard",
+    "autotomize",
+    "smack-down",
+    "heavy-slam",
+    "round",
+    "bulldoze",
+    "dragon-tail",
+    "drill-run",
+    "confide",
+    "high-horsepower",
+    "brutal-swing",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "body-press",
+    "breaking-swipe",
+    "steel-beam",
+    "steel-roller",
+    "meteor-beam",
+    "scorching-sands"
+  ],
+  "evolution": [
+    {
+      "id": 95,
+      "name": "onix",
+      "details": []
+    },
+    {
+      "id": 208,
+      "name": "steelix",
+      "details": [
+        {
+          "trigger": "trade",
+          "min_level": null,
+          "item": null,
+          "held_item": "metal-coat",
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Iron Snake Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 25,
+  "color": "gray",
+  "shape": "squiggle",
+  "growth_rate": "medium",
+  "base_experience": 179,
+  "order": 152,
+  "egg_groups": [
+    "mineral"
+  ],
+  "forms": [
+    "steelix"
+  ],
+  "gender_rate": 4
+}

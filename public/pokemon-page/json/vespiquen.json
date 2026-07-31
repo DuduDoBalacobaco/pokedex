@@ -1,0 +1,201 @@
+{
+  "id": 416,
+  "name": "vespiquen",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.2 m",
+  "weight": "38.5 kg",
+  "region_name": "sinnoh",
+  "region_img": "assets/img/region-option-2/webp/sinnoh.webp",
+  "type": [
+    "bug",
+    "flying"
+  ],
+  "artwork": "assets/artwork/front/416_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/416_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 70
+    },
+    {
+      "name": "attack",
+      "value": 80
+    },
+    {
+      "name": "defense",
+      "value": 102
+    },
+    {
+      "name": "special-attack",
+      "value": 80
+    },
+    {
+      "name": "special-defense",
+      "value": 102
+    },
+    {
+      "name": "speed",
+      "value": 40
+    }
+  ],
+  "abilities": [
+    {
+      "name": "pressure",
+      "hidden": false,
+      "entries": "Increases the PP cost of moves targetting the Pokémon by one."
+    },
+    {
+      "name": "unnerve",
+      "hidden": true,
+      "entries": "Prevents opposing Pokémon from eating held Berries."
+    }
+  ],
+  "moves": [
+    "cut",
+    "gust",
+    "take-down",
+    "poison-sting",
+    "pin-missile",
+    "hyper-beam",
+    "string-shot",
+    "toxic",
+    "agility",
+    "screech",
+    "double-team",
+    "recover",
+    "confuse-ray",
+    "swift",
+    "flash",
+    "fury-swipes",
+    "rest",
+    "slash",
+    "substitute",
+    "thief",
+    "snore",
+    "reversal",
+    "spite",
+    "protect",
+    "scary-face",
+    "sludge-bomb",
+    "mud-slap",
+    "spikes",
+    "destiny-bond",
+    "endure",
+    "swagger",
+    "fury-cutter",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "pursuit",
+    "sweet-scent",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "beat-up",
+    "uproar",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "revenge",
+    "endeavor",
+    "secret-power",
+    "aromatherapy",
+    "air-cutter",
+    "silver-wind",
+    "signal-beam",
+    "aerial-ace",
+    "roost",
+    "natural-gift",
+    "tailwind",
+    "u-turn",
+    "assurance",
+    "fling",
+    "toxic-spikes",
+    "air-slash",
+    "x-scissor",
+    "bug-buzz",
+    "power-gem",
+    "giga-impact",
+    "defog",
+    "cross-poison",
+    "captivate",
+    "bug-bite",
+    "attack-order",
+    "defend-order",
+    "heal-order",
+    "ominous-wind",
+    "hone-claws",
+    "venoshock",
+    "round",
+    "hex",
+    "quash",
+    "acrobatics",
+    "struggle-bug",
+    "hurricane",
+    "fell-stinger",
+    "confide",
+    "aromatic-mist",
+    "infestation",
+    "laser-focus",
+    "pollen-puff",
+    "lunge",
+    "skitter-smack",
+    "dual-wingbeat",
+    "tera-blast",
+    "pounce",
+    "psychic-noise"
+  ],
+  "evolution": [
+    {
+      "id": 415,
+      "name": "combee",
+      "details": []
+    },
+    {
+      "id": 416,
+      "name": "vespiquen",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 21,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Beehive Pokémon",
+  "generation": "generation-iv",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "yellow",
+  "shape": "bug-wings",
+  "growth_rate": "medium-slow",
+  "base_experience": 166,
+  "order": 547,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "vespiquen"
+  ],
+  "gender_rate": 8
+}

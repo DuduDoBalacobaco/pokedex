@@ -1,0 +1,159 @@
+{
+  "id": 893,
+  "name": "zarude",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.8 m",
+  "weight": "70 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "dark",
+    "grass"
+  ],
+  "artwork": "assets/artwork/front/893_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/893_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 105
+    },
+    {
+      "name": "attack",
+      "value": 120
+    },
+    {
+      "name": "defense",
+      "value": 105
+    },
+    {
+      "name": "special-attack",
+      "value": 70
+    },
+    {
+      "name": "special-defense",
+      "value": 95
+    },
+    {
+      "name": "speed",
+      "value": 105
+    }
+  ],
+  "abilities": [
+    {
+      "name": "leaf-guard",
+      "hidden": false,
+      "entries": "Protects against major status ailments during strong sunlight."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "scratch",
+    "swords-dance",
+    "bind",
+    "vine-whip",
+    "mega-kick",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "leer",
+    "bite",
+    "roar",
+    "hyper-beam",
+    "low-kick",
+    "growth",
+    "solar-beam",
+    "dig",
+    "swift",
+    "fury-swipes",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "protect",
+    "scary-face",
+    "giga-drain",
+    "endure",
+    "swagger",
+    "sleep-talk",
+    "encore",
+    "iron-tail",
+    "synthesis",
+    "sunny-day",
+    "crunch",
+    "facade",
+    "focus-punch",
+    "taunt",
+    "helping-hand",
+    "superpower",
+    "revenge",
+    "brick-break",
+    "knock-off",
+    "hyper-voice",
+    "rock-tomb",
+    "bullet-seed",
+    "aerial-ace",
+    "bulk-up",
+    "mud-shot",
+    "magical-leaf",
+    "hammer-arm",
+    "u-turn",
+    "close-combat",
+    "payback",
+    "assurance",
+    "fling",
+    "dark-pulse",
+    "seed-bomb",
+    "drain-punch",
+    "energy-ball",
+    "giga-impact",
+    "nasty-plot",
+    "leaf-storm",
+    "power-whip",
+    "grass-knot",
+    "low-sweep",
+    "round",
+    "acrobatics",
+    "snarl",
+    "petal-blizzard",
+    "grassy-terrain",
+    "darkest-lariat",
+    "solar-blade",
+    "throat-chop",
+    "brutal-swing",
+    "stomping-tantrum",
+    "grassy-glide",
+    "lash-out",
+    "jungle-healing",
+    "tera-blast",
+    "trailblaze"
+  ],
+  "evolution": [
+    {
+      "id": 893,
+      "name": "zarude",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": true,
+  "is_baby": false,
+  "genus": "Rogue Monkey Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 0,
+  "capture_rate": 3,
+  "color": "green",
+  "shape": "upright",
+  "growth_rate": "slow",
+  "base_experience": 300,
+  "order": 1084,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "zarude"
+  ],
+  "gender_rate": -1
+}

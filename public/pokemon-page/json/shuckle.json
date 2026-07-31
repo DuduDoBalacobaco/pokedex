@@ -1,0 +1,168 @@
+{
+  "id": 213,
+  "name": "shuckle",
+  "habitat_img": "assets/img/habitats/webp/mountain.webp",
+  "habitat_name": "mountain",
+  "height": "0.6 m",
+  "weight": "20.5 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "bug",
+    "rock"
+  ],
+  "artwork": "assets/artwork/front/213_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/213_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 20
+    },
+    {
+      "name": "attack",
+      "value": 10
+    },
+    {
+      "name": "defense",
+      "value": 230
+    },
+    {
+      "name": "special-attack",
+      "value": 10
+    },
+    {
+      "name": "special-defense",
+      "value": 230
+    },
+    {
+      "name": "speed",
+      "value": 5
+    }
+  ],
+  "abilities": [
+    {
+      "name": "sturdy",
+      "hidden": false,
+      "entries": "Prevents being KOed from full HP, leaving 1 HP instead.  Protects against the one-hit KO moves regardless of HP."
+    },
+    {
+      "name": "gluttony",
+      "hidden": false,
+      "entries": "Makes the Pokémon eat any held Berry triggered by low HP below 1/2 its max HP."
+    },
+    {
+      "name": "contrary",
+      "hidden": true,
+      "entries": "Inverts stat changes."
+    }
+  ],
+  "moves": [
+    "bind",
+    "headbutt",
+    "body-slam",
+    "wrap",
+    "double-edge",
+    "acid",
+    "strength",
+    "string-shot",
+    "rock-throw",
+    "earthquake",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "withdraw",
+    "defense-curl",
+    "bide",
+    "constrict",
+    "flash",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "sludge-bomb",
+    "mud-slap",
+    "sandstorm",
+    "endure",
+    "rollout",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "encore",
+    "sweet-scent",
+    "hidden-power",
+    "sunny-day",
+    "ancient-power",
+    "rock-smash",
+    "facade",
+    "helping-hand",
+    "knock-off",
+    "secret-power",
+    "rock-tomb",
+    "sand-tomb",
+    "iron-defense",
+    "mud-shot",
+    "covet",
+    "rock-blast",
+    "gyro-ball",
+    "natural-gift",
+    "acupressure",
+    "power-trick",
+    "gastro-acid",
+    "rock-polish",
+    "earth-power",
+    "stone-edge",
+    "captivate",
+    "stealth-rock",
+    "bug-bite",
+    "guard-split",
+    "power-split",
+    "venoshock",
+    "smack-down",
+    "sludge-wave",
+    "after-you",
+    "round",
+    "shell-smash",
+    "final-gambit",
+    "struggle-bug",
+    "bulldoze",
+    "sticky-web",
+    "confide",
+    "infestation",
+    "steel-roller",
+    "meteor-beam",
+    "skitter-smack"
+  ],
+  "evolution": [
+    {
+      "id": 213,
+      "name": "shuckle",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Mold Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "yellow",
+  "shape": "armor",
+  "growth_rate": "medium-slow",
+  "base_experience": 177,
+  "order": 309,
+  "egg_groups": [
+    "bug"
+  ],
+  "forms": [
+    "shuckle"
+  ],
+  "gender_rate": 4
+}

@@ -1,0 +1,137 @@
+{
+  "id": 882,
+  "name": "dracovish",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "2.3 m",
+  "weight": "215 kg",
+  "region_name": "galar",
+  "region_img": "assets/img/region-option-2/webp/galar.webp",
+  "type": [
+    "water",
+    "dragon"
+  ],
+  "artwork": "assets/artwork/front/882_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/882_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 90
+    },
+    {
+      "name": "attack",
+      "value": 90
+    },
+    {
+      "name": "defense",
+      "value": 100
+    },
+    {
+      "name": "special-attack",
+      "value": 70
+    },
+    {
+      "name": "special-defense",
+      "value": 80
+    },
+    {
+      "name": "speed",
+      "value": 75
+    }
+  ],
+  "abilities": [
+    {
+      "name": "water-absorb",
+      "hidden": false,
+      "entries": "Absorbs Water moves, healing for 1/4 max HP."
+    },
+    {
+      "name": "strong-jaw",
+      "hidden": false,
+      "entries": "Strengthens biting moves to 1.5× their power."
+    },
+    {
+      "name": "sand-rush",
+      "hidden": true,
+      "entries": "Doubles Speed during a sandstorm.  Protects against sandstorm damage."
+    }
+  ],
+  "moves": [
+    "stomp",
+    "mega-kick",
+    "tackle",
+    "body-slam",
+    "bite",
+    "water-gun",
+    "hydro-pump",
+    "surf",
+    "hyper-beam",
+    "low-kick",
+    "earthquake",
+    "waterfall",
+    "leech-life",
+    "rest",
+    "rock-slide",
+    "super-fang",
+    "substitute",
+    "snore",
+    "protect",
+    "outrage",
+    "endure",
+    "sleep-talk",
+    "dragon-breath",
+    "rain-dance",
+    "crunch",
+    "ancient-power",
+    "whirlpool",
+    "facade",
+    "dive",
+    "rock-tomb",
+    "rock-blast",
+    "brine",
+    "dragon-pulse",
+    "dragon-rush",
+    "earth-power",
+    "giga-impact",
+    "ice-fang",
+    "zen-headbutt",
+    "draco-meteor",
+    "iron-head",
+    "stone-edge",
+    "round",
+    "scald",
+    "bulldoze",
+    "brutal-swing",
+    "psychic-fangs",
+    "stomping-tantrum",
+    "liquidation",
+    "fishious-rend",
+    "meteor-beam"
+  ],
+  "evolution": [
+    {
+      "id": 882,
+      "name": "dracovish",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Fossil Pokémon",
+  "generation": "generation-viii",
+  "base_happiness": 50,
+  "capture_rate": 45,
+  "color": "green",
+  "shape": "legs",
+  "growth_rate": "slow",
+  "base_experience": 177,
+  "order": 1069,
+  "egg_groups": [
+    "no-eggs"
+  ],
+  "forms": [
+    "dracovish"
+  ],
+  "gender_rate": -1
+}

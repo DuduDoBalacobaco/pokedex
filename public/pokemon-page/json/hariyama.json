@@ -1,0 +1,212 @@
+{
+  "id": 297,
+  "name": "hariyama",
+  "habitat_img": "assets/img/habitats/webp/mountain.webp",
+  "habitat_name": "mountain",
+  "height": "2.3 m",
+  "weight": "253.8 kg",
+  "region_name": "hoenn",
+  "region_img": "assets/img/region-option-2/webp/hoenn.webp",
+  "type": [
+    "fighting"
+  ],
+  "artwork": "assets/artwork/front/297_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/297_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 144
+    },
+    {
+      "name": "attack",
+      "value": 120
+    },
+    {
+      "name": "defense",
+      "value": 60
+    },
+    {
+      "name": "special-attack",
+      "value": 40
+    },
+    {
+      "name": "special-defense",
+      "value": 60
+    },
+    {
+      "name": "speed",
+      "value": 50
+    }
+  ],
+  "abilities": [
+    {
+      "name": "thick-fat",
+      "hidden": false,
+      "entries": "Halves damage from Fire and Ice moves."
+    },
+    {
+      "name": "guts",
+      "hidden": false,
+      "entries": "Increases Attack to 1.5× with a major status ailment."
+    },
+    {
+      "name": "sheer-force",
+      "hidden": true,
+      "entries": "Strengthens moves with extra effects to 1.3× their power, but prevents their extra effects."
+    }
+  ],
+  "moves": [
+    "mega-punch",
+    "fire-punch",
+    "ice-punch",
+    "thunder-punch",
+    "whirlwind",
+    "mega-kick",
+    "sand-attack",
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "surf",
+    "hyper-beam",
+    "low-kick",
+    "counter",
+    "seismic-toss",
+    "strength",
+    "earthquake",
+    "dig",
+    "toxic",
+    "mimic",
+    "double-team",
+    "focus-energy",
+    "metronome",
+    "swift",
+    "rest",
+    "rock-slide",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "scary-face",
+    "belly-drum",
+    "mud-slap",
+    "detect",
+    "endure",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "dynamic-punch",
+    "vital-throw",
+    "hidden-power",
+    "rain-dance",
+    "sunny-day",
+    "rock-smash",
+    "whirlpool",
+    "fake-out",
+    "facade",
+    "focus-punch",
+    "smelling-salts",
+    "taunt",
+    "helping-hand",
+    "role-play",
+    "superpower",
+    "brick-break",
+    "knock-off",
+    "secret-power",
+    "arm-thrust",
+    "rock-tomb",
+    "bulk-up",
+    "mud-shot",
+    "wake-up-slap",
+    "brine",
+    "natural-gift",
+    "close-combat",
+    "payback",
+    "fling",
+    "force-palm",
+    "poison-jab",
+    "drain-punch",
+    "vacuum-wave",
+    "focus-blast",
+    "giga-impact",
+    "zen-headbutt",
+    "rock-climb",
+    "iron-head",
+    "stone-edge",
+    "captivate",
+    "smack-down",
+    "heavy-slam",
+    "low-sweep",
+    "round",
+    "retaliate",
+    "bulldoze",
+    "work-up",
+    "confide",
+    "power-up-punch",
+    "throat-chop",
+    "stomping-tantrum",
+    "body-press",
+    "lash-out",
+    "coaching",
+    "headlong-rush",
+    "tera-blast",
+    "chilling-water",
+    "upper-hand"
+  ],
+  "evolution": [
+    {
+      "id": 296,
+      "name": "makuhita",
+      "details": []
+    },
+    {
+      "id": 297,
+      "name": "hariyama",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 24,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Arm Thrust Pokémon",
+  "generation": "generation-iii",
+  "base_happiness": 70,
+  "capture_rate": 200,
+  "color": "brown",
+  "shape": "humanoid",
+  "growth_rate": "fast-then-very-slow",
+  "base_experience": 166,
+  "order": 400,
+  "egg_groups": [
+    "humanshape"
+  ],
+  "forms": [
+    "hariyama"
+  ],
+  "gender_rate": 2
+}

@@ -1,0 +1,161 @@
+{
+  "id": 943,
+  "name": "mabosstiff",
+  "habitat_img": "assets/img/habitats/webp/default.webp",
+  "habitat_name": "default",
+  "height": "1.1 m",
+  "weight": "61 kg",
+  "region_name": "paldea",
+  "region_img": "assets/img/region-option-2/webp/paldea.webp",
+  "type": [
+    "dark"
+  ],
+  "artwork": "assets/artwork/front/943_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/943_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 80
+    },
+    {
+      "name": "attack",
+      "value": 120
+    },
+    {
+      "name": "defense",
+      "value": 90
+    },
+    {
+      "name": "special-attack",
+      "value": 60
+    },
+    {
+      "name": "special-defense",
+      "value": 70
+    },
+    {
+      "name": "speed",
+      "value": 85
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "hidden": false,
+      "entries": "Lowers opponents' Attack one stage upon entering battle."
+    },
+    {
+      "name": "guard-dog",
+      "hidden": false,
+      "entries": "Boosts Attack if intimidated, and prevents being forced to switch out."
+    },
+    {
+      "name": "stakeout",
+      "hidden": true,
+      "entries": "This Pokémon's moves have double power against Pokémon that switched in this turn."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "body-slam",
+    "take-down",
+    "double-edge",
+    "leer",
+    "bite",
+    "roar",
+    "hyper-beam",
+    "dig",
+    "lick",
+    "rest",
+    "substitute",
+    "thief",
+    "curse",
+    "reversal",
+    "spite",
+    "protect",
+    "scary-face",
+    "outrage",
+    "endure",
+    "charm",
+    "swagger",
+    "sleep-talk",
+    "pain-split",
+    "rain-dance",
+    "sunny-day",
+    "crunch",
+    "facade",
+    "taunt",
+    "helping-hand",
+    "endeavor",
+    "hyper-voice",
+    "fake-tears",
+    "payback",
+    "dark-pulse",
+    "giga-impact",
+    "thunder-fang",
+    "ice-fang",
+    "fire-fang",
+    "hone-claws",
+    "wild-charge",
+    "snarl",
+    "play-rough",
+    "psychic-fangs",
+    "jaw-lock",
+    "lash-out",
+    "tera-blast",
+    "trailblaze",
+    "comeuppance"
+  ],
+  "evolution": [
+    {
+      "id": 942,
+      "name": "maschiff",
+      "details": []
+    },
+    {
+      "id": 943,
+      "name": "mabosstiff",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Boss Pokémon",
+  "generation": "generation-ix",
+  "base_happiness": 50,
+  "capture_rate": 75,
+  "color": "gray",
+  "shape": "quadruped",
+  "growth_rate": "medium-slow",
+  "base_experience": 177,
+  "order": 973,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "mabosstiff"
+  ],
+  "gender_rate": 4
+}

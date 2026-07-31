@@ -1,0 +1,198 @@
+{
+  "id": 100,
+  "name": "voltorb",
+  "habitat_img": "assets/img/habitats/webp/urban.webp",
+  "habitat_name": "urban",
+  "height": "0.5 m",
+  "weight": "10.4 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "electric"
+  ],
+  "artwork": "assets/artwork/front/100_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/100_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 40
+    },
+    {
+      "name": "attack",
+      "value": 30
+    },
+    {
+      "name": "defense",
+      "value": 50
+    },
+    {
+      "name": "special-attack",
+      "value": 55
+    },
+    {
+      "name": "special-defense",
+      "value": 55
+    },
+    {
+      "name": "speed",
+      "value": 100
+    }
+  ],
+  "abilities": [
+    {
+      "name": "soundproof",
+      "hidden": false,
+      "entries": "Protects against sound-based moves."
+    },
+    {
+      "name": "static",
+      "hidden": false,
+      "entries": "Has a 30% chance of paralyzing attacking Pokémon on contact."
+    },
+    {
+      "name": "aftermath",
+      "hidden": true,
+      "entries": "Damages the attacker for 1/4 its max HP when knocked out by a contact move."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "tackle",
+    "take-down",
+    "double-edge",
+    "sonic-boom",
+    "thunder-shock",
+    "thunderbolt",
+    "thunder-wave",
+    "thunder",
+    "toxic",
+    "agility",
+    "rage",
+    "teleport",
+    "mimic",
+    "screech",
+    "double-team",
+    "light-screen",
+    "reflect",
+    "bide",
+    "self-destruct",
+    "swift",
+    "flash",
+    "explosion",
+    "rest",
+    "substitute",
+    "thief",
+    "snore",
+    "curse",
+    "protect",
+    "zap-cannon",
+    "endure",
+    "rollout",
+    "swagger",
+    "spark",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "hidden-power",
+    "rain-dance",
+    "mirror-coat",
+    "torment",
+    "facade",
+    "charge",
+    "taunt",
+    "helping-hand",
+    "magic-coat",
+    "recycle",
+    "refresh",
+    "secret-power",
+    "metal-sound",
+    "signal-beam",
+    "shock-wave",
+    "gyro-ball",
+    "natural-gift",
+    "sucker-punch",
+    "magnet-rise",
+    "discharge",
+    "charge-beam",
+    "electro-ball",
+    "foul-play",
+    "round",
+    "volt-switch",
+    "electroweb",
+    "wild-charge",
+    "confide",
+    "eerie-impulse",
+    "electric-terrain",
+    "tera-blast"
+  ],
+  "evolution": [
+    {
+      "id": 100,
+      "name": "voltorb",
+      "details": []
+    },
+    {
+      "id": 101,
+      "name": "electrode",
+      "details": [
+        {
+          "trigger": "level-up",
+          "min_level": 30,
+          "item": null,
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "leaf-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Ball Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 190,
+  "color": "red",
+  "shape": "ball",
+  "growth_rate": "medium",
+  "base_experience": 66,
+  "order": 158,
+  "egg_groups": [
+    "mineral"
+  ],
+  "forms": [
+    "voltorb"
+  ],
+  "gender_rate": -1
+}

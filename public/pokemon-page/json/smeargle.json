@@ -1,0 +1,87 @@
+{
+  "id": 235,
+  "name": "smeargle",
+  "habitat_img": "assets/img/habitats/webp/urban.webp",
+  "habitat_name": "urban",
+  "height": "1.2 m",
+  "weight": "58 kg",
+  "region_name": "johto",
+  "region_img": "assets/img/region-option-2/webp/johto.webp",
+  "type": [
+    "normal"
+  ],
+  "artwork": "assets/artwork/front/235_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/235_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 55
+    },
+    {
+      "name": "attack",
+      "value": 20
+    },
+    {
+      "name": "defense",
+      "value": 35
+    },
+    {
+      "name": "special-attack",
+      "value": 20
+    },
+    {
+      "name": "special-defense",
+      "value": 45
+    },
+    {
+      "name": "speed",
+      "value": 75
+    }
+  ],
+  "abilities": [
+    {
+      "name": "own-tempo",
+      "hidden": false,
+      "entries": "Prevents confusion."
+    },
+    {
+      "name": "technician",
+      "hidden": false,
+      "entries": "Strengthens moves of 60 base power or less to 1.5× their power."
+    },
+    {
+      "name": "moody",
+      "hidden": true,
+      "entries": "Raises a random stat two stages and lowers another one stage after each turn."
+    }
+  ],
+  "moves": [
+    "sketch"
+  ],
+  "evolution": [
+    {
+      "id": 235,
+      "name": "smeargle",
+      "details": []
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Painter Pokémon",
+  "generation": "generation-ii",
+  "base_happiness": 70,
+  "capture_rate": 45,
+  "color": "white",
+  "shape": "upright",
+  "growth_rate": "fast",
+  "base_experience": 88,
+  "order": 335,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "smeargle"
+  ],
+  "gender_rate": 4
+}

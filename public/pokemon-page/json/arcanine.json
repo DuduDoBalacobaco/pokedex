@@ -1,0 +1,223 @@
+{
+  "id": 59,
+  "name": "arcanine",
+  "habitat_img": "assets/img/habitats/webp/grassland.webp",
+  "habitat_name": "grassland",
+  "height": "1.9 m",
+  "weight": "155 kg",
+  "region_name": "kanto",
+  "region_img": "assets/img/region-option-2/webp/kanto.webp",
+  "type": [
+    "fire"
+  ],
+  "artwork": "assets/artwork/front/59_front.webp",
+  "artwork_shiny": "assets/artwork/front_shiny/59_front.webp",
+  "stats": [
+    {
+      "name": "hp",
+      "value": 90
+    },
+    {
+      "name": "attack",
+      "value": 110
+    },
+    {
+      "name": "defense",
+      "value": 80
+    },
+    {
+      "name": "special-attack",
+      "value": 100
+    },
+    {
+      "name": "special-defense",
+      "value": 80
+    },
+    {
+      "name": "speed",
+      "value": 95
+    }
+  ],
+  "abilities": [
+    {
+      "name": "intimidate",
+      "hidden": false,
+      "entries": "Lowers opponents' Attack one stage upon entering battle."
+    },
+    {
+      "name": "flash-fire",
+      "hidden": false,
+      "entries": "Protects against Fire moves.  Once one has been blocked, the Pokémon's own Fire moves inflict 1.5× damage until it leaves battle."
+    },
+    {
+      "name": "justified",
+      "hidden": true,
+      "entries": "Raises Attack one stage upon taking damage from a Dark move."
+    }
+  ],
+  "moves": [
+    "headbutt",
+    "body-slam",
+    "take-down",
+    "thrash",
+    "double-edge",
+    "leer",
+    "bite",
+    "roar",
+    "ember",
+    "flamethrower",
+    "hyper-beam",
+    "strength",
+    "solar-beam",
+    "dragon-rage",
+    "fire-spin",
+    "dig",
+    "toxic",
+    "agility",
+    "rage",
+    "teleport",
+    "mimic",
+    "double-team",
+    "reflect",
+    "bide",
+    "fire-blast",
+    "swift",
+    "skull-bash",
+    "rest",
+    "substitute",
+    "thief",
+    "flame-wheel",
+    "snore",
+    "curse",
+    "reversal",
+    "protect",
+    "scary-face",
+    "mud-slap",
+    "outrage",
+    "endure",
+    "charm",
+    "swagger",
+    "attract",
+    "sleep-talk",
+    "return",
+    "frustration",
+    "safeguard",
+    "dragon-breath",
+    "iron-tail",
+    "morning-sun",
+    "hidden-power",
+    "sunny-day",
+    "crunch",
+    "extreme-speed",
+    "rock-smash",
+    "heat-wave",
+    "will-o-wisp",
+    "facade",
+    "helping-hand",
+    "superpower",
+    "secret-power",
+    "hyper-voice",
+    "overheat",
+    "odor-sleuth",
+    "aerial-ace",
+    "howl",
+    "covet",
+    "natural-gift",
+    "close-combat",
+    "flare-blitz",
+    "dragon-pulse",
+    "giga-impact",
+    "thunder-fang",
+    "fire-fang",
+    "rock-climb",
+    "iron-head",
+    "captivate",
+    "flame-charge",
+    "round",
+    "incinerate",
+    "retaliate",
+    "bulldoze",
+    "wild-charge",
+    "heat-crash",
+    "snarl",
+    "play-rough",
+    "confide",
+    "laser-focus",
+    "burn-up",
+    "psychic-fangs",
+    "scorching-sands",
+    "raging-fury",
+    "tera-blast",
+    "temper-flare"
+  ],
+  "evolution": [
+    {
+      "id": 58,
+      "name": "growlithe",
+      "details": []
+    },
+    {
+      "id": 59,
+      "name": "arcanine",
+      "details": [
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "fire-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        },
+        {
+          "trigger": "use-item",
+          "min_level": null,
+          "item": "fire-stone",
+          "held_item": null,
+          "known_move": null,
+          "known_move_type": null,
+          "location": null,
+          "min_happiness": null,
+          "min_affection": null,
+          "min_beauty": null,
+          "needs_overworld_rain": false,
+          "party_species": null,
+          "party_type": null,
+          "relative_physical_stats": null,
+          "time_of_day": "",
+          "trade_species": null,
+          "turn_upside_down": false
+        }
+      ]
+    }
+  ],
+  "is_legendary": false,
+  "is_mythical": false,
+  "is_baby": false,
+  "genus": "Legendary Pokémon",
+  "generation": "generation-i",
+  "base_happiness": 70,
+  "capture_rate": 75,
+  "color": "brown",
+  "shape": "quadruped",
+  "growth_rate": "slow",
+  "base_experience": 194,
+  "order": 98,
+  "egg_groups": [
+    "ground"
+  ],
+  "forms": [
+    "arcanine"
+  ],
+  "gender_rate": 2
+}
