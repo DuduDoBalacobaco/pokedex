@@ -31,6 +31,15 @@ body::before {
     z-index: -1;
 }
 
+hr{
+    width: 90%;
+    margin: 0 28px;
+}
+
+span{
+    font-size: 1.6rem;
+}
+
 .container{
     display: flex;
     background-color: #fff;
@@ -40,12 +49,12 @@ body::before {
 .perfil{
     display: flex;
     flex-direction: column;
+    border-right: 1px solid rgb(73, 72, 72);
 }
 
 .textos{
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
     gap: 20px;
 }
@@ -54,20 +63,23 @@ body::before {
     display: flex;
     width: 500px;
     height: 500px;
-    margin: 30px;
-    border: 1px solid black;
+    margin: 31px;
+    border-radius: 12px;
+    overflow: hidden;
+
+    background-size: 500px 500px;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
-    overflow: hidden;
 }
 
 .name-pokemon{
     display: flex;
-    align-items: center;
     justify-content: center;
+    width: 20ch;
+    text-align: center;
     color: #000000;
-    font-size: 2rem;
+    font-size: 1.8rem;
+    height: 70px;
 }
 
 .types{
@@ -81,14 +93,94 @@ body::before {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100px;
-    height: 30px;
+    width: 120px;
+    height: 35px;
     border-radius: 16px;
     border: 2px solid;
     box-shadow: 0 4px 12px rgba(0,0,0,.2);
     font-size: 1rem;
     text-transform: capitalize;
     color: #fff;
+}
+
+#type_small{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: 80px;
+}
+
+#pokemon_region{
+    text-transform: capitalize;
+}
+
+small{
+    display: flex;
+    justify-content: center;
+}
+
+.all_info{
+    display: flex;
+}
+
+.info, .info_wh{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.info{
+    align-items: center;
+    height: 140px;
+    width: 350px;
+}
+
+.info_wh{
+    width: 200px;
+}
+
+.peso, .altura{
+    font-size: 1.2rem;
+}
+
+.weigth, .heigth{
+    display: flex;
+    justify-content: center;
+}
+
+.infos_pokemon{
+    overflow: hidden;
+}
+
+.section_evolution{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    margin-top: 0px;
+}
+
+.evolution{
+    display: flex;
+}
+
+.card{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 250px;
+}
+.title_evo{
+    margin: 20px;
+    font-size: 1.4rem;
+}
+
+.img_evo{
+    width: 150px;
+}
+
+.nome_evo{
+    text-transform: capitalize;
 }
 
 .normal   { background:#A8A77A; border:2px solid #8A8960; }
@@ -112,8 +204,11 @@ body::before {
 
 #maior, #menor{
     position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 30px;
-    height: 30px;
+    height: 500px;
     border: none;
     background: transparent;
     font-size: 2rem;
@@ -125,11 +220,122 @@ body::before {
 }
 
 #maior{
-    right: 59%;
-    top: 26%;
+    right: 57.2%;
 }
 
 #menor{
-    left: 15%;
-    top: 26%;
+    left: 13.5%;
+}
+
+.rodape{
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    height: 200px;
+    margin: 0 30px
+}
+
+.all_stats{
+    display: flex;
+    gap: 10px;
+    padding: 0 20px;
+}
+
+.stats{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+    padding-bottom: 20px;
+    width: 40px;
+}
+
+.stats_span{
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+
+.num_stats{
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.ativa, .desativa{
+    width: 20px;
+    height: 10px;
+    border: 1px solid black;
+}
+
+.ativa{
+    background: rgb(4, 230, 4);
+}
+.bar{
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 2px;
+}
+
+.abilities{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+}
+
+.hidden{
+    font-size: .6rem;
+    color: #f00;
+}
+
+.ability {
+    position: relative;
+    display: inline-block;
+    cursor: help; 
+    width: 150px;
+    text-align: center;
+}
+
+.all_abilities{
+    display: flex;
+    flex-direction: column;
+    font-style: italic;
+    gap: 30px;
+}
+
+.tooltip {
+    position: absolute;
+    left: 98%;
+    top: 50%;
+    transform: translateY(-50%);
+
+    width: 250px;
+    padding: 10px;
+
+    background: #2b2b2b;
+    color: #fff;
+    border-radius: 8px;
+    font-size: 1rem;
+    line-height: 1.4;
+
+    opacity: 0;
+    visibility: hidden;
+    transition: .2s;
+
+    z-index: 1000;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-style: normal;
+}
+
+.ability:hover .tooltip {
+    opacity: 1;
+    visibility: visible;
 }
