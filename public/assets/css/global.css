@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700;800&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Oxanium', cursive;
+}
+
+body{
+    background-image: url(/assets/background/background-image.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    backdrop-filter: blur(2px);
+    background: rgba(0, 0, 0, 0.15);
+    z-index: -1;
+}
+
+::-webkit-scrollbar{
+    width: 6px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-track{
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb{
+    background: rgba(120,120,120,.5);
+    border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background: rgba(90,90,90,.7);
+}
+
+::-webkit-scrollbar-corner{
+    background: transparent;
+}
+
+.normal   { background:#A8A77A; border:2px solid #8A8960; }
+.fire     { background:#EE8130; border:2px solid #D66A15; }
+.water    { background:#6390F0; border:2px solid #3F6FD8; }
+.electric { background:#F7D02C; border:2px solid #DDB800; }
+.grass    { background:#7AC74C; border:2px solid #5FA834; }
+.ice      { background:#96D9D6; border:2px solid #74C0BC; }
+.fighting { background:#C22E28; border:2px solid #9D221D; }
+.poison   { background:#A33EA1; border:2px solid #832E81; }
+.ground   { background:#E2BF65; border:2px solid #C49F45; }
+.flying   { background:#A98FF3; border:2px solid #8870D5; }
+.psychic  { background:#F95587; border:2px solid #DB3D6D; }
+.bug      { background:#A6B91A; border:2px solid #879614; }
+.rock     { background:#B6A136; border:2px solid #958227; }
+.ghost    { background:#735797; border:2px solid #5B4478; }
+.dragon   { background:#6F35FC; border:2px solid #5620D4; }
+.dark     { background:#705746; border:2px solid #574234; }
+.steel    { background:#B7B7CE; border:2px solid #9595AF; }
+.fairy    { background:#D685AD; border:2px solid #B96B90; }

@@ -98,9 +98,12 @@ export const pokedex = (pokemons, filtro = true, region)=> {
     let ultimoPokemon = false
     
     pokemons.forEach((pokemon, i) => {
+        const url = pokemon.habitat
+        const nomeUrl = url.match(/([^/]+)(?=\.webp$)/)[1]
+
         const card = criarElemento('div', 'cards')
         card.dataset.regiao = pokemon.region
-        card.style.backgroundImage = `url(${pokemon.habitat})`
+        card.style.backgroundImage = `url(assets/habitats/webp/${nomeUrl}.webp)`
 
         card.addEventListener('click', () => {
             window.location.href = `/pokemon/${pokemon.name}`
@@ -113,7 +116,7 @@ export const pokedex = (pokemons, filtro = true, region)=> {
         }
 
         const img = criarElemento('img', 'pokemon_img')
-        img.src = pokemon.sprite
+        img.src = `./pokedex/${pokemon.sprite}`
         img.loading = 'lazy'
         img.alt = pokemon.name
 

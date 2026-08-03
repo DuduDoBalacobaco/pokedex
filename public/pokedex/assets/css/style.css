@@ -1,31 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700;800&display=swap');
-
-html {
-    scroll-behavior: smooth;
-}
-
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: 'Oxanium', cursive;
-}
-
 body{
-    background-image: url(../img/background/background-image.webp);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
     transition: 0.5s ease;
-}
-
-body::before {
-    content: "";
-    position: fixed;
-    inset: 0;
-    backdrop-filter: blur(2px);
-    background: rgba(0, 0, 0, 0.15);
-    z-index: -1;
 }
 
 #particles{
@@ -145,22 +119,6 @@ input[type=checkbox]:not(:checked) + label:hover{
     overflow-x: clip;
 }
 
-#show_pokemon::-webkit-scrollbar{
-    width: 8px;
-}
-
-#show_pokemon::-webkit-scrollbar-track{
-    background: transparent;
-}
-
-#show_pokemon::-webkit-scrollbar-thumb{
-    background: rgba(255,255,255,.35);
-}
-
-#show_pokemon::-webkit-scrollbar-thumb:hover{
-    background: rgba(255,255,255,.6);
-}
-
 .cards{
     position: relative;
     flex-direction: column;
@@ -225,31 +183,11 @@ input[type=checkbox]:not(:checked) + label:hover{
     width: 63px;
     height: 25.6px;
     border-radius: 16px;
-    border: 2px solid;
     box-shadow: 0 4px 12px rgba(0,0,0,.2);
     font-size: 0.6rem;
     text-transform: capitalize;
     color: #fff;
 }
-
-.normal   { background:#A8A77A; border:2px solid #8A8960; }
-.fire     { background:#EE8130; border:2px solid #D66A15; }
-.water    { background:#6390F0; border:2px solid #3F6FD8; }
-.electric { background:#F7D02C; border:2px solid #DDB800; }
-.grass    { background:#7AC74C; border:2px solid #5FA834; }
-.ice      { background:#96D9D6; border:2px solid #74C0BC; }
-.fighting { background:#C22E28; border:2px solid #9D221D; }
-.poison   { background:#A33EA1; border:2px solid #832E81; }
-.ground   { background:#E2BF65; border:2px solid #C49F45; }
-.flying   { background:#A98FF3; border:2px solid #8870D5; }
-.psychic  { background:#F95587; border:2px solid #DB3D6D; }
-.bug      { background:#A6B91A; border:2px solid #879614; }
-.rock     { background:#B6A136; border:2px solid #958227; }
-.ghost    { background:#735797; border:2px solid #5B4478; }
-.dragon   { background:#6F35FC; border:2px solid #5620D4; }
-.dark     { background:#705746; border:2px solid #574234; }
-.steel    { background:#B7B7CE; border:2px solid #9595AF; }
-.fairy    { background:#D685AD; border:2px solid #B96B90; }
 
 .kanto   { background: #80BB1D; border: 1px solid rgb(100, 150, 20); color: rgb(220, 245, 180); -webkit-text-stroke-color: rgb(100, 150, 20);}
 .johto   { background: #CAC02E; border: 1px solid rgb(160, 150, 30); color: rgb(250, 248, 200); -webkit-text-stroke-color: rgb(160, 150, 30);}

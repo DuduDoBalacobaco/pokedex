@@ -1,6 +1,6 @@
 import { mudarParticulas } from '../particles/particles.js'
 import { show_pokemon } from '../elementos.js'
-import { carregaMaisPokemon } from '../main.js'
+import { carregaMaisPokemon } from '../pokedex.js'
 
 let ultimoObservado = null
 
@@ -47,7 +47,7 @@ const observerRegion = new IntersectionObserver(entries => {
 
         const regiao = entry.target.dataset.regiao
 
-        document.body.style.backgroundImage = `url(assets/img/region-option-1/webp/${regiao}2.webp)`
+        document.body.style.backgroundImage = `url(./assets/region-option-1/webp/${regiao}2.webp)`
 
         mudarParticulas(regiao)
     })

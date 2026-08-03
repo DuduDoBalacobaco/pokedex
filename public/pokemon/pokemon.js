@@ -1,4 +1,4 @@
-import { c, criarElemento } from "../js/helpers/helpers.js"
+import { c, criarElemento } from "../pokedex/helpers/helpers.js"
 
 const imgs = document.querySelector('.imgs-pokemon')
 const name = document.querySelector('.name-pokemon')
@@ -11,18 +11,48 @@ const heigth = document.querySelector('.heigth')
 const pokemon_region = document.getElementById('pokemon_region')
 const evo = document.querySelector('.evolution')
 
-
 let cor = ''
 
 const status = { hp: 255, atk: 190, def: 250, sp_atk: 194, sp_def: 250, spd: 200}
 const detalhes = ['held_item', 'item', 'known_move', 'known_move_type', 'location', 'min_affection', 'min_beauty', 'min_happiness', 'min_level', 'needs_overworld_rain', 'party_species', 'party_type', 'relative_physical_stats', 'time_of_day', 'trade_species', 'trigger', 'turn_upside_down']
 
+const textos = {
+    trigger: {"level-up": "Level Up", "trade": "Trade", "use-item": "Use Item", "shed": "Shed (Special)"},
+
+    min_level: valor => `Level ${valor}+`,
+    held_item: valor => `Holding ${formatarNome(valor)}`,
+    item: valor => `Use ${formatarNome(valor)}`,
+    known_move: valor => `Knows ${formatarNome(valor)}`,
+    known_move_type: valor => `Knows a ${formatarNome(valor)}-type move`,
+    location: valor => `Location: ${formatarNome(valor)}`,
+    time_of_day: valor => {
+    if (valor === "day") return "During the day"
+    if (valor === "night") return "At night"
+    return `During ${formatarNome(valor)}`
+    },
+    min_happiness: valor => `Friendship ${valor}+`,
+    min_beauty: valor => `Beauty ${valor}+`,
+    min_affection: valor => `Affection ${valor}+`,
+    party_type: valor => `${formatarNome(valor)}-type Pokémon in party`,
+    party_species: valor => `${formatarNome(valor)} in party`,
+    trade_species: valor => `Trade for ${formatarNome(valor)}`,
+
+    relative_physical_stats: valor => {
+        if (valor > 0) return "Attack > Defense"
+        if (valor < 0) return "Attack < Defense"
+        return "Attack = Defense"
+    },
+
+    needs_overworld_rain: () => "While raining",
+    turn_upside_down: () => "Hold device upside down"
+}
+
 maior.style.display = 'none'
 
 export async function mudarPagina(path){
-    // const name = location.pathname.split("/").pop()
+    const name = location.pathname.split("/").pop()
     
-    const response = await fetch(path)
+    const response = await fetch(`./assets/json/${name}.json`)
     const pokemon = await response.json()
 
     console.log(pokemon);
@@ -34,7 +64,8 @@ export async function mudarPagina(path){
 
 function montarPagina(pokemon){
     const nome = pokemon.name.charAt(0).toUpperCase() + pokemon.name.slice(1)
-    imgs.style.backgroundImage = `url(${pokemon.habitat_img})`
+    imgs.style.backgroundImage = `url(/assets/habitats/webp/${pokemon.habitat_name}.webp)`
+    document.body.style.backgroundImage = `url(/assets/region-option-1/webp/${pokemon.region_name}2.webp)`
 
     const text = criarNome(nome, pokemon.id)
     const img = personalizarImg(pokemon.artwork, 'img')
@@ -60,47 +91,127 @@ function montarPagina(pokemon){
     criarCardsEvolution(pokemon.evolution)
 }
 
-function criarCardsEvolution(evolution){
-    if(evolution.length === 1){
-        document.querySelector('.title_evo').textContent = "Sem evoluções"
-    }
-    else{
-        evolution.forEach(u => {
-            if(evolution.length > 5){
-                document.querySelector('.section_evolution').style.overflowX = 'scroll'
-            }
+function criarCardPokemon(pokemon){
 
-            const card = criarElemento('div', 'card')
+    const card = criarElemento('div', 'card')
 
-            const img = criarElemento('img', 'img_evo')
-            img.src = `./pokemon-page/assets/artwork/front/${u.id}_front.webp`
+    const img = criarElemento('img', 'img_evo')
+    img.src = `./assets/artwork/front/${pokemon.id}_front.webp`
 
-            const nome_evo = criarElemento('div', 'nome_evo')
-            nome_evo.textContent = u.name
+    const nome = criarElemento('div', 'nome_evo')
+    nome.textContent = pokemon.name
 
-            const text = criarElemento('div', 'motivos')
+    card.append(img, nome)
 
-            u.details.forEach(a => {
-                for(let i = 0; i < detalhes.length; i++){
-                    const valor = a[detalhes[i]]
-
-                    if(valor !== null && valor !== '' && valor !== false){
-                        const evo = [detalhes[i], valor]
-
-                        console.log(evo);
-                        
-                    }
-                }
-            })
-
-            card.append(img, nome_evo)
-            evo.append(card)
-        })
-    }
+    return card
 }
 
+function cardSemEvolucao(evolution){
+    const pokemon = evolution[0]
 
+    const card_evo = criarElemento('div', 'card_evo')
+    const info = criarElemento('div', 'info_sem_evo')
 
+    const card = criarCardPokemon(pokemon)
+
+    const base = criarElemento('p', 'pokemon_base')
+    base.textContent = 'Base Pokémon'
+
+    const texto = criarElemento('p', 'sem_evolucao')
+    texto.textContent = 'Sem evoluções'
+
+    info.append(base, texto)
+    card_evo.append(card, info)
+    evo.append(card_evo)
+}
+
+function criarMetodoEvolucao(u){
+    const text = criarElemento('div', 'motivos_texts')
+    const grupo = criarElemento('div', 'grupo_trigger')
+    const cabecalho = criarElemento('div', 'cabecalho_trigger')
+    const titulo = criarElemento('span', 'trigger')
+
+    const voltar = criarElemento('button', 'btn_trigger')
+    voltar.innerHTML = '&#9664;'
+
+    const avancar = criarElemento('button', 'btn_trigger')
+    avancar.innerHTML = '&#9654;'
+
+    u.details.length > 1 ? cabecalho.append(voltar, titulo, avancar) : cabecalho.append(titulo)
+
+    const lista = criarElemento('ul', 'lista_motivos')
+
+    grupo.append(cabecalho, lista)
+    text.append(grupo)
+
+    let indice = 0
+
+    renderizarMetodo(u.details[indice], titulo, lista)
+
+    function trocarMetodo(direcao) {
+        indice += direcao
+
+        if (indice < 0) indice = u.details.length - 1
+        if (indice >= u.details.length) indice = 0
+
+        renderizarMetodo(u.details[indice], titulo, lista)
+    }
+
+    voltar.addEventListener('click', () => trocarMetodo(-1))
+    avancar.addEventListener('click', () => trocarMetodo(1))
+
+    return text
+}
+
+function renderizarMetodo(metodo, titulo, lista) {
+    lista.innerHTML = ''
+
+    const { trigger, ...resto} = metodo
+
+    titulo.textContent = textos.trigger[trigger]
+
+    Object.entries(resto).forEach(([chave, valor]) => {
+        if (valor === null || valor === '' || valor === false) return
+
+        const li = criarElemento('li', 'motivo')
+        const texto = textos[chave]
+
+        li.textContent = typeof texto === 'function' ? texto(valor) : `${chave}: ${valor}`
+
+        lista.append(li)
+    })
+}
+
+function criarCardsEvolution(evolution) {
+    if (evolution.length === 1) {
+        cardSemEvolucao(evolution)
+
+        return
+    }
+
+    if (evolution.length > 5) {
+        document.querySelector('.section_evolution').style.overflowX = 'scroll'
+    }
+
+    evolution.forEach(u => {
+        const card_evo = criarElemento('div', 'card_evo')
+        const card = criarCardPokemon(u)
+
+        if (!u.details.length) {
+            const semMetodo = criarElemento('p', 'sem_metodo')
+            semMetodo.textContent = 'Base Pokémon'
+
+            card_evo.append(card, semMetodo)
+            evo.append(card_evo)
+            return
+        }
+        
+        const text = criarMetodoEvolucao(u)
+
+        card_evo.append(card, text)
+        evo.append(card_evo)
+    })
+}
 
 function criarNome(nome, id){
     const text = criarElemento('p', 'nome')
@@ -238,7 +349,7 @@ function personalizarHiddenAbility(escondida){
 
 function personalizarImg(src, img){
     const imagem = criarElemento('img', img)
-    imagem.src = `./pokemon-page/${src}`
+    imagem.src = `./${src}`
 
     imgs.append(imagem)
 
@@ -272,4 +383,10 @@ function mudarImg(move, img1, img2, btn, click){
     }, { once: true })
 }
 
-mudarPagina(`pokemon-page/json/eevee.json`)
+function formatarNome(texto) {
+    return texto
+        .replaceAll('-', ' ')
+        .replace(/\b\w/g, letra => letra.toUpperCase())
+}
+
+mudarPagina()

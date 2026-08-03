@@ -1,34 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700;800&display=swap');
-
-html {
-    scroll-behavior: smooth;
-}
-
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    font-family: 'Oxanium', cursive;
-}
-
 body{
-    background-image: url(../background/background-image.webp);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
     height: 100dvh;
     display: flex;
     justify-content: center;
     position: relative;
-}
-
-body::before {
-    content: "";
-    position: fixed;
-    inset: 0;
-    backdrop-filter: blur(2px);
-    background: rgba(0, 0, 0, 0.15);
-    z-index: -1;
 }
 
 hr{
@@ -36,7 +10,7 @@ hr{
     margin: 0 28px;
 }
 
-span{
+#span_ability{
     font-size: 1.6rem;
 }
 
@@ -153,54 +127,154 @@ small{
     overflow: hidden;
 }
 
+.sem_metodo{
+    text-align:center;
+    margin-top:20px;
+    color:#777;
+    font-style:italic;
+}
+
 .section_evolution{
     display: flex;
     flex-direction: column;
-    margin: 20px;
+    margin: 10px;
     margin-top: 0px;
 }
 
 .evolution{
-    display: flex;
+    display:flex;
+    gap:20px;
+    align-items:flex-start;
+}
+
+.card_evo{
+    width:220px;
+    min-height:320px;
+
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+
+    padding:10px;
+
+    border-radius:12px;
+    border:1px solid #d6d6d6;
+
+    background:#fff;
+
+    box-shadow:0 4px 10px rgba(0,0,0,.08);
 }
 
 .card{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    height: 250px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:8px;
 }
+
+.nome_evo{
+    font-size:1.2rem;
+    font-weight:600;
+    text-transform:capitalize;
+}
+
+.motivos_texts{
+    flex: 1;
+    overflow: hidden;
+
+    display:flex;
+    flex-direction:column;
+}
+
+.grupo_trigger{
+    border:1px solid #d8d8d8;
+    flex: 1;
+    text-align: center;
+    border-radius:8px;
+    overflow:hidden;
+}
+
+.cabecalho_trigger{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    cursor:pointer;
+    user-select:none;
+    padding:8px 10px;
+    background:#f4f4f4;
+}
+
+.trigger{
+    flex:1;
+
+    text-align:center;
+
+    font-size:1rem;
+    font-weight:600;
+    text-transform:capitalize;
+}
+
+.btn_trigger{
+
+    width:28px;
+    height:28px;
+
+    border:none;
+    background:transparent;
+
+    font-size:1rem;
+
+    cursor:pointer;
+
+    transition:.2s;
+}
+
+.btn_trigger:hover{
+    background:#e6e6e6;
+    border-radius:50%;
+}
+
+.lista_motivos{
+    flex: 1;
+    overflow-y: auto;
+    list-style:none;
+    padding:4px 10px;
+}
+
+.motivo{
+    font-size:.85rem;
+    margin: 6px 0;
+}
+
 .title_evo{
-    margin: 20px;
+    margin: 10px;
     font-size: 1.4rem;
+}
+
+.info_sem_evo{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:12px;
+    margin-top:auto;
+    padding:20px 0;
+}
+
+.pokemon_base{
+    font-size:1rem;
+    font-weight:600;
+    color:#444;
+}
+
+.sem_evolucao{
+    font-size:.9rem;
+    color:#777;
+    font-style:italic;
 }
 
 .img_evo{
     width: 150px;
 }
-
-.nome_evo{
-    text-transform: capitalize;
-}
-
-.normal   { background:#A8A77A; border:2px solid #8A8960; }
-.fire     { background:#EE8130; border:2px solid #D66A15; }
-.water    { background:#6390F0; border:2px solid #3F6FD8; }
-.electric { background:#F7D02C; border:2px solid #DDB800; }
-.grass    { background:#7AC74C; border:2px solid #5FA834; }
-.ice      { background:#96D9D6; border:2px solid #74C0BC; }
-.fighting { background:#C22E28; border:2px solid #9D221D; }
-.poison   { background:#A33EA1; border:2px solid #832E81; }
-.ground   { background:#E2BF65; border:2px solid #C49F45; }
-.flying   { background:#A98FF3; border:2px solid #8870D5; }
-.psychic  { background:#F95587; border:2px solid #DB3D6D; }
-.bug      { background:#A6B91A; border:2px solid #879614; }
-.rock     { background:#B6A136; border:2px solid #958227; }
-.ghost    { background:#735797; border:2px solid #5B4478; }
-.dragon   { background:#6F35FC; border:2px solid #5620D4; }
-.dark     { background:#705746; border:2px solid #574234; }
-.steel    { background:#B7B7CE; border:2px solid #9595AF; }
-.fairy    { background:#D685AD; border:2px solid #B96B90; }
 
 #maior, #menor{
     position: absolute;

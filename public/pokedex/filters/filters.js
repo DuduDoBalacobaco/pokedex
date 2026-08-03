@@ -1,7 +1,7 @@
 import { idMax, idMin, search, show_pokemon, all, tipo_unico, dois_tipos, ambos } from "../elementos.js"
 import { tipos, region } from "../constantes.js"
 import { setNullUltimoObservado, unobserve, getUltimoObservado } from "../observer/observer.js"
-import { setInicio, setPokemonsRenderizados, getPokemonsCarregados, pokedex, atualizarSlider, carregaMaisPokemon } from "../main.js"
+import { setInicio, setPokemonsRenderizados, getPokemonsCarregados, pokedex, atualizarSlider, carregaMaisPokemon } from "../pokedex.js"
 
 function gerarCombinacoes(tipos) {
     const combinacoes = []

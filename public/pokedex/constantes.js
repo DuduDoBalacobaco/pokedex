@@ -11,15 +11,15 @@ export const regioes = [
 ]
 
 export const arquivos = [
-    'assets/json/kanto.json',
-    'assets/json/johto.json',
-    'assets/json/hoenn.json',
-    'assets/json/sinnoh.json',
-    'assets/json/unova.json',
-    'assets/json/kalos.json',
-    'assets/json/alola.json',
-    'assets/json/galar.json',
-    'assets/json/paldea.json'
+    './pokedex/assets/json/kanto.json',
+    './pokedex/assets/json/johto.json',
+    './pokedex/assets/json/hoenn.json',
+    './pokedex/assets/json/sinnoh.json',
+    './pokedex/assets/json/unova.json',
+    './pokedex/assets/json/kalos.json',
+    './pokedex/assets/json/alola.json',
+    './pokedex/assets/json/galar.json',
+    './pokedex/assets/json/paldea.json'
 ]
 
 export const tipos = ['normal', 'fire', 'water','electric', 'grass', 'ice', 'fighting', 'poison', 'ground', 'flying', 'psychic', 'bug', 'rock', 'ghost', 'dragon', 'dark', 'steel', 'fairy']
@@ -27,14 +27,14 @@ export const tipos = ['normal', 'fire', 'water','electric', 'grass', 'ice', 'fig
 export const region = ['kanto', 'johto', 'hoenn', 'sinnoh', 'unova', 'kalos', 'alola', 'galar', 'paldea']
 
 export const imgs = {
-    neve: ["assets/img/particles/snow.webp"],
-    folha: ["assets/img/particles/leaf1.webp", "assets/img/particles/leaf2.webp"],
-    autumn: ["assets/img/particles/autumn_leaf1.webp", "assets/img/particles/autumn_leaf2.webp", "assets/img/particles/sakura.webp"],
-    polem: ["assets/img/particles/polem.webp", "assets/img/particles/big_leaf.webp"],
-    smoke: ["assets/img/particles/smoke.webp"],
-    dandelion: ["assets/img/particles/dandelion.webp", "assets/img/particles/polem.webp"],
-    golden: ["assets/img/particles/gold_leaf.webp", "assets/img/particles/wheat.webp"],
-    pokeball : ["assets/img/particles/pokeball.webp", "assets/img/particles/great-ball.webp", "assets/img/particles/ultra-ball.webp"]
+    neve: ["./pokedex/assets/img/particles/snow.webp"],
+    folha: ["./pokedex/assets/img/particles/leaf1.webp", "./pokedex/assets/img/particles/leaf2.webp"],
+    autumn: ["./pokedex/assets/img/particles/autumn_leaf1.webp", "./pokedex/assets/img/particles/autumn_leaf2.webp", "./pokedex/assets/img/particles/sakura.webp"],
+    polem: ["./pokedex/assets/img/particles/polem.webp", "./pokedex/assets/img/particles/big_leaf.webp"],
+    smoke: ["./pokedex/assets/img/particles/smoke.webp"],
+    dandelion: ["./pokedex/assets/img/particles/dandelion.webp", "./pokedex/assets/img/particles/polem.webp"],
+    golden: ["./pokedex/assets/img/particles/gold_leaf.webp", "./pokedex/assets/img/particles/wheat.webp"],
+    pokeball : ["./pokedex/assets/img/particles/pokeball.webp", "./pokedex/assets/img/particles/great-ball.webp", "./pokedex/assets/img/particles/ultra-ball.webp"]
 }
 
 export const imagens = {}
