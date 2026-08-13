@@ -8,6 +8,7 @@ const maior = document.getElementById('maior')
 const menor = document.getElementById('menor')
 const weigth = document.querySelector('.weigth')
 const heigth = document.querySelector('.heigth')
+const extras = document.querySelector('.extras')
 const pokemon_region = document.getElementById('pokemon_region')
 const evo = document.querySelector('.evolution')
 
@@ -76,6 +77,7 @@ function montarPagina(pokemon){
     criarTypes(pokemon)
     criarAbility(pokemon)
     
+    criarExtras(pokemon.is_baby, pokemon.is_legendary, pokemon.is_mythical)
     criarPeso(pokemon.weight)
     criarAltura(pokemon.height)
 
@@ -92,8 +94,11 @@ function montarPagina(pokemon){
 }
 
 function criarCardPokemon(pokemon){
-
     const card = criarElemento('div', 'card')
+
+    card.addEventListener('click', () => {
+        window.location.href = `/pokemon/${pokemon.name}`
+    })
 
     const img = criarElemento('img', 'img_evo')
     img.src = `./assets/artwork/front/${pokemon.id}_front.webp`
@@ -125,6 +130,14 @@ function cardSemEvolucao(evolution){
     evo.append(card_evo)
 }
 
+function removerDuplicados(details) {
+    return details.filter((detail, index) => {
+        return index === details.findIndex(
+            d => JSON.stringify(d) === JSON.stringify(detail)
+        )
+    })
+}
+
 function criarMetodoEvolucao(u){
     const text = criarElemento('div', 'motivos_texts')
     const grupo = criarElemento('div', 'grupo_trigger')
@@ -137,7 +150,9 @@ function criarMetodoEvolucao(u){
     const avancar = criarElemento('button', 'btn_trigger')
     avancar.innerHTML = '&#9654;'
 
-    u.details.length > 1 ? cabecalho.append(voltar, titulo, avancar) : cabecalho.append(titulo)
+    const detalhes = removerDuplicados(u.details)
+
+    detalhes.length > 1 ? cabecalho.append(voltar, titulo, avancar) : cabecalho.append(titulo)
 
     const lista = criarElemento('ul', 'lista_motivos')
 
@@ -146,15 +161,15 @@ function criarMetodoEvolucao(u){
 
     let indice = 0
 
-    renderizarMetodo(u.details[indice], titulo, lista)
+    renderizarMetodo(detalhes[indice], titulo, lista)
 
     function trocarMetodo(direcao) {
         indice += direcao
 
-        if (indice < 0) indice = u.details.length - 1
-        if (indice >= u.details.length) indice = 0
+        if (indice < 0) indice = detalhes.length - 1
+        if (indice >= detalhes.length) indice = 0
 
-        renderizarMetodo(u.details[indice], titulo, lista)
+        renderizarMetodo(detalhes[indice], titulo, lista)
     }
 
     voltar.addEventListener('click', () => trocarMetodo(-1))
@@ -192,7 +207,7 @@ function criarCardsEvolution(evolution) {
     if (evolution.length > 5) {
         document.querySelector('.section_evolution').style.overflowX = 'scroll'
     }
-
+    
     evolution.forEach(u => {
         const card_evo = criarElemento('div', 'card_evo')
         const card = criarCardPokemon(u)
@@ -249,6 +264,25 @@ function criarStats(stats, name_stats, max_stats){
            bar.append(barra) 
         }
     }
+}
+
+function criarExtras(baby, legendary, mythical){
+    const extra = c('div')
+
+    extra.textContent = baby ? "Baby pokemon" : legendary ? "Legendary pokemon" : mythical ? "Mythical pokemon" : ''
+
+    if(extra.textContent !== ""){
+        extras.append(extra)    
+    }
+    else{
+        extras.style.display = 'none'
+    }
+}
+
+function verificarVazio(extra){
+    if(extra === "") return true
+
+    return false
 }
 
 function criarAltura(alto){
@@ -316,7 +350,25 @@ function criarAbility(poke){
         ability2.append(nome2, box2)
         
 
-        all_abilities.append(ability, ability2)
+        if(poke.abilities[2]){
+            const ability3 = criarElemento('div', 'ability')
+
+            const nome3 = personalizarNomeAbility(poke.abilities[2].name)
+            const box3 = personalizarTextAbility(poke.abilities[2].entries)
+
+            if(poke.abilities[2].hidden){
+                const hidden3 = personalizarHiddenAbility(poke.abilities[2].hidden)
+
+                box3.append(hidden3)
+            }
+            ability3.append(nome3, box3)
+
+            all_abilities.append(ability, ability2, ability3)
+        }
+    
+        if(!poke.abilities[2]){
+            all_abilities.append(ability, ability2)
+        }
     }
     else{
        all_abilities.append(ability) 
@@ -384,9 +436,7 @@ function mudarImg(move, img1, img2, btn, click){
 }
 
 function formatarNome(texto) {
-    return texto
-        .replaceAll('-', ' ')
-        .replace(/\b\w/g, letra => letra.toUpperCase())
+    return texto.replaceAll('-', ' ').replace(/\b\w/g, letra => letra.toUpperCase())
 }
 
 mudarPagina()

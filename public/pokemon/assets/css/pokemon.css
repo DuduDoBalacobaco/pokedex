@@ -1,3 +1,5 @@
+/* 1. PÁGINA / ESTRUTURA GERAL */
+
 body{
     height: 100dvh;
     display: flex;
@@ -10,13 +12,11 @@ hr{
     margin: 0 28px;
 }
 
-#span_ability{
-    font-size: 1.6rem;
-}
+/* 2. CONTAINER / PERFIL */
 
 .container{
     display: flex;
-    background-color: #fff;
+    background-color: #a5a5a5;
     width: 1400px;
 }
 
@@ -33,6 +33,32 @@ hr{
     gap: 20px;
 }
 
+.all_info{
+    display: flex;
+}
+
+.info, .info_wh{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.info{
+    align-items: center;
+    height: 140px;
+    width: 350px;
+}
+
+.info_wh{
+    width: 200px;
+}
+
+.infos_pokemon{
+    overflow: hidden;
+}
+
+/* 3. IMAGEM DO POKÉMON */
+
 .imgs-pokemon{
     display: flex;
     width: 500px;
@@ -45,6 +71,33 @@ hr{
     background-repeat: no-repeat;
     background-position: center;
 }
+
+#maior, #menor{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 500px;
+    border: none;
+    background: transparent;
+    font-size: 2rem;
+    color: #fff;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+    cursor: pointer;
+    z-index: 2;
+}
+
+#maior{
+    right: 57.2%;
+}
+
+#menor{
+    left: 13.5%;
+}
+
+/* 4. INFORMAÇÕES BÁSICAS */
 
 .name-pokemon{
     display: flex;
@@ -77,62 +130,174 @@ hr{
     color: #fff;
 }
 
-#type_small{
+#type_extra{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     height: 80px;
+}
+
+.extras{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: .8rem;
+}
+
+/* 5. PESO / ALTURA / REGION */
+
+.peso, .altura{
+    font-size: 1.2rem;
+}
+
+.weigth, .heigth, #pokemon_region{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #pokemon_region{
     text-transform: capitalize;
 }
 
-small{
+/* 6. RODAPÉ / HABILIDADES */
+
+.rodape{
     display: flex;
-    justify-content: center;
+    flex-direction: row;
+    width: 500px;
+    height: 200px;
+    margin: 0 30px
 }
 
-.all_info{
+.abilities{
     display: flex;
-}
-
-.info, .info_wh{
-    display: flex;
-    justify-content: space-around;
-    flex-direction: column;
-}
-
-.info{
     align-items: center;
-    height: 140px;
-    width: 350px;
-}
-
-.info_wh{
-    width: 200px;
-}
-
-.peso, .altura{
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 15px;
     font-size: 1.2rem;
+    text-transform: capitalize;
 }
 
-.weigth, .heigth{
+#span_ability{
+    font-size: 1.6rem;
+}
+
+.all_abilities{
+    display: flex;
+    flex-direction: column;
+    font-style: italic;
+    gap: 20px;
+}
+
+.ability {
+    position: relative;
+    display: inline-block;
+    cursor: help;
+    width: 150px;
+    text-align: center;
+}
+
+.name_abilities{
+    font-size: 1.3rem;
+    -webkit-text-stroke-width: .25px;
+    -webkit-text-stroke-color: #000000;
+}
+
+.hidden{
+    font-size: .6rem;
+    color: #f00;
+}
+
+/* 7. TOOLTIP DAS HABILIDADES */
+
+.tooltip {
+    position: absolute;
+    left: 98%;
+    top: 50%;
+    transform: translateY(-50%);
+
+    width: 250px;
+    padding: 10px;
+
+    background: #2b2b2b;
+    color: #fff;
+    border-radius: 8px;
+    font-size: .8rem;
+    line-height: 1.4;
+
+    opacity: 0;
+    visibility: hidden;
+    transition: .2s;
+
+    z-index: 1000;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-style: normal;
+}
+
+.ability:hover .tooltip {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* 8. STATS */
+
+.all_stats{
+    display: flex;
+    gap: 10px;
+    padding: 0 20px;
+}
+
+.stats{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+    padding-bottom: 20px;
+    width: 50px;
+}
+
+.stats_span{
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+
+.bar{
     display: flex;
     justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+    gap: 2px;
 }
 
-.infos_pokemon{
-    overflow: hidden;
+.ativa, .desativa{
+    width: 20px;
+    height: 10px;
+    border: 1px solid black;
 }
 
-.sem_metodo{
-    text-align:center;
-    margin-top:20px;
-    color:#777;
-    font-style:italic;
+.ativa{
+    background: rgb(4, 230, 4);
 }
+
+.num_stats{
+    height: 30px;
+    display: flex;
+    align-items: center;
+    font-size: 1.3rem;
+    -webkit-text-stroke-width: .25px;
+    -webkit-text-stroke-color: #000000;
+}
+
+/* 9. EVOLUÇÕES */
 
 .section_evolution{
     display: flex;
@@ -145,6 +310,11 @@ small{
     display:flex;
     gap:20px;
     align-items:flex-start;
+}
+
+.title_evo{
+    margin: 10px;
+    font-size: 1.4rem;
 }
 
 .card_evo{
@@ -165,11 +335,19 @@ small{
     box-shadow:0 4px 10px rgba(0,0,0,.08);
 }
 
+/* 10. CARD DO POKÉMON NA EVOLUÇÃO */
+
 .card{
     display:flex;
     flex-direction:column;
     align-items:center;
+
+    cursor: pointer;
     gap:8px;
+}
+
+.img_evo{
+    width: 150px;
 }
 
 .nome_evo{
@@ -178,77 +356,13 @@ small{
     text-transform:capitalize;
 }
 
-.motivos_texts{
-    flex: 1;
-    overflow: hidden;
+/* 11. EVOLUÇÃO SEM MÉTODO / SEM EVOLUÇÃO */
 
-    display:flex;
-    flex-direction:column;
-}
-
-.grupo_trigger{
-    border:1px solid #d8d8d8;
-    flex: 1;
-    text-align: center;
-    border-radius:8px;
-    overflow:hidden;
-}
-
-.cabecalho_trigger{
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
-    cursor:pointer;
-    user-select:none;
-    padding:8px 10px;
-    background:#f4f4f4;
-}
-
-.trigger{
-    flex:1;
-
+.sem_metodo{
     text-align:center;
-
-    font-size:1rem;
-    font-weight:600;
-    text-transform:capitalize;
-}
-
-.btn_trigger{
-
-    width:28px;
-    height:28px;
-
-    border:none;
-    background:transparent;
-
-    font-size:1rem;
-
-    cursor:pointer;
-
-    transition:.2s;
-}
-
-.btn_trigger:hover{
-    background:#e6e6e6;
-    border-radius:50%;
-}
-
-.lista_motivos{
-    flex: 1;
-    overflow-y: auto;
-    list-style:none;
-    padding:4px 10px;
-}
-
-.motivo{
-    font-size:.85rem;
-    margin: 6px 0;
-}
-
-.title_evo{
-    margin: 10px;
-    font-size: 1.4rem;
+    margin-top:20px;
+    color:#777;
+    font-style:italic;
 }
 
 .info_sem_evo{
@@ -272,144 +386,68 @@ small{
     font-style:italic;
 }
 
-.img_evo{
-    width: 150px;
+/* 12. MÉTODOS DE EVOLUÇÃO */
+
+.motivos_texts{
+    flex: 1;
+    overflow: hidden;
+
+    display:flex;
+    flex-direction:column;
 }
 
-#maior, #menor{
-    position: absolute;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 30px;
-    height: 500px;
-    border: none;
-    background: transparent;
-    font-size: 2rem;
-    color: #fff;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #000000;
-    cursor: pointer;
-    z-index: 2;
-}
-
-#maior{
-    right: 57.2%;
-}
-
-#menor{
-    left: 13.5%;
-}
-
-.rodape{
-    display: flex;
-    flex-direction: row;
-    width: 500px;
-    height: 200px;
-    margin: 0 30px
-}
-
-.all_stats{
-    display: flex;
-    gap: 10px;
-    padding: 0 20px;
-}
-
-.stats{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
+.grupo_trigger{
+    border:1px solid #d8d8d8;
+    flex: 1;
     text-align: center;
-    gap: 10px;
-    padding-bottom: 20px;
-    width: 40px;
+    border-radius:8px;
+    overflow:hidden;
 }
 
-.stats_span{
-    font-size: 1rem;
-    display: flex;
-    align-items: center;
-    height: 40px;
+.cabecalho_trigger{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    user-select:none;
+    padding:8px 10px;
+    background:#f4f4f4;
 }
 
-.num_stats{
-    height: 30px;
-    display: flex;
-    align-items: center;
+.trigger{
+    flex:1;
+
+    text-align:center;
+
+    font-size:1rem;
+    font-weight:600;
+    text-transform:capitalize;
 }
 
-.ativa, .desativa{
-    width: 20px;
-    height: 10px;
-    border: 1px solid black;
+.lista_motivos{
+    flex: 1;
+    overflow-y: auto;
+    list-style:none;
+    padding:4px 10px;
 }
 
-.ativa{
-    background: rgb(4, 230, 4);
-}
-.bar{
-    display: flex;
-    flex-direction: column-reverse;
-    gap: 2px;
+.motivo{
+    font-size:.85rem;
+    margin: 6px 0;
 }
 
-.abilities{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    gap: 40px;
-    font-size: 1.2rem;
-    text-transform: capitalize;
+/*13. BOTÕES DOS MÉTODOS DE EVOLUÇÃO */
+
+.btn_trigger{
+    width:28px;
+    height:28px;
+    border:none;
+    background:transparent;
+    font-size:1rem;
+    cursor:pointer;
+    transition:.2s;
 }
 
-.hidden{
-    font-size: .6rem;
-    color: #f00;
-}
-
-.ability {
-    position: relative;
-    display: inline-block;
-    cursor: help; 
-    width: 150px;
-    text-align: center;
-}
-
-.all_abilities{
-    display: flex;
-    flex-direction: column;
-    font-style: italic;
-    gap: 30px;
-}
-
-.tooltip {
-    position: absolute;
-    left: 98%;
-    top: 50%;
-    transform: translateY(-50%);
-
-    width: 250px;
-    padding: 10px;
-
-    background: #2b2b2b;
-    color: #fff;
-    border-radius: 8px;
-    font-size: 1rem;
-    line-height: 1.4;
-
-    opacity: 0;
-    visibility: hidden;
-    transition: .2s;
-
-    z-index: 1000;
-
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    font-style: normal;
-}
-
-.ability:hover .tooltip {
-    opacity: 1;
-    visibility: visible;
+.btn_trigger:hover{
+    background:#e6e6e6;
+    border-radius:50%;
 }
