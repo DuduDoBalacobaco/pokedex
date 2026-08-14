@@ -275,19 +275,14 @@ hr{
     justify-content: center;
     align-items: center;
     flex-direction: column-reverse;
-    gap: 2px;
+    gap: 1px;
 }
 
 .ativa, .desativa{
     width: 20px;
     height: 10px;
-    border: 1px solid black;
+    border: 0.5px solid black;
 }
-
-.ativa{
-    background: rgb(4, 230, 4);
-}
-
 .num_stats{
     height: 30px;
     display: flex;
